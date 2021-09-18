@@ -1,0 +1,3929 @@
+{
+	"Main": [
+		{
+			"LABEL": "0x0",
+			"Type": "STARTUP_BETGIN"
+		},
+		{
+			"LABEL": "0x4",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "616d0005"
+		},
+		{
+			"LABEL": "0xc",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "626dd002"
+		},
+		{
+			"LABEL": "0x14",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "636d0100"
+		},
+		{
+			"LABEL": "0x1c",
+			"Type": "STARTUP_END"
+		},
+		{
+			"LABEL": "0x20",
+			"Type": "VARSTR",
+			"SUBCMD": 1,
+			"Args": "090001000000fb00"
+		},
+		{
+			"LABEL": "0x2c",
+			"Type": "IFN",
+			"SUBCMD": 1,
+			"Args": "0b00f8ff28233637213d312900",
+			"GOTO_LABEL": "0x4a"
+		},
+		{
+			"LABEL": "0x42",
+			"Type": "GOTO",
+			"SUBCMD": 0,
+			"GOTO_LABEL": "0xda0"
+		},
+		{
+			"LABEL": "0x4a",
+			"Type": "WAIT",
+			"SUBCMD": 1,
+			"Args": "0d00b400"
+		},
+		{
+			"LABEL": "0x52",
+			"Type": "CLOSE_WINDOW",
+			"SUBCMD": 1,
+			"Args": "0e00"
+		},
+		{
+			"LABEL": "0x58",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "ff00"
+		},
+		{
+			"LABEL": "0x5e",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "00ff"
+		},
+		{
+			"LABEL": "0x64",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "00000500"
+		},
+		{
+			"LABEL": "0x6c",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "411f0500"
+		},
+		{
+			"LABEL": "0x74",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "421f0000"
+		},
+		{
+			"LABEL": "0x7c",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000100"
+		},
+		{
+			"LABEL": "0x84",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "0f000000ff"
+		},
+		{
+			"LABEL": "0x8e",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x92",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x9a",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0xa0",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0xa6",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "2200"
+		},
+		{
+			"LABEL": "0xac",
+			"Type": "WAIT",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0xb0",
+			"Type": "BGM_WAITFADE",
+			"SUBCMD": 1,
+			"Args": "1000b4860100"
+		},
+		{
+			"LABEL": "0xba",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 18,
+			"MSGID": 0,
+			"JPN": "翌朝。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xd4",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 19,
+			"MSGID": 1,
+			"JPN": "いつもの登校風景の中に俺たちはいた。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x10c",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 20,
+			"MSGID": 2,
+			"JPN": "けど、それも今日が最後となる。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x13e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 22,
+			"MSGID": 3,
+			"VOICEID": 18278,
+			"NameJPN": "往人",
+			"JPN": "「な、観鈴」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x166",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 23,
+			"MSGID": 4,
+			"VOICEID": 18279,
+			"NameJPN": "往人",
+			"JPN": "「そろそろ家を出ようと思うんだ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1a2",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 24,
+			"MSGID": 5,
+			"JPN": "俺は切り出した。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1c6",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "1a000001ff"
+		},
+		{
+			"LABEL": "0x1d0",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x1d4",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x1dc",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x1e2",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x1e8",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200cb2800000000204400003444"
+		},
+		{
+			"LABEL": "0x1fa",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x200",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 28,
+			"MSGID": 6,
+			"VOICEID": 18280,
+			"NameJPN": "観鈴",
+			"JPN": "「え…？」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x226",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 29,
+			"MSGID": 7,
+			"VOICEID": 18281,
+			"NameJPN": "観鈴",
+			"JPN": "「町、出るの？」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x252",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 30,
+			"MSGID": 8,
+			"VOICEID": 18282,
+			"NameJPN": "往人",
+			"JPN": "「ああ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x276",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 31,
+			"MSGID": 9,
+			"VOICEID": 18283,
+			"NameJPN": "往人",
+			"JPN": "「そもそも、長居し過ぎだ。一カ所に腰を落ち着かせるのは好きじゃないんだ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2da",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "21000001ff"
+		},
+		{
+			"LABEL": "0x2e4",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x2e8",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x2f0",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x2f6",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x2fc",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200bf2800000000204400003444"
+		},
+		{
+			"LABEL": "0x30e",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x314",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 35,
+			"MSGID": 10,
+			"VOICEID": 18284,
+			"NameJPN": "観鈴",
+			"JPN": "「それは慣れてないからだと思うな。ずっといたらわかるよ。ここ、すごくいい町」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x37c",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 36,
+			"MSGID": 11,
+			"VOICEID": 18285,
+			"NameJPN": "往人",
+			"JPN": "「ああ。おまえみたいな呑気な奴にはぴったりの町だな」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x3cc",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "26000001ff"
+		},
+		{
+			"LABEL": "0x3d6",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x3da",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x3e2",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x3e8",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x3ee",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200cb2800000000204400003444"
+		},
+		{
+			"LABEL": "0x400",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x406",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 40,
+			"MSGID": 12,
+			"VOICEID": 18286,
+			"NameJPN": "観鈴",
+			"JPN": "「往人さんには物足りない？」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x43e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 41,
+			"MSGID": 13,
+			"VOICEID": 18287,
+			"NameJPN": "往人",
+			"JPN": "「そうだな」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x466",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 42,
+			"MSGID": 14,
+			"VOICEID": 18288,
+			"NameJPN": "観鈴",
+			"JPN": "「往人さん、いろんなところ旅してきて、いろんなこと経験してきてるんだろうし…物足りないかぁ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x4de",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "2c000001ff"
+		},
+		{
+			"LABEL": "0x4e8",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x4ec",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x4f4",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x4fa",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x500",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200bf2800000000204400003444"
+		},
+		{
+			"LABEL": "0x512",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x518",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 46,
+			"MSGID": 15,
+			"VOICEID": 18289,
+			"NameJPN": "観鈴",
+			"JPN": "「うーん…」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x540",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 47,
+			"MSGID": 16,
+			"VOICEID": 18290,
+			"NameJPN": "観鈴",
+			"JPN": "「ご飯とかだいじょうぶかな」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x578",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 49,
+			"MSGID": 17,
+			"VOICEID": 18291,
+			"NameJPN": "往人",
+			"JPN": "「大丈夫だ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x5a0",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 50,
+			"MSGID": 18,
+			"VOICEID": 18292,
+			"NameJPN": "往人",
+			"JPN": "「この町でなかったら、ちゃんと稼ぐ自信はある」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x5ea",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 51,
+			"MSGID": 19,
+			"VOICEID": 18293,
+			"NameJPN": "観鈴",
+			"JPN": "「そんなにこの町、合わなかったのかな…」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x62e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 52,
+			"MSGID": 20,
+			"VOICEID": 18294,
+			"NameJPN": "往人",
+			"JPN": "「いや、楽しいこともいろいろとあったよ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x672",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "36000001ff"
+		},
+		{
+			"LABEL": "0x67c",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x680",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x688",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x68e",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x694",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200cb2800000000204400003444"
+		},
+		{
+			"LABEL": "0x6a6",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x6ac",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 56,
+			"MSGID": 21,
+			"VOICEID": 18295,
+			"NameJPN": "観鈴",
+			"JPN": "「ほんと？」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x6d4",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 57,
+			"MSGID": 22,
+			"VOICEID": 18296,
+			"NameJPN": "往人",
+			"JPN": "「ああ。でもな、楽しいだけではダメなんだ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x71a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 58,
+			"MSGID": 23,
+			"VOICEID": 18297,
+			"NameJPN": "往人",
+			"JPN": "「ちゃんと稼げないとな」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x74e",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "3c000001ff"
+		},
+		{
+			"LABEL": "0x758",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x75c",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x764",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x76a",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x770",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200bf2800000000204400003444"
+		},
+		{
+			"LABEL": "0x782",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x788",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 62,
+			"MSGID": 24,
+			"VOICEID": 18298,
+			"NameJPN": "観鈴",
+			"JPN": "「そ…」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x7ac",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 63,
+			"MSGID": 25,
+			"VOICEID": 18299,
+			"NameJPN": "往人",
+			"JPN": "「それに、俺には別の目的もあるしな」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x7ec",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 64,
+			"MSGID": 26,
+			"VOICEID": 18300,
+			"NameJPN": "往人",
+			"JPN": "「一カ所に留まっていたら、意味がないんだ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x832",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 65,
+			"MSGID": 27,
+			"VOICEID": 18301,
+			"NameJPN": "観鈴",
+			"JPN": "「じゃ…仕方ないね」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x862",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 67,
+			"MSGID": 28,
+			"JPN": "ようやく納得したようだった。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x892",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "45000001ff"
+		},
+		{
+			"LABEL": "0x89c",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x8a0",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x8a8",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x8ae",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x8b4",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200c52800000000204400003444"
+		},
+		{
+			"LABEL": "0x8c6",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x8cc",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 71,
+			"MSGID": 29,
+			"VOICEID": 18302,
+			"NameJPN": "観鈴",
+			"JPN": "「次の町についたら場所、教えてね」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x90a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 72,
+			"MSGID": 30,
+			"VOICEID": 18303,
+			"NameJPN": "観鈴",
+			"JPN": "「わたし、遊びにいく」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x93c",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 73,
+			"MSGID": 31,
+			"VOICEID": 18304,
+			"NameJPN": "観鈴",
+			"JPN": "「トランプとか、ぬいぐるみとか持って、遊びにいく」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x98a",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "4b000001ff"
+		},
+		{
+			"LABEL": "0x994",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x998",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x9a0",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x9a6",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x9ac",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200d12800000000204400003444"
+		},
+		{
+			"LABEL": "0x9be",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x9c4",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 77,
+			"MSGID": 32,
+			"VOICEID": 18305,
+			"NameJPN": "観鈴",
+			"JPN": "「その家のひと、わたしのことも気に入ってくれるといいな」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xa18",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 78,
+			"MSGID": 33,
+			"VOICEID": 18306,
+			"NameJPN": "観鈴",
+			"JPN": "「にはは」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xa3e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 79,
+			"MSGID": 34,
+			"VOICEID": 18307,
+			"NameJPN": "往人",
+			"JPN": "「そうだな」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xa66",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "51000000ff"
+		},
+		{
+			"LABEL": "0xa70",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0xa74",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0xa7c",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0xa82",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0xa88",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "2200"
+		},
+		{
+			"LABEL": "0xa8e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 83,
+			"MSGID": 35,
+			"JPN": "もう人の家には下宿しない…",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xabc",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 84,
+			"MSGID": 36,
+			"JPN": "そうしたいものだが。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xae4",
+			"Type": "BGM_WAITFADE",
+			"SUBCMD": 1,
+			"Args": "5600000000003c0000"
+		},
+		{
+			"LABEL": "0xaf2",
+			"Type": "SE_WAIT",
+			"SUBCMD": 1,
+			"Args": "580000410d030002"
+		},
+		{
+			"LABEL": "0xafe",
+			"Type": "CLOSE_WINDOW",
+			"SUBCMD": 1,
+			"Args": "5a00"
+		},
+		{
+			"LABEL": "0xb04",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "ff00"
+		},
+		{
+			"LABEL": "0xb0a",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "00ff"
+		},
+		{
+			"LABEL": "0xb10",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "00001d00"
+		},
+		{
+			"LABEL": "0xb18",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "411f1d00"
+		},
+		{
+			"LABEL": "0xb20",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "421f0000"
+		},
+		{
+			"LABEL": "0xb28",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000100"
+		},
+		{
+			"LABEL": "0xb30",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "5b000000ff"
+		},
+		{
+			"LABEL": "0xb3a",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0xb3e",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0xb46",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0xb4c",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0xb52",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "2200"
+		},
+		{
+			"LABEL": "0xb58",
+			"Type": "WAIT",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0xb5c",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 93,
+			"MSGID": 37,
+			"JPN": "そして、午後。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xb7e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 94,
+			"MSGID": 38,
+			"JPN": "少ない手荷物を持って、俺はまたこの場所に立っていた。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xbc6",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 96,
+			"MSGID": 39,
+			"JPN": "見送るひともなく、旅の再開はひとりきりだった。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xc08",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 97,
+			"MSGID": 40,
+			"JPN": "本当はいつもこうだったはずだ。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xc3a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 99,
+			"MSGID": 41,
+			"JPN": "…つんつん…",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xc5a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 100,
+			"MSGID": 42,
+			"JPN": "つんつん…",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xc78",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 102,
+			"MSGID": 43,
+			"VOICEID": 18308,
+			"NameJPN": "往人",
+			"JPN": "「ん？」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xc9c",
+			"Type": "BGM_WAITFADE",
+			"SUBCMD": 1,
+			"Args": "6800a6860100"
+		},
+		{
+			"LABEL": "0xca6",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "6b000001ff"
+		},
+		{
+			"LABEL": "0xcb0",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0xcb4",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0xcbc",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0xcc2",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0xcc8",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200ad2800000000204400003444"
+		},
+		{
+			"LABEL": "0xcda",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0xce0",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 109,
+			"MSGID": 44,
+			"JPN": "すぐ隣に観鈴がいた。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xd08",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 111,
+			"MSGID": 45,
+			"VOICEID": 18309,
+			"NameJPN": "往人",
+			"JPN": "「おまえ、いつの間に…」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xd3c",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 112,
+			"MSGID": 46,
+			"VOICEID": 18310,
+			"NameJPN": "観鈴",
+			"JPN": "「間に合ってよかった」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xd6e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 113,
+			"MSGID": 47,
+			"VOICEID": 18311,
+			"NameJPN": "往人",
+			"JPN": "「どうした」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xd96",
+			"Type": "GOTO",
+			"SUBCMD": 1,
+			"Args": "7200",
+			"GOTO_LABEL": "0x1586"
+		},
+		{
+			"LABEL": "0xda0",
+			"Type": "WAIT",
+			"SUBCMD": 1,
+			"Args": "7500b400"
+		},
+		{
+			"LABEL": "0xda8",
+			"Type": "SE_WAIT",
+			"SUBCMD": 1,
+			"Args": "7600004a0d030002"
+		},
+		{
+			"LABEL": "0xdb4",
+			"Type": "CLOSE_WINDOW",
+			"SUBCMD": 1,
+			"Args": "7700"
+		},
+		{
+			"LABEL": "0xdba",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "ff00"
+		},
+		{
+			"LABEL": "0xdc0",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "00ff"
+		},
+		{
+			"LABEL": "0xdc6",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "00001d00"
+		},
+		{
+			"LABEL": "0xdce",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "411f1d00"
+		},
+		{
+			"LABEL": "0xdd6",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "421f0000"
+		},
+		{
+			"LABEL": "0xdde",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000100"
+		},
+		{
+			"LABEL": "0xde6",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "78000000ff"
+		},
+		{
+			"LABEL": "0xdf0",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0xdf4",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0xdfc",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0xe02",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0xe08",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "2200"
+		},
+		{
+			"LABEL": "0xe0e",
+			"Type": "WAIT",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0xe12",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 122,
+			"MSGID": 48,
+			"JPN": "目覚める。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xe30",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 123,
+			"MSGID": 49,
+			"JPN": "背中が痛い。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xe50",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 124,
+			"MSGID": 50,
+			"JPN": "少しの間、忘れていたような痛み。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xe84",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 125,
+			"MSGID": 51,
+			"JPN": "上体を起こし、ベンチに座り直す。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xeb8",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 126,
+			"MSGID": 52,
+			"JPN": "早朝だというのに、もうこの暑さ…",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xeec",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 128,
+			"MSGID": 53,
+			"JPN": "この町にきて、何日目になるだろうか。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xf24",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 129,
+			"MSGID": 54,
+			"JPN": "路銀が底を尽き、途中下車した町。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xf58",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 131,
+			"MSGID": 55,
+			"JPN": "けど、いつだって、出られたはずだった。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xf92",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 132,
+			"MSGID": 56,
+			"JPN": "俺には翼はなかったけど、太い二本の足ならある。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xfd4",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 133,
+			"MSGID": 57,
+			"JPN": "歩いていけばいい。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xffa",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 134,
+			"MSGID": 58,
+			"JPN": "何日かかろうとも、構わない。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x102a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 135,
+			"MSGID": 59,
+			"JPN": "ゴールは、まだまだ見えず、ラストスパートにも早すぎる。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1074",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 136,
+			"MSGID": 60,
+			"JPN": "ゆっくりゆけばよかった。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x10a0",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 138,
+			"MSGID": 61,
+			"VOICEID": 18312,
+			"NameJPN": "往人",
+			"JPN": "（なにを意固地になっていたんだろうな…）",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x10e4",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 139,
+			"MSGID": 62,
+			"JPN": "手の中の人形に目を落とす。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1112",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 140,
+			"MSGID": 63,
+			"VOICEID": 18313,
+			"NameJPN": "往人",
+			"JPN": "（自分の力を証明したかっただけか…）",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1152",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 141,
+			"MSGID": 64,
+			"JPN": "それを後ろのポケットに仕舞う。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1184",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 143,
+			"MSGID": 65,
+			"JPN": "きっと、違う町ならば、これまで通りに稼ぐことができるだろう。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x11d4",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 144,
+			"MSGID": 66,
+			"JPN": "この町との相性が悪かっただけだ。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1208",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 145,
+			"MSGID": 67,
+			"VOICEID": 18314,
+			"NameJPN": "往人",
+			"JPN": "（けど、ただ…）",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1234",
+			"Type": "SE_WAIT",
+			"SUBCMD": 1,
+			"Args": "9300ff000000000600"
+		},
+		{
+			"LABEL": "0x1242",
+			"Type": "BGM_WAITFADE",
+			"SUBCMD": 1,
+			"Args": "9400a6860100"
+		},
+		{
+			"LABEL": "0x124c",
+			"Type": "CLOSE_WINDOW",
+			"SUBCMD": 1,
+			"Args": "9600"
+		},
+		{
+			"LABEL": "0x1252",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "ff00"
+		},
+		{
+			"LABEL": "0x1258",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "00ff"
+		},
+		{
+			"LABEL": "0x125e",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "00007a00"
+		},
+		{
+			"LABEL": "0x1266",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "411f7a00"
+		},
+		{
+			"LABEL": "0x126e",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "421f0000"
+		},
+		{
+			"LABEL": "0x1276",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000100"
+		},
+		{
+			"LABEL": "0x127e",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "97000000ff"
+		},
+		{
+			"LABEL": "0x1288",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x128c",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x1294",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x129a",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x12a0",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "2200"
+		},
+		{
+			"LABEL": "0x12a6",
+			"Type": "WAIT",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x12aa",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 153,
+			"MSGID": 68,
+			"JPN": "俺は空を見上げる。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x12d0",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 154,
+			"MSGID": 69,
+			"VOICEID": 18315,
+			"NameJPN": "往人",
+			"JPN": "（こんなにも、空が広く近く見えるから、俺は…）",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x131a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 155,
+			"MSGID": 70,
+			"JPN": "…つんつん…",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x133a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 156,
+			"MSGID": 71,
+			"JPN": "つんつん…",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1358",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 158,
+			"MSGID": 72,
+			"VOICEID": 18316,
+			"NameJPN": "往人",
+			"JPN": "「ん？」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x137c",
+			"Type": "CLOSE_WINDOW",
+			"SUBCMD": 1,
+			"Args": "a000"
+		},
+		{
+			"LABEL": "0x1382",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "ff00"
+		},
+		{
+			"LABEL": "0x1388",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "00ff"
+		},
+		{
+			"LABEL": "0x138e",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "00001d00"
+		},
+		{
+			"LABEL": "0x1396",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "411f1d00"
+		},
+		{
+			"LABEL": "0x139e",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "421f0000"
+		},
+		{
+			"LABEL": "0x13a6",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000100"
+		},
+		{
+			"LABEL": "0x13ae",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "a1000000ff"
+		},
+		{
+			"LABEL": "0x13b8",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x13bc",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x13c4",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x13ca",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x13d0",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "2200"
+		},
+		{
+			"LABEL": "0x13d6",
+			"Type": "WAIT",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x13da",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "a3000001ff"
+		},
+		{
+			"LABEL": "0x13e4",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x13e8",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x13f0",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x13f6",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x13fc",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200d12800000000204400003444"
+		},
+		{
+			"LABEL": "0x140e",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x1414",
+			"Type": "WAIT",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x1418",
+			"Type": "SE_WAIT",
+			"SUBCMD": 1,
+			"Args": "a500004a0d030002"
+		},
+		{
+			"LABEL": "0x1424",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 167,
+			"MSGID": 73,
+			"VOICEID": 18317,
+			"NameJPN": "観鈴",
+			"JPN": "「おはよー」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x144c",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 168,
+			"MSGID": 74,
+			"NameJPN": "往人",
+			"JPN": "「………」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1472",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "ab000001ff"
+		},
+		{
+			"LABEL": "0x147c",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x1480",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x1488",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x148e",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x1494",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200ad2800000000204400003444"
+		},
+		{
+			"LABEL": "0x14a6",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x14ac",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 173,
+			"MSGID": 75,
+			"VOICEID": 18318,
+			"NameJPN": "観鈴",
+			"JPN": "「わたし。観鈴」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x14d8",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 174,
+			"MSGID": 76,
+			"VOICEID": 18319,
+			"NameJPN": "往人",
+			"JPN": "「ああ、そうだな…おまえだな」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1512",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 175,
+			"MSGID": 77,
+			"VOICEID": 18320,
+			"NameJPN": "往人",
+			"JPN": "「こんなところまで、どうした」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x154c",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 176,
+			"MSGID": 78,
+			"VOICEID": 18321,
+			"NameJPN": "観鈴",
+			"JPN": "「ううん、まだいるのかなって」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1586",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 180,
+			"MSGID": 79,
+			"VOICEID": 18322,
+			"NameJPN": "観鈴",
+			"JPN": "「これ、渡したかったから」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x15bc",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 181,
+			"MSGID": 80,
+			"JPN": "言って、大きなアルミの包みを俺に手渡す。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x15f8",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 182,
+			"MSGID": 81,
+			"JPN": "…重い。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1614",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "b9000001ff"
+		},
+		{
+			"LABEL": "0x161e",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x1622",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x162a",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x1630",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x1636",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200892800000000204400003444"
+		},
+		{
+			"LABEL": "0x1648",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x164e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 187,
+			"MSGID": 82,
+			"VOICEID": 18323,
+			"NameJPN": "観鈴",
+			"JPN": "「それ、おにぎり。出会ったとき、往人さん食べてたの」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x169e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 188,
+			"MSGID": 83,
+			"VOICEID": 18324,
+			"NameJPN": "往人",
+			"JPN": "「あれよりさらにでかくないか…？」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x16dc",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "bf000001ff"
+		},
+		{
+			"LABEL": "0x16e6",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x16ea",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x16f2",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x16f8",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x16fe",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "02007d2800000000204400003444"
+		},
+		{
+			"LABEL": "0x1710",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x1716",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 193,
+			"MSGID": 84,
+			"VOICEID": 18325,
+			"NameJPN": "観鈴",
+			"JPN": "「うん、がんばって転がした」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x174e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 194,
+			"MSGID": 85,
+			"VOICEID": 18326,
+			"NameJPN": "往人",
+			"JPN": "「転がす？」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1776",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "c5000001ff"
+		},
+		{
+			"LABEL": "0x1780",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x1784",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x178c",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x1792",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x1798",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200952800000000204400003444"
+		},
+		{
+			"LABEL": "0x17aa",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x17b0",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 199,
+			"MSGID": 86,
+			"VOICEID": 18327,
+			"NameJPN": "観鈴",
+			"JPN": "「ううん、握ったよ。ちゃんと両手でぎゅっぎゅって握った」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1804",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 200,
+			"MSGID": 87,
+			"NameJPN": "往人",
+			"JPN": "「………」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x182a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 201,
+			"MSGID": 88,
+			"JPN": "絶対に握れない大きさだ。ごろごろ転がしたのだろう。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1870",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "cc000001ff"
+		},
+		{
+			"LABEL": "0x187a",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x187e",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x1886",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x188c",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x1892",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "02007d2800000000204400003444"
+		},
+		{
+			"LABEL": "0x18a4",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x18aa",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 206,
+			"MSGID": 89,
+			"JPN": "別にどっちだっていい。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x18d4",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 207,
+			"MSGID": 90,
+			"VOICEID": 18328,
+			"NameJPN": "往人",
+			"JPN": "「サンキュ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x18fc",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 208,
+			"MSGID": 91,
+			"JPN": "礼だけを言っておいた。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1926",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "d3000001ff"
+		},
+		{
+			"LABEL": "0x1930",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x1934",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x193c",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x1942",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x1948",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200cb2800000000204400003444"
+		},
+		{
+			"LABEL": "0x195a",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x1960",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 213,
+			"MSGID": 92,
+			"VOICEID": 18329,
+			"NameJPN": "観鈴",
+			"JPN": "「もういく？」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x198a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 214,
+			"MSGID": 93,
+			"VOICEID": 18330,
+			"NameJPN": "往人",
+			"JPN": "「そうだな。今、出ようとしていたところだ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x19d0",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 215,
+			"MSGID": 94,
+			"VOICEID": 18331,
+			"NameJPN": "観鈴",
+			"JPN": "「次のバスで？」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x19fc",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 216,
+			"MSGID": 95,
+			"VOICEID": 18332,
+			"NameJPN": "往人",
+			"JPN": "「いや…歩いていくことにした」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1a36",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 217,
+			"MSGID": 96,
+			"VOICEID": 18333,
+			"NameJPN": "往人",
+			"JPN": "「そうしてりゃよかったんだよな。最初から…」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1a7e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 221,
+			"MSGID": 97,
+			"VOICEID": 18334,
+			"NameJPN": "観鈴",
+			"JPN": "「そ…」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1aa2",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "df000000ff"
+		},
+		{
+			"LABEL": "0x1aac",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x1ab0",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x1ab8",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x1abe",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x1ac4",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "2200"
+		},
+		{
+			"LABEL": "0x1aca",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 225,
+			"MSGID": 98,
+			"JPN": "観鈴が、道のずっと先を見る。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1afa",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 226,
+			"MSGID": 99,
+			"VOICEID": 18335,
+			"NameJPN": "観鈴",
+			"JPN": "「まだまだ続いてゆくんだよね、往人さんの旅は」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1b44",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 227,
+			"MSGID": 100,
+			"VOICEID": 18336,
+			"NameJPN": "往人",
+			"JPN": "「ああ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1b68",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 228,
+			"MSGID": 101,
+			"VOICEID": 18337,
+			"NameJPN": "観鈴",
+			"JPN": "「長い道のりだね」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1b96",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 229,
+			"MSGID": 102,
+			"VOICEID": 18338,
+			"NameJPN": "往人",
+			"JPN": "「これまでもそうだったしな…そんなの気にしてもない」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1be6",
+			"Type": "IFN",
+			"SUBCMD": 1,
+			"Args": "e700f8ff28233637213d312900",
+			"GOTO_LABEL": "0x1c04"
+		},
+		{
+			"LABEL": "0x1bfc",
+			"Type": "GOTO",
+			"SUBCMD": 0,
+			"GOTO_LABEL": "0x1f30"
+		},
+		{
+			"LABEL": "0x1c04",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "ea000001ff"
+		},
+		{
+			"LABEL": "0x1c0e",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x1c12",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x1c1a",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x1c20",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x1c26",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "02007d2800000000204400003444"
+		},
+		{
+			"LABEL": "0x1c38",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x1c3e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 236,
+			"MSGID": 103,
+			"VOICEID": 18339,
+			"NameJPN": "観鈴",
+			"JPN": "「また…次の町についたら、教えてね」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1c7e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 237,
+			"MSGID": 104,
+			"VOICEID": 18340,
+			"NameJPN": "往人",
+			"JPN": "「いや…連絡する手段もないだろうし、それはやめておく」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1cd0",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "f0000001ff"
+		},
+		{
+			"LABEL": "0x1cda",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x1cde",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x1ce6",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x1cec",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x1cf2",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200cb2800000000204400003444"
+		},
+		{
+			"LABEL": "0x1d04",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x1d0a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 242,
+			"MSGID": 105,
+			"VOICEID": 18341,
+			"NameJPN": "観鈴",
+			"JPN": "「え…」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1d2e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 243,
+			"MSGID": 106,
+			"VOICEID": 18342,
+			"NameJPN": "往人",
+			"JPN": "「その代わり、また寄るよ、この町に」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1d6e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 244,
+			"MSGID": 107,
+			"VOICEID": 18343,
+			"NameJPN": "往人",
+			"JPN": "「何年後か、ずっと先の夏休みに」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1daa",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 245,
+			"MSGID": 108,
+			"VOICEID": 18344,
+			"NameJPN": "観鈴",
+			"JPN": "「ほんと？」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1dd2",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 246,
+			"MSGID": 109,
+			"VOICEID": 18345,
+			"NameJPN": "往人",
+			"JPN": "「ああ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1df6",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "f9000001ff"
+		},
+		{
+			"LABEL": "0x1e00",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x1e04",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x1e0c",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x1e12",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x1e18",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200ad2800000000204400003444"
+		},
+		{
+			"LABEL": "0x1e2a",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x1e30",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 251,
+			"MSGID": 110,
+			"VOICEID": 18346,
+			"NameJPN": "観鈴",
+			"JPN": "「じゃ、そのときは…補習受けてないようにがんばる」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1e7e",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "fe000001ff"
+		},
+		{
+			"LABEL": "0x1e88",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x1e8c",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x1e94",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x1e9a",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x1ea0",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200d12800000000204400003444"
+		},
+		{
+			"LABEL": "0x1eb2",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x1eb8",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 256,
+			"MSGID": 111,
+			"VOICEID": 18347,
+			"NameJPN": "観鈴",
+			"JPN": "「だから、もっともっと遊べる」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1ef2",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 257,
+			"MSGID": 112,
+			"VOICEID": 18348,
+			"NameJPN": "往人",
+			"JPN": "「そっか。期待してるよ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1f26",
+			"Type": "GOTO",
+			"SUBCMD": 1,
+			"Args": "0301",
+			"GOTO_LABEL": "0x21c6"
+		},
+		{
+			"LABEL": "0x1f30",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "07010001ff"
+		},
+		{
+			"LABEL": "0x1f3a",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x1f3e",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x1f46",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x1f4c",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x1f52",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "02007d2800000000204400003444"
+		},
+		{
+			"LABEL": "0x1f64",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x1f6a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 265,
+			"MSGID": 113,
+			"VOICEID": 18349,
+			"NameJPN": "観鈴",
+			"JPN": "「また…この町にくることあるかな」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1fa8",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 266,
+			"MSGID": 114,
+			"VOICEID": 18350,
+			"NameJPN": "往人",
+			"JPN": "「どうだろうな…」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1fd6",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "0d010001ff"
+		},
+		{
+			"LABEL": "0x1fe0",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x1fe4",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x1fec",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x1ff2",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x1ff8",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200d12800000000204400003444"
+		},
+		{
+			"LABEL": "0x200a",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x2010",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 271,
+			"MSGID": 115,
+			"VOICEID": 18351,
+			"NameJPN": "観鈴",
+			"JPN": "「そのときはまた、家に寄ってほしいな」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2052",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "12010001ff"
+		},
+		{
+			"LABEL": "0x205c",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x2060",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x2068",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x206e",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x2074",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200ad2800000000204400003444"
+		},
+		{
+			"LABEL": "0x2086",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x208c",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 276,
+			"MSGID": 116,
+			"VOICEID": 18352,
+			"NameJPN": "観鈴",
+			"JPN": "「そのときは…補習受けてないようにがんばるから。もっともっと遊べる」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x20ec",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 277,
+			"MSGID": 117,
+			"VOICEID": 18353,
+			"NameJPN": "往人",
+			"JPN": "「そっか。なら期待して、また寄るよ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x212c",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 278,
+			"MSGID": 118,
+			"VOICEID": 18354,
+			"NameJPN": "往人",
+			"JPN": "「何年後か、ずっと先の夏休みに」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2168",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "19010001ff"
+		},
+		{
+			"LABEL": "0x2172",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x2176",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x217e",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x2184",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x218a",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200d12800000000204400003444"
+		},
+		{
+			"LABEL": "0x219c",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x21a2",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 283,
+			"MSGID": 119,
+			"VOICEID": 18355,
+			"NameJPN": "観鈴",
+			"JPN": "「うん」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x21c6",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 287,
+			"MSGID": 120,
+			"VOICEID": 18356,
+			"NameJPN": "往人",
+			"JPN": "「じゃ、いくな」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x21f2",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "22010001ff"
+		},
+		{
+			"LABEL": "0x21fc",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x2200",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x2208",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x220e",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x2214",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200ad2800000000204400003444"
+		},
+		{
+			"LABEL": "0x2226",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x222c",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 292,
+			"MSGID": 121,
+			"VOICEID": 18357,
+			"NameJPN": "観鈴",
+			"JPN": "「うん」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2250",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 293,
+			"MSGID": 122,
+			"NameJPN": "往人",
+			"JPN": "「………」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2276",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 294,
+			"MSGID": 123,
+			"VOICEID": 18358,
+			"NameJPN": "往人",
+			"JPN": "「おまえ…ちゃんと宿題しろよ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x22b0",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 295,
+			"MSGID": 124,
+			"VOICEID": 18359,
+			"NameJPN": "観鈴",
+			"JPN": "「うん、するよ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x22dc",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 296,
+			"MSGID": 125,
+			"VOICEID": 18360,
+			"NameJPN": "往人",
+			"JPN": "「ちゃんと、遅刻しないように学校いけよ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2320",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "2b010001ff"
+		},
+		{
+			"LABEL": "0x232a",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x232e",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x2336",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x233c",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x2342",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200d12800000000204400003444"
+		},
+		{
+			"LABEL": "0x2354",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x235a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 301,
+			"MSGID": 126,
+			"VOICEID": 18361,
+			"NameJPN": "観鈴",
+			"JPN": "「うん、がんばる」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2388",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "30010001ff"
+		},
+		{
+			"LABEL": "0x2392",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x2396",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x239e",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x23a4",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x23aa",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200ad2800000000204400003444"
+		},
+		{
+			"LABEL": "0x23bc",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x23c2",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 306,
+			"MSGID": 127,
+			"VOICEID": 18362,
+			"NameJPN": "観鈴",
+			"JPN": "「往人さんは、ちゃんとお風呂入ってね」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2404",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 308,
+			"MSGID": 128,
+			"VOICEID": 18363,
+			"NameJPN": "往人",
+			"JPN": "「ああ、チャンスがあれば逃がさないようにしよう」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2450",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 309,
+			"MSGID": 129,
+			"VOICEID": 18364,
+			"NameJPN": "観鈴",
+			"JPN": "「ちゃんと、お洗濯もしてね」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2488",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 310,
+			"MSGID": 130,
+			"VOICEID": 18365,
+			"NameJPN": "往人",
+			"JPN": "「ああ、前向きに考えてみる」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x24c0",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 314,
+			"MSGID": 131,
+			"NameJPN": "観鈴",
+			"JPN": "「………」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x24e6",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 316,
+			"MSGID": 132,
+			"JPN": "もう話すこともなかった。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2512",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "3e010000ff"
+		},
+		{
+			"LABEL": "0x251c",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x2520",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x2528",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x252e",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x2534",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "2200"
+		},
+		{
+			"LABEL": "0x253a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 320,
+			"MSGID": 133,
+			"JPN": "ふたり黙りこくる。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2560",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 321,
+			"MSGID": 134,
+			"JPN": "タイミングが掴めなかった。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x258e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 322,
+			"MSGID": 135,
+			"JPN": "いつまでも、一歩が踏み出せないでいた。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x25c8",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 324,
+			"MSGID": 136,
+			"VOICEID": 18366,
+			"NameJPN": "観鈴",
+			"JPN": "「ね」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x25ea",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 325,
+			"MSGID": 137,
+			"VOICEID": 18367,
+			"NameJPN": "往人",
+			"JPN": "「あん？」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2610",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "48010001ff"
+		},
+		{
+			"LABEL": "0x261a",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x261e",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x2626",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x262c",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x2632",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200ad2800000000204400003444"
+		},
+		{
+			"LABEL": "0x2644",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x264a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 330,
+			"MSGID": 138,
+			"VOICEID": 18368,
+			"NameJPN": "観鈴",
+			"JPN": "「よーい、どんっ、て言おうか」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2684",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 331,
+			"MSGID": 139,
+			"VOICEID": 18369,
+			"NameJPN": "往人",
+			"JPN": "「なんだよ、そりゃ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x26b4",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 332,
+			"MSGID": 140,
+			"VOICEID": 18370,
+			"NameJPN": "観鈴",
+			"JPN": "「合図」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x26d8",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 333,
+			"MSGID": 141,
+			"VOICEID": 18371,
+			"NameJPN": "観鈴",
+			"JPN": "「よーい、どん、で、往人さんは次の町へ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x271c",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 334,
+			"MSGID": 142,
+			"VOICEID": 18372,
+			"NameJPN": "観鈴",
+			"JPN": "「わたしは、自分の家へ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2750",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "51010001ff"
+		},
+		{
+			"LABEL": "0x275a",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x275e",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x2766",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x276c",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x2772",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0200c52800000000204400003444"
+		},
+		{
+			"LABEL": "0x2784",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "1800"
+		},
+		{
+			"LABEL": "0x278a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 339,
+			"MSGID": 143,
+			"VOICEID": 18373,
+			"NameJPN": "観鈴",
+			"JPN": "「別々の方向へ歩き出すの」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x27c0",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 340,
+			"MSGID": 144,
+			"NameJPN": "往人",
+			"JPN": "「………」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x27e6",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 341,
+			"MSGID": 145,
+			"VOICEID": 18374,
+			"NameJPN": "往人",
+			"JPN": "「そうだな…そうするか」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x281a",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "57010000ff"
+		},
+		{
+			"LABEL": "0x2824",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x2828",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x2830",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x2836",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x283c",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "2200"
+		},
+		{
+			"LABEL": "0x2842",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 345,
+			"MSGID": 146,
+			"JPN": "俺は風に乱れる髪の毛を押さえながら答えた。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2880",
+			"Type": "CLOSE_WINDOW",
+			"SUBCMD": 1,
+			"Args": "5b011000"
+		},
+		{
+			"LABEL": "0x2888",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "696d0000"
+		},
+		{
+			"LABEL": "0x2890",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "72170000"
+		},
+		{
+			"LABEL": "0x2898",
+			"Type": "SE_WAIT",
+			"SUBCMD": 1,
+			"Args": "5c01ff000000007800"
+		},
+		{
+			"LABEL": "0x28a6",
+			"Type": "VIB_PLAY",
+			"SUBCMD": 1,
+			"Args": "5e0107000100"
+		},
+		{
+			"LABEL": "0x28b0",
+			"Type": "DRAW",
+			"SUBCMD": 1,
+			"Args": "61013c00"
+		},
+		{
+			"LABEL": "0x28b8",
+			"Type": "WAIT",
+			"SUBCMD": 1,
+			"Args": "62015a00"
+		},
+		{
+			"LABEL": "0x28c0",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 356,
+			"MSGID": 147,
+			"VOICEID": 18375,
+			"NameJPN": "観鈴",
+			"JPN": "「じゃ、言うね」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x28ec",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 357,
+			"MSGID": 148,
+			"JPN": "俺たちは背中合わせになる。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x291a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 361,
+			"MSGID": 149,
+			"VOICEID": 18376,
+			"NameJPN": "往人",
+			"JPN": "「ああ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x293e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 362,
+			"MSGID": 150,
+			"VOICEID": 18377,
+			"NameJPN": "観鈴",
+			"JPN": "「よーい…」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2966",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 363,
+			"MSGID": 151,
+			"JPN": "夏はまだまだ続いてゆく。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2992",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 364,
+			"MSGID": 152,
+			"NameJPN": "観鈴",
+			"JPN": "「………」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x29b8",
+			"Type": "VIB_PLAY",
+			"SUBCMD": 1,
+			"Args": "6e0107000200"
+		},
+		{
+			"LABEL": "0x29c2",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 369,
+			"MSGID": 153,
+			"VOICEID": 18378,
+			"NameJPN": "観鈴",
+			"JPN": "「どんっ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x29e8",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 374,
+			"MSGID": 154,
+			"JPN": "そして、今も風の中に。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2a12",
+			"Type": "VIB_PLAY",
+			"SUBCMD": 1,
+			"Args": "790107000000"
+		},
+		{
+			"LABEL": "0x2a1c",
+			"Type": "CLOSE_WINDOW",
+			"SUBCMD": 1,
+			"Args": "7b011000"
+		},
+		{
+			"LABEL": "0x2a24",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "696d0000"
+		},
+		{
+			"LABEL": "0x2a2c",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "72170000"
+		},
+		{
+			"LABEL": "0x2a34",
+			"Type": "SE_WAIT",
+			"SUBCMD": 1,
+			"Args": "7e01ff000000006801"
+		},
+		{
+			"LABEL": "0x2a42",
+			"Type": "BGM_WAITFADE",
+			"SUBCMD": 1,
+			"Args": "7f0100000000680100"
+		},
+		{
+			"LABEL": "0x2a50",
+			"Type": "CLOSE_WINDOW",
+			"SUBCMD": 1,
+			"Args": "8201"
+		},
+		{
+			"LABEL": "0x2a56",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "ff00"
+		},
+		{
+			"LABEL": "0x2a5c",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "00ff"
+		},
+		{
+			"LABEL": "0x2a62",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "0000e8fd"
+		},
+		{
+			"LABEL": "0x2a6a",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "421fe8fd"
+		},
+		{
+			"LABEL": "0x2a72",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000100"
+		},
+		{
+			"LABEL": "0x2a7a",
+			"Type": "FADE",
+			"SUBCMD": 1,
+			"Args": "83010000ff"
+		},
+		{
+			"LABEL": "0x2a84",
+			"Type": "DEL_CALLSTACK",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x2a88",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000000"
+		},
+		{
+			"LABEL": "0x2a90",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "0001"
+		},
+		{
+			"LABEL": "0x2a96",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "02ff"
+		},
+		{
+			"LABEL": "0x2a9c",
+			"Type": "DRAW",
+			"SUBCMD": 0,
+			"Args": "6801"
+		},
+		{
+			"LABEL": "0x2aa2",
+			"Type": "WAIT",
+			"SUBCMD": 0
+		},
+		{
+			"LABEL": "0x2aa6",
+			"Type": "WAIT",
+			"SUBCMD": 1,
+			"Args": "85019600"
+		},
+		{
+			"LABEL": "0x2aae",
+			"Type": "SE_WAIT",
+			"SUBCMD": 1,
+			"Args": "8601ff000000000600"
+		},
+		{
+			"LABEL": "0x2abc",
+			"Type": "BGM_WAITFADE",
+			"SUBCMD": 1,
+			"Args": "8701"
+		},
+		{
+			"LABEL": "0x2ac2",
+			"Type": "END",
+			"SUBCMD": 3,
+			"Args": "87010080"
+		}
+	]
+}

@@ -1,0 +1,1752 @@
+{
+	"Main": [
+		{
+			"LABEL": "0x0",
+			"Type": "STARTUP_BETGIN"
+		},
+		{
+			"LABEL": "0x4",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "616d0005"
+		},
+		{
+			"LABEL": "0xc",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "626dd002"
+		},
+		{
+			"LABEL": "0x14",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "636d0100"
+		},
+		{
+			"LABEL": "0x1c",
+			"Type": "STARTUP_END"
+		},
+		{
+			"LABEL": "0x20",
+			"Type": "CLOSE_WINDOW",
+			"SUBCMD": 1,
+			"Args": "0100"
+		},
+		{
+			"LABEL": "0x26",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "ff00"
+		},
+		{
+			"LABEL": "0x2c",
+			"Type": "INIT",
+			"SUBCMD": 0,
+			"Args": "00ff"
+		},
+		{
+			"LABEL": "0x32",
+			"Type": "IMAGELOAD",
+			"SUBCMD": 0,
+			"Args": "00000100"
+		},
+		{
+			"LABEL": "0x3a",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "411f0100"
+		},
+		{
+			"LABEL": "0x42",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "421f0000"
+		},
+		{
+			"LABEL": "0x4a",
+			"Type": "EQUN",
+			"SUBCMD": 0,
+			"Args": "65000100"
+		},
+		{
+			"LABEL": "0x52",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 4,
+			"MSGID": 0,
+			"JPN": "揺れテスト　",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x72",
+			"Type": "SHAKELIST",
+			"SUBCMD": 1,
+			"Args": "0600ff00000001000a00"
+		},
+		{
+			"LABEL": "0x80",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff01000001000a00"
+		},
+		{
+			"LABEL": "0x8c",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff02000001000a00"
+		},
+		{
+			"LABEL": "0x98",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff09000001000a00"
+		},
+		{
+			"LABEL": "0xa4",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 7,
+			"MSGID": 1,
+			"JPN": "１ ",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xbc",
+			"Type": "SHAKELIST",
+			"SUBCMD": 1,
+			"Args": "0800ff00000002000a00"
+		},
+		{
+			"LABEL": "0xca",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff01000002000a00"
+		},
+		{
+			"LABEL": "0xd6",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff02000002000a00"
+		},
+		{
+			"LABEL": "0xe2",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff09000002000a00"
+		},
+		{
+			"LABEL": "0xee",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 9,
+			"MSGID": 2,
+			"JPN": "１０ ",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x108",
+			"Type": "SHAKELIST",
+			"SUBCMD": 1,
+			"Args": "0a00ff00000003000a00"
+		},
+		{
+			"LABEL": "0x116",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff01000003000a00"
+		},
+		{
+			"LABEL": "0x122",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff02000003000a00"
+		},
+		{
+			"LABEL": "0x12e",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff09000003000a00"
+		},
+		{
+			"LABEL": "0x13a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 11,
+			"MSGID": 3,
+			"JPN": "１１ ",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x154",
+			"Type": "SHAKELIST",
+			"SUBCMD": 1,
+			"Args": "0c00ff00000004000a00"
+		},
+		{
+			"LABEL": "0x162",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff01000004000a00"
+		},
+		{
+			"LABEL": "0x16e",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff02000004000a00"
+		},
+		{
+			"LABEL": "0x17a",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff09000004000a00"
+		},
+		{
+			"LABEL": "0x186",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 13,
+			"MSGID": 4,
+			"JPN": "１３ ",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1a0",
+			"Type": "SHAKELIST",
+			"SUBCMD": 1,
+			"Args": "0e00ff00000006000a00"
+		},
+		{
+			"LABEL": "0x1ae",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff01000006000a00"
+		},
+		{
+			"LABEL": "0x1ba",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff02000006000a00"
+		},
+		{
+			"LABEL": "0x1c6",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff09000006000a00"
+		},
+		{
+			"LABEL": "0x1d2",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 15,
+			"MSGID": 5,
+			"JPN": "１７ ",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1ec",
+			"Type": "SHAKELIST",
+			"SUBCMD": 1,
+			"Args": "1000ff00000007000a00"
+		},
+		{
+			"LABEL": "0x1fa",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff01000007000a00"
+		},
+		{
+			"LABEL": "0x206",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff02000007000a00"
+		},
+		{
+			"LABEL": "0x212",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff09000007000a00"
+		},
+		{
+			"LABEL": "0x21e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 17,
+			"MSGID": 6,
+			"JPN": "１８ ",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x238",
+			"Type": "SHAKELIST",
+			"SUBCMD": 1,
+			"Args": "1200ff00000008000a00"
+		},
+		{
+			"LABEL": "0x246",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff01000008000a00"
+		},
+		{
+			"LABEL": "0x252",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff02000008000a00"
+		},
+		{
+			"LABEL": "0x25e",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff09000008000a00"
+		},
+		{
+			"LABEL": "0x26a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 19,
+			"MSGID": 7,
+			"JPN": "２０ ",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x284",
+			"Type": "SHAKELIST",
+			"SUBCMD": 1,
+			"Args": "1400ff00000009000a00"
+		},
+		{
+			"LABEL": "0x292",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff01000009000a00"
+		},
+		{
+			"LABEL": "0x29e",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff02000009000a00"
+		},
+		{
+			"LABEL": "0x2aa",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff09000009000a00"
+		},
+		{
+			"LABEL": "0x2b6",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 21,
+			"MSGID": 8,
+			"JPN": "２１ ",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2d0",
+			"Type": "SHAKELIST",
+			"SUBCMD": 1,
+			"Args": "1600ff0000000a000a00"
+		},
+		{
+			"LABEL": "0x2de",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff0100000a000a00"
+		},
+		{
+			"LABEL": "0x2ea",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff0200000a000a00"
+		},
+		{
+			"LABEL": "0x2f6",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff0900000a000a00"
+		},
+		{
+			"LABEL": "0x302",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 23,
+			"MSGID": 9,
+			"JPN": "２２ ",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x31c",
+			"Type": "SHAKELIST",
+			"SUBCMD": 1,
+			"Args": "1800ff0000000b000a00"
+		},
+		{
+			"LABEL": "0x32a",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff0100000b000a00"
+		},
+		{
+			"LABEL": "0x336",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff0200000b000a00"
+		},
+		{
+			"LABEL": "0x342",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff0900000b000a00"
+		},
+		{
+			"LABEL": "0x34e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 25,
+			"MSGID": 10,
+			"JPN": "２８ ",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x368",
+			"Type": "SHAKELIST",
+			"SUBCMD": 1,
+			"Args": "1a00ff0000000c000a00"
+		},
+		{
+			"LABEL": "0x376",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff0100000c000a00"
+		},
+		{
+			"LABEL": "0x382",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff0200000c000a00"
+		},
+		{
+			"LABEL": "0x38e",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff0900000c000a00"
+		},
+		{
+			"LABEL": "0x39a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 27,
+			"MSGID": 11,
+			"JPN": "３１ ",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x3b4",
+			"Type": "SHAKELIST",
+			"SUBCMD": 1,
+			"Args": "1c00ff00000008000a00"
+		},
+		{
+			"LABEL": "0x3c2",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff01000008000a00"
+		},
+		{
+			"LABEL": "0x3ce",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff02000008000a00"
+		},
+		{
+			"LABEL": "0x3da",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff09000008000a00"
+		},
+		{
+			"LABEL": "0x3e6",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 29,
+			"MSGID": 12,
+			"JPN": "４０ ",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x400",
+			"Type": "SHAKELIST",
+			"SUBCMD": 1,
+			"Args": "1e00ff0000000c000a00"
+		},
+		{
+			"LABEL": "0x40e",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff0100000c000a00"
+		},
+		{
+			"LABEL": "0x41a",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff0200000c000a00"
+		},
+		{
+			"LABEL": "0x426",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff0900000c000a00"
+		},
+		{
+			"LABEL": "0x432",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 31,
+			"MSGID": 13,
+			"JPN": "４１ ",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x44c",
+			"Type": "SHAKELIST",
+			"SUBCMD": 1,
+			"Args": "2000ff0000000f000a00"
+		},
+		{
+			"LABEL": "0x45a",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff0100000f000a00"
+		},
+		{
+			"LABEL": "0x466",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff0200000f000a00"
+		},
+		{
+			"LABEL": "0x472",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff0900000f000a00"
+		},
+		{
+			"LABEL": "0x47e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 33,
+			"MSGID": 14,
+			"JPN": "４８ ",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x498",
+			"Type": "SHAKELIST",
+			"SUBCMD": 1,
+			"Args": "2200ff0000000f000a00"
+		},
+		{
+			"LABEL": "0x4a6",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff0100000f000a00"
+		},
+		{
+			"LABEL": "0x4b2",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff0200000f000a00"
+		},
+		{
+			"LABEL": "0x4be",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff0900000f000a00"
+		},
+		{
+			"LABEL": "0x4ca",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 35,
+			"MSGID": 15,
+			"JPN": "５８ ",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x4e4",
+			"Type": "SHAKELIST",
+			"SUBCMD": 1,
+			"Args": "2400ff00000011000a00"
+		},
+		{
+			"LABEL": "0x4f2",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff01000011000a00"
+		},
+		{
+			"LABEL": "0x4fe",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff02000011000a00"
+		},
+		{
+			"LABEL": "0x50a",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff09000011000a00"
+		},
+		{
+			"LABEL": "0x516",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 37,
+			"MSGID": 16,
+			"JPN": "６８ ",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x530",
+			"Type": "SHAKELIST",
+			"SUBCMD": 1,
+			"Args": "2600ff00000012000a00"
+		},
+		{
+			"LABEL": "0x53e",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff01000012000a00"
+		},
+		{
+			"LABEL": "0x54a",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff02000012000a00"
+		},
+		{
+			"LABEL": "0x556",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff09000012000a00"
+		},
+		{
+			"LABEL": "0x562",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 39,
+			"MSGID": 17,
+			"JPN": "６９ ",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x57c",
+			"Type": "SHAKELIST",
+			"SUBCMD": 1,
+			"Args": "2800ff00000013000a00"
+		},
+		{
+			"LABEL": "0x58a",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff01000013000a00"
+		},
+		{
+			"LABEL": "0x596",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff02000013000a00"
+		},
+		{
+			"LABEL": "0x5a2",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff09000013000a00"
+		},
+		{
+			"LABEL": "0x5ae",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 41,
+			"MSGID": 18,
+			"JPN": "７０ ",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x5c8",
+			"Type": "SHAKELIST",
+			"SUBCMD": 1,
+			"Args": "2a00ff00000014000a00"
+		},
+		{
+			"LABEL": "0x5d6",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff01000014000a00"
+		},
+		{
+			"LABEL": "0x5e2",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff02000014000a00"
+		},
+		{
+			"LABEL": "0x5ee",
+			"Type": "SHAKELIST",
+			"SUBCMD": 0,
+			"Args": "ff09000014000a00"
+		},
+		{
+			"LABEL": "0x5fa",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 43,
+			"MSGID": 19,
+			"JPN": "７１ ",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x614",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 56,
+			"MSGID": 20,
+			"JPN": "みちるに$[倣$/なら$]い、なぜか遠野もゆらゆらとゆれる。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x664",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 57,
+			"MSGID": 21,
+			"JPN": "遠野に$[倣$/なら$]うように、みちるも急いで手を合わせる。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x6b6",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 58,
+			"MSGID": 22,
+			"JPN": "$d＿＿＿＿＿『…あのひとにとって…夢は$[現$/うつつ$]…』",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x70a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 59,
+			"MSGID": 23,
+			"JPN": "俺に$[倣$/なら$]うように、遠野も声に懐かしい響きを込めた。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x75e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 60,
+			"MSGID": 24,
+			"JPN": "俺に$[倣$/なら$]って、遠野はゆったりとした仕草で腰をあげた。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x7b4",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 61,
+			"MSGID": 25,
+			"JPN": "$[頗$/すこぶ$]る有能な女官であった、と伝えられている。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x804",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 62,
+			"MSGID": 26,
+			"JPN": "しかしながらこの裏葉、ひとりの$[主$/あるじ$]に長く仕えたためしがない。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x864",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 63,
+			"MSGID": 27,
+			"VOICEID": 24902,
+			"NameJPN": "女官",
+			"JPN": "「ただ…先だっての$[貝合$/かいあわせ$]の折、そなたの$[袙扇$/おうぎ$]が、姫さまのものよりちいとばかり上等であったゆえ…」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x904",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 64,
+			"MSGID": 28,
+			"JPN": "詩書礼楽に長け、$[和琴$/わごん$]も歌もそつなくこなす。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x954",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 65,
+			"MSGID": 29,
+			"JPN": "それでいて、主の$[嫌忌$/けんき$]には鋭い。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x998",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 66,
+			"MSGID": 30,
+			"JPN": "ここも$[罷免$/くび$]かと悟るのに、そう時間はかからない。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x9ea",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 67,
+			"MSGID": 31,
+			"JPN": "満面の笑顔で一礼。$[裳$/も$]の裾をすいとすべらせ、その場を辞そうとする。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xa4c",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 68,
+			"MSGID": 32,
+			"JPN": "$[睦月$/むつき$]も終わろうという頃。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xa8a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 69,
+			"MSGID": 33,
+			"JPN": "ただひとりの$[随身$/ずいじん$]に、裏葉は声をかけた。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xad8",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 70,
+			"MSGID": 34,
+			"JPN": "$[蕭々$/しょうしょう$]とした杉林の向こう、隠されるように何かの建物が見えた。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xb3e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 71,
+			"MSGID": 35,
+			"VOICEID": 24912,
+			"NameJPN": "裏葉",
+			"JPN": "「あちらが$[御社$/おやしろ$]でございますか…」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xb8e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 72,
+			"MSGID": 36,
+			"VOICEID": 24913,
+			"NameJPN": "裏葉",
+			"JPN": "「なにやら風変わりな$[佇$/たたずまい$]でございますねえ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xbe8",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 73,
+			"MSGID": 37,
+			"JPN": "正門には守衛が二人、$[壺装束$/つぼしょうぞく$]の裏葉に不審げな視線を送ってくる。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xc52",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 74,
+			"MSGID": 38,
+			"JPN": "裏葉は近づくと、請われるままに$[苧垂$/むしだれ$]を分け、到着の旨を伝えた。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xcb6",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 75,
+			"MSGID": 39,
+			"JPN": "$[遷宮$/せんぐう$]して間もないのだろうか。床からも柱からも、切り出した檜の清々しい香りがする。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xd2e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 76,
+			"MSGID": 40,
+			"JPN": "ありていに言えば、僻地への左遷であり、$[貧乏籤$/びんぼうくじ$]である。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xd8e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 77,
+			"MSGID": 41,
+			"JPN": "遊仙たる山奥まで来たのだから、ひとつ歌でも$[詠$/うた$]っておこうかなどと、呑気なことを考えている。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xe0a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 78,
+			"MSGID": 42,
+			"VOICEID": 24915,
+			"NameJPN": "裏葉",
+			"JPN": "「$[深山路$/みやまじ$]の～…」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xe4a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 79,
+			"MSGID": 43,
+			"JPN": "だが、$[発句$/ほっく$]を詠じるより早く、廊下の方がさわがしくなった。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xea8",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 80,
+			"MSGID": 44,
+			"VOICEID": 24918,
+			"NameJPN": "声＊神奈",
+			"JPN": "「…会いとうないっ。余は$[誰$/たれ$]とも会わぬぞ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xf00",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 81,
+			"MSGID": 45,
+			"JPN": "痩せた体に巫女装束、一風変わった$[表着$/うわぎ$]をその上にかさねている。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xf62",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 82,
+			"MSGID": 46,
+			"JPN": "衣の着付けも、目も当てられないほど$[杜撰$/ずさん$]だ。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0xfb2",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 83,
+			"MSGID": 47,
+			"VOICEID": 24926,
+			"NameJPN": "裏葉",
+			"JPN": "「さわりませんと、$[御髪$/おぐし$]が整えられませんわ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x100a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 84,
+			"MSGID": 48,
+			"JPN": "垂らした$[鬢$/びん$]にからませた$[響無鈴$/こなれ$]を、そっと結びなおす。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1072",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 85,
+			"MSGID": 49,
+			"JPN": "$[俄$/にわか$]にはじまった押し問答を、他人事のように聞く裏葉。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x10ca",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 86,
+			"MSGID": 50,
+			"VOICEID": 24942,
+			"NameJPN": "裏葉",
+			"JPN": "「ただ…美しき姫君の御髪を$[玩$/もてあそ$]ぶのは、$[端女$/はしため$]の身にも心地よきもの、と申しますがゆえ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x115e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 88,
+			"MSGID": 51,
+			"JPN": "不意に$[踵$/きびす$]をかえし、どたどたと$[渡殿$/わたどの$]を駈けていった。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x11c8",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 89,
+			"MSGID": 52,
+			"JPN": "はじめて$[見$/まみ$]えた主に、一方的な好印象を抱いている。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x121c",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 90,
+			"MSGID": 53,
+			"JPN": "開けはなった$[蔀戸$/しとみど$]から、山霧が渡り$[入$/い$]ってくる。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x127e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 91,
+			"MSGID": 54,
+			"JPN": "$[唐衣$/からぎぬ$]に$[裳$/も$]という正装である。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x12ce",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 92,
+			"MSGID": 55,
+			"JPN": "$[屏風$/びょうぶ$]のきわに立ち、そっと主の気配をうかがう。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1322",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 93,
+			"MSGID": 56,
+			"JPN": "健康そうな$[鼾$/いびき$]が聞こえ、裏葉は思わずほくそ笑む。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1376",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 94,
+			"MSGID": 57,
+			"JPN": "$[高麗縁$/こうらいべり$]の畳の上で、$[神奈備命$/かんなびのみこと$]は眠っていた。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x13e6",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 95,
+			"MSGID": 58,
+			"JPN": "$[丈$/たけ$]なす黒髪は美人の証だ。高貴な姫ともなれば、寝床では髪を縄のように結わせ、くるくると巻いて浅い箱に入れておく。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1478",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 96,
+			"MSGID": 59,
+			"JPN": "やおら櫛を取り出し、姫君の髪を$[梳$/くしけず$]りはじめた。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x14cc",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 97,
+			"MSGID": 60,
+			"VOICEID": 24958,
+			"NameJPN": "裏葉",
+			"JPN": "「それで、$[咋日$/さくじつ$]のように妙ちきな着こなしぶりなのでございますね」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x153a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 98,
+			"MSGID": 61,
+			"JPN": "女房たちや守護職の$[侍$/さむらい$]までが、何事かと寝所にはせ参じてくる。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x159c",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 99,
+			"MSGID": 62,
+			"JPN": "主の$[御言葉$/みことば$]にしたがい、無礼者を片づけにかかる。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x15f2",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 100,
+			"MSGID": 63,
+			"JPN": "言葉とともに飛んできた枕を、楽々と$[避$/よ$]けた。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x163e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 101,
+			"MSGID": 64,
+			"JPN": "$[如月$/きさらぎ$]に入ると、山の寒さも峠を越した。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x168a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 102,
+			"MSGID": 65,
+			"JPN": "木々の新芽がほころびはじめ、$[鶯$/うぐいす$]の鳴く声も聞こえる。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x16e4",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 103,
+			"MSGID": 66,
+			"JPN": "$[啓蟄$/けいちつ$]を過ぎ、獣たちも巣穴から這い出ようという頃合。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x173e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 104,
+			"MSGID": 67,
+			"JPN": "裏葉が寝所づきの$[侍従$/じじゅう$]となるのに、時間はかからなかった。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x179c",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 105,
+			"MSGID": 68,
+			"JPN": "昼も夜も、$[御座$/おまし$]にお籠もりになっている。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x17e8",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 106,
+			"MSGID": 69,
+			"JPN": "もともと、神奈備命は気むずかしい$[性質$/たち$]であるという。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x183e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 107,
+			"MSGID": 70,
+			"JPN": "だが裏葉の目には、寂しがりの$[女$/め$]の子が意地を張っているようにしか映らない。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x18a8",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 108,
+			"MSGID": 71,
+			"VOICEID": 24966,
+			"NameJPN": "裏葉",
+			"JPN": "「…新しい$[御衣$/おんぞ$]をお持ちしました」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x18f6",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 109,
+			"MSGID": 72,
+			"JPN": "$[衝立屏風$/ついたてびょうぶ$]の向こうに呼びかける。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1944",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 111,
+			"MSGID": 73,
+			"JPN": "$[蝦$/かえる$]のように、ぴょんぴょんと飛び跳ねる。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1990",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 112,
+			"MSGID": 74,
+			"JPN": "届いたばかりのとある$[冊子$/そうし$]を手に、猫なで声の裏葉。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x19e6",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 113,
+			"MSGID": 75,
+			"VOICEID": 24975,
+			"NameJPN": "裏葉",
+			"JPN": "「それでは、この裏葉が特に$[選$/え$]りすぐり、お聞かせいたしましょう」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1a4e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 114,
+			"MSGID": 76,
+			"VOICEID": 24976,
+			"NameJPN": "裏葉",
+			"JPN": "「むかし、をとこありけり。$[東$/ひんがし$]の五條わたりにいと忍びていきけり…」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1abe",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 115,
+			"MSGID": 77,
+			"JPN": "などと、やけに$[艶$/つや$]のある段ばかりを、大声で読みきかせる。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1b18",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 116,
+			"MSGID": 78,
+			"VOICEID": 24981,
+			"NameJPN": "裏葉",
+			"JPN": "「今朝、$[小楢$/こなら$]の枝に、$[栗鼠$/りす$]を見かけました」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1b7e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 117,
+			"MSGID": 79,
+			"JPN": "$[御座$/おまし$]の濡れ縁に座り、とりとめのないことを口にする。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1bd6",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 118,
+			"MSGID": 80,
+			"VOICEID": 24986,
+			"NameJPN": "裏葉",
+			"JPN": "「はい。そろそろ辺りにも$[萌木$/もえぎ$]の匂いがしますゆえ、野に遊ぶのも一興かと」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1c4a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 119,
+			"MSGID": 81,
+			"VOICEID": 24987,
+			"NameJPN": "裏葉",
+			"JPN": "「山鳥の$[鳴音$/なきね$]を聞いて、野花を摘んで、歌をつくって…きっと楽しゅうございますよ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1cc6",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 120,
+			"MSGID": 82,
+			"VOICEID": 24988,
+			"NameJPN": "神奈",
+			"JPN": "「$[戯$/ざ$]れ言を申すな」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1d02",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 121,
+			"MSGID": 83,
+			"JPN": "飯も魚も運ばれた時のまま、$[懸盤$/かけばん$]の上でかたく冷めてしまっている。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1d68",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 122,
+			"MSGID": 84,
+			"VOICEID": 24992,
+			"NameJPN": "女官",
+			"JPN": "「翼人は雲霰風雨を糧とするがこそ、$[躯$/からだ$]は胡蝶がごとく$[軽$/かろ$]し、と申します」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1dea",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 123,
+			"MSGID": 85,
+			"VOICEID": 24994,
+			"NameJPN": "女官",
+			"JPN": "「われら$[下賤$/げせん$]が気に病むことではありますまい」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1e44",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 124,
+			"MSGID": 86,
+			"JPN": "$[膳司$/かしわでのつかさ$]に掛け合い、$[御倉$/みくら$]を開けさせた。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1ea8",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 125,
+			"MSGID": 87,
+			"JPN": "勝栗、$[胡桃$/くるみ$]、橘、$[李$/すもも$]、干柿、$[干棗$/なつめ$]、松実…",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1f18",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 126,
+			"MSGID": 88,
+			"JPN": "干菓子、木菓子の類を$[高坏$/たかつき$]にどっさりと盛りつけた。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1f70",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 127,
+			"MSGID": 89,
+			"JPN": "$[朝餉$/あさげ$]時。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1f9e",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 128,
+			"MSGID": 90,
+			"JPN": "好物の山を$[目$/ま$]の当たりにすれば、そうそう我慢がきくものではない。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x1ffe",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 129,
+			"MSGID": 91,
+			"VOICEID": 24998,
+			"NameJPN": "裏葉",
+			"JPN": "「このまま持って帰るのも、重たくて$[癪$/しゃく$]でございますし…これはここに置いておけば、残らず鼠が片づけることでございましょう」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x20a2",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 130,
+			"MSGID": 92,
+			"JPN": "神の御遣いなど無用にさえ思える、うららかな$[午$/ひる$]下がり。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x20fa",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 131,
+			"MSGID": 93,
+			"JPN": "$[庇$/ひさし$]の上からだった。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2132",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 132,
+			"MSGID": 94,
+			"JPN": "ついで裳もゆるめ、裾の長い$[五衣$/いつつぎぬ$]も数枚、廊下に落とした。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2192",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 133,
+			"MSGID": 95,
+			"JPN": "$[高欄$/こうらん$]に足をかけ、柱に取りつく。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x21d8",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 134,
+			"MSGID": 96,
+			"JPN": "$[檜皮葺$/ひわだぶき$]の軒は、なだらかに傾斜している上、今朝方の雨で滑りやすい。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2242",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 135,
+			"MSGID": 97,
+			"JPN": "戻れぬ故郷を垣間見た$[流人$/るにん$]のような、歳を経た$[達観$/たっかん$]があった。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x22b4",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 136,
+			"MSGID": 98,
+			"JPN": "そう問われた少女の瞳が、$[水面$/みなも$]のように揺らいだ。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2308",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 137,
+			"MSGID": 99,
+			"JPN": "ついと視線を$[傾$/かし$]げて、遙かな空を眺める。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2352",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 138,
+			"MSGID": 100,
+			"JPN": "その頭上高くを、$[雲雀$/ひばり$]が飛んでいく。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x239a",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 139,
+			"MSGID": 101,
+			"JPN": "$[宿直$/とのい$]の衛士が二人、板塀のきわを歩いていく。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x23ea",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 140,
+			"MSGID": 102,
+			"JPN": "$[沓$/くつ$]の音が遠ざかり、また静寂が戻る。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2430",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 141,
+			"MSGID": 103,
+			"JPN": "$[袿$/うちぎ$]に$[袴$/はかま$]姿である。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2478",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 142,
+			"MSGID": 104,
+			"JPN": "$[袴$/はかま$]に続いて、肌着の$[単$/ひとえ$]も床に落とす。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x24d2",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 143,
+			"MSGID": 105,
+			"JPN": "$[幼児$/おさなご$]に聞かせるように、裏葉は言葉を続ける。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2524",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 144,
+			"MSGID": 106,
+			"JPN": "ただその頬が、ほんの少しだけ$[紅$/あか$]いように見える。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2576",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 145,
+			"MSGID": 107,
+			"JPN": "堅苦しい$[唐衣喪$/からぎぬも$]は、とうに脱ぎ捨てている。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x25c8",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 146,
+			"MSGID": 108,
+			"JPN": "$[甍$/いらか$]を枕にごろりと仰向けになり、晴れわたった空を眺めていた。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2628",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 147,
+			"MSGID": 109,
+			"JPN": "かしこまって伝えたあと、$[悪戯顔$/いたづらがお$]でつけくわえる。",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2682",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 148,
+			"MSGID": 110,
+			"VOICEID": 25075,
+			"NameJPN": "裏葉",
+			"JPN": "「$[撤饌$/てっせん$]の干鯛が手に入りましたので、あとで$[炙$/あぶ$]っていただきましょう」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2702",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 149,
+			"MSGID": 111,
+			"VOICEID": 25077,
+			"NameJPN": "裏葉",
+			"JPN": "「$[鮑$/あわび$]もございますよ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2744",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 150,
+			"MSGID": 112,
+			"VOICEID": 25081,
+			"NameJPN": "裏葉",
+			"JPN": "「近々、新しき$[守護方$/しゅごかた$]が着任するそうでございますよ」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x27a8",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 151,
+			"MSGID": 113,
+			"VOICEID": 25083,
+			"NameJPN": "裏葉",
+			"JPN": "「まっこと、神奈さまが御大切にされている$[証左$/しょうさ$]でございましょう」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2816",
+			"Type": "MESSAGE",
+			"SUBCMD": 3,
+			"SUBCMD2": 152,
+			"MSGID": 114,
+			"VOICEID": 25094,
+			"NameJPN": "裏葉",
+			"JPN": "「いつか、神奈さまがここからお$[発$/た$]ちになる時には…」",
+			"NameENG": "",
+			"ENG": "",
+			"Args": "0b0a000000"
+		},
+		{
+			"LABEL": "0x2872",
+			"Type": "END",
+			"SUBCMD": 0
+		}
+	]
+}
