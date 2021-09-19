@@ -5183,7 +5183,7 @@
 			"NameJPN": "子供",
 			"JPN": "「わーい」",
 			"NameENG": "Kid",
-			"ENG": "Kid: \"Whee!\"",
+			"ENG": "\"Whee!\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -17283,7 +17283,7 @@
 			"NameJPN": "子供",
 			"JPN": "「………」",
 			"NameENG": "Kid",
-			"ENG": "Kid: \"..........\"",
+			"ENG": "\"..........\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -17296,7 +17296,7 @@
 			"NameJPN": "子供",
 			"JPN": "「うわぁあああ～んっ！」",
 			"NameENG": "Kid",
-			"ENG": "Kid: \"Wwaaaaahhh!\"",
+			"ENG": "\"Wwaaaaahhh!\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -17574,7 +17574,7 @@
 				"Writhe in pain",
 				"Transfer the pain back to the girl"
 			],
-			"LongBar": false,
+			"LongBar": true,
 			"Args2": "000200"
 		},
 		{
@@ -17761,7 +17761,7 @@
 			"NameJPN": "子供",
 			"JPN": "「ぐす…」",
 			"NameENG": "Kid",
-			"ENG": "Kid:  \"Sniff...\"",
+			"ENG": "\"Sniff...\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -17838,7 +17838,7 @@
 			"NameJPN": "子供",
 			"JPN": "「うん」",
 			"NameENG": "Kid",
-			"ENG": "Kid: \"Okay.\"",
+			"ENG": "\"Okay.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -18690,7 +18690,7 @@
 			"NameJPN": "子供",
 			"JPN": "「ぐす…」",
 			"NameENG": "Kid",
-			"ENG": "Kid:  \"Sniff...\"",
+			"ENG": "\"Sniff...\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -18767,7 +18767,7 @@
 			"NameJPN": "子供",
 			"JPN": "「うん」",
 			"NameENG": "Kid",
-			"ENG": "Kid: \"Okay.\"",
+			"ENG": "\"Okay.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -29858,7 +29858,7 @@
 			"NameJPN": "テレビ",
 			"JPN": "『なんでやねん！』",
 			"NameENG": "TV",
-			"ENG": "TV: \"What the hell?!\"",
+			"ENG": "\"What the hell?!\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -35482,9 +35482,9 @@
 			"SUBCMD2": 2242,
 			"MSGID": 1452,
 			"VOICEID": 1076,
-			"NameJPN": "往人・観鈴の母",
+			"NameJPN": "Yukito/Mom",
 			"JPN": "「なるかっ！」$d$w「ならせるかっ！」",
-			"NameENG": "Yukito・Misuzu's mom",
+			"NameENG": "Yukito",
 			"ENG": "\"No way!\"$d$w\"Fat chance!\"",
 			"Args": "0b0a000000"
 		},

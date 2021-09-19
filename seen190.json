@@ -11079,7 +11079,7 @@
 			"SUBCMD2": 696,
 			"MSGID": 456,
 			"JPN": "動け、動け、と心の中で必死に念じる。",
-			"ENG": "Move, move!, I willed it.",
+			"ENG": "\"Move, move!\", I willed it.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -27019,7 +27019,7 @@
 			"NameJPN": "往人",
 			"JPN": "「あ、ああ…気にするな」",
 			"NameENG": "Yukito",
-			"ENG": "\"Y-Yeah ... Don't worry about it.\"",
+			"ENG": "\"Y-Yeah... Don't worry about it.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -31789,7 +31789,7 @@
 				"Show them my puppet act",
 				"Don't show them my puppet act"
 			],
-			"LongBar": false,
+			"LongBar": true,
 			"Args2": "000200"
 		},
 		{

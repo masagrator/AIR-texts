@@ -635,7 +635,7 @@
 			"NameJPN": "観鈴",
 			"JPN": "「往人さんって、けっこう筋肉あるね」",
 			"NameENG": "Misuzu",
-			"ENG": "\"\"You're pretty muscular.\"",
+			"ENG": "\"You're pretty muscular.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1914,7 +1914,7 @@
 			"ENG": [
 				"I'm fine with the wet shirt",
 				"Find me another T-shirt",
-				"Take on the dare with the stegosaurus T-shirt"
+				"$S030Take on the dare with the stegosaurus T-shirt"
 			],
 			"LongBar": true,
 			"Args2": "000300"
@@ -38890,7 +38890,7 @@
 			"SUBCMD2": 3376,
 			"MSGID": 1702,
 			"JPN": "『宿題がんばってます』",
-			"ENG": "Doing my homework",
+			"ENG": "'Doing my homework'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -44237,7 +44237,7 @@
 			"NameJPN": "晴子",
 			"JPN": "「せやな」",
 			"NameENG": "Haruko",
-			"ENG": "\"That’s right.\"",
+			"ENG": "\"That's right.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -44841,7 +44841,7 @@
 			"NameJPN": "晴子",
 			"JPN": "「せやな」",
 			"NameENG": "Haruko",
-			"ENG": "\"That’s right.\"",
+			"ENG": "\"That's right.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -44945,7 +44945,7 @@
 			"SUBCMD2": 3896,
 			"MSGID": 1963,
 			"JPN": "かと言って、まだ家に戻るわけにもいかない。",
-			"ENG": "That being said, I didn’t want to go home just yet.",
+			"ENG": "That being said, I didn't want to go home just yet.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -46669,7 +46669,7 @@
 			"NameJPN": "晴子",
 			"JPN": "「せやな」",
 			"NameENG": "Haruko",
-			"ENG": "\"That’s right.\"",
+			"ENG": "\"That's right.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -48884,7 +48884,7 @@
 			"NameJPN": "観鈴",
 			"JPN": "「隠れん坊しよ」",
 			"NameENG": "Misuzu",
-			"ENG": "\"Let’s play hide and seek.\"",
+			"ENG": "\"Let's play hide and seek.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -53867,7 +53867,7 @@
 			"NameJPN": "観鈴",
 			"JPN": "「あ、花火してるよ」",
 			"NameENG": "Misuzu",
-			"ENG": "\"Ah, they’re playing with fireworks.\"",
+			"ENG": "\"Ah, they're playing with fireworks.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -53934,7 +53934,7 @@
 			"NameJPN": "観鈴",
 			"JPN": "「ううん、いい。家族で楽しそうだし」",
 			"NameENG": "Misuzu",
-			"ENG": "\"No, it’s okay. It looks like a family event for them.\"",
+			"ENG": "\"No, it's okay. It looks like a family event for them.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -54461,7 +54461,7 @@
 			"NameJPN": "往人",
 			"JPN": "「そっか。そらよかったな」",
 			"NameENG": "Yukito",
-			"ENG": "\"I see. That’s really good to hear.\"",
+			"ENG": "\"I see. That's really good to hear.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -55098,7 +55098,7 @@
 			"NameJPN": "往人",
 			"JPN": "「夏休みはまだまだあるからさ…」",
 			"NameENG": "Yukito",
-			"ENG": "\"There’s still lots of time left in your summer break...\"",
+			"ENG": "\"There's still lots of time left in your summer break...\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -55476,7 +55476,7 @@
 			"NameJPN": "観鈴",
 			"JPN": "「うまく言えないけど、わかるの」",
 			"NameENG": "Misuzu",
-			"ENG": "\"I don’t know how to explain this, but I know it's like that.\"",
+			"ENG": "\"I don't know how to explain this, but I know it's like that.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -55502,7 +55502,7 @@
 			"NameJPN": "観鈴",
 			"JPN": "「ううん、空は変わらない。いつもと同じ」",
 			"NameENG": "Misuzu",
-			"ENG": "\"No, the sky doesn't change. It’s always the same.\"",
+			"ENG": "\"No, the sky doesn't change. It's always the same.\"",
 			"Args": "0b0a000000"
 		},
 		{

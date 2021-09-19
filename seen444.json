@@ -146,7 +146,7 @@
 			"SUBCMD2": 18,
 			"MSGID": 0,
 			"JPN": "翌朝。",
-			"ENG": "",
+			"ENG": "The next morning...",
 			"Args": "0b0a000000"
 		},
 		{
@@ -156,7 +156,7 @@
 			"SUBCMD2": 19,
 			"MSGID": 1,
 			"JPN": "いつもの登校風景の中に俺たちはいた。",
-			"ENG": "",
+			"ENG": "We took the same old path to school.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -166,7 +166,7 @@
 			"SUBCMD2": 20,
 			"MSGID": 2,
 			"JPN": "けど、それも今日が最後となる。",
-			"ENG": "",
+			"ENG": "But this would be the last time.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -178,8 +178,8 @@
 			"VOICEID": 18278,
 			"NameJPN": "往人",
 			"JPN": "「な、観鈴」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Hey, Misuzu.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -191,8 +191,8 @@
 			"VOICEID": 18279,
 			"NameJPN": "往人",
 			"JPN": "「そろそろ家を出ようと思うんだ」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"I think it's about time I move out of your house.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -202,7 +202,7 @@
 			"SUBCMD2": 24,
 			"MSGID": 5,
 			"JPN": "俺は切り出した。",
-			"ENG": "",
+			"ENG": "I broached the subject to her.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -255,8 +255,8 @@
 			"VOICEID": 18280,
 			"NameJPN": "観鈴",
 			"JPN": "「え…？」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Huh...?\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -268,8 +268,8 @@
 			"VOICEID": 18281,
 			"NameJPN": "観鈴",
 			"JPN": "「町、出るの？」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Are you leaving this town?\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -281,8 +281,8 @@
 			"VOICEID": 18282,
 			"NameJPN": "往人",
 			"JPN": "「ああ」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Yeah.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -294,8 +294,8 @@
 			"VOICEID": 18283,
 			"NameJPN": "往人",
 			"JPN": "「そもそも、長居し過ぎだ。一カ所に腰を落ち着かせるのは好きじゃないんだ」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"I've stayed for too long. I don't like settling in one place.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -348,8 +348,8 @@
 			"VOICEID": 18284,
 			"NameJPN": "観鈴",
 			"JPN": "「それは慣れてないからだと思うな。ずっといたらわかるよ。ここ、すごくいい町」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"You're just not used to this place yet. You'll know this is a good town if you stay long enough.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -361,8 +361,8 @@
 			"VOICEID": 18285,
 			"NameJPN": "往人",
 			"JPN": "「ああ。おまえみたいな呑気な奴にはぴったりの町だな」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Yeah. Perfect for people like you who take things easy.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -415,8 +415,8 @@
 			"VOICEID": 18286,
 			"NameJPN": "観鈴",
 			"JPN": "「往人さんには物足りない？」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"This town's not good enough for you?\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -428,8 +428,8 @@
 			"VOICEID": 18287,
 			"NameJPN": "往人",
 			"JPN": "「そうだな」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Maybe.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -441,8 +441,8 @@
 			"VOICEID": 18288,
 			"NameJPN": "観鈴",
 			"JPN": "「往人さん、いろんなところ旅してきて、いろんなこと経験してきてるんだろうし…物足りないかぁ」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"I guess you've traveled to lots of places and seen many things... So it's not good enough for you.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -495,8 +495,8 @@
 			"VOICEID": 18289,
 			"NameJPN": "観鈴",
 			"JPN": "「うーん…」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Hmmm...\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -508,8 +508,8 @@
 			"VOICEID": 18290,
 			"NameJPN": "観鈴",
 			"JPN": "「ご飯とかだいじょうぶかな」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Will you have enough to eat?\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -521,8 +521,8 @@
 			"VOICEID": 18291,
 			"NameJPN": "往人",
 			"JPN": "「大丈夫だ」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Don't worry.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -534,8 +534,8 @@
 			"VOICEID": 18292,
 			"NameJPN": "往人",
 			"JPN": "「この町でなかったら、ちゃんと稼ぐ自信はある」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"I have confidence in earning my keep as long as it's not this town.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -547,8 +547,8 @@
 			"VOICEID": 18293,
 			"NameJPN": "観鈴",
 			"JPN": "「そんなにこの町、合わなかったのかな…」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Is this town so bad?\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -560,8 +560,8 @@
 			"VOICEID": 18294,
 			"NameJPN": "往人",
 			"JPN": "「いや、楽しいこともいろいろとあったよ」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"No, I had lots of fun.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -614,8 +614,8 @@
 			"VOICEID": 18295,
 			"NameJPN": "観鈴",
 			"JPN": "「ほんと？」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Really?\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -627,8 +627,8 @@
 			"VOICEID": 18296,
 			"NameJPN": "往人",
 			"JPN": "「ああ。でもな、楽しいだけではダメなんだ」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Yeah. But life can't be all fun and games.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -640,8 +640,8 @@
 			"VOICEID": 18297,
 			"NameJPN": "往人",
 			"JPN": "「ちゃんと稼げないとな」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"I've still got to make a living.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -694,8 +694,8 @@
 			"VOICEID": 18298,
 			"NameJPN": "観鈴",
 			"JPN": "「そ…」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"I see...\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -707,8 +707,8 @@
 			"VOICEID": 18299,
 			"NameJPN": "往人",
 			"JPN": "「それに、俺には別の目的もあるしな」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Besides, I have a goal.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -720,8 +720,8 @@
 			"VOICEID": 18300,
 			"NameJPN": "往人",
 			"JPN": "「一カ所に留まっていたら、意味がないんだ」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"It'd be pointless if I stayed at one place.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -733,8 +733,8 @@
 			"VOICEID": 18301,
 			"NameJPN": "観鈴",
 			"JPN": "「じゃ…仕方ないね」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Well... I guess there's no other choice.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -744,7 +744,7 @@
 			"SUBCMD2": 67,
 			"MSGID": 28,
 			"JPN": "ようやく納得したようだった。",
-			"ENG": "",
+			"ENG": "She finally gave in to me.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -797,8 +797,8 @@
 			"VOICEID": 18302,
 			"NameJPN": "観鈴",
 			"JPN": "「次の町についたら場所、教えてね」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Tell me where you're staying when you get to the next town.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -810,8 +810,8 @@
 			"VOICEID": 18303,
 			"NameJPN": "観鈴",
 			"JPN": "「わたし、遊びにいく」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"I'll come and visit you.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -823,8 +823,8 @@
 			"VOICEID": 18304,
 			"NameJPN": "観鈴",
 			"JPN": "「トランプとか、ぬいぐるみとか持って、遊びにいく」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"I'll bring cards and stuffed animals to play with.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -877,8 +877,8 @@
 			"VOICEID": 18305,
 			"NameJPN": "観鈴",
 			"JPN": "「その家のひと、わたしのことも気に入ってくれるといいな」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"I hope the family you're staying with will like me.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -890,8 +890,8 @@
 			"VOICEID": 18306,
 			"NameJPN": "観鈴",
 			"JPN": "「にはは」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Nihaha.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -903,8 +903,8 @@
 			"VOICEID": 18307,
 			"NameJPN": "往人",
 			"JPN": "「そうだな」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Yeah.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -949,7 +949,7 @@
 			"SUBCMD2": 83,
 			"MSGID": 35,
 			"JPN": "もう人の家には下宿しない…",
-			"ENG": "",
+			"ENG": "I wouldn't be staying at someone's house anymore...",
 			"Args": "0b0a000000"
 		},
 		{
@@ -959,7 +959,7 @@
 			"SUBCMD2": 84,
 			"MSGID": 36,
 			"JPN": "そうしたいものだが。",
-			"ENG": "",
+			"ENG": "Even though I'd like to.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1063,7 +1063,7 @@
 			"SUBCMD2": 93,
 			"MSGID": 37,
 			"JPN": "そして、午後。",
-			"ENG": "",
+			"ENG": "And so that afternoon...",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1073,7 +1073,7 @@
 			"SUBCMD2": 94,
 			"MSGID": 38,
 			"JPN": "少ない手荷物を持って、俺はまたこの場所に立っていた。",
-			"ENG": "",
+			"ENG": "I was here once again, carrying the little baggage I had.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1083,7 +1083,7 @@
 			"SUBCMD2": 96,
 			"MSGID": 39,
 			"JPN": "見送るひともなく、旅の再開はひとりきりだった。",
-			"ENG": "",
+			"ENG": "There was no one to see me off. I was going on another journey.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1093,7 +1093,7 @@
 			"SUBCMD2": 97,
 			"MSGID": 40,
 			"JPN": "本当はいつもこうだったはずだ。",
-			"ENG": "",
+			"ENG": "But this should be the norm for me.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1103,7 +1103,7 @@
 			"SUBCMD2": 99,
 			"MSGID": 41,
 			"JPN": "…つんつん…",
-			"ENG": "",
+			"ENG": "*Poke poke...*",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1113,7 +1113,7 @@
 			"SUBCMD2": 100,
 			"MSGID": 42,
 			"JPN": "つんつん…",
-			"ENG": "",
+			"ENG": "*Poke poke...*",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1125,8 +1125,8 @@
 			"VOICEID": 18308,
 			"NameJPN": "往人",
 			"JPN": "「ん？」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Hmm?\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1183,7 +1183,7 @@
 			"SUBCMD2": 109,
 			"MSGID": 44,
 			"JPN": "すぐ隣に観鈴がいた。",
-			"ENG": "",
+			"ENG": "Misuzu was there beside me.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1195,8 +1195,8 @@
 			"VOICEID": 18309,
 			"NameJPN": "往人",
 			"JPN": "「おまえ、いつの間に…」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"When did you...\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1208,8 +1208,8 @@
 			"VOICEID": 18310,
 			"NameJPN": "観鈴",
 			"JPN": "「間に合ってよかった」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Glad I made it.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1221,8 +1221,8 @@
 			"VOICEID": 18311,
 			"NameJPN": "往人",
 			"JPN": "「どうした」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"What's up?\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1333,7 +1333,7 @@
 			"SUBCMD2": 122,
 			"MSGID": 48,
 			"JPN": "目覚める。",
-			"ENG": "",
+			"ENG": "I woke up.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1343,7 +1343,7 @@
 			"SUBCMD2": 123,
 			"MSGID": 49,
 			"JPN": "背中が痛い。",
-			"ENG": "",
+			"ENG": "My back hurt.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1353,7 +1353,7 @@
 			"SUBCMD2": 124,
 			"MSGID": 50,
 			"JPN": "少しの間、忘れていたような痛み。",
-			"ENG": "",
+			"ENG": "A pain that I had forgotten for some time.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1363,7 +1363,7 @@
 			"SUBCMD2": 125,
 			"MSGID": 51,
 			"JPN": "上体を起こし、ベンチに座り直す。",
-			"ENG": "",
+			"ENG": "I sat up.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1373,7 +1373,7 @@
 			"SUBCMD2": 126,
 			"MSGID": 52,
 			"JPN": "早朝だというのに、もうこの暑さ…",
-			"ENG": "",
+			"ENG": "It was already this hot despite the fact that it was still morning...",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1383,7 +1383,7 @@
 			"SUBCMD2": 128,
 			"MSGID": 53,
 			"JPN": "この町にきて、何日目になるだろうか。",
-			"ENG": "",
+			"ENG": "How many days had it been since I came to this town?",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1393,7 +1393,7 @@
 			"SUBCMD2": 129,
 			"MSGID": 54,
 			"JPN": "路銀が底を尽き、途中下車した町。",
-			"ENG": "",
+			"ENG": "I had gotten off the bus here because I ran out of cash.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1403,7 +1403,7 @@
 			"SUBCMD2": 131,
 			"MSGID": 55,
 			"JPN": "けど、いつだって、出られたはずだった。",
-			"ENG": "",
+			"ENG": "However, I should have been able to leave any time I wanted.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1413,7 +1413,7 @@
 			"SUBCMD2": 132,
 			"MSGID": 56,
 			"JPN": "俺には翼はなかったけど、太い二本の足ならある。",
-			"ENG": "",
+			"ENG": "I did not have wings, but I still had two strong legs.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1423,7 +1423,7 @@
 			"SUBCMD2": 133,
 			"MSGID": 57,
 			"JPN": "歩いていけばいい。",
-			"ENG": "",
+			"ENG": "I just needed to walk.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1433,7 +1433,7 @@
 			"SUBCMD2": 134,
 			"MSGID": 58,
 			"JPN": "何日かかろうとも、構わない。",
-			"ENG": "",
+			"ENG": "It didn't matter how long I took.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1443,7 +1443,7 @@
 			"SUBCMD2": 135,
 			"MSGID": 59,
 			"JPN": "ゴールは、まだまだ見えず、ラストスパートにも早すぎる。",
-			"ENG": "",
+			"ENG": "The goal was not within sight yet. There was no need for a final spurt.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1453,7 +1453,7 @@
 			"SUBCMD2": 136,
 			"MSGID": 60,
 			"JPN": "ゆっくりゆけばよかった。",
-			"ENG": "",
+			"ENG": "I just had to leave at my own pace.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1465,8 +1465,8 @@
 			"VOICEID": 18312,
 			"NameJPN": "往人",
 			"JPN": "（なにを意固地になっていたんだろうな…）",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "(What was I so hung up about?)",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1476,7 +1476,7 @@
 			"SUBCMD2": 139,
 			"MSGID": 62,
 			"JPN": "手の中の人形に目を落とす。",
-			"ENG": "",
+			"ENG": "I looked down at the puppet in my hand.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1488,8 +1488,8 @@
 			"VOICEID": 18313,
 			"NameJPN": "往人",
 			"JPN": "（自分の力を証明したかっただけか…）",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "(Did I just want to prove my power?)",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1499,7 +1499,7 @@
 			"SUBCMD2": 141,
 			"MSGID": 64,
 			"JPN": "それを後ろのポケットに仕舞う。",
-			"ENG": "",
+			"ENG": "I kept my puppet in my back pocket.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1509,7 +1509,7 @@
 			"SUBCMD2": 143,
 			"MSGID": 65,
 			"JPN": "きっと、違う町ならば、これまで通りに稼ぐことができるだろう。",
-			"ENG": "",
+			"ENG": "I would have made some cash a long time ago if I had gone to a different town.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1519,7 +1519,7 @@
 			"SUBCMD2": 144,
 			"MSGID": 66,
 			"JPN": "この町との相性が悪かっただけだ。",
-			"ENG": "",
+			"ENG": "This town just hated me - that was all.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1531,8 +1531,8 @@
 			"VOICEID": 18314,
 			"NameJPN": "往人",
 			"JPN": "（けど、ただ…）",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "(But there was something else...)",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1636,7 +1636,7 @@
 			"SUBCMD2": 153,
 			"MSGID": 68,
 			"JPN": "俺は空を見上げる。",
-			"ENG": "",
+			"ENG": "I gazed at the sky.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1648,8 +1648,8 @@
 			"VOICEID": 18315,
 			"NameJPN": "往人",
 			"JPN": "（こんなにも、空が広く近く見えるから、俺は…）",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "(Because the sky here looks so vast and so close to the ground. That's why...)",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1659,7 +1659,7 @@
 			"SUBCMD2": 155,
 			"MSGID": 70,
 			"JPN": "…つんつん…",
-			"ENG": "",
+			"ENG": "*Poke poke...*",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1669,7 +1669,7 @@
 			"SUBCMD2": 156,
 			"MSGID": 71,
 			"JPN": "つんつん…",
-			"ENG": "",
+			"ENG": "*poke poke...*",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1681,8 +1681,8 @@
 			"VOICEID": 18316,
 			"NameJPN": "往人",
 			"JPN": "「ん？」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Hmm?\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1828,8 +1828,8 @@
 			"VOICEID": 18317,
 			"NameJPN": "観鈴",
 			"JPN": "「おはよー」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Good morning.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1840,8 +1840,8 @@
 			"MSGID": 74,
 			"NameJPN": "往人",
 			"JPN": "「………」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\".........\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1894,8 +1894,8 @@
 			"VOICEID": 18318,
 			"NameJPN": "観鈴",
 			"JPN": "「わたし。観鈴」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"It's me, Misuzu.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1907,8 +1907,8 @@
 			"VOICEID": 18319,
 			"NameJPN": "往人",
 			"JPN": "「ああ、そうだな…おまえだな」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Oh, I see... It's you.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1920,8 +1920,8 @@
 			"VOICEID": 18320,
 			"NameJPN": "往人",
 			"JPN": "「こんなところまで、どうした」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Why are you here?\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1933,8 +1933,8 @@
 			"VOICEID": 18321,
 			"NameJPN": "観鈴",
 			"JPN": "「ううん、まだいるのかなって」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Well, I'm just checking if you're still around.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1946,8 +1946,8 @@
 			"VOICEID": 18322,
 			"NameJPN": "観鈴",
 			"JPN": "「これ、渡したかったから」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"I wanted to give it to you.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1957,7 +1957,7 @@
 			"SUBCMD2": 181,
 			"MSGID": 80,
 			"JPN": "言って、大きなアルミの包みを俺に手渡す。",
-			"ENG": "",
+			"ENG": "She said and handed me package wrapped in aluminium.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -1967,7 +1967,7 @@
 			"SUBCMD2": 182,
 			"MSGID": 81,
 			"JPN": "…重い。",
-			"ENG": "",
+			"ENG": "It's heavy...",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2020,8 +2020,8 @@
 			"VOICEID": 18323,
 			"NameJPN": "観鈴",
 			"JPN": "「それ、おにぎり。出会ったとき、往人さん食べてたの」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"That's a rice ball. You ate one when we first met.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2033,8 +2033,8 @@
 			"VOICEID": 18324,
 			"NameJPN": "往人",
 			"JPN": "「あれよりさらにでかくないか…？」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"This looks larger than the last one.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2087,8 +2087,8 @@
 			"VOICEID": 18325,
 			"NameJPN": "観鈴",
 			"JPN": "「うん、がんばって転がした」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Yup, I tried to roll the biggest I could.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2100,8 +2100,8 @@
 			"VOICEID": 18326,
 			"NameJPN": "往人",
 			"JPN": "「転がす？」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Roll?\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2154,8 +2154,8 @@
 			"VOICEID": 18327,
 			"NameJPN": "観鈴",
 			"JPN": "「ううん、握ったよ。ちゃんと両手でぎゅっぎゅって握った」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Nope, I kneaded it. I used both hands.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2166,8 +2166,8 @@
 			"MSGID": 87,
 			"NameJPN": "往人",
 			"JPN": "「………」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\".........\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2177,7 +2177,7 @@
 			"SUBCMD2": 201,
 			"MSGID": 88,
 			"JPN": "絶対に握れない大きさだ。ごろごろ転がしたのだろう。",
-			"ENG": "",
+			"ENG": "It looked too big to be just kneaded. She must have rolled it like a snowball.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2228,7 +2228,7 @@
 			"SUBCMD2": 206,
 			"MSGID": 89,
 			"JPN": "別にどっちだっていい。",
-			"ENG": "",
+			"ENG": "Not that it mattered.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2240,8 +2240,8 @@
 			"VOICEID": 18328,
 			"NameJPN": "往人",
 			"JPN": "「サンキュ」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Thanks.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2251,7 +2251,7 @@
 			"SUBCMD2": 208,
 			"MSGID": 91,
 			"JPN": "礼だけを言っておいた。",
-			"ENG": "",
+			"ENG": "I offered her my gratitude.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2304,8 +2304,8 @@
 			"VOICEID": 18329,
 			"NameJPN": "観鈴",
 			"JPN": "「もういく？」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"You're leaving already?\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2317,8 +2317,8 @@
 			"VOICEID": 18330,
 			"NameJPN": "往人",
 			"JPN": "「そうだな。今、出ようとしていたところだ」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Right. I was just about to leave.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2330,8 +2330,8 @@
 			"VOICEID": 18331,
 			"NameJPN": "観鈴",
 			"JPN": "「次のバスで？」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Are you taking the next bus?\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2343,8 +2343,8 @@
 			"VOICEID": 18332,
 			"NameJPN": "往人",
 			"JPN": "「いや…歩いていくことにした」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"No... I'm going to walk.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2356,8 +2356,8 @@
 			"VOICEID": 18333,
 			"NameJPN": "往人",
 			"JPN": "「そうしてりゃよかったんだよな。最初から…」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"I should have done so, right from the start...\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2369,8 +2369,8 @@
 			"VOICEID": 18334,
 			"NameJPN": "観鈴",
 			"JPN": "「そ…」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"I see...\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2415,7 +2415,7 @@
 			"SUBCMD2": 225,
 			"MSGID": 98,
 			"JPN": "観鈴が、道のずっと先を見る。",
-			"ENG": "",
+			"ENG": "Misuzu looked at the road far in the distance.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2427,8 +2427,8 @@
 			"VOICEID": 18335,
 			"NameJPN": "観鈴",
 			"JPN": "「まだまだ続いてゆくんだよね、往人さんの旅は」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Your journey has only just started.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2440,8 +2440,8 @@
 			"VOICEID": 18336,
 			"NameJPN": "往人",
 			"JPN": "「ああ」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Yeah.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2453,8 +2453,8 @@
 			"VOICEID": 18337,
 			"NameJPN": "観鈴",
 			"JPN": "「長い道のりだね」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"It's going to be a long road.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2466,8 +2466,8 @@
 			"VOICEID": 18338,
 			"NameJPN": "往人",
 			"JPN": "「これまでもそうだったしな…そんなの気にしてもない」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"It's always been like that for me, so I don't really care.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2533,8 +2533,8 @@
 			"VOICEID": 18339,
 			"NameJPN": "観鈴",
 			"JPN": "「また…次の町についたら、教えてね」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Let me know when you reach the next town.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2546,8 +2546,8 @@
 			"VOICEID": 18340,
 			"NameJPN": "往人",
 			"JPN": "「いや…連絡する手段もないだろうし、それはやめておく」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Nope... I don't think I can find a way to contact you, so I'd rather not.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2600,8 +2600,8 @@
 			"VOICEID": 18341,
 			"NameJPN": "観鈴",
 			"JPN": "「え…」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Eh...\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2613,8 +2613,8 @@
 			"VOICEID": 18342,
 			"NameJPN": "往人",
 			"JPN": "「その代わり、また寄るよ、この町に」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"But I'll come visit this town again.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2626,8 +2626,8 @@
 			"VOICEID": 18343,
 			"NameJPN": "往人",
 			"JPN": "「何年後か、ずっと先の夏休みに」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Maybe during a summer vacation a few years later.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2639,8 +2639,8 @@
 			"VOICEID": 18344,
 			"NameJPN": "観鈴",
 			"JPN": "「ほんと？」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Really?\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2652,8 +2652,8 @@
 			"VOICEID": 18345,
 			"NameJPN": "往人",
 			"JPN": "「ああ」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Yeah.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2706,8 +2706,8 @@
 			"VOICEID": 18346,
 			"NameJPN": "観鈴",
 			"JPN": "「じゃ、そのときは…補習受けてないようにがんばる」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"In that case... I'll try not to have remedial classes then.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2760,8 +2760,8 @@
 			"VOICEID": 18347,
 			"NameJPN": "観鈴",
 			"JPN": "「だから、もっともっと遊べる」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"We'll have more time to play together.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2773,8 +2773,8 @@
 			"VOICEID": 18348,
 			"NameJPN": "往人",
 			"JPN": "「そっか。期待してるよ」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"All right. I'll be looking forward to that.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2834,8 +2834,8 @@
 			"VOICEID": 18349,
 			"NameJPN": "観鈴",
 			"JPN": "「また…この町にくることあるかな」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Will you still come back to this town?\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2847,8 +2847,8 @@
 			"VOICEID": 18350,
 			"NameJPN": "往人",
 			"JPN": "「どうだろうな…」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"I wonder about that...\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2901,8 +2901,8 @@
 			"VOICEID": 18351,
 			"NameJPN": "観鈴",
 			"JPN": "「そのときはまた、家に寄ってほしいな」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"If you do, drop by our house again.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2955,8 +2955,8 @@
 			"VOICEID": 18352,
 			"NameJPN": "観鈴",
 			"JPN": "「そのときは…補習受けてないようにがんばるから。もっともっと遊べる」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"In that case... I'll try not to have summer school then. We'll have more time to play together.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2968,8 +2968,8 @@
 			"VOICEID": 18353,
 			"NameJPN": "往人",
 			"JPN": "「そっか。なら期待して、また寄るよ」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"All right. I'll be looking forward to that.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2981,8 +2981,8 @@
 			"VOICEID": 18354,
 			"NameJPN": "往人",
 			"JPN": "「何年後か、ずっと先の夏休みに」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Maybe during a summer vacation a few years later.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3035,8 +3035,8 @@
 			"VOICEID": 18355,
 			"NameJPN": "観鈴",
 			"JPN": "「うん」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Okay.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3048,8 +3048,8 @@
 			"VOICEID": 18356,
 			"NameJPN": "往人",
 			"JPN": "「じゃ、いくな」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"I'm going.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3102,8 +3102,8 @@
 			"VOICEID": 18357,
 			"NameJPN": "観鈴",
 			"JPN": "「うん」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Okay.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3114,8 +3114,8 @@
 			"MSGID": 122,
 			"NameJPN": "往人",
 			"JPN": "「………」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\".........\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3127,8 +3127,8 @@
 			"VOICEID": 18358,
 			"NameJPN": "往人",
 			"JPN": "「おまえ…ちゃんと宿題しろよ」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Remember to do your homework.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3140,8 +3140,8 @@
 			"VOICEID": 18359,
 			"NameJPN": "観鈴",
 			"JPN": "「うん、するよ」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Okay, I will.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3153,8 +3153,8 @@
 			"VOICEID": 18360,
 			"NameJPN": "往人",
 			"JPN": "「ちゃんと、遅刻しないように学校いけよ」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Don't be late for school.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3207,8 +3207,8 @@
 			"VOICEID": 18361,
 			"NameJPN": "観鈴",
 			"JPN": "「うん、がんばる」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Okay, I'll try.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3261,8 +3261,8 @@
 			"VOICEID": 18362,
 			"NameJPN": "観鈴",
 			"JPN": "「往人さんは、ちゃんとお風呂入ってね」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Yukito-san, remember to take your bath.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3274,8 +3274,8 @@
 			"VOICEID": 18363,
 			"NameJPN": "往人",
 			"JPN": "「ああ、チャンスがあれば逃がさないようにしよう」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Okay, I'll take a bath whenever I get the chance.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3287,8 +3287,8 @@
 			"VOICEID": 18364,
 			"NameJPN": "観鈴",
 			"JPN": "「ちゃんと、お洗濯もしてね」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Make sure to wash your clothes.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3300,8 +3300,8 @@
 			"VOICEID": 18365,
 			"NameJPN": "往人",
 			"JPN": "「ああ、前向きに考えてみる」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Yeah, I'll try to be positive.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3312,8 +3312,8 @@
 			"MSGID": 131,
 			"NameJPN": "観鈴",
 			"JPN": "「………」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\".........\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3323,7 +3323,7 @@
 			"SUBCMD2": 316,
 			"MSGID": 132,
 			"JPN": "もう話すこともなかった。",
-			"ENG": "",
+			"ENG": "We didn't have anything more to say.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3368,7 +3368,7 @@
 			"SUBCMD2": 320,
 			"MSGID": 133,
 			"JPN": "ふたり黙りこくる。",
-			"ENG": "",
+			"ENG": "Both of us fell silent.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3378,7 +3378,7 @@
 			"SUBCMD2": 321,
 			"MSGID": 134,
 			"JPN": "タイミングが掴めなかった。",
-			"ENG": "",
+			"ENG": "We couldn't find the right moment to speak.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3388,7 +3388,7 @@
 			"SUBCMD2": 322,
 			"MSGID": 135,
 			"JPN": "いつまでも、一歩が踏み出せないでいた。",
-			"ENG": "",
+			"ENG": "We always fell one step short.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3400,8 +3400,8 @@
 			"VOICEID": 18366,
 			"NameJPN": "観鈴",
 			"JPN": "「ね」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Hey...\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3413,8 +3413,8 @@
 			"VOICEID": 18367,
 			"NameJPN": "往人",
 			"JPN": "「あん？」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Huh?\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3467,8 +3467,8 @@
 			"VOICEID": 18368,
 			"NameJPN": "観鈴",
 			"JPN": "「よーい、どんっ、て言おうか」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Let's say 'ready, go.'\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3480,8 +3480,8 @@
 			"VOICEID": 18369,
 			"NameJPN": "往人",
 			"JPN": "「なんだよ、そりゃ」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"What's that supposed to be?\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3493,8 +3493,8 @@
 			"VOICEID": 18370,
 			"NameJPN": "観鈴",
 			"JPN": "「合図」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"A signal.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3506,8 +3506,8 @@
 			"VOICEID": 18371,
 			"NameJPN": "観鈴",
 			"JPN": "「よーい、どん、で、往人さんは次の町へ」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"When I say 'ready, go,' you go to the next town.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3519,8 +3519,8 @@
 			"VOICEID": 18372,
 			"NameJPN": "観鈴",
 			"JPN": "「わたしは、自分の家へ」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"And I'll go home.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3573,8 +3573,8 @@
 			"VOICEID": 18373,
 			"NameJPN": "観鈴",
 			"JPN": "「別々の方向へ歩き出すの」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"We'll walk off in different directions.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3585,8 +3585,8 @@
 			"MSGID": 144,
 			"NameJPN": "往人",
 			"JPN": "「………」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\".........\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3598,8 +3598,8 @@
 			"VOICEID": 18374,
 			"NameJPN": "往人",
 			"JPN": "「そうだな…そうするか」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Yeah... Let's do that.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3644,7 +3644,7 @@
 			"SUBCMD2": 345,
 			"MSGID": 146,
 			"JPN": "俺は風に乱れる髪の毛を押さえながら答えた。",
-			"ENG": "",
+			"ENG": "I pressed a hand against my hair, which was ruffled by the wind.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3698,8 +3698,8 @@
 			"VOICEID": 18375,
 			"NameJPN": "観鈴",
 			"JPN": "「じゃ、言うね」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"I'm going to say it now.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3709,7 +3709,7 @@
 			"SUBCMD2": 357,
 			"MSGID": 148,
 			"JPN": "俺たちは背中合わせになる。",
-			"ENG": "",
+			"ENG": "We stood back to back.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3721,8 +3721,8 @@
 			"VOICEID": 18376,
 			"NameJPN": "往人",
 			"JPN": "「ああ」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Yukito",
+			"ENG": "\"Yeah.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3734,8 +3734,8 @@
 			"VOICEID": 18377,
 			"NameJPN": "観鈴",
 			"JPN": "「よーい…」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Ready...\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3745,7 +3745,7 @@
 			"SUBCMD2": 363,
 			"MSGID": 151,
 			"JPN": "夏はまだまだ続いてゆく。",
-			"ENG": "",
+			"ENG": "The summer still continued.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3756,8 +3756,8 @@
 			"MSGID": 152,
 			"NameJPN": "観鈴",
 			"JPN": "「………」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\".........\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3775,8 +3775,8 @@
 			"VOICEID": 18378,
 			"NameJPN": "観鈴",
 			"JPN": "「どんっ」",
-			"NameENG": "",
-			"ENG": "",
+			"NameENG": "Misuzu",
+			"ENG": "\"Go.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -3786,7 +3786,7 @@
 			"SUBCMD2": 374,
 			"MSGID": 154,
 			"JPN": "そして、今も風の中に。",
-			"ENG": "",
+			"ENG": "She is still waiting in the air.",
 			"Args": "0b0a000000"
 		},
 		{
