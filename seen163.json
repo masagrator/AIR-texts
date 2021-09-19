@@ -37372,8 +37372,8 @@
 			"VOICEID": 1963,
 			"NameJPN": "男・女",
 			"JPN": "「なるかっ！」$d$w「ならせるかっ！」",
-			"NameENG": "男・女",
-			"ENG": "\"No way!\" \"Fat chance!\"",
+			"NameENG": "Man/Woman",
+			"ENG": "\"No way!\"$d$w\"Fat chance!\"",
 			"Args": "0b0a000000"
 		},
 		{

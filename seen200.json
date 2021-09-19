@@ -14264,7 +14264,7 @@
 			"NameJPN": "往人",
 			"JPN": "（お箸…）",
 			"NameENG": "Yukito",
-			"ENG": "(Chopsticks「hashi」...)",
+			"ENG": "($[Chopsticks$/hashi$]...)",
 			"Args": "0b0a000000"
 		},
 		{
@@ -14277,7 +14277,7 @@
 			"NameJPN": "往人",
 			"JPN": "（ここは、橋）",
 			"NameENG": "Yukito",
-			"ENG": "(This is the bridge「hashi」.)",
+			"ENG": "(This is the $[bridge$/hashi$].)",
 			"Args": "0b0a000000"
 		},
 		{
