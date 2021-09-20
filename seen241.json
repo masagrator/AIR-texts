@@ -2528,7 +2528,7 @@
 			"MSGID": 97,
 			"VOICEID": 8963,
 			"JPN": "『ね、往人さん…』",
-			"ENG": "Hey, Yukito-san...'",
+			"ENG": "'Hey, Yukito-san...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -2539,7 +2539,7 @@
 			"MSGID": 98,
 			"VOICEID": 8964,
 			"JPN": "『どうして、わたし…空のわたしはあんな悲しい思いをしているのかな』",
-			"ENG": "Why does my other self in the sky have to experience all that sadness?'",
+			"ENG": "'Why does my other self in the sky have to experience all that sadness?'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -4914,7 +4914,7 @@
 			"SUBCMD2": 393,
 			"MSGID": 169,
 			"JPN": "『小さい頃から、ずっとや』",
-			"ENG": "She's been like that since she was little.'",
+			"ENG": "'She's been like that since she was little.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -4924,7 +4924,7 @@
 			"SUBCMD2": 394,
 			"MSGID": 170,
 			"JPN": "『誰かと友達になれそうになったら、ああなるねん…』",
-			"ENG": "Whenever she was just about to become friends with someone, she'd break down crying...'",
+			"ENG": "'Whenever she was just about to become friends with someone, she'd break down crying...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -4934,7 +4934,7 @@
 			"SUBCMD2": 395,
 			"MSGID": 171,
 			"JPN": "『なんで治らへんのやろな』",
-			"ENG": "I wonder why she never grew out of it.'",
+			"ENG": "'I wonder why she never grew out of it.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -6310,7 +6310,7 @@
 			"MSGID": 215,
 			"VOICEID": 9022,
 			"JPN": "「この空の向こうには、翼を持った少女がいる」",
-			"ENG": "Up in the sky, there's a girl with wings.'",
+			"ENG": "'Up in the sky, there's a girl with wings.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -6321,7 +6321,7 @@
 			"MSGID": 216,
 			"VOICEID": 9023,
 			"JPN": "「それは、ずっと昔から」",
-			"ENG": "She has been there since long ago.'",
+			"ENG": "'She has been there since long ago.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -6332,7 +6332,7 @@
 			"MSGID": 217,
 			"VOICEID": 9024,
 			"JPN": "「そして、今、この時も」",
-			"ENG": "She is there, even now.'",
+			"ENG": "'She is there, even now.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -6343,7 +6343,7 @@
 			"MSGID": 218,
 			"VOICEID": 9025,
 			"JPN": "「同じ大気の中で、翼を広げて風を受け続けている…」",
-			"ENG": "In the same air, she continues to feel the wind with her widespread wings.'",
+			"ENG": "'In the same air, she continues to feel the wind with her widespread wings.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -6525,7 +6525,7 @@
 			"SUBCMD2": 520,
 			"MSGID": 228,
 			"JPN": "『そこで少女は、ずっと同じ夢を見続けている』",
-			"ENG": "Up there, the girl is having the same dream over and over again...'",
+			"ENG": "'Up there, the girl is having the same dream over and over again...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -6535,7 +6535,7 @@
 			"SUBCMD2": 521,
 			"MSGID": 229,
 			"JPN": "『何度生まれたとしても、決して幸せにはなれない』",
-			"ENG": "No matter how many times she is reborn, she will never find happiness.'",
+			"ENG": "'No matter how many times she is reborn, she will never find happiness.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -6545,7 +6545,7 @@
 			"SUBCMD2": 522,
 			"MSGID": 230,
 			"JPN": "『彼女はいつでもひとりきりで』",
-			"ENG": "The girl is always alone...'",
+			"ENG": "'The girl is always alone...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -6555,7 +6555,7 @@
 			"SUBCMD2": 523,
 			"MSGID": 231,
 			"JPN": "『そして、少女のままその生を終える』",
-			"ENG": "And she will die alone.'",
+			"ENG": "'And she will die alone.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -6565,7 +6565,7 @@
 			"SUBCMD2": 524,
 			"MSGID": 232,
 			"JPN": "『そんな夢…』",
-			"ENG": "That's what my dreams are like...'",
+			"ENG": "'That's what my dreams are like...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -11493,7 +11493,7 @@
 			"SUBCMD2": 933,
 			"MSGID": 419,
 			"JPN": "『そんな悲しい夢を、彼女は何度でも繰り返す』",
-			"ENG": "She keeps dreaming the same sad dream...'",
+			"ENG": "'She keeps dreaming the same sad dream...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -11534,7 +11534,7 @@
 			"MSGID": 423,
 			"VOICEID": 9128,
 			"JPN": "『どうして、わたし…空のわたしはあんな悲しい思いをしているのかな』",
-			"ENG": "Why does my other self in the sky have to experience all that sadness?'",
+			"ENG": "'Why does my other self in the sky have to experience all that sadness?'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -11584,7 +11584,7 @@
 			"SUBCMD2": 943,
 			"MSGID": 428,
 			"JPN": "『観鈴はいつもひとりきりで、大人になれずに消えていく…』",
-			"ENG": "Misuzu will fade away before she has the chance to grow up.'",
+			"ENG": "'Misuzu will fade away before she has the chance to grow up.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -13033,7 +13033,7 @@
 			"NameJPN": "観鈴",
 			"JPN": "「往人さんは…少し元気ない？」",
 			"NameENG": "Misuzu",
-			"ENG": "\"You don't look too happy/\"",
+			"ENG": "\"You don't look too happy.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -19937,7 +19937,7 @@
 			"SUBCMD2": 1608,
 			"MSGID": 730,
 			"JPN": "『あんたがそばにおったったら、それでええやろ』",
-			"ENG": "Doesn't matter when she has you.'",
+			"ENG": "'Doesn't matter when she has you.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25397,7 +25397,7 @@
 			"MSGID": 939,
 			"VOICEID": 11074,
 			"JPN": "『海に行きたい…』",
-			"ENG": "Wanted to go to the beach...'",
+			"ENG": "'Wanted to go to the beach...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25516,7 +25516,7 @@
 			"MSGID": 942,
 			"VOICEID": 11075,
 			"JPN": "『…海に行きたいって、その子は言ったの』",
-			"ENG": "That girl told me that she wanted to go to the beach.'",
+			"ENG": "'That girl told me that she wanted to go to the beach.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25527,7 +25527,7 @@
 			"MSGID": 943,
 			"VOICEID": 11076,
 			"JPN": "『でも、連れていってあげられなかった』",
-			"ENG": "But I wasn't able to take her there.\"",
+			"ENG": "'But I wasn't able to take her there.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25538,7 +25538,7 @@
 			"MSGID": 944,
 			"VOICEID": 11077,
 			"JPN": "『やりたいことがたくさんあったの』",
-			"ENG": "There were so many things that she wanted to do.'",
+			"ENG": "'There were so many things that she wanted to do.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25549,7 +25549,7 @@
 			"MSGID": 945,
 			"VOICEID": 11078,
 			"JPN": "『でもなにひとつ、してあげられなかった』",
-			"ENG": "But I couldn't do a single thing for her.'",
+			"ENG": "'But I couldn't do a single thing for her.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25560,7 +25560,7 @@
 			"MSGID": 946,
 			"VOICEID": 11079,
 			"JPN": "『夏はまだ、はじまったばかりなのに…』",
-			"ENG": "Summer had only just begun...'",
+			"ENG": "'Summer had only just begun...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25571,7 +25571,7 @@
 			"MSGID": 947,
 			"VOICEID": 11080,
 			"JPN": "『知っていたのに、わたしはなにもできなかった』",
-			"ENG": "I knew what was to come, but I couldn't do anything.'",
+			"ENG": "'I knew what was to come, but I couldn't do anything.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25582,7 +25582,7 @@
 			"MSGID": 948,
 			"VOICEID": 11081,
 			"JPN": "『誰よりもその子の側にいたのに、救えなかった…』",
-			"ENG": "I was the closest person to her, and yet I couldn't save her...'",
+			"ENG": "'I was the closest person to her, and yet I couldn't save her...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25603,7 +25603,7 @@
 			"MSGID": 950,
 			"VOICEID": 11082,
 			"JPN": "『女の子は、夢を見るの』",
-			"ENG": "The girl will have dreams.'",
+			"ENG": "'The girl will have dreams.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25614,7 +25614,7 @@
 			"MSGID": 951,
 			"VOICEID": 11083,
 			"JPN": "『最初は、空の夢』",
-			"ENG": "In the beginning, she will dream of the sky.'",
+			"ENG": "'In the beginning, she will dream of the sky.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25625,7 +25625,7 @@
 			"MSGID": 952,
 			"VOICEID": 11084,
 			"JPN": "『夢はだんだん、昔へと遡っていく』",
-			"ENG": "The dreams will start going back to the past.'",
+			"ENG": "'The dreams will start going back to the past.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25636,7 +25636,7 @@
 			"MSGID": 953,
 			"VOICEID": 11085,
 			"JPN": "『その夢が、女の子を蝕んでいくの』",
-			"ENG": "Those dreams will eat away at the girl.'",
+			"ENG": "'Those dreams will eat away at the girl.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25677,7 +25677,7 @@
 			"MSGID": 957,
 			"VOICEID": 11086,
 			"JPN": "『最初は、だんだん身体が動かなくなる』",
-			"ENG": "At first, she will lose her ability to walk.'",
+			"ENG": "'At first, she will lose her ability to walk.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25688,7 +25688,7 @@
 			"MSGID": 958,
 			"VOICEID": 11087,
 			"JPN": "『それから、あるはずのない痛みを感じるようになる』",
-			"ENG": "Next, she will experience phantom pain.'",
+			"ENG": "'Next, she will experience phantom pain.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25699,7 +25699,7 @@
 			"MSGID": 959,
 			"VOICEID": 11088,
 			"JPN": "『そして…』",
-			"ENG": "And then...'",
+			"ENG": "'And then...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25710,7 +25710,7 @@
 			"MSGID": 960,
 			"VOICEID": 11089,
 			"JPN": "『女の子は、全てを忘れていく』",
-			"ENG": "The girl will forget everything.'",
+			"ENG": "'The girl will forget everything.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25721,7 +25721,7 @@
 			"MSGID": 961,
 			"VOICEID": 11090,
 			"JPN": "『いちばん大切な人のことさえ、思い出せなくなる』",
-			"ENG": "She'll be unable to remember even the one dearest to her.'",
+			"ENG": "'She'll be unable to remember even the one dearest to her.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25732,7 +25732,7 @@
 			"MSGID": 962,
 			"VOICEID": 11091,
 			"JPN": "『そして、最後の夢を見終わった朝…』",
-			"ENG": "And on the morning after her final dream...'",
+			"ENG": "'And on the morning after her final dream...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25743,7 +25743,7 @@
 			"MSGID": 963,
 			"VOICEID": 11092,
 			"JPN": "『女の子は、死んでしまうの』",
-			"ENG": "The girl will die.'",
+			"ENG": "'The girl will die.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25774,7 +25774,7 @@
 			"MSGID": 966,
 			"VOICEID": 11093,
 			"JPN": "『友達が近づくだけで、その子は苦しがる』",
-			"ENG": "If a friend gets close to her, she'll endure great pain.'",
+			"ENG": "'If a friend gets close to her, she'll endure great pain.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25785,7 +25785,7 @@
 			"MSGID": 967,
 			"VOICEID": 11094,
 			"JPN": "『だからその子は、ずっとひとりぼっち』",
-			"ENG": "That's why the girl is always alone.'",
+			"ENG": "'That's why the girl is always alone.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25796,7 +25796,7 @@
 			"MSGID": 968,
 			"VOICEID": 11095,
 			"JPN": "『二人の心が近づけば、二人とも病んでしまう』",
-			"ENG": "The closer the two get, the sicker they'll become.'",
+			"ENG": "'The closer the two get, the sicker they'll become.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25807,7 +25807,7 @@
 			"MSGID": 969,
 			"VOICEID": 11096,
 			"JPN": "『二人とも助からない』",
-			"ENG": "Then neither of them can be saved.'",
+			"ENG": "'Then neither of them can be saved.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25818,7 +25818,7 @@
 			"MSGID": 970,
 			"VOICEID": 11097,
 			"JPN": "『だから、その子は言ってくれたの』",
-			"ENG": "And so that girl...'",
+			"ENG": "'And so that girl...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25829,7 +25829,7 @@
 			"MSGID": 971,
 			"VOICEID": 11098,
 			"JPN": "『わたしから離れて、って』",
-			"ENG": "...told me to leave her.\"'",
+			"ENG": "'...told me to leave her.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25840,7 +25840,7 @@
 			"MSGID": 972,
 			"VOICEID": 11099,
 			"JPN": "『やさしくて、とても強い子だったの』",
-			"ENG": "She was so strong and kind.'",
+			"ENG": "'She was so strong and kind.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25851,7 +25851,7 @@
 			"MSGID": 973,
 			"VOICEID": 11100,
 			"JPN": "『だから…』",
-			"ENG": "Because of that...\"",
+			"ENG": "'Because of that...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25944,7 +25944,7 @@
 			"MSGID": 974,
 			"VOICEID": 11101,
 			"JPN": "『往人。今度こそ、あなたが救ってほしいの』",
-			"ENG": "Yukito. I want you to save her this time.'",
+			"ENG": "'Yukito. I want you to save her this time.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -25955,7 +25955,7 @@
 			"MSGID": 975,
 			"VOICEID": 11102,
 			"JPN": "『その子を救えるのは、あなただけなのだから』",
-			"ENG": "You are the only one who can save her.'",
+			"ENG": "'You are the only one who can save her.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -26131,7 +26131,7 @@
 			"MSGID": 984,
 			"VOICEID": 11104,
 			"JPN": "『女の子は、夢を見るの』",
-			"ENG": "The girl will have dreams.'",
+			"ENG": "'The girl will have dreams.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -26142,7 +26142,7 @@
 			"MSGID": 985,
 			"VOICEID": 11105,
 			"JPN": "『最初は、空の夢』",
-			"ENG": "In the beginning, she will dream of the sky.'",
+			"ENG": "'In the beginning, she will dream of the sky.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -26153,7 +26153,7 @@
 			"MSGID": 986,
 			"VOICEID": 11106,
 			"JPN": "『夢はだんだん、昔へと遡っていく…』",
-			"ENG": "The dreams will start going back to the past.'",
+			"ENG": "'The dreams will start going back to the past.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -26233,7 +26233,7 @@
 			"MSGID": 993,
 			"VOICEID": 11108,
 			"JPN": "『その夢が、女の子を蝕んでいくの』",
-			"ENG": "Those dreams will eat away at the girl.'",
+			"ENG": "'Those dreams will eat away at the girl.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -26244,7 +26244,7 @@
 			"MSGID": 994,
 			"VOICEID": 11109,
 			"JPN": "『最初は、だんだん身体が動かなくなる…』",
-			"ENG": "At first, she will lose her ability to walk.'",
+			"ENG": "'At first, she will lose her ability to walk.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -26305,7 +26305,7 @@
 			"MSGID": 1000,
 			"VOICEID": 11110,
 			"JPN": "『それから、あるはずのない痛みを感じるようになる』",
-			"ENG": "Next, she will experience phantom pain.'",
+			"ENG": "'Next, she will experience phantom pain.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -26316,7 +26316,7 @@
 			"MSGID": 1001,
 			"VOICEID": 11111,
 			"JPN": "『そして…女の子は、全てを忘れていく』",
-			"ENG": "And then... The girl will forget everything.'",
+			"ENG": "'And then... The girl will forget everything.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -26327,7 +26327,7 @@
 			"MSGID": 1002,
 			"VOICEID": 11112,
 			"JPN": "『いちばん大切な人のことさえ、思い出せなくなる』",
-			"ENG": "She'll be unable to remember even the one dearest to her.'",
+			"ENG": "'She'll be unable to remember even the one dearest to her.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -26338,7 +26338,7 @@
 			"MSGID": 1003,
 			"VOICEID": 11113,
 			"JPN": "『そして、最後の夢を見終わった朝…』",
-			"ENG": "And on the morning after her final dream...'",
+			"ENG": "'And on the morning after her final dream...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -26349,7 +26349,7 @@
 			"MSGID": 1004,
 			"VOICEID": 11114,
 			"JPN": "『女の子は、死んでしまう』",
-			"ENG": "The girl will die.'",
+			"ENG": "'The girl will die.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -26495,7 +26495,7 @@
 			"MSGID": 1018,
 			"VOICEID": 11116,
 			"JPN": "『往人。今度こそ、あなたが救ってほしいの』",
-			"ENG": "Yukito. I want you to save her this time.'",
+			"ENG": "'Yukito. I want you to save her this time.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -26506,7 +26506,7 @@
 			"MSGID": 1019,
 			"VOICEID": 11117,
 			"JPN": "『その子を救えるのは、あなただけなのだから』",
-			"ENG": "You are the only one who can save her.'",
+			"ENG": "'You are the only one who can save her.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -26577,7 +26577,7 @@
 			"MSGID": 1026,
 			"VOICEID": 11118,
 			"JPN": "『…海に行きたいって、その子は言ったの』",
-			"ENG": "That girl told me that she wanted to go to the beach.'",
+			"ENG": "'That girl told me that she wanted to go to the beach.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -26588,7 +26588,7 @@
 			"MSGID": 1027,
 			"VOICEID": 11119,
 			"JPN": "『でも、連れていってあげられなかった』",
-			"ENG": "But I wasn't able to take her there.'",
+			"ENG": "'But I wasn't able to take her there.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -27090,7 +27090,7 @@
 			"MSGID": 1039,
 			"VOICEID": 11239,
 			"JPN": "『女の子は、夢を見るの』",
-			"ENG": "The girl will have dreams.'",
+			"ENG": "'The girl will have dreams.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -27101,7 +27101,7 @@
 			"MSGID": 1040,
 			"VOICEID": 11240,
 			"JPN": "『最初は、空の夢』",
-			"ENG": "In the beginning, she will dream of the sky.'",
+			"ENG": "'In the beginning, she will dream of the sky.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -27112,7 +27112,7 @@
 			"MSGID": 1041,
 			"VOICEID": 11241,
 			"JPN": "『夢はだんだん、昔へと遡っていく』",
-			"ENG": "The dreams will start going back to the past.'",
+			"ENG": "'The dreams will start going back to the past.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -27123,7 +27123,7 @@
 			"MSGID": 1042,
 			"VOICEID": 11242,
 			"JPN": "『でもね、その夢が女の子を蝕んでいくの』",
-			"ENG": "Those dreams will eat away at the girl.'",
+			"ENG": "'Those dreams will eat away at the girl.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -30418,7 +30418,7 @@
 			"MSGID": 1183,
 			"VOICEID": 11319,
 			"JPN": "『女の子は、夢を見るの』",
-			"ENG": "The girl will have dreams.'",
+			"ENG": "'The girl will have dreams.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -30429,7 +30429,7 @@
 			"MSGID": 1184,
 			"VOICEID": 11320,
 			"JPN": "『最初は空の夢』",
-			"ENG": "In the beginning, she will dream of the sky.'",
+			"ENG": "'In the beginning, she will dream of the sky.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -30440,7 +30440,7 @@
 			"MSGID": 1185,
 			"VOICEID": 11321,
 			"JPN": "『夢はだんだん、昔へと遡っていく』",
-			"ENG": "The dreams will start going back to the past.'",
+			"ENG": "'The dreams will start going back to the past.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -30451,7 +30451,7 @@
 			"MSGID": 1186,
 			"VOICEID": 11322,
 			"JPN": "『その夢が、女の子を蝕んでいくの』",
-			"ENG": "Those dreams will eat away at the girl.'",
+			"ENG": "'Those dreams will eat away at the girl.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -31135,7 +31135,7 @@
 			"MSGID": 1213,
 			"VOICEID": 11339,
 			"JPN": "『病みはじめてしまえば、それから先は早かった』",
-			"ENG": "Once the illness begins, it'll worsen quickly.'",
+			"ENG": "'Once the illness begins, it'll worsen quickly.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -31146,7 +31146,7 @@
 			"MSGID": 1214,
 			"VOICEID": 11340,
 			"JPN": "『夏はまだ、はじまったばかりなのに…』",
-			"ENG": "Summer had only just begun...'",
+			"ENG": "'Summer had only just begun...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -33585,7 +33585,7 @@
 			"MSGID": 1320,
 			"VOICEID": 11375,
 			"JPN": "『友達が近づくだけで、その子は苦しがる』",
-			"ENG": "If a friend gets close to her, she'll endure great pain.'",
+			"ENG": "'If a friend gets close to her, she'll endure great pain.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -33596,7 +33596,7 @@
 			"MSGID": 1321,
 			"VOICEID": 11376,
 			"JPN": "『だからその子は、ずっとひとりぼっち…』",
-			"ENG": "That's why the girl is always alone.'",
+			"ENG": "'That's why the girl is always alone.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -33607,7 +33607,7 @@
 			"MSGID": 1322,
 			"VOICEID": 11377,
 			"JPN": "『…それから、だんだん身体が動かなくなる』",
-			"ENG": "At first, she will lose her ability to walk.'",
+			"ENG": "'At first, she will lose her ability to walk.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -33618,7 +33618,7 @@
 			"MSGID": 1323,
 			"VOICEID": 11378,
 			"JPN": "『あるはずのない痛みを感じるようになる』",
-			"ENG": "Next, she will experience phantom pain.'",
+			"ENG": "'Next, she will experience phantom pain.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -33629,7 +33629,7 @@
 			"MSGID": 1324,
 			"VOICEID": 11379,
 			"JPN": "『夏はまだ、はじまったばかりなのに…』",
-			"ENG": "Summer had only just begun...'",
+			"ENG": "'Summer had only just begun...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -33640,7 +33640,7 @@
 			"MSGID": 1325,
 			"VOICEID": 11380,
 			"JPN": "『知っていたのに、わたしはなにもできなかった…』",
-			"ENG": "I knew what was to come, but I couldn't do anything.'",
+			"ENG": "'I knew what was to come, but I couldn't do anything.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -34812,7 +34812,7 @@
 			"MSGID": 1383,
 			"VOICEID": 11415,
 			"JPN": "『女の子は、夢を見るの』",
-			"ENG": "The girl will have dreams.'",
+			"ENG": "'The girl will have dreams.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -34823,7 +34823,7 @@
 			"MSGID": 1384,
 			"VOICEID": 11416,
 			"JPN": "『最初は、空の夢』",
-			"ENG": "In the beginning, she will dream of the sky.'",
+			"ENG": "'In the beginning, she will dream of the sky.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -34834,7 +34834,7 @@
 			"MSGID": 1385,
 			"VOICEID": 11417,
 			"JPN": "『夢はだんだん、昔へと遡っていく』",
-			"ENG": "The dreams will start going back to the past.'",
+			"ENG": "'The dreams will start going back to the past.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -34845,7 +34845,7 @@
 			"MSGID": 1386,
 			"VOICEID": 11418,
 			"JPN": "『その夢が、女の子を蝕んでいくの』",
-			"ENG": "Those dreams will eat away at the girl.'",
+			"ENG": "'Those dreams will eat away at the girl.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -35185,7 +35185,7 @@
 			"MSGID": 1397,
 			"VOICEID": 11424,
 			"JPN": "『女の子は、夢を見るの』",
-			"ENG": "The girl will have dreams.'",
+			"ENG": "'The girl will have dreams.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -35196,7 +35196,7 @@
 			"MSGID": 1398,
 			"VOICEID": 11425,
 			"JPN": "『最初は、空の夢』",
-			"ENG": "In the beginning, she will dream of the sky.'",
+			"ENG": "'In the beginning, she will dream of the sky.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -35207,7 +35207,7 @@
 			"MSGID": 1399,
 			"VOICEID": 11426,
 			"JPN": "『夢はだんだん、昔へと遡っていく』",
-			"ENG": "The dreams will start going back to the past.'",
+			"ENG": "'The dreams will start going back to the past.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -35218,7 +35218,7 @@
 			"MSGID": 1400,
 			"VOICEID": 11427,
 			"JPN": "『その夢が、女の子を蝕んでいくの』",
-			"ENG": "Those dreams will eat away at the girl.'",
+			"ENG": "'Those dreams will eat away at the girl.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -35928,7 +35928,7 @@
 			"NameJPN": "観鈴",
 			"JPN": "「それなのに、どうしても、うまくいかなかった…」",
 			"NameENG": "Misuzu",
-			"ENG": "\"... but why can't I do it?\"",
+			"ENG": "\"...but why can't I do it?\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -38905,7 +38905,7 @@
 			"SUBCMD2": 3202,
 			"MSGID": 1549,
 			"JPN": "『往人さんと人形を探した』",
-			"ENG": "I searched for a puppet with Yukito-san.",
+			"ENG": "'I searched for a puppet with Yukito-san.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -38915,7 +38915,7 @@
 			"SUBCMD2": 3203,
 			"MSGID": 1550,
 			"JPN": "『往人さんとテレビを見た』",
-			"ENG": "I watched TV with Yukito-san.",
+			"ENG": "'I watched TV with Yukito-san.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -38925,7 +38925,7 @@
 			"SUBCMD2": 3204,
 			"MSGID": 1551,
 			"JPN": "『往人さんとジュースを飲んだ』",
-			"ENG": "I drank fruit juice with Yukito-san.",
+			"ENG": "'I drank fruit juice with Yukito-san.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -38935,7 +38935,7 @@
 			"SUBCMD2": 3205,
 			"MSGID": 1552,
 			"JPN": "『往人さんと宿題をした』",
-			"ENG": "I did homework with Yukito-san.",
+			"ENG": "'I did homework with Yukito-san.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -38945,7 +38945,7 @@
 			"SUBCMD2": 3206,
 			"MSGID": 1553,
 			"JPN": "『往人さんとクワガタをつかまえた』",
-			"ENG": "I caught a stag beetle with Yukito-san.",
+			"ENG": "'I caught a stag beetle with Yukito-san.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -38955,7 +38955,7 @@
 			"SUBCMD2": 3207,
 			"MSGID": 1554,
 			"JPN": "『往人さんと…』",
-			"ENG": "...With Yukito-san...",
+			"ENG": "'...With Yukito-san...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -39005,7 +39005,7 @@
 			"SUBCMD2": 3213,
 			"MSGID": 1559,
 			"JPN": "『７月２７日』",
-			"ENG": "July 27.",
+			"ENG": "'July 27.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -39025,7 +39025,7 @@
 			"SUBCMD2": 3215,
 			"MSGID": 1561,
 			"JPN": "『今日、往人さんが…』",
-			"ENG": "Today, Yukito-san...",
+			"ENG": "'Today, Yukito-san...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -42205,7 +42205,7 @@
 			"MSGID": 1673,
 			"VOICEID": 12410,
 			"JPN": "『女の子は、夢を見るの』",
-			"ENG": "The girl will have dreams.'",
+			"ENG": "'The girl will have dreams.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -42216,7 +42216,7 @@
 			"MSGID": 1674,
 			"VOICEID": 12411,
 			"JPN": "『最初は、空の夢』",
-			"ENG": "In the beginning, she will dream of the sky.'",
+			"ENG": "'In the beginning, she will dream of the sky.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -42227,7 +42227,7 @@
 			"MSGID": 1675,
 			"VOICEID": 12412,
 			"JPN": "『夢はだんだん、昔へと遡っていく』",
-			"ENG": "The dreams will start going back to the past.'",
+			"ENG": "'The dreams will start going back to the past.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -42238,7 +42238,7 @@
 			"MSGID": 1676,
 			"VOICEID": 12413,
 			"JPN": "『その夢が、女の子を蝕んでいくの』",
-			"ENG": "Those dreams will eat away at the girl.'",
+			"ENG": "'Those dreams will eat away at the girl.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -45354,7 +45354,7 @@
 			"MSGID": 1836,
 			"VOICEID": 12510,
 			"JPN": "『友達が近づくだけで、その子は苦しがる』",
-			"ENG": "If a friend gets close to her, she'll endure great pain.'",
+			"ENG": "'If a friend gets close to her, she'll endure great pain.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -45365,7 +45365,7 @@
 			"MSGID": 1837,
 			"VOICEID": 12511,
 			"JPN": "『だからその子は、ずっとひとりぼっち』",
-			"ENG": "That's why the girl is always alone.'",
+			"ENG": "'That's why the girl is always alone.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -45376,7 +45376,7 @@
 			"MSGID": 1838,
 			"VOICEID": 12512,
 			"JPN": "『病みはじめてしまえば、それから先は早かった』",
-			"ENG": "Once the illness begins, it'll worsen quickly.'",
+			"ENG": "'Once the illness begins, it'll worsen quickly.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -45387,7 +45387,7 @@
 			"MSGID": 1839,
 			"VOICEID": 12513,
 			"JPN": "『夏はまだ、はじまったばかりなのに…』",
-			"ENG": "Summer had only just begun...'",
+			"ENG": "'Summer had only just begun...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -45398,7 +45398,7 @@
 			"MSGID": 1840,
 			"VOICEID": 12514,
 			"JPN": "『やさしくて、とても強い子だったの』",
-			"ENG": "She was so strong and kind.'",
+			"ENG": "'She was so strong and kind.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -45409,7 +45409,7 @@
 			"MSGID": 1841,
 			"VOICEID": 12515,
 			"JPN": "『だから…』",
-			"ENG": "That is why...",
+			"ENG": "'That is why...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -49402,7 +49402,7 @@
 			"MSGID": 1991,
 			"VOICEID": 12535,
 			"JPN": "『その子を救えるのは、あなただけなのだから』",
-			"ENG": "You are the only one who can save her.'",
+			"ENG": "'You are the only one who can save her.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -52626,7 +52626,7 @@
 			"MSGID": 2144,
 			"VOICEID": 13467,
 			"JPN": "『二人の心が近づけば、二人とも病んでしまう』",
-			"ENG": "The closer the two get, the sicker they'll become.'",
+			"ENG": "'The closer the two get, the sicker they'll become.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -52637,7 +52637,7 @@
 			"MSGID": 2145,
 			"VOICEID": 13468,
 			"JPN": "『二人とも助からない』",
-			"ENG": "Then neither of them can be saved.'",
+			"ENG": "'Then neither of them can be saved.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -52698,7 +52698,7 @@
 			"MSGID": 2151,
 			"VOICEID": 13469,
 			"JPN": "『病みはじめてしまえば、それから先は早かった』",
-			"ENG": "Once the illness begins, it'll worsen quickly.'",
+			"ENG": "'Once the illness begins, it'll worsen quickly.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -52709,7 +52709,7 @@
 			"MSGID": 2152,
 			"VOICEID": 13470,
 			"JPN": "『夏はまだ、はじまったばかりなのに…』",
-			"ENG": "Summer had only just begun...'",
+			"ENG": "'Summer had only just begun...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -52720,7 +52720,7 @@
 			"MSGID": 2153,
 			"VOICEID": 13471,
 			"JPN": "『知っていたのに、私はなにもできなかった』",
-			"ENG": "I knew what was to come, but I couldn't do anything.'",
+			"ENG": "'I knew what was to come, but I couldn't do anything.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -52731,7 +52731,7 @@
 			"MSGID": 2154,
 			"VOICEID": 13472,
 			"JPN": "『誰よりもその子の側にいたのに、救えなかった…』",
-			"ENG": "I was the closest person to her, yet I couldn't save her...'",
+			"ENG": "'I was the closest person to her, yet I couldn't save her...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -52911,7 +52911,7 @@
 			"SUBCMD2": 4389,
 			"MSGID": 2172,
 			"JPN": "二人の心が近づけば、二人とも病んでしまう。",
-			"ENG": "The closer the two get, the sicker they'll become.'",
+			"ENG": "'The closer the two get, the sicker they'll become.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -54638,7 +54638,7 @@
 			"SUBCMD2": 4524,
 			"MSGID": 2243,
 			"JPN": "『これ以上おまえと居続けたら、俺のほうが先に倒れる』",
-			"ENG": "If I continue to stay with you, I'll be the one to collapse first.'",
+			"ENG": "'If I continue to stay with you, I'll be the one to collapse first.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -59151,7 +59151,7 @@
 			"MSGID": 2447,
 			"VOICEID": 14316,
 			"JPN": "『一緒にいく？』",
-			"ENG": "Want to come with me?",
+			"ENG": "'Want to come with me?'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -61887,7 +61887,7 @@
 			"MSGID": 2632,
 			"VOICEID": 14418,
 			"JPN": "『さよなら…』",
-			"ENG": "Farewell...",
+			"ENG": "'Farewell...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -63684,7 +63684,7 @@
 			"MSGID": 2741,
 			"VOICEID": 14453,
 			"JPN": "『人形に心を籠めなさい』",
-			"ENG": "Wish upon the puppet with all your heart.'",
+			"ENG": "'Wish upon the puppet with all your heart.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -64288,7 +64288,7 @@
 			"MSGID": 2760,
 			"VOICEID": 14459,
 			"JPN": "『浜辺にいこっ』",
-			"ENG": "Come with me to the beach.'",
+			"ENG": "'Come with me to the beach.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -64309,7 +64309,7 @@
 			"MSGID": 2762,
 			"VOICEID": 14460,
 			"JPN": "『浜辺。そこ』",
-			"ENG": "The beach over there.'",
+			"ENG": "'The beach over there.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -64330,7 +64330,7 @@
 			"MSGID": 2764,
 			"VOICEID": 14461,
 			"JPN": "『遊びたいから』",
-			"ENG": "Because I want to play.'",
+			"ENG": "'Because I want to play.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -64351,7 +64351,7 @@
 			"MSGID": 2766,
 			"VOICEID": 14462,
 			"JPN": "『夕べ寝てましたよね、さっきの場所で』",
-			"ENG": "You were sleeping at the same place last night, weren't you?'",
+			"ENG": "'You were sleeping at the same place last night, weren't you?'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -64362,7 +64362,7 @@
 			"MSGID": 2767,
 			"VOICEID": 14463,
 			"JPN": "『よっぽど疲れてたんですね』",
-			"ENG": "You must've been really tired.'",
+			"ENG": "'You must've been really tired.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -64373,7 +64373,7 @@
 			"MSGID": 2768,
 			"VOICEID": 14464,
 			"JPN": "『疲れはとれましたか？』",
-			"ENG": "Is your tiredness gone?'",
+			"ENG": "'Is your tiredness gone?'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -64384,7 +64384,7 @@
 			"MSGID": 2769,
 			"VOICEID": 14465,
 			"JPN": "『今日は暇ですか？』",
-			"ENG": "Are you free today?'",
+			"ENG": "'Are you free today?'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -64405,7 +64405,7 @@
 			"MSGID": 2771,
 			"VOICEID": 14466,
 			"JPN": "『やっぱりダメかな…』",
-			"ENG": "I guess you're not free...'",
+			"ENG": "'I guess you're not free...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -64509,7 +64509,7 @@
 			"MSGID": 2776,
 			"VOICEID": 14471,
 			"JPN": "『うんっ』",
-			"ENG": "Okay! \\wait{2000}",
+			"ENG": "'Okay!'",
 			"Args": "050a000000"
 		},
 		{
@@ -66131,7 +66131,7 @@
 			"MSGID": 2861,
 			"VOICEID": 14507,
 			"JPN": "『…往人』",
-			"ENG": "Yukito...",
+			"ENG": "'Yukito...'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -66158,7 +66158,7 @@
 			"MSGID": 2863,
 			"VOICEID": 14508,
 			"JPN": "『…今こそ、思い出しなさい』",
-			"ENG": "Now is the time to remember.",
+			"ENG": "'Now is the time to remember.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -66179,7 +66179,7 @@
 			"MSGID": 2865,
 			"VOICEID": 14509,
 			"JPN": "『あなたのなすべきことを…』",
-			"ENG": "Remember what you need to do...",
+			"ENG": "'Remember what you need to do...'",
 			"Args": "0b0a000000"
 		},
 		{
