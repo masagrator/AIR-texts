@@ -36072,7 +36072,7 @@
 			"SUBCMD2": 3078,
 			"MSGID": 1573,
 			"JPN": "とん…とん…とん…",
-			"ENG": "*Step... Step ... Step...",
+			"ENG": "*Step... Step... Step...*",
 			"Args": "0b0a000000"
 		},
 		{
@@ -36489,7 +36489,7 @@
 			"NameJPN": "往人",
 			"JPN": "「……」",
 			"NameENG": "Yukito",
-			"ENG": "\"......",
+			"ENG": "\"......\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -38728,7 +38728,7 @@
 			"SUBCMD2": 3371,
 			"MSGID": 1732,
 			"JPN": "くいくいくいくいくいくいくいくい。",
-			"ENG": "Drag drag drag drag drag drag drag drag*",
+			"ENG": "*Drag drag drag drag drag drag drag drag*",
 			"Args": "0b0a000000"
 		},
 		{
@@ -39838,7 +39838,7 @@
 			"NameJPN": "少女",
 			"JPN": "「んん～…あたしに…お兄ちゃんいないぃ…」",
 			"NameENG": "Girl",
-			"ENG": "\"Hmm... I ... don't have a brother...\"",
+			"ENG": "\"Hmm... I... don't have a brother...\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -44153,7 +44153,7 @@
 				"Wriggle my way out of this situation",
 				"Try to explain to Hijiro"
 			],
-			"LongBar": false,
+			"LongBar": true,
 			"Args2": "000200"
 		},
 		{
@@ -46580,7 +46580,7 @@
 			"NameJPN": "少女",
 			"JPN": "「ごめんねぇ、えっと…国崎くん、だっけ？」",
 			"NameENG": "Girl",
-			"ENG": "\"Sorry... Um...  Kunisaki-kun, isn't it?\"",
+			"ENG": "\"Sorry... Um... Kunisaki-kun, isn't it?\"",
 			"Args": "0b0a000000"
 		},
 		{
