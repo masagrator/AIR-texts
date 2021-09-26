@@ -1,172 +1,170 @@
-{
-    "Main": [
-        {
-            "LABEL": "0x0",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "000001000000090000000000"
-        },
-        {
-            "LABEL": "0x10",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "000002008c09220002000000"
-        },
-        {
-            "LABEL": "0x20",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "000003008f07430003000000"
-        },
-        {
-            "LABEL": "0x30",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "000004007d05360000000000"
-        },
-        {
-            "LABEL": "0x40",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "00000500f705430000000000"
-        },
-        {
-            "LABEL": "0x50",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "00000600d8062c0001000000"
-        },
-        {
-            "LABEL": "0x60",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "00000700b2051e0000000000"
-        },
-        {
-            "LABEL": "0x70",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "000008005708410000000000"
-        },
-        {
-            "LABEL": "0x80",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "000009004e09640000000000"
-        },
-        {
-            "LABEL": "0x90",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "00000a001206140000000000"
-        },
-        {
-            "LABEL": "0xa0",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "00000b00180b230000000000"
-        },
-        {
-            "LABEL": "0xb0",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "00000c004c0b0a0003000100"
-        },
-        {
-            "LABEL": "0xc0",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "00000d006d08140000000000"
-        },
-        {
-            "LABEL": "0xd0",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "00000e00c20a330001000000"
-        },
-        {
-            "LABEL": "0xe0",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "00000f009e09110000000000"
-        },
-        {
-            "LABEL": "0xf0",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "000010002207000000000000"
-        },
-        {
-            "LABEL": "0x100",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "000011007f09000001000100"
-        },
-        {
-            "LABEL": "0x110",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "000012009b00000001000000"
-        },
-        {
-            "LABEL": "0x120",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "00001300590d250003000100"
-        },
-        {
-            "LABEL": "0x130",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "00001400c605000000000000"
-        },
-        {
-            "LABEL": "0x140",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "000015004608050001000000"
-        },
-        {
-            "LABEL": "0x150",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "00001600b507000001000100"
-        },
-        {
-            "LABEL": "0x160",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "000017000a07000001000000"
-        },
-        {
-            "LABEL": "0x170",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "000018008c05000001000000"
-        },
-        {
-            "LABEL": "0x180",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "00001900dc06000001000000"
-        },
-        {
-            "LABEL": "0x190",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "00001a000203000002000000"
-        },
-        {
-            "LABEL": "0x1a0",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "00001b007902000001000000"
-        },
-        {
-            "LABEL": "0x1b0",
-            "Type": "ARFLAGSET",
-            "SUBCMD": 1,
-            "Args": "00001c007300000000000000"
-        }
-    ]
-}
+[
+	{
+		"LABEL": "0x0",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "000001000000090000000000"
+	},
+	{
+		"LABEL": "0x10",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "000002008c09220002000000"
+	},
+	{
+		"LABEL": "0x20",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "000003008f07430003000000"
+	},
+	{
+		"LABEL": "0x30",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "000004007d05360000000000"
+	},
+	{
+		"LABEL": "0x40",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "00000500f705430000000000"
+	},
+	{
+		"LABEL": "0x50",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "00000600d8062c0001000000"
+	},
+	{
+		"LABEL": "0x60",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "00000700b2051e0000000000"
+	},
+	{
+		"LABEL": "0x70",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "000008005708410000000000"
+	},
+	{
+		"LABEL": "0x80",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "000009004e09640000000000"
+	},
+	{
+		"LABEL": "0x90",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "00000a001206140000000000"
+	},
+	{
+		"LABEL": "0xa0",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "00000b00180b230000000000"
+	},
+	{
+		"LABEL": "0xb0",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "00000c004c0b0a0003000100"
+	},
+	{
+		"LABEL": "0xc0",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "00000d006d08140000000000"
+	},
+	{
+		"LABEL": "0xd0",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "00000e00c20a330001000000"
+	},
+	{
+		"LABEL": "0xe0",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "00000f009e09110000000000"
+	},
+	{
+		"LABEL": "0xf0",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "000010002207000000000000"
+	},
+	{
+		"LABEL": "0x100",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "000011007f09000001000100"
+	},
+	{
+		"LABEL": "0x110",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "000012009b00000001000000"
+	},
+	{
+		"LABEL": "0x120",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "00001300590d250003000100"
+	},
+	{
+		"LABEL": "0x130",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "00001400c605000000000000"
+	},
+	{
+		"LABEL": "0x140",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "000015004608050001000000"
+	},
+	{
+		"LABEL": "0x150",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "00001600b507000001000100"
+	},
+	{
+		"LABEL": "0x160",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "000017000a07000001000000"
+	},
+	{
+		"LABEL": "0x170",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "000018008c05000001000000"
+	},
+	{
+		"LABEL": "0x180",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "00001900dc06000001000000"
+	},
+	{
+		"LABEL": "0x190",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "00001a000203000002000000"
+	},
+	{
+		"LABEL": "0x1a0",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "00001b007902000001000000"
+	},
+	{
+		"LABEL": "0x1b0",
+		"Type": "ARFLAGSET",
+		"SUBCMD": 1,
+		"Args": "00001c007300000000000000"
+	}
+]

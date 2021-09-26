@@ -1,594 +1,592 @@
-{
-    "Main": [
-        {
-            "LABEL": "0x0",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000c900",
-            "JPN": "７月１６日（日）／？",
-            "ENG": "July 16 (Sunday) / ?"
-        },
-        {
-            "LABEL": "0x20",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000ca00",
-            "JPN": "７月１７日（月）／鳥",
-            "ENG": "July 17 (Monday) / Bird"
-        },
-        {
-            "LABEL": "0x40",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000cb00",
-            "JPN": "７月１７日（月）／そら",
-            "ENG": "July 17 (Monday) / Sora"
-        },
-        {
-            "LABEL": "0x62",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000cc00",
-            "JPN": "７月１８日（火）／そら",
-            "ENG": "July 18 (Tuesday) / Sora"
-        },
-        {
-            "LABEL": "0x84",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000cd00",
-            "JPN": "７月１９日（水）／そら",
-            "ENG": "July 19 (Wednesday) / Sora"
-        },
-        {
-            "LABEL": "0xa6",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000ce00"
-        },
-        {
-            "LABEL": "0xb0",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000cf00",
-            "JPN": "７月１７日（月）",
-            "ENG": "July 17 (Monday)"
-        },
-        {
-            "LABEL": "0xcc",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000d000",
-            "JPN": "７月１８日（火）",
-            "ENG": "July 18 (Tuesday)"
-        },
-        {
-            "LABEL": "0xe8",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000d100",
-            "JPN": "７月１９日（水）",
-            "ENG": "July 19 (Wednesday)"
-        },
-        {
-            "LABEL": "0x104",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000d200",
-            "JPN": "７月２０日（木）",
-            "ENG": "July 20 (Thursday)"
-        },
-        {
-            "LABEL": "0x120",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000d300",
-            "JPN": "７月２０日（木）／そら",
-            "ENG": "July 20 (Thursday) / Sora"
-        },
-        {
-            "LABEL": "0x142",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000d400",
-            "JPN": "７月２１日（金）／そら",
-            "ENG": "July 21 (Friday) / Sora"
-        },
-        {
-            "LABEL": "0x164",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000d500",
-            "JPN": "７月２２日（土）／そら",
-            "ENG": "July 22 (Saturday) / Sora"
-        },
-        {
-            "LABEL": "0x186",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000d600",
-            "JPN": "休　息／そら",
-            "ENG": "Resting／Sora"
-        },
-        {
-            "LABEL": "0x19e",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000d700",
-            "JPN": "７月２１日（金）",
-            "ENG": "July 21 (Friday)"
-        },
-        {
-            "LABEL": "0x1ba",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000d800",
-            "JPN": "７月２２日（土）",
-            "ENG": "July 22 (Saturday)"
-        },
-        {
-            "LABEL": "0x1d6",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000d900",
-            "JPN": "７月２３日（日）",
-            "ENG": "July 23 (Sunday)"
-        },
-        {
-            "LABEL": "0x1f2",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000da00",
-            "JPN": "７月２３日（日）／そら",
-            "ENG": "July 23 (Sunday) / Sora"
-        },
-        {
-            "LABEL": "0x214",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000db00",
-            "JPN": "７月２４日（月）／そら",
-            "ENG": "July 24 (Monday) / Sora"
-        },
-        {
-            "LABEL": "0x236",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000dc00",
-            "JPN": "７月２５日（火）／そら",
-            "ENG": "July 25 (Tuesday) / Sora"
-        },
-        {
-            "LABEL": "0x258",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000dd00",
-            "JPN": "７月２６日（水）／そら",
-            "ENG": "July 26 (Wednesday) / Sora"
-        },
-        {
-            "LABEL": "0x27a",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000de00",
-            "JPN": "７月２７日（木）／そら",
-            "ENG": "July 27 (Thursday) / (Sora)"
-        },
-        {
-            "LABEL": "0x29c",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000df00",
-            "JPN": "７月２８日（金）／そら",
-            "ENG": "July 28 (Friday) / (Sora)"
-        },
-        {
-            "LABEL": "0x2be",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000e000",
-            "JPN": "７月２９日（土）／そら",
-            "ENG": "July 29 (Saturday) / Sora"
-        },
-        {
-            "LABEL": "0x2e0",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000e100",
-            "JPN": "７月３０日（日）／そら",
-            "ENG": "July 30 (Sunday) / Sora"
-        },
-        {
-            "LABEL": "0x302",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000e200",
-            "JPN": "７月３１日（月）／そら",
-            "ENG": "July 31 (Monday) / Sora"
-        },
-        {
-            "LABEL": "0x324",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000e300",
-            "JPN": "８月１日（火）／そら",
-            "ENG": "August 1 (Tuesday) / Sora"
-        },
-        {
-            "LABEL": "0x344",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000e400",
-            "JPN": "７月２４日（月）",
-            "ENG": "July 24 (Monday)"
-        },
-        {
-            "LABEL": "0x360",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000e500",
-            "JPN": "７月２５日（火）",
-            "ENG": "July 25 (Tuesday)"
-        },
-        {
-            "LABEL": "0x37c",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000e600",
-            "JPN": "７月２６日（水）",
-            "ENG": "July 26 (Wednesday)"
-        },
-        {
-            "LABEL": "0x398",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000e700",
-            "JPN": "７月２７日（木）",
-            "ENG": "July 27 (Thursday)"
-        },
-        {
-            "LABEL": "0x3b4",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000e800",
-            "JPN": "７月２８日（金）",
-            "ENG": "July 28 (Friday)"
-        },
-        {
-            "LABEL": "0x3d0",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000e900",
-            "JPN": "７月２９日（土）",
-            "ENG": "July 29 (Saturday)"
-        },
-        {
-            "LABEL": "0x3ec",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000ea00",
-            "JPN": "７月３０日（日）",
-            "ENG": "July 30 (Saturday)"
-        },
-        {
-            "LABEL": "0x408",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000eb00",
-            "JPN": "７月３１日（月）",
-            "ENG": "July 31 (Monday)"
-        },
-        {
-            "LABEL": "0x424",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000ec00",
-            "JPN": "　　振　出　　",
-            "ENG": "Starting Point"
-        },
-        {
-            "LABEL": "0x43e",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000ed00",
-            "JPN": "８月２日（水）／そら",
-            "ENG": "August 2 (Wednesday) / Sora"
-        },
-        {
-            "LABEL": "0x45e",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000ee00",
-            "JPN": "８月３日（木）／そら",
-            "ENG": "August 3 (Thursday) / Sora"
-        },
-        {
-            "LABEL": "0x47e",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000ef00",
-            "JPN": "８月４日（金）／そら",
-            "ENG": "August 4 (Friday) / Sora"
-        },
-        {
-            "LABEL": "0x49e",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000f000",
-            "JPN": "８月５日（土）／そら",
-            "ENG": "August 5 (Saturday) / Sora"
-        },
-        {
-            "LABEL": "0x4be",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000f100",
-            "JPN": "８月６日（日）／そら",
-            "ENG": "August 6 (Sunday) / Sora"
-        },
-        {
-            "LABEL": "0x4de",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000f200",
-            "JPN": "８月７日（月）／そら",
-            "ENG": "August 7 (Monday) / Sora"
-        },
-        {
-            "LABEL": "0x4fe",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000f300",
-            "JPN": "８月８日（火）／そら",
-            "ENG": "August 8 (Tuesday) / Sora"
-        },
-        {
-            "LABEL": "0x51e",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000f400",
-            "JPN": "８月９日（水）／そら",
-            "ENG": "August 9 (Wednesday) / Sora"
-        },
-        {
-            "LABEL": "0x53e",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000f500",
-            "JPN": "８月１０日（木）／そら",
-            "ENG": "August 10 (Thursday) / Sora"
-        },
-        {
-            "LABEL": "0x560",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000f600",
-            "JPN": "８月１１日（金）／そら",
-            "ENG": "August 11 (Friday) / Sora"
-        },
-        {
-            "LABEL": "0x582",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000f700",
-            "JPN": "８月１２日（土）／そら",
-            "ENG": "August 12 (Saturday) / Sora"
-        },
-        {
-            "LABEL": "0x5a4",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000f800",
-            "JPN": "８月１３日（日）／そら",
-            "ENG": "August 13 (Sunday) / Sora"
-        },
-        {
-            "LABEL": "0x5c6",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000f900",
-            "JPN": "８月１４日（月）／そら",
-            "ENG": "August 14 (Monday) / Sora"
-        },
-        {
-            "LABEL": "0x5e8",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000fa00",
-            "JPN": "エピローグ／そら",
-            "ENG": "Epilogue／Sora"
-        },
-        {
-            "LABEL": "0x604",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000fb00",
-            "JPN": "　再　出　発　",
-            "ENG": "A Fresh Start"
-        },
-        {
-            "LABEL": "0x61e",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000fc00",
-            "JPN": "８月１日（火）",
-            "ENG": "August 1 (Tuesday)"
-        },
-        {
-            "LABEL": "0x638",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000fd00",
-            "JPN": "８月２日（水）",
-            "ENG": "August 2 (Wednesday)"
-        },
-        {
-            "LABEL": "0x652",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000fe00",
-            "JPN": "８月３日（木）",
-            "ENG": "August 3 (Wednesday)"
-        },
-        {
-            "LABEL": "0x66c",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "0000ff00",
-            "JPN": "　　決　別　　",
-            "ENG": "Farewell"
-        },
-        {
-            "LABEL": "0x686",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "00000001",
-            "JPN": "　　決　意　　",
-            "ENG": "Determination"
-        },
-        {
-            "LABEL": "0x6a0",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "00000101",
-            "JPN": "８月４日（金）",
-            "ENG": "August 4 (Thursday)"
-        },
-        {
-            "LABEL": "0x6ba",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "00000201",
-            "JPN": "８月１３日（日）",
-            "ENG": "August 13 (Sunday)"
-        },
-        {
-            "LABEL": "0x6d6",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "00000301",
-            "JPN": "佳乃エピローグ",
-            "ENG": "Kano Epilogue"
-        },
-        {
-            "LABEL": "0x6f0",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "00000401",
-            "JPN": "８月５日（土）",
-            "ENG": "August 5 (Saturday)"
-        },
-        {
-            "LABEL": "0x70a",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "00000501",
-            "JPN": "８月６日（日）",
-            "ENG": "August 6 (Sunday)"
-        },
-        {
-            "LABEL": "0x724",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "00000601",
-            "JPN": "８月７日（月）",
-            "ENG": "August 7 (Monday)"
-        },
-        {
-            "LABEL": "0x73e",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "00000701",
-            "JPN": "８月８日（火）",
-            "ENG": "August 8 (Tuesday)"
-        },
-        {
-            "LABEL": "0x758",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "00000801",
-            "JPN": "８月９日（水）",
-            "ENG": "August 9 (Wednesday)"
-        },
-        {
-            "LABEL": "0x772",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "00000901",
-            "JPN": "　　夢　現　　",
-            "ENG": "Dream and reality"
-        },
-        {
-            "LABEL": "0x78c",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "00000a01",
-            "JPN": "８月１０日（木）",
-            "ENG": "August 10 (Thursday)"
-        },
-        {
-            "LABEL": "0x7a8",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "00000b01",
-            "JPN": "８月１１日（金）",
-            "ENG": "August 11 (Friday)"
-        },
-        {
-            "LABEL": "0x7c4",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "00000c01",
-            "JPN": "８月１２日（土）",
-            "ENG": "August 12 (Saturday)"
-        },
-        {
-            "LABEL": "0x7e0",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "00000d01",
-            "JPN": "美凪エピローグ",
-            "ENG": "Minagi Epilogue"
-        },
-        {
-            "LABEL": "0x7fa",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "00000e01",
-            "JPN": "［　社　殿　］／柳也",
-            "ENG": "［　Shinto Shrine　］／Ryuuya"
-        },
-        {
-            "LABEL": "0x81a",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "00000f01",
-            "JPN": "［　山　路　］／柳也",
-            "ENG": "［　Mountain Path　］／Ryuuya"
-        },
-        {
-            "LABEL": "0x83a",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "00001001",
-            "JPN": "［　霊　山　］／柳也",
-            "ENG": "［　Secret Mountain　］／Ryuuya"
-        },
-        {
-            "LABEL": "0x85a",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "00001101",
-            "JPN": "［　空　夢　］／柳也",
-            "ENG": "［　Skydream　］／Ryuuya"
-        },
-        {
-            "LABEL": "0x87a",
-            "Type": "VARSTR_SET",
-            "SUBCMD": 1,
-            "Metadata": "00001201",
-            "JPN": "初空の章",
-            "ENG": "初空の章"
-        }
-    ]
-}
+[
+	{
+		"LABEL": "0x0",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000c900",
+		"JPN": "７月１６日（日）／？",
+		"ENG": "July 16 (Sunday) / ?"
+	},
+	{
+		"LABEL": "0x20",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000ca00",
+		"JPN": "７月１７日（月）／鳥",
+		"ENG": "July 17 (Monday) / Bird"
+	},
+	{
+		"LABEL": "0x40",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000cb00",
+		"JPN": "７月１７日（月）／そら",
+		"ENG": "July 17 (Monday) / Sora"
+	},
+	{
+		"LABEL": "0x62",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000cc00",
+		"JPN": "７月１８日（火）／そら",
+		"ENG": "July 18 (Tuesday) / Sora"
+	},
+	{
+		"LABEL": "0x84",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000cd00",
+		"JPN": "７月１９日（水）／そら",
+		"ENG": "July 19 (Wednesday) / Sora"
+	},
+	{
+		"LABEL": "0xa6",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000ce00"
+	},
+	{
+		"LABEL": "0xb0",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000cf00",
+		"JPN": "７月１７日（月）",
+		"ENG": "July 17 (Monday)"
+	},
+	{
+		"LABEL": "0xcc",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000d000",
+		"JPN": "７月１８日（火）",
+		"ENG": "July 18 (Tuesday)"
+	},
+	{
+		"LABEL": "0xe8",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000d100",
+		"JPN": "７月１９日（水）",
+		"ENG": "July 19 (Wednesday)"
+	},
+	{
+		"LABEL": "0x104",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000d200",
+		"JPN": "７月２０日（木）",
+		"ENG": "July 20 (Thursday)"
+	},
+	{
+		"LABEL": "0x120",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000d300",
+		"JPN": "７月２０日（木）／そら",
+		"ENG": "July 20 (Thursday) / Sora"
+	},
+	{
+		"LABEL": "0x142",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000d400",
+		"JPN": "７月２１日（金）／そら",
+		"ENG": "July 21 (Friday) / Sora"
+	},
+	{
+		"LABEL": "0x164",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000d500",
+		"JPN": "７月２２日（土）／そら",
+		"ENG": "July 22 (Saturday) / Sora"
+	},
+	{
+		"LABEL": "0x186",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000d600",
+		"JPN": "休　息／そら",
+		"ENG": "Resting／Sora"
+	},
+	{
+		"LABEL": "0x19e",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000d700",
+		"JPN": "７月２１日（金）",
+		"ENG": "July 21 (Friday)"
+	},
+	{
+		"LABEL": "0x1ba",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000d800",
+		"JPN": "７月２２日（土）",
+		"ENG": "July 22 (Saturday)"
+	},
+	{
+		"LABEL": "0x1d6",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000d900",
+		"JPN": "７月２３日（日）",
+		"ENG": "July 23 (Sunday)"
+	},
+	{
+		"LABEL": "0x1f2",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000da00",
+		"JPN": "７月２３日（日）／そら",
+		"ENG": "July 23 (Sunday) / Sora"
+	},
+	{
+		"LABEL": "0x214",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000db00",
+		"JPN": "７月２４日（月）／そら",
+		"ENG": "July 24 (Monday) / Sora"
+	},
+	{
+		"LABEL": "0x236",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000dc00",
+		"JPN": "７月２５日（火）／そら",
+		"ENG": "July 25 (Tuesday) / Sora"
+	},
+	{
+		"LABEL": "0x258",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000dd00",
+		"JPN": "７月２６日（水）／そら",
+		"ENG": "July 26 (Wednesday) / Sora"
+	},
+	{
+		"LABEL": "0x27a",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000de00",
+		"JPN": "７月２７日（木）／そら",
+		"ENG": "July 27 (Thursday) / (Sora)"
+	},
+	{
+		"LABEL": "0x29c",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000df00",
+		"JPN": "７月２８日（金）／そら",
+		"ENG": "July 28 (Friday) / (Sora)"
+	},
+	{
+		"LABEL": "0x2be",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000e000",
+		"JPN": "７月２９日（土）／そら",
+		"ENG": "July 29 (Saturday) / Sora"
+	},
+	{
+		"LABEL": "0x2e0",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000e100",
+		"JPN": "７月３０日（日）／そら",
+		"ENG": "July 30 (Sunday) / Sora"
+	},
+	{
+		"LABEL": "0x302",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000e200",
+		"JPN": "７月３１日（月）／そら",
+		"ENG": "July 31 (Monday) / Sora"
+	},
+	{
+		"LABEL": "0x324",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000e300",
+		"JPN": "８月１日（火）／そら",
+		"ENG": "August 1 (Tuesday) / Sora"
+	},
+	{
+		"LABEL": "0x344",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000e400",
+		"JPN": "７月２４日（月）",
+		"ENG": "July 24 (Monday)"
+	},
+	{
+		"LABEL": "0x360",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000e500",
+		"JPN": "７月２５日（火）",
+		"ENG": "July 25 (Tuesday)"
+	},
+	{
+		"LABEL": "0x37c",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000e600",
+		"JPN": "７月２６日（水）",
+		"ENG": "July 26 (Wednesday)"
+	},
+	{
+		"LABEL": "0x398",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000e700",
+		"JPN": "７月２７日（木）",
+		"ENG": "July 27 (Thursday)"
+	},
+	{
+		"LABEL": "0x3b4",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000e800",
+		"JPN": "７月２８日（金）",
+		"ENG": "July 28 (Friday)"
+	},
+	{
+		"LABEL": "0x3d0",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000e900",
+		"JPN": "７月２９日（土）",
+		"ENG": "July 29 (Saturday)"
+	},
+	{
+		"LABEL": "0x3ec",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000ea00",
+		"JPN": "７月３０日（日）",
+		"ENG": "July 30 (Saturday)"
+	},
+	{
+		"LABEL": "0x408",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000eb00",
+		"JPN": "７月３１日（月）",
+		"ENG": "July 31 (Monday)"
+	},
+	{
+		"LABEL": "0x424",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000ec00",
+		"JPN": "　　振　出　　",
+		"ENG": "Starting Point"
+	},
+	{
+		"LABEL": "0x43e",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000ed00",
+		"JPN": "８月２日（水）／そら",
+		"ENG": "August 2 (Wednesday) / Sora"
+	},
+	{
+		"LABEL": "0x45e",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000ee00",
+		"JPN": "８月３日（木）／そら",
+		"ENG": "August 3 (Thursday) / Sora"
+	},
+	{
+		"LABEL": "0x47e",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000ef00",
+		"JPN": "８月４日（金）／そら",
+		"ENG": "August 4 (Friday) / Sora"
+	},
+	{
+		"LABEL": "0x49e",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000f000",
+		"JPN": "８月５日（土）／そら",
+		"ENG": "August 5 (Saturday) / Sora"
+	},
+	{
+		"LABEL": "0x4be",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000f100",
+		"JPN": "８月６日（日）／そら",
+		"ENG": "August 6 (Sunday) / Sora"
+	},
+	{
+		"LABEL": "0x4de",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000f200",
+		"JPN": "８月７日（月）／そら",
+		"ENG": "August 7 (Monday) / Sora"
+	},
+	{
+		"LABEL": "0x4fe",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000f300",
+		"JPN": "８月８日（火）／そら",
+		"ENG": "August 8 (Tuesday) / Sora"
+	},
+	{
+		"LABEL": "0x51e",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000f400",
+		"JPN": "８月９日（水）／そら",
+		"ENG": "August 9 (Wednesday) / Sora"
+	},
+	{
+		"LABEL": "0x53e",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000f500",
+		"JPN": "８月１０日（木）／そら",
+		"ENG": "August 10 (Thursday) / Sora"
+	},
+	{
+		"LABEL": "0x560",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000f600",
+		"JPN": "８月１１日（金）／そら",
+		"ENG": "August 11 (Friday) / Sora"
+	},
+	{
+		"LABEL": "0x582",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000f700",
+		"JPN": "８月１２日（土）／そら",
+		"ENG": "August 12 (Saturday) / Sora"
+	},
+	{
+		"LABEL": "0x5a4",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000f800",
+		"JPN": "８月１３日（日）／そら",
+		"ENG": "August 13 (Sunday) / Sora"
+	},
+	{
+		"LABEL": "0x5c6",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000f900",
+		"JPN": "８月１４日（月）／そら",
+		"ENG": "August 14 (Monday) / Sora"
+	},
+	{
+		"LABEL": "0x5e8",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000fa00",
+		"JPN": "エピローグ／そら",
+		"ENG": "Epilogue／Sora"
+	},
+	{
+		"LABEL": "0x604",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000fb00",
+		"JPN": "　再　出　発　",
+		"ENG": "A Fresh Start"
+	},
+	{
+		"LABEL": "0x61e",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000fc00",
+		"JPN": "８月１日（火）",
+		"ENG": "August 1 (Tuesday)"
+	},
+	{
+		"LABEL": "0x638",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000fd00",
+		"JPN": "８月２日（水）",
+		"ENG": "August 2 (Wednesday)"
+	},
+	{
+		"LABEL": "0x652",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000fe00",
+		"JPN": "８月３日（木）",
+		"ENG": "August 3 (Wednesday)"
+	},
+	{
+		"LABEL": "0x66c",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "0000ff00",
+		"JPN": "　　決　別　　",
+		"ENG": "Farewell"
+	},
+	{
+		"LABEL": "0x686",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "00000001",
+		"JPN": "　　決　意　　",
+		"ENG": "Determination"
+	},
+	{
+		"LABEL": "0x6a0",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "00000101",
+		"JPN": "８月４日（金）",
+		"ENG": "August 4 (Thursday)"
+	},
+	{
+		"LABEL": "0x6ba",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "00000201",
+		"JPN": "８月１３日（日）",
+		"ENG": "August 13 (Sunday)"
+	},
+	{
+		"LABEL": "0x6d6",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "00000301",
+		"JPN": "佳乃エピローグ",
+		"ENG": "Kano Epilogue"
+	},
+	{
+		"LABEL": "0x6f0",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "00000401",
+		"JPN": "８月５日（土）",
+		"ENG": "August 5 (Saturday)"
+	},
+	{
+		"LABEL": "0x70a",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "00000501",
+		"JPN": "８月６日（日）",
+		"ENG": "August 6 (Sunday)"
+	},
+	{
+		"LABEL": "0x724",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "00000601",
+		"JPN": "８月７日（月）",
+		"ENG": "August 7 (Monday)"
+	},
+	{
+		"LABEL": "0x73e",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "00000701",
+		"JPN": "８月８日（火）",
+		"ENG": "August 8 (Tuesday)"
+	},
+	{
+		"LABEL": "0x758",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "00000801",
+		"JPN": "８月９日（水）",
+		"ENG": "August 9 (Wednesday)"
+	},
+	{
+		"LABEL": "0x772",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "00000901",
+		"JPN": "　　夢　現　　",
+		"ENG": "Dream and reality"
+	},
+	{
+		"LABEL": "0x78c",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "00000a01",
+		"JPN": "８月１０日（木）",
+		"ENG": "August 10 (Thursday)"
+	},
+	{
+		"LABEL": "0x7a8",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "00000b01",
+		"JPN": "８月１１日（金）",
+		"ENG": "August 11 (Friday)"
+	},
+	{
+		"LABEL": "0x7c4",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "00000c01",
+		"JPN": "８月１２日（土）",
+		"ENG": "August 12 (Saturday)"
+	},
+	{
+		"LABEL": "0x7e0",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "00000d01",
+		"JPN": "美凪エピローグ",
+		"ENG": "Minagi Epilogue"
+	},
+	{
+		"LABEL": "0x7fa",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "00000e01",
+		"JPN": "［　社　殿　］／柳也",
+		"ENG": "［　Shinto Shrine　］／Ryuuya"
+	},
+	{
+		"LABEL": "0x81a",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "00000f01",
+		"JPN": "［　山　路　］／柳也",
+		"ENG": "［　Mountain Path　］／Ryuuya"
+	},
+	{
+		"LABEL": "0x83a",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "00001001",
+		"JPN": "［　霊　山　］／柳也",
+		"ENG": "［　Secret Mountain　］／Ryuuya"
+	},
+	{
+		"LABEL": "0x85a",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "00001101",
+		"JPN": "［　空　夢　］／柳也",
+		"ENG": "［　Skydream　］／Ryuuya"
+	},
+	{
+		"LABEL": "0x87a",
+		"Type": "VARSTR_SET",
+		"SUBCMD": 1,
+		"Metadata": "00001201",
+		"JPN": "初空の章",
+		"ENG": "初空の章"
+	}
+]

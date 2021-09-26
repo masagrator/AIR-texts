@@ -1,136 +1,134 @@
-{
-    "Main": [
-        {
-            "LABEL": "0x0",
-            "Type": "STARTUP_BETGIN"
-        },
-        {
-            "LABEL": "0x4",
-            "Type": "EQUN",
-            "SUBCMD": 0,
-            "Args": "616d0005"
-        },
-        {
-            "LABEL": "0xc",
-            "Type": "EQUN",
-            "SUBCMD": 0,
-            "Args": "626dd002"
-        },
-        {
-            "LABEL": "0x14",
-            "Type": "EQUN",
-            "SUBCMD": 0,
-            "Args": "636d0100"
-        },
-        {
-            "LABEL": "0x1c",
-            "Type": "STARTUP_END"
-        },
-        {
-            "LABEL": "0x20",
-            "Type": "SELECT",
-            "SUBCMD": 1,
-            "Args": "010071170000000000",
-            "JPN": [
-                "DREAM",
-                "SUMMER",
-                "AIR",
-                "初空の章"
-            ],
-            "ENG": [
-                "",
-                "",
-                "",
-                ""
-            ],
-            "LongBar": false,
-            "Args2": "000400"
-        },
-        {
-            "LABEL": "0x66",
-            "Type": "IFN",
-            "SUBCMD": 1,
-            "Args": "0800f6ff2823363030313d3d302900",
-            "GOTO_LABEL": "0x96"
-        },
-        {
-            "LABEL": "0x7e",
-            "Type": "JUMP",
-            "SUBCMD": 0,
-            "Name": "seen170"
-        },
-        {
-            "LABEL": "0x8c",
-            "Type": "GOTO",
-            "SUBCMD": 1,
-            "Args": "0700",
-            "GOTO_LABEL": "0x96"
-        },
-        {
-            "LABEL": "0x96",
-            "Type": "IFN",
-            "SUBCMD": 1,
-            "Args": "0900f6ff2823363030313d3d312900",
-            "GOTO_LABEL": "0xc6"
-        },
-        {
-            "LABEL": "0xae",
-            "Type": "JUMP",
-            "SUBCMD": 0,
-            "Name": "seen700"
-        },
-        {
-            "LABEL": "0xbc",
-            "Type": "GOTO",
-            "SUBCMD": 1,
-            "Args": "0800",
-            "GOTO_LABEL": "0xc6"
-        },
-        {
-            "LABEL": "0xc6",
-            "Type": "IFN",
-            "SUBCMD": 1,
-            "Args": "0a00f6ff2823363030313d3d322900",
-            "GOTO_LABEL": "0xf6"
-        },
-        {
-            "LABEL": "0xde",
-            "Type": "JUMP",
-            "SUBCMD": 0,
-            "Name": "seen163"
-        },
-        {
-            "LABEL": "0xec",
-            "Type": "GOTO",
-            "SUBCMD": 1,
-            "Args": "0900",
-            "GOTO_LABEL": "0xf6"
-        },
-        {
-            "LABEL": "0xf6",
-            "Type": "IFN",
-            "SUBCMD": 1,
-            "Args": "0b00f6ff2823363030313d3d332900",
-            "GOTO_LABEL": "0x126"
-        },
-        {
-            "LABEL": "0x10e",
-            "Type": "JUMP",
-            "SUBCMD": 0,
-            "Name": "seen800"
-        },
-        {
-            "LABEL": "0x11c",
-            "Type": "GOTO",
-            "SUBCMD": 1,
-            "Args": "0a00",
-            "GOTO_LABEL": "0x126"
-        },
-        {
-            "LABEL": "0x126",
-            "Type": "END",
-            "SUBCMD": 1,
-            "Args": "0b00"
-        }
-    ]
-}
+[
+	{
+		"LABEL": "0x0",
+		"Type": "STARTUP_BETGIN"
+	},
+	{
+		"LABEL": "0x4",
+		"Type": "EQUN",
+		"SUBCMD": 0,
+		"Args": "616d0005"
+	},
+	{
+		"LABEL": "0xc",
+		"Type": "EQUN",
+		"SUBCMD": 0,
+		"Args": "626dd002"
+	},
+	{
+		"LABEL": "0x14",
+		"Type": "EQUN",
+		"SUBCMD": 0,
+		"Args": "636d0100"
+	},
+	{
+		"LABEL": "0x1c",
+		"Type": "STARTUP_END"
+	},
+	{
+		"LABEL": "0x20",
+		"Type": "SELECT",
+		"SUBCMD": 1,
+		"Args": "010071170000000000",
+		"JPN": [
+			"DREAM",
+			"SUMMER",
+			"AIR",
+			"初空の章"
+		],
+		"ENG": [
+			"",
+			"",
+			"",
+			""
+		],
+		"LongBar": false,
+		"Args2": "000400"
+	},
+	{
+		"LABEL": "0x66",
+		"Type": "IFN",
+		"SUBCMD": 1,
+		"Args": "0800f6ff2823363030313d3d302900",
+		"GOTO_LABEL": "0x96"
+	},
+	{
+		"LABEL": "0x7e",
+		"Type": "JUMP",
+		"SUBCMD": 0,
+		"Name": "seen170"
+	},
+	{
+		"LABEL": "0x8c",
+		"Type": "GOTO",
+		"SUBCMD": 1,
+		"Args": "0700",
+		"GOTO_LABEL": "0x96"
+	},
+	{
+		"LABEL": "0x96",
+		"Type": "IFN",
+		"SUBCMD": 1,
+		"Args": "0900f6ff2823363030313d3d312900",
+		"GOTO_LABEL": "0xc6"
+	},
+	{
+		"LABEL": "0xae",
+		"Type": "JUMP",
+		"SUBCMD": 0,
+		"Name": "seen700"
+	},
+	{
+		"LABEL": "0xbc",
+		"Type": "GOTO",
+		"SUBCMD": 1,
+		"Args": "0800",
+		"GOTO_LABEL": "0xc6"
+	},
+	{
+		"LABEL": "0xc6",
+		"Type": "IFN",
+		"SUBCMD": 1,
+		"Args": "0a00f6ff2823363030313d3d322900",
+		"GOTO_LABEL": "0xf6"
+	},
+	{
+		"LABEL": "0xde",
+		"Type": "JUMP",
+		"SUBCMD": 0,
+		"Name": "seen163"
+	},
+	{
+		"LABEL": "0xec",
+		"Type": "GOTO",
+		"SUBCMD": 1,
+		"Args": "0900",
+		"GOTO_LABEL": "0xf6"
+	},
+	{
+		"LABEL": "0xf6",
+		"Type": "IFN",
+		"SUBCMD": 1,
+		"Args": "0b00f6ff2823363030313d3d332900",
+		"GOTO_LABEL": "0x126"
+	},
+	{
+		"LABEL": "0x10e",
+		"Type": "JUMP",
+		"SUBCMD": 0,
+		"Name": "seen800"
+	},
+	{
+		"LABEL": "0x11c",
+		"Type": "GOTO",
+		"SUBCMD": 1,
+		"Args": "0a00",
+		"GOTO_LABEL": "0x126"
+	},
+	{
+		"LABEL": "0x126",
+		"Type": "END",
+		"SUBCMD": 1,
+		"Args": "0b00"
+	}
+]
