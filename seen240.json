@@ -11140,7 +11140,7 @@
 			"SUBCMD2": 931,
 			"MSGID": 463,
 			"JPN": "なにが？という目で俺を見つめる。",
-			"ENG": "Thank me for what?, said her stare.",
+			"ENG": "\"Thank me for what?\", said her stare.",
 			"Args": "0b0a000000"
 		},
 		{
@@ -15623,7 +15623,7 @@
 			"SUBCMD2": 1280,
 			"MSGID": 638,
 			"JPN": "＿さらさら…",
-			"ENG": "\\ Zizz zizz...",
+			"ENG": "*Zizz zizz...*",
 			"Args": "0b0a000000"
 		},
 		{
@@ -19797,7 +19797,7 @@
 			"NameJPN": "美凪",
 			"JPN": "「…いいえ…たぶん違う」",
 			"NameENG": "Minagi",
-			"ENG": "\"No...that's probably not it.\"",
+			"ENG": "\"No... That's probably not it.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -20665,7 +20665,7 @@
 			"NameJPN": "みちる",
 			"JPN": "「あじあじ開きぃ～～～♪ぱくぱくぱくっ♪」",
 			"NameENG": "Michiru",
-			"ENG": "\"Open, open, mackerel...chomp chomp chomp.\"",
+			"ENG": "\"Open, open, mackerel... Chomp chomp chomp.\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -30586,7 +30586,7 @@
 			"NameJPN": "往人",
 			"JPN": "（一袋２０キロとして、それが五つ…………げっ）",
 			"NameENG": "Yukito",
-			"ENG": "(Each bag is 20 kilos, and there's five of them...\\p...\\p...\\p...\\pUgh)",
+			"ENG": "(Each bag is 20 kilos, and there's five of them............ Ugh.)",
 			"Args": "0b0a000000"
 		},
 		{
@@ -37813,7 +37813,7 @@
 			"NameJPN": "往人",
 			"JPN": "「ぜぇ…ぜぇ…ぜ…はっ！」",
 			"NameENG": "Yukito",
-			"ENG": "\"Huff... Huff... Huff...\\pHa!\"",
+			"ENG": "\"Huff... Huff... Huff... Ha!\"",
 			"Args": "0b0a000000"
 		},
 		{
@@ -50829,7 +50829,7 @@
 			"MSGID": 2093,
 			"VOICEID": 9682,
 			"JPN": "『娘の喜ぶ顔を見られるなら、このくらいの苦労は平気なんです』",
-			"ENG": "But I don't mind the trouble as long as my daughter is happy.'",
+			"ENG": "'But I don't mind the trouble as long as my daughter is happy.'",
 			"Args": "0b0a000000"
 		},
 		{
@@ -66828,7 +66828,7 @@
 			"SUBCMD2": 5507,
 			"MSGID": 2795,
 			"JPN": "引っ張る。",
-			"ENG": ");",
+			"ENG": "I pulled...",
 			"Args": "0b0a000000"
 		},
 		{
