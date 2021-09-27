@@ -13618,7 +13618,7 @@
 		"NameJPN": "美凪",
 		"JPN": "「…すぐ側にあるはずの笑顔に手を伸ばしても…決して触れることができない…」",
 		"NameENG": "Minagi",
-		"ENG": "\"Even if I reached for the smiles that were right beside me, I'm couldn't touch anything...\"",
+		"ENG": "\"Even if I reached for the smiles that were right beside me, I couldn't touch anything...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14089,7 +14089,7 @@
 		"NameJPN": "往人",
 		"JPN": "「いつまでも夢の中にいたんじゃ、嬉しいときにも泣けないから…」",
 		"NameENG": "Yukito",
-		"ENG": "\"If she trapped in her dream, she won't be able to cry even when she's happy...\"",
+		"ENG": "\"If she's trapped in her dream, she won't be able to cry even when she's happy...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -22300,7 +22300,7 @@
 		"SUBCMD2": 1674,
 		"MSGID": 1062,
 		"JPN": "俺なんかの祈りで、今日が素敵な一日になるのなら、",
-		"ENG": ");",
+		"ENG": "If my prayers could guarantee a memorable day for these girls,",
 		"Args": "0b0a000000"
 	},
 	{
@@ -27540,7 +27540,7 @@
 		"NameJPN": "美凪",
 		"JPN": "「…国崎さん…」",
 		"NameENG": "Minagi",
-		"ENG": "\"Yukito-san...\"",
+		"ENG": "\"Kunisaki-san...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -27796,7 +27796,7 @@
 		"NameJPN": "美凪",
 		"JPN": "「だって私たちは…」",
 		"NameENG": "Minagi",
-		"ENG": "\"Because we...\"\\wait{3000}",
+		"ENG": "\"Because we...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -35249,7 +35249,7 @@
 		"NameJPN": "美凪",
 		"JPN": "「…ふぅー…って」",
 		"NameENG": "Minagi",
-		"ENG": "Like this... Fuu...\"",
+		"ENG": "\"Like this... Fuu...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -36640,7 +36640,7 @@
 		"SUBCMD2": 2751,
 		"MSGID": 1536,
 		"JPN": "空を舞っていたシャボン玉はもう一つもない。",
-		"ENG": "In the sky, not a single bubble remained .",
+		"ENG": "In the sky, not a single bubble remained.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41224,7 +41224,7 @@
 		"NameJPN": "美凪",
 		"JPN": "「みちる…ばいばい…」",
 		"NameENG": "Minagi",
-		"ENG": "\"Michiru... Goodbye...\"",
+		"ENG": "\"Michiru... Bye bye...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -44078,7 +44078,7 @@
 		"MSGID": 1911,
 		"VOICEID": 21730,
 		"JPN": "「にょわ～…すご～い…」",
-		"ENG": "Nyowa... Amazing...\"",
+		"ENG": "Nyowa... Amazing...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -44324,7 +44324,7 @@
 		"MSGID": 1935,
 		"VOICEID": 21736,
 		"JPN": "「じゃあ、これはがんばったで賞」",
-		"ENG": "Here's a worked-hard prize.\"",
+		"ENG": "Here's a worked-hard prize.",
 		"Args": "0b0a000000"
 	},
 	{
