@@ -9766,7 +9766,7 @@
 		"SUBCMD2": 780,
 		"MSGID": 409,
 		"JPN": "　$d＿＿＿＿＿『…あのひとにとって…夢は$[現$/うつつ$]…』",
-		"ENG": "　$d＿＿＿＿＿\"To her... the dream is her reality...\"",
+		"ENG": "$d\"To her... the dream is her reality...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9776,7 +9776,7 @@
 		"SUBCMD2": 781,
 		"MSGID": 410,
 		"JPN": "　$d＿＿＿＿＿『…夢の向こう側にはなにもないから…』",
-		"ENG": "　$d＿＿＿＿＿\"Because there is nothing beyond that dream...\"",
+		"ENG": "$d\"Because there is nothing beyond that dream...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9786,7 +9786,7 @@
 		"SUBCMD2": 782,
 		"MSGID": 411,
 		"JPN": "　$d＿＿＿＿＿『…だから…現を夢で彩るしかない…』",
-		"ENG": "　$d＿＿＿＿＿\"And so she could only paint her reality with her dream...\"",
+		"ENG": "$d\"And so she could only paint her reality with her dream...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9796,7 +9796,7 @@
 		"SUBCMD2": 783,
 		"MSGID": 412,
 		"JPN": "　$d＿＿＿＿＿『…でも…』",
-		"ENG": "　$d＿＿＿＿＿\"But...\"",
+		"ENG": "$d\"But...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9806,7 +9806,7 @@
 		"SUBCMD2": 784,
 		"MSGID": 413,
 		"JPN": "　$d＿＿＿＿＿『…たとえ…あのひとにとって…$n＿＿＿＿＿＿＿＿＿＿私が夢の欠片だとしても…』",
-		"ENG": "　$d＿＿＿＿＿\"Even if, to her... I am just pieces of a dream...\"",
+		"ENG": "$d\"Even if, to her... I am just pieces of a dream...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13552,7 +13552,7 @@
 		"SUBCMD2": 1082,
 		"MSGID": 593,
 		"JPN": "うなだれた。",
-		"ENG": "She hung her head.\"",
+		"ENG": "She hung her head.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -17900,7 +17900,7 @@
 		"NameJPN": "美凪",
 		"JPN": "「…はい」",
 		"NameENG": "Minagi",
-		"ENG": "Yes...\"",
+		"ENG": "\"Yes...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -20295,7 +20295,7 @@
 		"MSGID": 887,
 		"VOICEID": 20231,
 		"JPN": "『あなたたちの未来が、いつまでも美しい凪にみちていますように…』",
-		"ENG": "May your futures always be filled (Michiru) with a beautiful calm (Minagi)...\"",
+		"ENG": "\"May your futures always be filled (Michiru) with a beautiful calm (Minagi)...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -23189,8 +23189,8 @@
 		"VOICEID": 20289,
 		"NameJPN": "美凪・みちる",
 		"JPN": "「…あ…」$d$w「んにゅ」",
-		"NameENG": "美凪・みちる",
-		"ENG": "\"Ah...\" \"Hmmnyu.\"",
+		"NameENG": "Minagi/Michiru",
+		"ENG": "\"Ah...\"$d$w\"Hmmnyu.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -29469,7 +29469,7 @@
 		"NameJPN": "往人",
 		"JPN": "「…遠野…」",
 		"NameENG": "Yukito",
-		"ENG": ":\"Tohno...\"",
+		"ENG": "\"Tohno...\"",
 		"Args": "0b0a000000"
 	},
 	{
