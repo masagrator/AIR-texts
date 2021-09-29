@@ -555,7 +555,7 @@
 		"SUBCMD": 1,
 		"Metadata": "00000e01",
 		"JPN": "［　社　殿　］／柳也",
-		"ENG": "［　Shinto Shrine　］／Ryuuya"
+		"ENG": "［　Shinto Shrine　］ Ryuuya"
 	},
 	{
 		"LABEL": "0x81a",
@@ -563,7 +563,7 @@
 		"SUBCMD": 1,
 		"Metadata": "00000f01",
 		"JPN": "［　山　路　］／柳也",
-		"ENG": "［　Mountain Path　］／Ryuuya"
+		"ENG": "［　Mountain Path　］ Ryuuya"
 	},
 	{
 		"LABEL": "0x83a",
@@ -571,7 +571,7 @@
 		"SUBCMD": 1,
 		"Metadata": "00001001",
 		"JPN": "［　霊　山　］／柳也",
-		"ENG": "［　Secret Mountain　］／Ryuuya"
+		"ENG": "［　Secret Mountain　］ Ryuuya"
 	},
 	{
 		"LABEL": "0x85a",
@@ -579,7 +579,7 @@
 		"SUBCMD": 1,
 		"Metadata": "00001101",
 		"JPN": "［　空　夢　］／柳也",
-		"ENG": "［　Skydream　］／Ryuuya"
+		"ENG": "［　Skydream　］ Ryuuya"
 	},
 	{
 		"LABEL": "0x87a",
