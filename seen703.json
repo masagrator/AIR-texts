@@ -387,7 +387,7 @@
 		"SUBCMD2": 30,
 		"MSGID": 1,
 		"JPN": "そして…。",
-		"ENG": "",
+		"ENG": "After that...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -397,7 +397,7 @@
 		"SUBCMD2": 31,
 		"MSGID": 2,
 		"JPN": "俺たちは高野を離れた。",
-		"ENG": "",
+		"ENG": "We left Mt. Kouya.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -407,7 +407,7 @@
 		"SUBCMD2": 32,
 		"MSGID": 3,
 		"JPN": "俺の受けた刀傷は一向に治らず、裏葉の肩を借りての逃避行だった。",
-		"ENG": "",
+		"ENG": "My wound showed no sign of healing, so I had to lean on Uraha's shoulder throughout our escape.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -417,7 +417,7 @@
 		"SUBCMD2": 33,
 		"MSGID": 4,
 		"JPN": "あの夜の出来事を、人々は声をひそめて語りあっていた。",
-		"ENG": "",
+		"ENG": "People whispered about what happened that night.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -427,7 +427,7 @@
 		"SUBCMD2": 34,
 		"MSGID": 5,
 		"JPN": "『翼のある悪鬼が高野に降りたち、$[雷$/いかづち$]で伽藍を焼きはらった』",
-		"ENG": "",
+		"ENG": "A winged demon had descended upon Mt. Kouya and burned the monastery to the ground with lightning.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -437,7 +437,7 @@
 		"SUBCMD2": 35,
 		"MSGID": 6,
 		"JPN": "『朝廷の軍勢が悪鬼を退治しようとしたが、まったく歯が立たなかった』",
-		"ENG": "",
+		"ENG": "The imperial army tried to exterminate the demon, but they were unable to stand up to it.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -447,7 +447,7 @@
 		"SUBCMD2": 36,
 		"MSGID": 7,
 		"JPN": "『名のある陰陽師が方術を用い、悪鬼を空に追い返した』",
-		"ENG": "",
+		"ENG": "A reputed Onmyodo priest used Houjutsu to drive the demon back into the sky.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -457,7 +457,7 @@
 		"SUBCMD2": 37,
 		"MSGID": 8,
 		"JPN": "『翼のある悪鬼』がどこに消えてしまったのか、知る者はいなかった。",
-		"ENG": "",
+		"ENG": "Nobody knew where the \"demon with wings\" had disappeared to.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -549,7 +549,7 @@
 		"SUBCMD2": 43,
 		"MSGID": 9,
 		"JPN": "半年が過ぎた。",
-		"ENG": "",
+		"ENG": "Half a year passed.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -559,7 +559,7 @@
 		"SUBCMD2": 44,
 		"MSGID": 10,
 		"JPN": "俺たちは都にいた。",
-		"ENG": "",
+		"ENG": "We were at the capital.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -569,7 +569,7 @@
 		"SUBCMD2": 45,
 		"MSGID": 11,
 		"JPN": "行商人の夫婦と身分をいつわり、あの夜になにが起こっていたのかを探った。",
-		"ENG": "",
+		"ENG": "Pretending to be a peddler couple, we searched for clues as to what happened that night.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -579,7 +579,7 @@
 		"SUBCMD2": 46,
 		"MSGID": 12,
 		"JPN": "噂を集めるのはもっぱら裏葉の役目だった。",
-		"ENG": "",
+		"ENG": "Uraha was the one in charge of gathering the rumors.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -589,7 +589,7 @@
 		"SUBCMD2": 47,
 		"MSGID": 13,
 		"JPN": "そして俺たちは、はじめて裏の事情を聞いた。",
-		"ENG": "",
+		"ENG": "With that, we got to the bottom of the matter.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -599,7 +599,7 @@
 		"SUBCMD2": 48,
 		"MSGID": 14,
 		"JPN": "発端は、朝廷の勢力争いだったらしい。",
-		"ENG": "",
+		"ENG": "It all began with a power struggle within the Imperial Court.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -609,7 +609,7 @@
 		"SUBCMD2": 49,
 		"MSGID": 15,
 		"JPN": "宮廷陰陽師の一派と藤家が手をむすび、権力を意のままにしようと謀った。",
-		"ENG": "",
+		"ENG": "The band of imperial Onmyoudo priests had colluded with the Fujike in an attempt to gain full political power.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -619,7 +619,7 @@
 		"SUBCMD2": 50,
 		"MSGID": 16,
 		"JPN": "そのためには、花山法皇の信奉する翼人の存在が邪魔だった。",
-		"ENG": "",
+		"ENG": "The winged being that Emperor Kazan worshipped became a hindrance to their ends.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -629,7 +629,7 @@
 		"SUBCMD2": 51,
 		"MSGID": 17,
 		"JPN": "だが、汚れ役に雇った東国の傭兵団が、翼人の力ほしさに裏切った…",
-		"ENG": "",
+		"ENG": "However, the band of mercenaries from the east that they hired to do their bidding wanted the winged being's power for themselves.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -639,7 +639,7 @@
 		"SUBCMD2": 52,
 		"MSGID": 18,
 		"JPN": "俺にはもう、どうでもいいことだった。",
-		"ENG": "",
+		"ENG": "None of that mattered to me anymore.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -649,7 +649,7 @@
 		"SUBCMD2": 53,
 		"MSGID": 19,
 		"JPN": "神奈の行方は知れず、徒労だけがつのっていった。",
-		"ENG": "",
+		"ENG": "Kanna's whereabout was still a mystery. Our efforts had been fruitless.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -659,7 +659,7 @@
 		"SUBCMD2": 54,
 		"MSGID": 20,
 		"JPN": "ときおり裏葉が聞くという神奈の『声』",
-		"ENG": "",
+		"ENG": "Uraha still heard Kanna's voice from time to time.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -669,7 +669,7 @@
 		"SUBCMD2": 55,
 		"MSGID": 21,
 		"JPN": "それだけが、俺の生きる糧だった。",
-		"ENG": "",
+		"ENG": "That was my only motivation for living.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -761,7 +761,7 @@
 		"SUBCMD2": 61,
 		"MSGID": 22,
 		"JPN": "そして、一年が過ぎた。",
-		"ENG": "",
+		"ENG": "Finally, a year passed.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -771,7 +771,7 @@
 		"SUBCMD2": 62,
 		"MSGID": 23,
 		"JPN": "都に流れたささいな噂が、俺たちをふたたび旅に駆り立てた。",
-		"ENG": "",
+		"ENG": "A trivial rumor in the capital sent us on a journey once more.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -781,7 +781,7 @@
 		"SUBCMD2": 63,
 		"MSGID": 24,
 		"JPN": "西国のどこかに、高野山や朝廷陰陽寮に匹敵する方術師の一団がある。",
-		"ENG": "",
+		"ENG": "In the west, there was a band of Houjutsu practitioners rivaling the ones from Mt. Kouya and the imperial Onmyoudo priests.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -791,7 +791,7 @@
 		"SUBCMD2": 64,
 		"MSGID": 25,
 		"JPN": "方術で翼人を封じることができるのなら、解くこともまた可能ではないか？",
-		"ENG": "",
+		"ENG": "If it is possible to seal away a winged being with Houjutsu, will it not be possible to break the seal with Houjutsu as well?",
 		"Args": "0b0a000000"
 	},
 	{
@@ -801,7 +801,7 @@
 		"SUBCMD2": 65,
 		"MSGID": 26,
 		"JPN": "俺たちは都を離れ、西に向かった。",
-		"ENG": "",
+		"ENG": "We left the capital and headed west.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -811,7 +811,7 @@
 		"SUBCMD2": 66,
 		"MSGID": 27,
 		"JPN": "俺は身体の自由がきかず、杖をつくようになっていた。",
-		"ENG": "",
+		"ENG": "My body had stopped listening to me, and I was forced to use a walking stick.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -821,7 +821,7 @@
 		"SUBCMD2": 67,
 		"MSGID": 28,
 		"JPN": "不自由な身体での道行きは、裏葉にばかり負担をかけた。",
-		"ENG": "",
+		"ENG": "With a disabled body, I became a burden to Uraha.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -831,7 +831,7 @@
 		"SUBCMD2": 68,
 		"MSGID": 29,
 		"JPN": "しかし、裏葉は弱音ひとつ吐かなかった。",
-		"ENG": "",
+		"ENG": "However, Uraha did not so much as utter a word of complaint.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -929,7 +929,7 @@
 		"SUBCMD2": 74,
 		"MSGID": 30,
 		"JPN": "海沿いのけわしい道を進んでいる時だった。",
-		"ENG": "",
+		"ENG": "It happened when we were walking down a perilous path along the sea.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -939,7 +939,7 @@
 		"SUBCMD2": 75,
 		"MSGID": 31,
 		"JPN": "俺たちは、雲水らしいひとりの僧に呼びとめられた。",
-		"ENG": "",
+		"ENG": "We were stopped by what looked to be a wandering monk.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -951,8 +951,8 @@
 		"VOICEID": 24562,
 		"NameJPN": "僧",
 		"JPN": "「神奈備命のご随身、柳也どのとお見受けしますが」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Monk",
+		"ENG": "\"You are Ryuuya-dono, the attendant of Kannabi no Mikoto, I presume?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -962,7 +962,7 @@
 		"SUBCMD2": 77,
 		"MSGID": 33,
 		"JPN": "柳也と呼ばれるのも、神奈の名を聞くのも、本当にひさしぶりだった。",
-		"ENG": "",
+		"ENG": "It had been ages since I heard my Kanna's name and mine as well.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -974,8 +974,8 @@
 		"VOICEID": 24563,
 		"NameJPN": "柳也",
 		"JPN": "「そちらの名は？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Your name is?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -985,7 +985,7 @@
 		"SUBCMD2": 79,
 		"MSGID": 35,
 		"JPN": "警戒を解かずに問うと、僧は声をひそめて言った。",
-		"ENG": "",
+		"ENG": "When I asked him with suspicion, the monk told me in a low voice.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -997,8 +997,8 @@
 		"VOICEID": 24564,
 		"NameJPN": "僧",
 		"JPN": "「さる方がお待ちでございます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Monk",
+		"ENG": "\"He is waiting for you.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1010,8 +1010,8 @@
 		"VOICEID": 24565,
 		"NameJPN": "柳也",
 		"JPN": "「さる方とは？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Who is he?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1021,7 +1021,7 @@
 		"SUBCMD2": 82,
 		"MSGID": 38,
 		"JPN": "僧はなにも答えず、ただ付いてくるようにとうながした。",
-		"ENG": "",
+		"ENG": "The monk did not reply. He simply urged me to follow him.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1107,7 +1107,7 @@
 		"SUBCMD2": 88,
 		"MSGID": 39,
 		"JPN": "案内されたのは、深い山中にある朽ちた山寺だった。",
-		"ENG": "",
+		"ENG": "We came to a run-down temple deep in the mountains.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1117,7 +1117,7 @@
 		"SUBCMD2": 89,
 		"MSGID": 40,
 		"JPN": "ぼろぼろの山門をくぐる時、裏葉がしきりに辺りを気にしているのがわかった。",
-		"ENG": "",
+		"ENG": "As we crossed the dilapidated temple gate, Uraha seemed to be checking on her surroundings.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1129,8 +1129,8 @@
 		"VOICEID": 24566,
 		"NameJPN": "裏葉",
 		"JPN": "「…結界がございますね」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"There's a barrier here...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1142,8 +1142,8 @@
 		"VOICEID": 24567,
 		"NameJPN": "僧",
 		"JPN": "「やはり、おわかりになりますか」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Monk",
+		"ENG": "\"So you can tell.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1155,8 +1155,8 @@
 		"VOICEID": 24568,
 		"NameJPN": "僧",
 		"JPN": "「こちらは隠し寺でありますれば、招かざる客には参道そのものが見えません」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Monk",
+		"ENG": "\"This is a temple hidden from prying eyes. Uninvited guests cannot see the road leading here.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1172,7 +1172,7 @@
 		"SUBCMD2": 97,
 		"MSGID": 44,
 		"JPN": "旅装のまま、本堂に通された。",
-		"ENG": "",
+		"ENG": "We were allowed into the main temple building while still clad in our traveling garbs.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1182,7 +1182,7 @@
 		"SUBCMD2": 98,
 		"MSGID": 45,
 		"JPN": "何もない広間の中央に、小柄な老人が石仏のように座っていた。",
-		"ENG": "",
+		"ENG": "In the center of the empty guest room, a small old man was sitting still like a stone buddha.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1192,7 +1192,7 @@
 		"SUBCMD2": 99,
 		"MSGID": 46,
 		"JPN": "その人物がこの山寺の主であることは、闇のように黒い墨染めの法衣が物語っていた。",
-		"ENG": "",
+		"ENG": "His black priest clothes indicated that he was the abbot of this temple.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1204,8 +1204,8 @@
 		"VOICEID": 24569,
 		"NameJPN": "僧",
 		"JPN": "「お連れいたしました」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Monk",
+		"ENG": "\"I've brought him here.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1217,8 +1217,8 @@
 		"VOICEID": 24570,
 		"NameJPN": "老僧",
 		"JPN": "「$[稜栄$/りょうえい$]どの、ご苦労であった」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Old monk",
+		"ENG": "Old \"Good work, Ryouei.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1228,7 +1228,7 @@
 		"SUBCMD2": 102,
 		"MSGID": 49,
 		"JPN": "一礼し、道案内の僧は本堂を出ていった。",
-		"ENG": "",
+		"ENG": "After bowing once, our guide left the main temple building.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1238,7 +1238,7 @@
 		"SUBCMD2": 103,
 		"MSGID": 50,
 		"JPN": "そして老僧は、ゆっくりと俺たちに向き直った。",
-		"ENG": "",
+		"ENG": "The old monk slowly turned to face us.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1248,7 +1248,7 @@
 		"SUBCMD2": 104,
 		"MSGID": 51,
 		"JPN": "俺は息を飲んだ。",
-		"ENG": "",
+		"ENG": "I swallowed my breath.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1258,7 +1258,7 @@
 		"SUBCMD2": 105,
 		"MSGID": 52,
 		"JPN": "何かでえぐられたかのように、老僧の$[双眸$/そうぼう$]にはまったく眼光がなかった。",
-		"ENG": "",
+		"ENG": "His eyes were devoid of pupils, as though they had been gouged out.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1270,8 +1270,8 @@
 		"VOICEID": 24571,
 		"NameJPN": "老僧",
 		"JPN": "「拙僧は$[知徳$/ちとく$]と申します」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Old monk",
+		"ENG": "Old \"My name is Chitoku.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1281,7 +1281,7 @@
 		"SUBCMD2": 107,
 		"MSGID": 54,
 		"JPN": "この広間そのものが話をしているような、不思議に通る声音だった。",
-		"ENG": "",
+		"ENG": "His voice traveled well, such that it seemed to be coming from the room itself.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1291,7 +1291,7 @@
 		"SUBCMD2": 108,
 		"MSGID": 55,
 		"JPN": "請われるままに俺たちも名乗った。",
-		"ENG": "",
+		"ENG": "We told him our names.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1301,7 +1301,7 @@
 		"SUBCMD2": 109,
 		"MSGID": 56,
 		"JPN": "知徳法師は裏葉に興味を持ったようだった。",
-		"ENG": "",
+		"ENG": "Master Chitoku appeared to be interested in Uraha.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1313,8 +1313,8 @@
 		"VOICEID": 24572,
 		"NameJPN": "知徳",
 		"JPN": "「あなたが裏葉どのですか」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"You are Uraha?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1326,8 +1326,8 @@
 		"VOICEID": 24573,
 		"NameJPN": "知徳",
 		"JPN": "「$[御身$/おんみ$]ひとつで高野の結界を看破するとは…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"To think you are able to sense Kouya's barrier by yourself...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1339,8 +1339,8 @@
 		"VOICEID": 24574,
 		"NameJPN": "柳也",
 		"JPN": "「知って…おられるのですか？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"You know us?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1352,8 +1352,8 @@
 		"VOICEID": 24575,
 		"NameJPN": "知徳",
 		"JPN": "「神奈備命の一件については、あらかた聞き及んでおります」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"I have heard almost all there is to hear concerning Kannabi no Mikoto.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1365,8 +1365,8 @@
 		"VOICEID": 24576,
 		"NameJPN": "裏葉",
 		"JPN": "「…では、神奈さまは今どちらにっ？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Do you know where Lady Kanna is now?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1376,7 +1376,7 @@
 		"SUBCMD2": 115,
 		"MSGID": 62,
 		"JPN": "にじり寄った裏葉に、法師はゆっくりと首を振った。",
-		"ENG": "",
+		"ENG": "Uraha moved closer to him, but the priest shook his head slowly.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1388,8 +1388,8 @@
 		"VOICEID": 24577,
 		"NameJPN": "知徳",
 		"JPN": "「もはやこの世にはおりますまい…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"She is no longer in this world...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1481,7 +1481,7 @@
 		"SUBCMD2": 123,
 		"MSGID": 64,
 		"JPN": "神奈がもうこの世にはいない。",
-		"ENG": "",
+		"ENG": "Kanna was no longer in this world.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1491,7 +1491,7 @@
 		"SUBCMD2": 124,
 		"MSGID": 65,
 		"JPN": "あたりまえの事実を、まだ受け入れようとしない自分がいた。",
-		"ENG": "",
+		"ENG": "There was a side of me that still refused to accept this truth.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1501,7 +1501,7 @@
 		"SUBCMD2": 125,
 		"MSGID": 66,
 		"JPN": "裏葉もただ無言のまま、法師の話を聞いていた。",
-		"ENG": "",
+		"ENG": "Uraha also listened to the priest without saying anything.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1513,8 +1513,8 @@
 		"VOICEID": 24578,
 		"NameJPN": "知徳",
 		"JPN": "「…ところで、$[八百比丘尼$/やおびくに$]どのには会われましたか」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"By the way, have you met Lady Yaobikuni?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1524,7 +1524,7 @@
 		"SUBCMD2": 127,
 		"MSGID": 68,
 		"JPN": "そう問われて、俺はやっと思い出した。",
-		"ENG": "",
+		"ENG": "I recalled that name.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1534,7 +1534,7 @@
 		"SUBCMD2": 128,
 		"MSGID": 69,
 		"JPN": "高野の僧たちが、神奈の母君のことをそう呼んでいた。",
-		"ENG": "",
+		"ENG": "The monks of Kouya called Kanna's mother Yaobikunni.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1544,7 +1544,7 @@
 		"SUBCMD2": 129,
 		"MSGID": 70,
 		"JPN": "そこで俺は事情を語った。",
-		"ENG": "",
+		"ENG": "So I told him of what happened.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1554,7 +1554,7 @@
 		"SUBCMD2": 130,
 		"MSGID": 71,
 		"JPN": "山を降りる途中で矢を受け、俺たちが最期を看取った、と…",
-		"ENG": "",
+		"ENG": "She was shot with arrows on the way down the mountain, and we had watched her breathe her last...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1566,8 +1566,8 @@
 		"VOICEID": 24579,
 		"NameJPN": "知徳",
 		"JPN": "「やはり、そうでしたか…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"So she is gone, is she...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1579,8 +1579,8 @@
 		"VOICEID": 24580,
 		"NameJPN": "知徳",
 		"JPN": "「あのお方を、高野の僧たちは不老不死と信じておりました」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"The monks of Kouya believed her to be immortal...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1592,8 +1592,8 @@
 		"VOICEID": 24581,
 		"NameJPN": "知徳",
 		"JPN": "「高野秘伝の$[封術$/ふうじゅつ$]によって無理に生き長らえさせていたものを、不老不死とは…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"She was forcibly kept alive by Kouya's secret sealing magic, and yet they called that immortality...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1605,8 +1605,8 @@
 		"VOICEID": 24582,
 		"NameJPN": "知徳",
 		"JPN": "「愚かなことです」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"Pure foolishness, I say.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1616,7 +1616,7 @@
 		"SUBCMD2": 135,
 		"MSGID": 76,
 		"JPN": "神奈の母君のことを、知徳法師はまるで知古であるように語った。",
-		"ENG": "",
+		"ENG": "Master Chitoku talked of Kanna's mother as though they were old acquaintances.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1628,8 +1628,8 @@
 		"VOICEID": 24583,
 		"NameJPN": "知徳",
 		"JPN": "「あれほどの呪いを身に受け、比丘尼どのはさぞ無念でしたでしょうな…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"Lady Bikuni must have lamented her fate for being afflicted such a strong curse...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1641,8 +1641,8 @@
 		"VOICEID": 24584,
 		"NameJPN": "裏葉",
 		"JPN": "「呪い…でございますか？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"A curse...?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1654,8 +1654,8 @@
 		"VOICEID": 24585,
 		"NameJPN": "知徳",
 		"JPN": "「本来、翼人とは無垢な魂を持つもの」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"The winged beings has untainted souls to begin with.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1667,8 +1667,8 @@
 		"VOICEID": 24586,
 		"NameJPN": "知徳",
 		"JPN": "「それがいつからか、戦の道具として人に囲われてきたのです」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"As time passed, people began to imprison them as weapons of war.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1680,8 +1680,8 @@
 		"VOICEID": 24587,
 		"NameJPN": "知徳",
 		"JPN": "「不本意に為したこととはいえ、殺めた亡霊はすべて比丘尼どのに群がります」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"Although Lady Bikuni did not take lives because she wished to, the souls of the deceased still gathered around her.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1693,8 +1693,8 @@
 		"VOICEID": 24588,
 		"NameJPN": "知徳",
 		"JPN": "「人の身であればたやすく朽ちる呪いも、翼人にはただ蓄えられるばかりとなりましょう」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"The curse will leave a human being if given time, but for a winged being, it remains and builds up.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1704,7 +1704,7 @@
 		"SUBCMD2": 142,
 		"MSGID": 83,
 		"JPN": "母君の言葉が思い出された。",
-		"ENG": "",
+		"ENG": "I recalled what Kanna's mother said.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1715,7 +1715,7 @@
 		"MSGID": 84,
 		"VOICEID": 24589,
 		"JPN": "『この身はすでに$[穢$/けが$]れています』",
-		"ENG": "",
+		"ENG": "'This body is already tainted.'",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1726,7 +1726,7 @@
 		"MSGID": 85,
 		"VOICEID": 24590,
 		"JPN": "『我が身には決して触れず、ここに、捨て置きなさい…』",
-		"ENG": "",
+		"ENG": "'Don't touch my body, and just leave me here.'",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1738,8 +1738,8 @@
 		"VOICEID": 24591,
 		"NameJPN": "柳也",
 		"JPN": "「…翼人とは、なんなのでしょう？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"What exactly are the winged beings?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1749,7 +1749,7 @@
 		"SUBCMD2": 146,
 		"MSGID": 87,
 		"JPN": "知らず、そんな問いが口をついていた。",
-		"ENG": "",
+		"ENG": "It was a question I was dying to ask.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1761,8 +1761,8 @@
 		"VOICEID": 24592,
 		"NameJPN": "知徳",
 		"JPN": "「たしかなところは、拙僧にもわかりませぬが…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"I don't know the details...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1774,8 +1774,8 @@
 		"VOICEID": 24593,
 		"NameJPN": "知徳",
 		"JPN": "「翼人は夢を継ぐと伝えられております」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"However, legend has it that the winged beings inherit dreams...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1787,8 +1787,8 @@
 		"VOICEID": 24594,
 		"NameJPN": "知徳",
 		"JPN": "「それゆえに、無垢なものなのだと」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"That is also the reason why they are untainted.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1798,7 +1798,7 @@
 		"SUBCMD2": 150,
 		"MSGID": 91,
 		"JPN": "法師の答えは謎かけのようで、俺にはよくわからなかった。",
-		"ENG": "",
+		"ENG": "The priest's answer was cryptic. I could not understand what was being said.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1808,7 +1808,7 @@
 		"SUBCMD2": 151,
 		"MSGID": 92,
 		"JPN": "無垢な魂を持つもの。",
-		"ENG": "",
+		"ENG": "Beings with untainted souls.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1818,7 +1818,7 @@
 		"SUBCMD2": 152,
 		"MSGID": 93,
 		"JPN": "そして、夢を受け継ぐもの…。",
-		"ENG": "",
+		"ENG": "Beings that inherit dreams...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1830,8 +1830,8 @@
 		"VOICEID": 24595,
 		"NameJPN": "裏葉",
 		"JPN": "「知徳さま、わたくしもお訊ねしとうございます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Master Chitoku, I have a question as well.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1843,8 +1843,8 @@
 		"VOICEID": 24596,
 		"NameJPN": "知徳",
 		"JPN": "「なんなりと」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"What is it?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1856,8 +1856,8 @@
 		"VOICEID": 24597,
 		"NameJPN": "裏葉",
 		"JPN": "「知徳さまはなにゆえ、翼人のことをお気にかけていらしたのでしょう？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Why do you concern yourself with the winged beings so much?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1867,7 +1867,7 @@
 		"SUBCMD2": 156,
 		"MSGID": 97,
 		"JPN": "答えは返ってこない。",
-		"ENG": "",
+		"ENG": "There was no reply from him.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1877,7 +1877,7 @@
 		"SUBCMD2": 157,
 		"MSGID": 98,
 		"JPN": "だが、俺と裏葉を呼び寄せた理由もそこにあるはずだった。",
-		"ENG": "",
+		"ENG": "However, this had to be related to why he summoned us.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1887,7 +1887,7 @@
 		"SUBCMD2": 158,
 		"MSGID": 99,
 		"JPN": "やがて、法師は音もなく立ちあがった。",
-		"ENG": "",
+		"ENG": "Before long, the priest stood up.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1899,8 +1899,8 @@
 		"VOICEID": 24598,
 		"NameJPN": "知徳",
 		"JPN": "「お見せしたいものがあります」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"I have something to show you.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -1992,7 +1992,7 @@
 		"SUBCMD2": 166,
 		"MSGID": 101,
 		"JPN": "本堂の裏手に、荒れた山道があった。",
-		"ENG": "",
+		"ENG": "There was a rough mountain path offshooting the main road.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2002,7 +2002,7 @@
 		"SUBCMD2": 167,
 		"MSGID": 102,
 		"JPN": "盲目の老人とは思えない身のこなしで、法師は急坂を登っていく。",
-		"ENG": "",
+		"ENG": "The priest climbed the steep path with an agility that belied his blindess and age.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2012,7 +2012,7 @@
 		"SUBCMD2": 168,
 		"MSGID": 103,
 		"JPN": "裏葉の助けを借り、俺もあとに続いた。",
-		"ENG": "",
+		"ENG": "I followed him with Uraha's help.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2022,7 +2022,7 @@
 		"SUBCMD2": 169,
 		"MSGID": 104,
 		"JPN": "樹齢の高い杉がすっくと立ち並び、とがった梢で天を突いている。",
-		"ENG": "",
+		"ENG": "The ancient cedar trees stood erect with their treetops spearing the sky.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2032,7 +2032,7 @@
 		"SUBCMD2": 170,
 		"MSGID": 105,
 		"JPN": "いつの間にか蝉の声が絶え、山鳥のさえずりに変わっていた。",
-		"ENG": "",
+		"ENG": "In time, the song of the cicadas turned into the warbles of the mountain birds.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2044,8 +2044,8 @@
 		"VOICEID": 24599,
 		"NameJPN": "知徳",
 		"JPN": "「こちらです」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"We're here.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2055,7 +2055,7 @@
 		"SUBCMD2": 172,
 		"MSGID": 107,
 		"JPN": "山道がなだらかになった先に、その場所はあった。",
-		"ENG": "",
+		"ENG": "We came to a place where the slope became gentler.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2155,8 +2155,8 @@
 		"VOICEID": 24600,
 		"NameJPN": "柳也",
 		"JPN": "「ここは…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"This place...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2166,7 +2166,7 @@
 		"SUBCMD2": 179,
 		"MSGID": 109,
 		"JPN": "それは、巨大な岩をうがった洞穴だった。",
-		"ENG": "",
+		"ENG": "There was a cave that bored through a giant rock.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2176,7 +2176,7 @@
 		"SUBCMD2": 180,
 		"MSGID": 110,
 		"JPN": "苔むした石の中央に埋めこまれた、頑丈な樫材の扉。",
-		"ENG": "",
+		"ENG": "In the center of the moss-covered rock was a sturdy door made from evergreen wood.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2186,7 +2186,7 @@
 		"SUBCMD2": 181,
 		"MSGID": 111,
 		"JPN": "それはもう長い間、開いたことがないように見えた。",
-		"ENG": "",
+		"ENG": "It didn't look to be opened for ages.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2245,8 +2245,8 @@
 		"VOICEID": 24601,
 		"NameJPN": "裏葉",
 		"JPN": "「ああ…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Ah...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2256,7 +2256,7 @@
 		"SUBCMD2": 187,
 		"MSGID": 113,
 		"JPN": "裏葉は駈け寄ると、扉にそっとてのひらを当てた。",
-		"ENG": "",
+		"ENG": "Uraha ran over and laid a hand on the door.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2268,8 +2268,8 @@
 		"VOICEID": 24602,
 		"NameJPN": "裏葉",
 		"JPN": "「神奈さまやお母君と、同じものを感じます…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"This has the same feeling as Lady Kanna's mother...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2279,7 +2279,7 @@
 		"SUBCMD2": 189,
 		"MSGID": 115,
 		"JPN": "裏葉ほどはっきりとはわからなかったけれど、心のどこかで俺も感じていた。",
-		"ENG": "",
+		"ENG": "Although I could not feel it as clearly as Uraha, I could vaguely make that out.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2289,7 +2289,7 @@
 		"SUBCMD2": 190,
 		"MSGID": 116,
 		"JPN": "ここは空に近い、と。",
-		"ENG": "",
+		"ENG": "This place was close to the sky...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2336,8 +2336,8 @@
 		"VOICEID": 24603,
 		"NameJPN": "知徳",
 		"JPN": "「かつてこの洞穴にも、翼ある者が暮らしていたと伝えられております」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"This cave is said to house winged beings in the past.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2349,8 +2349,8 @@
 		"VOICEID": 24604,
 		"NameJPN": "知徳",
 		"JPN": "「もう数百年も昔のことですが」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"But that was a few hundred years ago.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2362,8 +2362,8 @@
 		"VOICEID": 24605,
 		"NameJPN": "柳也",
 		"JPN": "「囚われていたのですか？　ここに…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Were they imprisoned here?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2375,8 +2375,8 @@
 		"VOICEID": 24606,
 		"NameJPN": "知徳",
 		"JPN": "「いいえ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"No.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2388,8 +2388,8 @@
 		"VOICEID": 24607,
 		"NameJPN": "知徳",
 		"JPN": "「翼人は決して悪鬼などではありません」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"The winged beings are not demons.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2401,8 +2401,8 @@
 		"VOICEID": 24608,
 		"NameJPN": "知徳",
 		"JPN": "「この洞穴の翼人は、$[空真理$/くまり$]と呼ばれる一族でした」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"Those that once inhabited this cave were a race known as Skytruth.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2414,8 +2414,8 @@
 		"VOICEID": 24609,
 		"NameJPN": "知徳",
 		"JPN": "「$[古$/いにしえ$]には、人に幾多の知恵を授けたといわれます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"Since antiquity they had imparted countless wisdoms unto humans.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2427,8 +2427,8 @@
 		"VOICEID": 24610,
 		"NameJPN": "知徳",
 		"JPN": "「そのひとつこそが、我らが方術の起源とされております」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"One of these is the root of our Houjutsu.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2438,7 +2438,7 @@
 		"SUBCMD2": 202,
 		"MSGID": 125,
 		"JPN": "そこで言葉を切り、知徳法師はふと空に顔を向けた。",
-		"ENG": "",
+		"ENG": "Master Chitoku paused and looked to the sky.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2450,8 +2450,8 @@
 		"VOICEID": 24611,
 		"NameJPN": "知徳",
 		"JPN": "「おそらく神奈備命は、今の世に残る最後の翼人でありました」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"Kannabi no Mikoto was most likely the last of her kind.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2463,8 +2463,8 @@
 		"VOICEID": 24612,
 		"NameJPN": "柳也",
 		"JPN": "「な…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"What...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2474,7 +2474,7 @@
 		"SUBCMD2": 205,
 		"MSGID": 128,
 		"JPN": "伝えられた言葉の重みに、一瞬目が眩みそうになった。",
-		"ENG": "",
+		"ENG": "The weight behind his words disoriented me for a second.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2484,7 +2484,7 @@
 		"SUBCMD2": 206,
 		"MSGID": 129,
 		"JPN": "空の高みで、なにかが音を立てた。",
-		"ENG": "",
+		"ENG": "Something sounded in the sky.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2494,7 +2494,7 @@
 		"SUBCMD2": 207,
 		"MSGID": 130,
 		"JPN": "澄んだ青色を切りとるように、$[鳶$/とび$]が輪を描いていた。",
-		"ENG": "",
+		"ENG": "A black eagle was circling overhead, carving out a piece of the clear blue sky.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2506,8 +2506,8 @@
 		"VOICEID": 24613,
 		"NameJPN": "知徳",
 		"JPN": "「朝廷の手勢が高野に攻め入ったのは、八百比丘尼どのを$[屠$/ほふ$]るためだけではありますまい」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"The imperial troops must have attacked Mt. Kouya with some other motive besides killing Lady Yaobikuni.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2519,8 +2519,8 @@
 		"VOICEID": 24614,
 		"NameJPN": "知徳",
 		"JPN": "「翼人という$[信仰$/しんごう$]そのものを葬る腹づもりだったのでしょう」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"They must have wanted to end the worship of winged beings.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2532,8 +2532,8 @@
 		"VOICEID": 24615,
 		"NameJPN": "柳也",
 		"JPN": "「しかし、なぜそんなことを…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"But why would they do such a thing...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2545,8 +2545,8 @@
 		"VOICEID": 24616,
 		"NameJPN": "知徳",
 		"JPN": "「神をひとつに束ねるため、でありましょうな」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"They wished to unify the gods.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2558,8 +2558,8 @@
 		"VOICEID": 24617,
 		"NameJPN": "裏葉",
 		"JPN": "「神を…ひとつに？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Unify the gods?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2569,7 +2569,7 @@
 		"SUBCMD2": 213,
 		"MSGID": 136,
 		"JPN": "聞きかけたまま、裏葉が絶句した。",
-		"ENG": "",
+		"ENG": "Uraha was speechless.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2581,8 +2581,8 @@
 		"VOICEID": 24618,
 		"NameJPN": "知徳",
 		"JPN": "「国を治める者にとっては、神に届く翼などあってはならぬもの」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"A ruler of an entire nation has no need for wings to speak with the gods.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2594,8 +2594,8 @@
 		"VOICEID": 24619,
 		"NameJPN": "知徳",
 		"JPN": "「これより先、あらゆる$[文書$/もんじょ$]には筆が加えられるでしょう」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"In time to come, every book and document will be rewritten.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2607,8 +2607,8 @@
 		"VOICEID": 24620,
 		"NameJPN": "知徳",
 		"JPN": "「空は海と、鳥は魚と、炎は水と書き換えられるでしょう…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"If need be, they will turn the sky into sea, the birds into fish, and fire into water...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2618,7 +2618,7 @@
 		"SUBCMD2": 217,
 		"MSGID": 140,
 		"JPN": "法師の言わんとしていることはわかった。",
-		"ENG": "",
+		"ENG": "I understood what the priest was trying to say.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2628,7 +2628,7 @@
 		"SUBCMD2": 218,
 		"MSGID": 141,
 		"JPN": "最後の翼人は既にこの世にはない。",
-		"ENG": "",
+		"ENG": "The last winged being had disappeared from this world.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2638,7 +2638,7 @@
 		"SUBCMD2": 219,
 		"MSGID": 142,
 		"JPN": "だからこそ朝廷は、翼人が伝説として残ることを恐れているのだ。",
-		"ENG": "",
+		"ENG": "This made the imperial court even more afraid that they would live on in legends.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2648,7 +2648,7 @@
 		"SUBCMD2": 220,
 		"MSGID": 143,
 		"JPN": "翼人に関わったすべての人、すべての事物は巧妙に隠されるだろう。",
-		"ENG": "",
+		"ENG": "Hence, they planned to erase any traces of the winged beings.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2658,7 +2658,7 @@
 		"SUBCMD2": 221,
 		"MSGID": 144,
 		"JPN": "書物は焼かれ、また書き換えられ、俺たちはいなかったことになるだろう。",
-		"ENG": "",
+		"ENG": "Books would be burned, new ones rewritten, and we would cease to exist on paper.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2668,7 +2668,7 @@
 		"SUBCMD2": 222,
 		"MSGID": 145,
 		"JPN": "そしていつしか、この世から消えてなくなっていくのだ。",
-		"ENG": "",
+		"ENG": "And someday, there would be nothing left of them.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2678,7 +2678,7 @@
 		"SUBCMD2": 223,
 		"MSGID": 146,
 		"JPN": "翼人という存在そのものが。",
-		"ENG": "",
+		"ENG": "The winged beings would never have existed.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2688,7 +2688,7 @@
 		"SUBCMD2": 224,
 		"MSGID": 147,
 		"JPN": "拳をにぎりしめている自分に気づいた。",
-		"ENG": "",
+		"ENG": "I realized that I was clenching my fist.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2698,7 +2698,7 @@
 		"SUBCMD2": 225,
 		"MSGID": 148,
 		"JPN": "煮えたぎる怒りをどこにぶつければいいのか、わからなかった。",
-		"ENG": "",
+		"ENG": "My rage was penting up with nowhere to go.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2708,7 +2708,7 @@
 		"SUBCMD2": 226,
 		"MSGID": 149,
 		"JPN": "だがその時、裏葉が言った。",
-		"ENG": "",
+		"ENG": "It was then that Uraha spoke up.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2761,8 +2761,8 @@
 		"VOICEID": 24621,
 		"NameJPN": "裏葉",
 		"JPN": "「決してそのようにはなりません」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"That would never come to pass.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2774,8 +2774,8 @@
 		"VOICEID": 24622,
 		"NameJPN": "裏葉",
 		"JPN": "「こうしていると、神奈さまのお声が聞こえます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I can still hear Lady Kanna's voice as we speak.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2828,8 +2828,8 @@
 		"VOICEID": 24623,
 		"NameJPN": "裏葉",
 		"JPN": "「神奈さまは今も泣いておられます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Lady Kanna is crying, even now.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2841,8 +2841,8 @@
 		"VOICEID": 24624,
 		"NameJPN": "知徳",
 		"JPN": "「なんと…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"That cannot be...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2852,7 +2852,7 @@
 		"SUBCMD2": 237,
 		"MSGID": 154,
 		"JPN": "法師の顔色が変わった。",
-		"ENG": "",
+		"ENG": "The priest's expression changed.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2862,7 +2862,7 @@
 		"SUBCMD2": 238,
 		"MSGID": 155,
 		"JPN": "見えるはずのない目が、裏葉を凝視する。",
-		"ENG": "",
+		"ENG": "He gazed intently at Uraha with eyes that could not see.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2874,8 +2874,8 @@
 		"VOICEID": 24625,
 		"NameJPN": "知徳",
 		"JPN": "「あなたにも聞こえるというのか、あの声が…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"You are able to hear her voice as well?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2920,7 +2920,7 @@
 		"SUBCMD2": 243,
 		"MSGID": 157,
 		"JPN": "『あの声』という法師の言葉を聞いたとたん、裏葉がその場に正座した。",
-		"ENG": "",
+		"ENG": "On hearing that, Uraha kneeled in a seiza.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2932,8 +2932,8 @@
 		"VOICEID": 24626,
 		"NameJPN": "裏葉",
 		"JPN": "「知徳さま、お願いがございます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Chitoku-sama, I have a request.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2943,7 +2943,7 @@
 		"SUBCMD2": 245,
 		"MSGID": 159,
 		"JPN": "地面にぴったりと額をつける。",
-		"ENG": "",
+		"ENG": "She planted her forehead to the floor.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2955,8 +2955,8 @@
 		"VOICEID": 24627,
 		"NameJPN": "裏葉",
 		"JPN": "「どうかわたくしに方術をお授けくださいませ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Please, teach me the ways of Houjutsu.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2968,8 +2968,8 @@
 		"VOICEID": 24628,
 		"NameJPN": "知徳",
 		"JPN": "「御身に並ならぬ素養がおありなのはわかりますが、しかし…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"You have a strong foundation, but...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3022,8 +3022,8 @@
 		"VOICEID": 24629,
 		"NameJPN": "裏葉",
 		"JPN": "「もしもわたくしになにがしかの力があるのでしたら」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"If I had any power that was worth using...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3035,8 +3035,8 @@
 		"VOICEID": 24630,
 		"NameJPN": "裏葉",
 		"JPN": "「わたくしはそれを、残らず神奈さまのために使いとうございます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I would use all of it to save Lady Kanna.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3048,8 +3048,8 @@
 		"VOICEID": 24631,
 		"NameJPN": "裏葉",
 		"JPN": "「なにとぞ…なにとぞお願いもうしあげますっ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Please... Please listen to my plea...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3059,7 +3059,7 @@
 		"SUBCMD2": 254,
 		"MSGID": 165,
 		"JPN": "身を振り絞るような懇願。",
-		"ENG": "",
+		"ENG": "It was an earnest request from the bottom of her heart.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3069,7 +3069,7 @@
 		"SUBCMD2": 255,
 		"MSGID": 166,
 		"JPN": "裏葉に一歩も退く気がないのは明らかだった。",
-		"ENG": "",
+		"ENG": "Uraha had no intention of backing off no matter what.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3079,7 +3079,7 @@
 		"SUBCMD2": 256,
 		"MSGID": 167,
 		"JPN": "長い沈黙のあと、知徳法師はつぶやいた。",
-		"ENG": "",
+		"ENG": "After a long silence, Master Chitoku finally spoke.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3091,8 +3091,8 @@
 		"VOICEID": 24632,
 		"NameJPN": "知徳",
 		"JPN": "「あなたなら、あるいは…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"Perhaps you are the one...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3104,8 +3104,8 @@
 		"VOICEID": 24633,
 		"NameJPN": "知徳",
 		"JPN": "「わかりました」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"Very well.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3117,8 +3117,8 @@
 		"VOICEID": 24634,
 		"NameJPN": "知徳",
 		"JPN": "「お教えしましょう」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Chitoku",
+		"ENG": "\"I shall teach you.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3204,7 +3204,7 @@
 		"SUBCMD2": 265,
 		"MSGID": 171,
 		"JPN": "そして。",
-		"ENG": "",
+		"ENG": "After that...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3214,7 +3214,7 @@
 		"SUBCMD2": 266,
 		"MSGID": 172,
 		"JPN": "俺たちはこの寺で暮らすことになった。",
-		"ENG": "",
+		"ENG": "We began living in the temple.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3306,7 +3306,7 @@
 		"SUBCMD2": 271,
 		"MSGID": 173,
 		"JPN": "あてがわれた僧坊を断り、裏葉とふたりで洞穴に住むことにした。",
-		"ENG": "",
+		"ENG": "Although we were offered the priests' quarters, we refused and went to live in the cave.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3316,7 +3316,7 @@
 		"SUBCMD2": 272,
 		"MSGID": 174,
 		"JPN": "この場所は神奈に近い気がしたし、岩戸の奧は不思議と心が落ち着いた。",
-		"ENG": "",
+		"ENG": "In this place we feel closer to Kanna. It filled us with a strange sense of peace.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3326,7 +3326,7 @@
 		"SUBCMD2": 273,
 		"MSGID": 175,
 		"JPN": "裏葉の修行は昼夜を問わず続けられた。",
-		"ENG": "",
+		"ENG": "Uraha trained day and night.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3336,7 +3336,7 @@
 		"SUBCMD2": 274,
 		"MSGID": 176,
 		"JPN": "一口に方術といっても、その種類はさまざまだ。",
-		"ENG": "",
+		"ENG": "Although summed up with the word Houjutsu, there were various kinds.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3346,7 +3346,7 @@
 		"SUBCMD2": 275,
 		"MSGID": 177,
 		"JPN": "人の心を読む。",
-		"ENG": "",
+		"ENG": "The ability to read minds.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3356,7 +3356,7 @@
 		"SUBCMD2": 276,
 		"MSGID": 178,
 		"JPN": "幻を見せる。",
-		"ENG": "",
+		"ENG": "The ability to cast illusions.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3366,7 +3366,7 @@
 		"SUBCMD2": 277,
 		"MSGID": 179,
 		"JPN": "触れることなく物を動かす。",
-		"ENG": "",
+		"ENG": "The ability to move things without touching them.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3376,7 +3376,7 @@
 		"SUBCMD2": 278,
 		"MSGID": 180,
 		"JPN": "手をかざすだけで病を癒す。",
-		"ENG": "",
+		"ENG": "The ability to heal sickness just by touching people.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3386,7 +3386,7 @@
 		"SUBCMD2": 279,
 		"MSGID": 181,
 		"JPN": "見聞きしたはずのことを忘れさせる。",
-		"ENG": "",
+		"ENG": "The ability to make one forget what he saw or heard.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3396,7 +3396,7 @@
 		"SUBCMD2": 280,
 		"MSGID": 182,
 		"JPN": "果ては、死者の魂を呼ぶことまでできるという。",
-		"ENG": "",
+		"ENG": "It was said that Houjutsu was able to even summon the souls of the dead.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3406,7 +3406,7 @@
 		"SUBCMD2": 281,
 		"MSGID": 183,
 		"JPN": "僧たちにいわせると、裏葉は百年に一度の逸材らしい。",
-		"ENG": "",
+		"ENG": "According to the monks, Uraha was a talent that only appeared once every hundred years.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3416,7 +3416,7 @@
 		"SUBCMD2": 282,
 		"MSGID": 184,
 		"JPN": "知徳法師がさずける秘技の数々を、裏葉は砂が水を吸うような早さで覚えていった。",
-		"ENG": "",
+		"ENG": "Uraha learned all that Master Chitoku taught her.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3426,7 +3426,7 @@
 		"SUBCMD2": 283,
 		"MSGID": 185,
 		"JPN": "それでも裏葉はおごることがなかった。",
-		"ENG": "",
+		"ENG": "Even so, Uraha did not become conceited.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3436,7 +3436,7 @@
 		"SUBCMD2": 284,
 		"MSGID": 186,
 		"JPN": "男ものの$[水干$/すいかん$]を着こなし、僧坊の力仕事もよく手伝った。",
-		"ENG": "",
+		"ENG": "She wore male clothes and often helped the monks with menial labor.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3446,7 +3446,7 @@
 		"SUBCMD2": 285,
 		"MSGID": 187,
 		"JPN": "そんな裏葉を、寺の僧たちは親しみをこめて『御母堂さま』と呼ぶようになった。",
-		"ENG": "",
+		"ENG": "The monks took to calling her \"Mother Uraha\".",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3456,7 +3456,7 @@
 		"SUBCMD2": 286,
 		"MSGID": 188,
 		"JPN": "俺はただ、毎日を洞穴で過ごしていた。",
-		"ENG": "",
+		"ENG": "As for me, I spent my days in the cave.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3466,7 +3466,7 @@
 		"SUBCMD2": 287,
 		"MSGID": 189,
 		"JPN": "身体を動かすことさえ、今は苦痛だった。",
-		"ENG": "",
+		"ENG": "Even moving my body caused me intense pain.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3476,7 +3476,7 @@
 		"SUBCMD2": 288,
 		"MSGID": 190,
 		"JPN": "それが高野で負った傷のせいだとしても、後悔はなかった。",
-		"ENG": "",
+		"ENG": "That was because of the wound I received in Mt. Kouya, but I did not regret anything.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3486,7 +3486,7 @@
 		"SUBCMD2": 289,
 		"MSGID": 191,
 		"JPN": "ただ、無為に過ごすことは死よりもつらく、苦しかった。",
-		"ENG": "",
+		"ENG": "However, to idle my time away felt worse than death.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3496,7 +3496,7 @@
 		"SUBCMD2": 290,
 		"MSGID": 192,
 		"JPN": "$[行脚僧$/あんぎゃそう$]たちに頼み、翼人に関する文書や伝承をできるかぎり集めた。",
-		"ENG": "",
+		"ENG": "I asked the itinerant monks to gather all documents and folklores regarding the winged beings.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3506,7 +3506,7 @@
 		"SUBCMD2": 291,
 		"MSGID": 193,
 		"JPN": "すべての文に目を通し、俺なりにまとめあげることにした。",
-		"ENG": "",
+		"ENG": "I read every document to piece the information together.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3516,7 +3516,7 @@
 		"SUBCMD2": 292,
 		"MSGID": 194,
 		"JPN": "緩慢に俺たちを消していくものへの、それが精一杯の抵抗だった。",
-		"ENG": "",
+		"ENG": "That was my all-out struggle against those who sought to erase our existence.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3626,7 +3626,7 @@
 		"SUBCMD2": 301,
 		"MSGID": 195,
 		"JPN": "そして…",
-		"ENG": "",
+		"ENG": "In time...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3636,7 +3636,7 @@
 		"SUBCMD2": 302,
 		"MSGID": 196,
 		"JPN": "ふたたび巡ってきた、夏。",
-		"ENG": "",
+		"ENG": "The second summer came around.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3728,7 +3728,7 @@
 		"SUBCMD2": 309,
 		"MSGID": 197,
 		"JPN": "石室の中央に、$[護摩$/ごま$]が焚かれている。",
-		"ENG": "",
+		"ENG": "Uraha set up an altar with a fire in the center of the stony room.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3738,7 +3738,7 @@
 		"SUBCMD2": 310,
 		"MSGID": 198,
 		"JPN": "炎のまわりには、俺と裏葉しかいない。",
-		"ENG": "",
+		"ENG": "There was no one around except Uraha and me.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3750,8 +3750,8 @@
 		"VOICEID": 24635,
 		"NameJPN": "裏葉",
 		"JPN": "「…では、はじめますわ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Let us begin.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3761,7 +3761,7 @@
 		"SUBCMD2": 312,
 		"MSGID": 200,
 		"JPN": "裏葉が詠唱をはじめる。",
-		"ENG": "",
+		"ENG": "Uraha began to chant.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3771,7 +3771,7 @@
 		"SUBCMD2": 313,
 		"MSGID": 201,
 		"JPN": "独特の高い声が、岩壁に響く。",
-		"ENG": "",
+		"ENG": "Her characteristic high-pitched voice bounced off the stone walls.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3781,7 +3781,7 @@
 		"SUBCMD2": 314,
 		"MSGID": 202,
 		"JPN": "$[霊寄せ$/たまよせ$]の術。",
-		"ENG": "",
+		"ENG": "It was the soul-summoning spell.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3791,7 +3791,7 @@
 		"SUBCMD2": 315,
 		"MSGID": 203,
 		"JPN": "己の魂を寄りましにして、他者の魂を引き寄せる術。",
-		"ENG": "",
+		"ENG": "It would allow her to attract other souls with her own.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3801,7 +3801,7 @@
 		"SUBCMD2": 316,
 		"MSGID": 204,
 		"JPN": "裏葉の二年間の修行は、すべてこの術の会得のためだった。",
-		"ENG": "",
+		"ENG": "All that Uraha learned in these past two years were for her to master this spell.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3813,8 +3813,8 @@
 		"VOICEID": 24636,
 		"NameJPN": "裏葉",
 		"JPN": "「…あっ…く…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Ah.. Ku...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3824,7 +3824,7 @@
 		"SUBCMD2": 318,
 		"MSGID": 206,
 		"JPN": "裏葉の額を、玉の汗が濡らす。",
-		"ENG": "",
+		"ENG": "Uraha's temple was wet with beads of sweat.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3834,7 +3834,7 @@
 		"SUBCMD2": 319,
 		"MSGID": 207,
 		"JPN": "裏葉は今、虚空にただよう霊魂のかけらを一身に受けている。",
-		"ENG": "",
+		"ENG": "She was taking the fragments of wandering souls into her.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3844,7 +3844,7 @@
 		"SUBCMD2": 320,
 		"MSGID": 208,
 		"JPN": "少しでも気を抜けば、魂を乗っ取られる危険すらある。",
-		"ENG": "",
+		"ENG": "There was a danger of her getting possessed if she lost focus even for a second.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3856,8 +3856,8 @@
 		"VOICEID": 24637,
 		"NameJPN": "裏葉",
 		"JPN": "「…うっ…あああ…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Uu... Aaaa...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3867,7 +3867,7 @@
 		"SUBCMD2": 322,
 		"MSGID": 210,
 		"JPN": "うめき声が大きくなる。",
-		"ENG": "",
+		"ENG": "Her moans became louder.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3879,8 +3879,8 @@
 		"VOICEID": 24638,
 		"NameJPN": "裏葉",
 		"JPN": "「…いやっ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"No...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3892,8 +3892,8 @@
 		"VOICEID": 24639,
 		"NameJPN": "柳也",
 		"JPN": "「裏葉？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Uraha?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3905,8 +3905,8 @@
 		"VOICEID": 24640,
 		"NameJPN": "裏葉",
 		"JPN": "「いゃぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁあっ！」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"NOOOOOOOOOOOOOOOOOOOO!!\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3916,7 +3916,7 @@
 		"SUBCMD2": 326,
 		"MSGID": 214,
 		"JPN": "魂そのものを引きちぎられるような絶叫。",
-		"ENG": "",
+		"ENG": "She screamed so loudly, her soul might as well been torn apart.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3926,7 +3926,7 @@
 		"SUBCMD2": 327,
 		"MSGID": 215,
 		"JPN": "護摩壇の炎がかき消えた。",
-		"ENG": "",
+		"ENG": "The fire on the altar died out.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3938,8 +3938,8 @@
 		"VOICEID": 24641,
 		"NameJPN": "柳也",
 		"JPN": "「裏葉っ！」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Uraha!\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3951,8 +3951,8 @@
 		"VOICEID": 24642,
 		"NameJPN": "柳也",
 		"JPN": "「裏葉っ！　しっかりしろ！」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Uraha! Are you all right?!\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3962,7 +3962,7 @@
 		"SUBCMD2": 330,
 		"MSGID": 218,
 		"JPN": "暗闇の中、手探りで抱き起こす。",
-		"ENG": "",
+		"ENG": "I fumbled to hold her up in the darkness.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3972,7 +3972,7 @@
 		"SUBCMD2": 331,
 		"MSGID": 219,
 		"JPN": "滝のように流れる汗を指先に感じた。",
-		"ENG": "",
+		"ENG": "She was sweating profusely.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3984,8 +3984,8 @@
 		"VOICEID": 24643,
 		"NameJPN": "裏葉",
 		"JPN": "「…うっ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Uu...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -3995,7 +3995,7 @@
 		"SUBCMD2": 333,
 		"MSGID": 221,
 		"JPN": "吐息と共に、裏葉が身じろぎした。",
-		"ENG": "",
+		"ENG": "Uraha stirred and let out a small moan.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4005,7 +4005,7 @@
 		"SUBCMD2": 334,
 		"MSGID": 222,
 		"JPN": "どうやら正気に戻ったらしい。",
-		"ENG": "",
+		"ENG": "She seemed to be back to normal.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4017,8 +4017,8 @@
 		"VOICEID": 24644,
 		"NameJPN": "柳也",
 		"JPN": "「…裏葉？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Uraha?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4030,8 +4030,8 @@
 		"VOICEID": 24645,
 		"NameJPN": "裏葉",
 		"JPN": "「…柳也さまが…柳也さまが…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Sir Ryuuya... You're...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4041,7 +4041,7 @@
 		"SUBCMD2": 337,
 		"MSGID": 225,
 		"JPN": "裏葉はそのまま気を失った。",
-		"ENG": "",
+		"ENG": "Uraha then lost consciousness.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4147,8 +4147,8 @@
 		"VOICEID": 24646,
 		"NameJPN": "柳也",
 		"JPN": "「目が覚めたか？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Are you awake?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4158,7 +4158,7 @@
 		"SUBCMD2": 345,
 		"MSGID": 227,
 		"JPN": "数刻後。",
-		"ENG": "",
+		"ENG": "A few hours had passed.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4168,7 +4168,7 @@
 		"SUBCMD2": 346,
 		"MSGID": 228,
 		"JPN": "裏葉の目蓋が開いた。",
-		"ENG": "",
+		"ENG": "Uraha opened her eyes.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4178,7 +4178,7 @@
 		"SUBCMD2": 347,
 		"MSGID": 229,
 		"JPN": "暗がりの中でさえ、顔が蒼白なのがわかる。",
-		"ENG": "",
+		"ENG": "Her face looked ashen, even in the darkness.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4188,7 +4188,7 @@
 		"SUBCMD2": 348,
 		"MSGID": 230,
 		"JPN": "手ぬぐいで額の汗を拭ってやった。",
-		"ENG": "",
+		"ENG": "I wiped the sweat off her forehead with a piece of cloth.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4241,8 +4241,8 @@
 		"VOICEID": 24647,
 		"NameJPN": "裏葉",
 		"JPN": "「柳也、さま…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Sir Ryuuya...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4252,7 +4252,7 @@
 		"SUBCMD2": 353,
 		"MSGID": 232,
 		"JPN": "安心したように、俺の名を呼んだ。",
-		"ENG": "",
+		"ENG": "She called my name, looking relieved.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4262,7 +4262,7 @@
 		"SUBCMD2": 354,
 		"MSGID": 233,
 		"JPN": "ゆっくりと上体を起こす。",
-		"ENG": "",
+		"ENG": "Then she slowly sat up.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4272,7 +4272,7 @@
 		"SUBCMD2": 355,
 		"MSGID": 234,
 		"JPN": "俺になにかを伝えようとするが、言葉にならない。",
-		"ENG": "",
+		"ENG": "She wanted to tell me something then, but she could not seem to put it into words.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4284,8 +4284,8 @@
 		"VOICEID": 24648,
 		"NameJPN": "柳也",
 		"JPN": "「なにを見た？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"What did you see?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4337,8 +4337,8 @@
 		"MSGID": 236,
 		"NameJPN": "裏葉",
 		"JPN": "「………」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4350,8 +4350,8 @@
 		"VOICEID": 24650,
 		"NameJPN": "柳也",
 		"JPN": "「神奈に逢えたか？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Did you meet Kanna?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4363,8 +4363,8 @@
 		"VOICEID": 24651,
 		"NameJPN": "裏葉",
 		"JPN": "「…はい」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Yes...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4376,8 +4376,8 @@
 		"VOICEID": 24652,
 		"NameJPN": "柳也",
 		"JPN": "「神奈はどこにいたんだ？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Where's Kanna?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4389,8 +4389,8 @@
 		"VOICEID": 24653,
 		"NameJPN": "裏葉",
 		"JPN": "「神奈さまは…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Lady Kanna...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4435,7 +4435,7 @@
 		"SUBCMD2": 368,
 		"MSGID": 241,
 		"JPN": "言葉を切り、視線を上向ける。",
-		"ENG": "",
+		"ENG": "Her voice trailed off. She looked upwards.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4488,8 +4488,8 @@
 		"VOICEID": 24654,
 		"NameJPN": "裏葉",
 		"JPN": "「神奈さまは、まだ空におられます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Lady Kanna is still in the sky.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4501,8 +4501,8 @@
 		"VOICEID": 24655,
 		"NameJPN": "柳也",
 		"JPN": "「空…に？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"In the sky?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4555,8 +4555,8 @@
 		"VOICEID": 24656,
 		"NameJPN": "裏葉",
 		"JPN": "「神奈さまは、今も悲しんでおられますっ…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"She's still in pain...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4566,7 +4566,7 @@
 		"SUBCMD2": 378,
 		"MSGID": 245,
 		"JPN": "吐き出すように言うと、唇を固く噛みしめた。",
-		"ENG": "",
+		"ENG": "She forced those words out of her pursed lips.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4576,7 +4576,7 @@
 		"SUBCMD2": 379,
 		"MSGID": 246,
 		"JPN": "神奈の魂を虚空に捕らえたものの正体を、裏葉は『観て』きたはずだ。",
-		"ENG": "",
+		"ENG": "Uraha must have seen what was causing Kanna's soul to be trapped in the void.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4586,7 +4586,7 @@
 		"SUBCMD2": 380,
 		"MSGID": 247,
 		"JPN": "思い出すことさえ、苦しいのかもしれない。",
-		"ENG": "",
+		"ENG": "It must be painful for her to even recall it.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4596,7 +4596,7 @@
 		"SUBCMD2": 381,
 		"MSGID": 248,
 		"JPN": "それでもあえて、俺はこう問わずにはいられなかった。",
-		"ENG": "",
+		"ENG": "However, I had to question her further.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4608,8 +4608,8 @@
 		"VOICEID": 24657,
 		"NameJPN": "柳也",
 		"JPN": "「それを、俺に見せることができるか？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Can you show me?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4619,7 +4619,7 @@
 		"SUBCMD2": 383,
 		"MSGID": 250,
 		"JPN": "間髪を入れずに、答えは返ってきた。",
-		"ENG": "",
+		"ENG": "She replied without a moment's pause.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4672,8 +4672,8 @@
 		"VOICEID": 24658,
 		"NameJPN": "裏葉",
 		"JPN": "「できません」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I cannot.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4683,7 +4683,7 @@
 		"SUBCMD2": 388,
 		"MSGID": 252,
 		"JPN": "いつもと変わらない口調。",
-		"ENG": "",
+		"ENG": "Her tone of voice did not change.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4693,7 +4693,7 @@
 		"SUBCMD2": 389,
 		"MSGID": 253,
 		"JPN": "だが、たやすく嘘と見破ることができた。",
-		"ENG": "",
+		"ENG": "Yet I could tell that she was lying.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4705,8 +4705,8 @@
 		"VOICEID": 24659,
 		"NameJPN": "柳也",
 		"JPN": "「できないんじゃなくて、俺には見せたくないんだな」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"It's not that you can't. You don't want me to see it.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4758,8 +4758,8 @@
 		"MSGID": 255,
 		"NameJPN": "裏葉",
 		"JPN": "「………」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4771,8 +4771,8 @@
 		"VOICEID": 24661,
 		"NameJPN": "柳也",
 		"JPN": "「見せてくれないか？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Will you show me?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4784,8 +4784,8 @@
 		"VOICEID": 24662,
 		"NameJPN": "柳也",
 		"JPN": "「どんなことがあっても、もう俺は逃げたくない」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"I won't run away anymore, no matter what happens.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4838,8 +4838,8 @@
 		"VOICEID": 24663,
 		"NameJPN": "裏葉",
 		"JPN": "「ですが…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"But...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4851,8 +4851,8 @@
 		"VOICEID": 24664,
 		"NameJPN": "柳也",
 		"JPN": "「頼む」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"I beg of you.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4862,7 +4862,7 @@
 		"SUBCMD2": 402,
 		"MSGID": 260,
 		"JPN": "ただじっと、裏葉の目を見つめる。",
-		"ENG": "",
+		"ENG": "I watched Uraha intently.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4872,7 +4872,7 @@
 		"SUBCMD2": 403,
 		"MSGID": 261,
 		"JPN": "やがて、裏葉は言った。",
-		"ENG": "",
+		"ENG": "Finally, Uraha spoke.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4925,8 +4925,8 @@
 		"VOICEID": 24665,
 		"NameJPN": "裏葉",
 		"JPN": "「わかりました」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Very well.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -4977,7 +4977,7 @@
 		"SUBCMD2": 412,
 		"MSGID": 263,
 		"JPN": "そして、そっと溜息を吐いた。",
-		"ENG": "",
+		"ENG": "She breathed out slowly.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5028,7 +5028,7 @@
 		"SUBCMD2": 416,
 		"MSGID": 264,
 		"JPN": "裏葉の瞳から感情が退いていき、意志だけが宿った。",
-		"ENG": "",
+		"ENG": "The emotion had left her eyes. Only determination remained.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5079,7 +5079,7 @@
 		"SUBCMD2": 420,
 		"MSGID": 265,
 		"JPN": "お気持ちを、おしずめください…。言われた通りに、俺は心を平静に保つ。",
-		"ENG": "",
+		"ENG": "\"Please let your mind be still...\". Following her instruction, I removed my mind of all thoughts.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5130,7 +5130,7 @@
 		"SUBCMD2": 426,
 		"MSGID": 266,
 		"JPN": "裏葉が呪文を口ずさみはじめる。",
-		"ENG": "",
+		"ENG": "Uraha began to hum an incantation.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5140,7 +5140,7 @@
 		"SUBCMD2": 427,
 		"MSGID": 267,
 		"JPN": "これも方術のひとつだ。",
-		"ENG": "",
+		"ENG": "That was also a type of Houjutsu.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5150,7 +5150,7 @@
 		"SUBCMD2": 428,
 		"MSGID": 268,
 		"JPN": "裏葉が想い描いたままの影像が、俺の心に映し出される。",
-		"ENG": "",
+		"ENG": "An image that Uraha imagined appeared in my mind.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5160,7 +5160,7 @@
 		"SUBCMD2": 429,
 		"MSGID": 269,
 		"JPN": "心を綿毛で撫でられるような、不思議な感覚に包まれていく…",
-		"ENG": "",
+		"ENG": "It was a strange feeling, like having my mind caressed by fluffy cloth.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5358,7 +5358,7 @@
 		"SUBCMD2": 442,
 		"MSGID": 270,
 		"JPN": "夏だった。",
-		"ENG": "",
+		"ENG": "It was a day in summer.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5368,7 +5368,7 @@
 		"SUBCMD2": 443,
 		"MSGID": 271,
 		"JPN": "青々とした林の間を、なだらかに続く峠道。",
-		"ENG": "",
+		"ENG": "A gently sloping mountain path cut through the verdant woods.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5378,7 +5378,7 @@
 		"SUBCMD2": 444,
 		"MSGID": 272,
 		"JPN": "見上げれば、どこまでも飛んでゆけそうな空。",
-		"ENG": "",
+		"ENG": "When I looked up, the sky appeared to go on forever.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5388,7 +5388,7 @@
 		"SUBCMD2": 445,
 		"MSGID": 273,
 		"JPN": "道端に男が転がっている。",
-		"ENG": "",
+		"ENG": "There was a man lying by the roadside.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5398,7 +5398,7 @@
 		"SUBCMD2": 446,
 		"MSGID": 274,
 		"JPN": "背に受けた太刀の一撃が、致命傷になったらしい。",
-		"ENG": "",
+		"ENG": "The sword wound he suffered on his back proved to be lethal to him.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5408,7 +5408,7 @@
 		"SUBCMD2": 447,
 		"MSGID": 275,
 		"JPN": "だれかが泣きわめいている。",
-		"ENG": "",
+		"ENG": "Someone was crying.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5418,7 +5418,7 @@
 		"SUBCMD2": 448,
 		"MSGID": 276,
 		"JPN": "二度とは目覚めない$[屍$/かばね$]に取りすがり、髪を振り乱して。",
-		"ENG": "",
+		"ENG": "She was clinging to the corpse of a man who would never wake with her hair disheveled.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5428,7 +5428,7 @@
 		"SUBCMD2": 449,
 		"MSGID": 277,
 		"JPN": "泣いているのは、神奈だった。",
-		"ENG": "",
+		"ENG": "That was Kanna.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5438,7 +5438,7 @@
 		"SUBCMD2": 450,
 		"MSGID": 278,
 		"JPN": "矢を受けてぼろぼろになった翼が、$[陽炎$/かげろう$]のようにゆらめいていた。",
-		"ENG": "",
+		"ENG": "Her wings, tattered by the arrows, shimmered like the summer heat.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5450,8 +5450,8 @@
 		"VOICEID": 24666,
 		"NameJPN": "神奈",
 		"JPN": "「…余の命であるぞっ…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Kanna",
+		"ENG": "\"This is an order...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5463,8 +5463,8 @@
 		"VOICEID": 24667,
 		"NameJPN": "神奈",
 		"JPN": "「起きよ…起きよっ！」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Kanna",
+		"ENG": "\"Wake up... Wake up!\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5476,8 +5476,8 @@
 		"VOICEID": 24668,
 		"NameJPN": "神奈",
 		"JPN": "「なぜ…動かぬ…なぜ、目を開けぬっ…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Kanna",
+		"ENG": "\"Why aren't you moving... Why won't you open your eyes...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5489,8 +5489,8 @@
 		"VOICEID": 24669,
 		"NameJPN": "神奈",
 		"JPN": "「…ゆるさぬぞ…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Kanna",
+		"ENG": "\"I won't forgive you...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5502,8 +5502,8 @@
 		"VOICEID": 24670,
 		"NameJPN": "神奈",
 		"JPN": "「余を、残してゆくなど…ゆるさぬ、ぞ…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Kanna",
+		"ENG": "\"I won't forgive you if you leave me behind...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5515,8 +5515,8 @@
 		"VOICEID": 24671,
 		"NameJPN": "神奈",
 		"JPN": "「なぜ…なぜにみな、余だけを…残して…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Kanna",
+		"ENG": "\"Why... Why did everyone leave me behind...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5526,7 +5526,7 @@
 		"SUBCMD2": 457,
 		"MSGID": 285,
 		"JPN": "屍を揺り動かす。",
-		"ENG": "",
+		"ENG": "She shook the corpse.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5536,7 +5536,7 @@
 		"SUBCMD2": 458,
 		"MSGID": 286,
 		"JPN": "蒼白な顔が、がくりとこちらを向いた。",
-		"ENG": "",
+		"ENG": "Its ghostly pale face slumped towards me.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5546,7 +5546,7 @@
 		"SUBCMD2": 459,
 		"MSGID": 287,
 		"JPN": "それは、俺の顔だった。",
-		"ENG": "",
+		"ENG": "That was my face.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5558,8 +5558,8 @@
 		"VOICEID": 24672,
 		"NameJPN": "神奈",
 		"JPN": "「…柳也どのっ、柳也どのっ…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Kanna",
+		"ENG": "\"Ryuuya... Ryuuya...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5569,7 +5569,7 @@
 		"SUBCMD2": 461,
 		"MSGID": 289,
 		"JPN": "神奈は呼びかける。",
-		"ENG": "",
+		"ENG": "Kanna wailed.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5581,8 +5581,8 @@
 		"VOICEID": 24673,
 		"NameJPN": "神奈",
 		"JPN": "「…りゅうやどのっ…りゅうや…どのお…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Kanna",
+		"ENG": "\"Ryuuya... Ryuuya...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5592,7 +5592,7 @@
 		"SUBCMD2": 463,
 		"MSGID": 291,
 		"JPN": "狂ったように、幾度も呼びかける。",
-		"ENG": "",
+		"ENG": "She called again and again, as though she had gone mad.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5602,7 +5602,7 @@
 		"SUBCMD2": 464,
 		"MSGID": 292,
 		"JPN": "…違うっ！",
-		"ENG": "",
+		"ENG": "That's not right!",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5612,7 +5612,7 @@
 		"SUBCMD2": 465,
 		"MSGID": 293,
 		"JPN": "…神奈、俺は無事だ！",
-		"ENG": "",
+		"ENG": "Kanna, I'm still alive!",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5622,7 +5622,7 @@
 		"SUBCMD2": 466,
 		"MSGID": 294,
 		"JPN": "…俺はここにいるっ！　ここにいるんだ！",
-		"ENG": "",
+		"ENG": "I'm here! Right here!",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5632,7 +5632,7 @@
 		"SUBCMD2": 467,
 		"MSGID": 295,
 		"JPN": "俺の叫びは、蝉の声にかき消されて届かない。",
-		"ENG": "",
+		"ENG": "My shouts were drowned out by the cicadas. They could not reach her.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5644,8 +5644,8 @@
 		"VOICEID": 24674,
 		"NameJPN": "神奈",
 		"JPN": "「うっ…うあっ…あああっ…あっ…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Kanna",
+		"ENG": "\"Uu... Uwa... Aaahh... Ah...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5655,7 +5655,7 @@
 		"SUBCMD2": 469,
 		"MSGID": 297,
 		"JPN": "神奈は泣きじゃくっている。",
-		"ENG": "",
+		"ENG": "Kanna was sobbing.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5665,7 +5665,7 @@
 		"SUBCMD2": 470,
 		"MSGID": 298,
 		"JPN": "ひとりぼっちで、ただ泣きじゃくっている…",
-		"ENG": "",
+		"ENG": "She was crying all by herself.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5771,8 +5771,8 @@
 		"VOICEID": 24675,
 		"NameJPN": "柳也",
 		"JPN": "「神奈っ！…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Kanna!\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5782,7 +5782,7 @@
 		"SUBCMD2": 479,
 		"MSGID": 300,
 		"JPN": "洞穴の中で、己の叫びがわんわんと響いていた。",
-		"ENG": "",
+		"ENG": "My cries echoed throughout the cave.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5833,7 +5833,7 @@
 		"SUBCMD2": 483,
 		"MSGID": 301,
 		"JPN": "裏葉が俺を見つめていた。",
-		"ENG": "",
+		"ENG": "Uraha looked at me.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5843,7 +5843,7 @@
 		"SUBCMD2": 484,
 		"MSGID": 302,
 		"JPN": "さまざまな想いを秘めた両眼を、色濃い後悔がおおっていた。",
-		"ENG": "",
+		"ENG": "Remorse overpowered all the other emotions within her eyes.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5855,8 +5855,8 @@
 		"VOICEID": 24676,
 		"NameJPN": "柳也",
 		"JPN": "「神奈は…これを見続けているのか？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Is Kanna seeing the same thing over and over again?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5868,8 +5868,8 @@
 		"VOICEID": 24677,
 		"NameJPN": "裏葉",
 		"JPN": "「はい」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Yes.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5881,8 +5881,8 @@
 		"VOICEID": 24678,
 		"NameJPN": "柳也",
 		"JPN": "「だから、神奈は泣き続けているのか？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Is that why Kanna is still crying?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5894,8 +5894,8 @@
 		"VOICEID": 24679,
 		"NameJPN": "裏葉",
 		"JPN": "「はいっ…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Yes...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5905,7 +5905,7 @@
 		"SUBCMD2": 489,
 		"MSGID": 307,
 		"JPN": "かすかな嗚咽が混じり、言葉がかすれる。",
-		"ENG": "",
+		"ENG": "Her voice was mixed with sobs.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5970,8 +5970,8 @@
 		"VOICEID": 24680,
 		"NameJPN": "裏葉",
 		"JPN": "「あの夜、神奈さまに向けられた呪法は比類なく強力なものでした」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"The curse that was directed at Kanna that night was an extremely powerful one.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5983,8 +5983,8 @@
 		"VOICEID": 24681,
 		"NameJPN": "裏葉",
 		"JPN": "「神奈さまのお心を砕いてしまうほどに…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"It was enough to break Kanna's mind.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5994,7 +5994,7 @@
 		"SUBCMD2": 498,
 		"MSGID": 310,
 		"JPN": "俺が見たのはきっと、神奈が大切にしたかったもののかけらだ。",
-		"ENG": "",
+		"ENG": "What I saw had to be a piece of Kanna's precious memories.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6004,7 +6004,7 @@
 		"SUBCMD2": 499,
 		"MSGID": 311,
 		"JPN": "三人でたどった旅路の思い出。",
-		"ENG": "",
+		"ENG": "Memories of our journey together.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6014,7 +6014,7 @@
 		"SUBCMD2": 500,
 		"MSGID": 312,
 		"JPN": "俺が聞かせた、いちばん悲しい日の思い出。",
-		"ENG": "",
+		"ENG": "Memories of the most painful day of her life.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6024,7 +6024,7 @@
 		"SUBCMD2": 501,
 		"MSGID": 313,
 		"JPN": "やさしくて強かった、母君の思い出。",
-		"ENG": "",
+		"ENG": "Memories of her strong but tender mother.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6034,7 +6034,7 @@
 		"SUBCMD2": 502,
 		"MSGID": 314,
 		"JPN": "すべてを抱えて神奈は飛び立ち…",
-		"ENG": "",
+		"ENG": "Kanna flew into the sky, shouldering everything.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6044,7 +6044,7 @@
 		"SUBCMD2": 503,
 		"MSGID": 315,
 		"JPN": "そして、力尽きたのだ。",
-		"ENG": "",
+		"ENG": "And now she was spent.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6056,8 +6056,8 @@
 		"VOICEID": 24682,
 		"NameJPN": "柳也",
 		"JPN": "「見えたのは、これだけなのか？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Is that all you can see?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6069,8 +6069,8 @@
 		"VOICEID": 24683,
 		"NameJPN": "裏葉",
 		"JPN": "「はい」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Yes.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6123,8 +6123,8 @@
 		"VOICEID": 24684,
 		"NameJPN": "裏葉",
 		"JPN": "「翼人の心の深さは、人とはまったく異なります」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"The depth of a winged being's mind far exceeds that of a human.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6136,8 +6136,8 @@
 		"VOICEID": 24685,
 		"NameJPN": "裏葉",
 		"JPN": "「わたくしの術では、ほんのうわべを垣間見るのが精一杯でございました」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"With my level of magic, I can only glimpse the surface of her mind.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6149,8 +6149,8 @@
 		"VOICEID": 24686,
 		"NameJPN": "裏葉",
 		"JPN": "「ただ…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"But...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6203,8 +6203,8 @@
 		"VOICEID": 24687,
 		"NameJPN": "裏葉",
 		"JPN": "「呪いは今も、神奈さまを責めさいなんでおります」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"The curse is still torturing Kanna.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6214,7 +6214,7 @@
 		"SUBCMD2": 516,
 		"MSGID": 322,
 		"JPN": "呪い。",
-		"ENG": "",
+		"ENG": "The curse.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6224,7 +6224,7 @@
 		"SUBCMD2": 517,
 		"MSGID": 323,
 		"JPN": "今思えば、その言葉は最初から翼人にまとわりついていた。",
-		"ENG": "",
+		"ENG": "That word seemed to be the bane of the winged beings.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6234,7 +6234,7 @@
 		"SUBCMD2": 518,
 		"MSGID": 324,
 		"JPN": "『母親は人心と交わり、悪鬼と成り果てた……』",
-		"ENG": "",
+		"ENG": "'The mother understood the nature of humans and transformed into a demon...'",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6287,8 +6287,8 @@
 		"VOICEID": 24688,
 		"NameJPN": "裏葉",
 		"JPN": "「母君さまにかけられた$[呪$/しゅ$]もまた、時を経た強固なものでございました」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"The curse that was put upon her mother was a stubborn one.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6298,7 +6298,7 @@
 		"SUBCMD2": 523,
 		"MSGID": 326,
 		"JPN": "『比丘尼どのはさぞ無念でしたでしょうな…』",
-		"ENG": "",
+		"ENG": "'Bikuni-dono must have lamented her fate...'",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6310,8 +6310,8 @@
 		"VOICEID": 24689,
 		"NameJPN": "裏葉",
 		"JPN": "「それは翼人に心を寄せる者を弱らせ、やがては死に至らしめます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"The curse weakens those who form relationships with the winged being and eventually kills them.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6321,7 +6321,7 @@
 		"SUBCMD2": 525,
 		"MSGID": 328,
 		"JPN": "『ぬしらも、無事ではすまぬのだぞ…』",
-		"ENG": "",
+		"ENG": "'You won't come out of this unscathed...'",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6333,8 +6333,8 @@
 		"VOICEID": 24690,
 		"NameJPN": "裏葉",
 		"JPN": "「母君さまとの別れの折、呪いもまた神奈さまに引き継がれました」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"When Kanna's mother left this world, Lady Kanna inherited her curse.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6344,7 +6344,7 @@
 		"SUBCMD2": 527,
 		"MSGID": 330,
 		"JPN": "『母を、ゆるしてくださいね…』",
-		"ENG": "",
+		"ENG": "'Please forgive me, my child...'",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6356,8 +6356,8 @@
 		"VOICEID": 24691,
 		"NameJPN": "裏葉",
 		"JPN": "「柳也さまはお生命を奪われましょう」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Your life will be taken as well, Sir Ryuuya...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6367,7 +6367,7 @@
 		"SUBCMD2": 529,
 		"MSGID": 332,
 		"JPN": "『柳也どの、死なないでほしい…』",
-		"ENG": "",
+		"ENG": "'Ryuuya, please do not die...'",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6379,8 +6379,8 @@
 		"VOICEID": 24692,
 		"NameJPN": "裏葉",
 		"JPN": "「神奈さまの、想いの深さゆえに…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Because of how much Lady Kanna loved you...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6392,8 +6392,8 @@
 		"VOICEID": 24693,
 		"NameJPN": "柳也",
 		"JPN": "「そうか」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Is that so...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6403,7 +6403,7 @@
 		"SUBCMD2": 532,
 		"MSGID": 335,
 		"JPN": "俺はただ頷いた。",
-		"ENG": "",
+		"ENG": "I simply nodded.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6413,7 +6413,7 @@
 		"SUBCMD2": 533,
 		"MSGID": 336,
 		"JPN": "きっかけは、高野でのあの夜なのだろう。",
-		"ENG": "",
+		"ENG": "It must have begun since that night in Kouya.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6423,7 +6423,7 @@
 		"SUBCMD2": 534,
 		"MSGID": 337,
 		"JPN": "あれ以来、得体の知れないなにかが俺の生命を$[蝕$/むしば$]んでいくのを感じていた。",
-		"ENG": "",
+		"ENG": "I felt something was eating away at my life.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6433,7 +6433,7 @@
 		"SUBCMD2": 535,
 		"MSGID": 338,
 		"JPN": "それが神奈と関わりがあることも、うすうす感づいていた。",
-		"ENG": "",
+		"ENG": "I had always had the faint feeling that it had something to do with Kanna.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6445,8 +6445,8 @@
 		"VOICEID": 24694,
 		"NameJPN": "柳也",
 		"JPN": "「俺は、いつ死ぬんだ？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"When will I die?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6458,8 +6458,8 @@
 		"VOICEID": 24695,
 		"NameJPN": "裏葉",
 		"JPN": "「今より$[一年$/ひととせ$]は保つまいと…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I'm afraid you don't have more than a year...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6471,8 +6471,8 @@
 		"VOICEID": 24696,
 		"NameJPN": "柳也",
 		"JPN": "「死ぬのは、俺だけか？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Am I the only one who will die?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6482,7 +6482,7 @@
 		"SUBCMD2": 539,
 		"MSGID": 342,
 		"JPN": "その問いに、裏葉はかすかに顎を動かした。",
-		"ENG": "",
+		"ENG": "Uraha lips moved.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6535,8 +6535,8 @@
 		"VOICEID": 24697,
 		"NameJPN": "裏葉",
 		"JPN": "「はい」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Yes.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6589,8 +6589,8 @@
 		"VOICEID": 24698,
 		"NameJPN": "裏葉",
 		"JPN": "「柳也さまは、神奈さまの想いを常に受けとめておられます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"You're always on Lady Kanna's mind.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6602,8 +6602,8 @@
 		"VOICEID": 24699,
 		"NameJPN": "裏葉",
 		"JPN": "「わたくし自身は方術で受け流しもできますが、柳也さまは…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I'm able to deflect the curse with my Houjutsu, but for you...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6615,8 +6615,8 @@
 		"VOICEID": 24700,
 		"NameJPN": "柳也",
 		"JPN": "「そうか…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Is that so...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6628,8 +6628,8 @@
 		"VOICEID": 24701,
 		"NameJPN": "柳也",
 		"JPN": "「よかった」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"That's a good thing.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6682,8 +6682,8 @@
 		"VOICEID": 24702,
 		"NameJPN": "裏葉",
 		"JPN": "「よくなどございませんっ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"That's not a good thing at all.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6693,7 +6693,7 @@
 		"SUBCMD2": 555,
 		"MSGID": 349,
 		"JPN": "衣の膝を、両手でぎりりと絞る。",
-		"ENG": "",
+		"ENG": "Her hands tightened on the hem of her clothes.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6705,8 +6705,8 @@
 		"VOICEID": 24703,
 		"NameJPN": "裏葉",
 		"JPN": "「なにゆえ柳也さまが死なねばならないのですかっ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Why do you have to die?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6718,8 +6718,8 @@
 		"VOICEID": 24704,
 		"NameJPN": "裏葉",
 		"JPN": "「なにゆえ神奈さまが苦しまねばならないのですかっ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Why does Lady Kanna have to suffer so?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6731,8 +6731,8 @@
 		"VOICEID": 24705,
 		"NameJPN": "裏葉",
 		"JPN": "「なにゆえ、わたくしだけが」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Why... Why am I the only one...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6785,8 +6785,8 @@
 		"VOICEID": 24706,
 		"NameJPN": "裏葉",
 		"JPN": "「生き残らねば…ならないのですか…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Why am I the only one left behind...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6796,7 +6796,7 @@
 		"SUBCMD2": 563,
 		"MSGID": 354,
 		"JPN": "押し殺した$[慟哭$/どうこく$]が、裏葉の喉から漏れる。",
-		"ENG": "",
+		"ENG": "The wail she had been holding back for some time escaped from her throat.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6806,7 +6806,7 @@
 		"SUBCMD2": 564,
 		"MSGID": 355,
 		"JPN": "だが俺は、あきらめるわけにはいかない。",
-		"ENG": "",
+		"ENG": "Still, I could not give up now.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6818,8 +6818,8 @@
 		"VOICEID": 24707,
 		"NameJPN": "柳也",
 		"JPN": "「どうしたら、神奈を救える？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"How can I save Kanna?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6871,8 +6871,8 @@
 		"MSGID": 357,
 		"NameJPN": "裏葉",
 		"JPN": "「………」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6884,8 +6884,8 @@
 		"VOICEID": 24709,
 		"NameJPN": "柳也",
 		"JPN": "「答えてくれ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Answer me.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6897,8 +6897,8 @@
 		"VOICEID": 24710,
 		"NameJPN": "柳也",
 		"JPN": "「どんなささいなことでもいい」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Tell me anything, no matter how impossible it may seem.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6951,8 +6951,8 @@
 		"VOICEID": 24711,
 		"NameJPN": "裏葉",
 		"JPN": "「神奈さまをお救いする$[術$/すべ$]はございません」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"There's no way to save Lady Kanna.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6964,8 +6964,8 @@
 		"VOICEID": 24712,
 		"NameJPN": "柳也",
 		"JPN": "「ないのか？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"None?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6977,8 +6977,8 @@
 		"VOICEID": 24713,
 		"NameJPN": "柳也",
 		"JPN": "「ひとつもないのか？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Not even a single way?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6988,7 +6988,7 @@
 		"SUBCMD2": 578,
 		"MSGID": 363,
 		"JPN": "そして裏葉は、はっきりと頷いた。",
-		"ENG": "",
+		"ENG": "Uraha nodded.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7041,8 +7041,8 @@
 		"VOICEID": 24714,
 		"NameJPN": "裏葉",
 		"JPN": "「神奈さまを空に捕らえている封術は、いつか朽ちる日も来ます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"The sealing spell that binds Lady Kanna to the sky will fade away with time.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7054,8 +7054,8 @@
 		"VOICEID": 24715,
 		"NameJPN": "裏葉",
 		"JPN": "「神奈さまの魂は地上に戻り、$[輪廻$/りんね$]を繰り返すことになりましょう」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"One day, Lady Kanna's soul will return to the earth and be reincarnated.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7067,8 +7067,8 @@
 		"VOICEID": 24716,
 		"NameJPN": "裏葉",
 		"JPN": "「しかしながら、呪いは消えることはございません」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"But that doesn't mean that the curse will go away.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7080,8 +7080,8 @@
 		"VOICEID": 24717,
 		"NameJPN": "柳也",
 		"JPN": "「なぜだ？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Why is that?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7093,8 +7093,8 @@
 		"VOICEID": 24718,
 		"NameJPN": "裏葉",
 		"JPN": "「翼人は夢を継ぐものでございます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"The winged beings inherit dreams.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7104,7 +7104,7 @@
 		"SUBCMD2": 587,
 		"MSGID": 369,
 		"JPN": "法師から得た知識と伝承をつき合わせ、わかってきたことがある。",
-		"ENG": "",
+		"ENG": "That was something that I already understood from the priests and the folklores.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7114,7 +7114,7 @@
 		"SUBCMD2": 588,
 		"MSGID": 370,
 		"JPN": "翼人は夢を継ぐ。",
-		"ENG": "",
+		"ENG": "Winged beings inherit dreams.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7124,7 +7124,7 @@
 		"SUBCMD2": 589,
 		"MSGID": 371,
 		"JPN": "おそらく、夢とは記憶のことを指す。",
-		"ENG": "",
+		"ENG": "Dreams most likely referred to their memories.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7134,7 +7134,7 @@
 		"SUBCMD2": 590,
 		"MSGID": 372,
 		"JPN": "つまり、翼人はなんらかの手段によって、子孫に記憶を引き継がせてきたのだ。",
-		"ENG": "",
+		"ENG": "This means that the winged beings, through some unknown method, passed on their memories to their descendants.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7144,7 +7144,7 @@
 		"SUBCMD2": 591,
 		"MSGID": 373,
 		"JPN": "蓄えられた記憶は膨大なはずだ。",
-		"ENG": "",
+		"ENG": "The memories they accrued must be enormous.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7154,7 +7154,7 @@
 		"SUBCMD2": 592,
 		"MSGID": 374,
 		"JPN": "その中には人知を越えた知識や経験も含まれるだろう。",
-		"ENG": "",
+		"ENG": "Among their memories must be knowledge and experience that were out of the reach of humans.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7164,7 +7164,7 @@
 		"SUBCMD2": 593,
 		"MSGID": 375,
 		"JPN": "そしてそれこそが、翼人が人に智を授けたとされる理由。",
-		"ENG": "",
+		"ENG": "This must also be why the winged beings were said to confer wisdom to humans.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7174,7 +7174,7 @@
 		"SUBCMD2": 594,
 		"MSGID": 376,
 		"JPN": "同時に、翼人が不老不死と誤解されてきた理由でもある。",
-		"ENG": "",
+		"ENG": "At the same time, it must also be the reason why they were mistaken for being immortal.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7184,7 +7184,7 @@
 		"SUBCMD2": 595,
 		"MSGID": 377,
 		"JPN": "あの夜、母君が矢に倒れたあと。",
-		"ENG": "",
+		"ENG": "After Kanna's mother was shot by arrows that night...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7194,7 +7194,7 @@
 		"SUBCMD2": 596,
 		"MSGID": 378,
 		"JPN": "神奈は母君から、翼人という種族の歴史すべてを渡されていたのだ。",
-		"ENG": "",
+		"ENG": "Kanna must have inherited the history of her species from her mother.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7204,7 +7204,7 @@
 		"SUBCMD2": 597,
 		"MSGID": 379,
 		"JPN": "そしてそれには、母君の記憶も含まれていたはずだ。",
-		"ENG": "",
+		"ENG": "And there was something that was included with her mother's memories...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7214,7 +7214,7 @@
 		"SUBCMD2": 598,
 		"MSGID": 380,
 		"JPN": "同時に、母君から受け継いだ呪いも…",
-		"ENG": "",
+		"ENG": "That was the curse... which she had passed on to Kanna...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7267,8 +7267,8 @@
 		"VOICEID": 24719,
 		"NameJPN": "裏葉",
 		"JPN": "「覚えておいででしょうか、以前知徳さまがお話しになったことを」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I'm sure you remember what Master Chitoku said.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7280,8 +7280,8 @@
 		"VOICEID": 24720,
 		"NameJPN": "裏葉",
 		"JPN": "「先ほどの魂寄せの折、この裏葉にもはっきりとわかりました」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I understand now because of the soul summoning.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7334,8 +7334,8 @@
 		"VOICEID": 24721,
 		"NameJPN": "裏葉",
 		"JPN": "「神奈さまは最後の翼人でございます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Kanna was the last winged being.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7347,8 +7347,8 @@
 		"VOICEID": 24722,
 		"NameJPN": "裏葉",
 		"JPN": "「神奈さまのお心を受け継げる者は、もはやこの世にはおりません」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"There's no one left in this world to inherit Lady Kanna memories.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7358,7 +7358,7 @@
 		"SUBCMD2": 609,
 		"MSGID": 385,
 		"JPN": "神奈以外には、翼人は存在しない。",
-		"ENG": "",
+		"ENG": "There were no winged being left besides Kanna.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7368,7 +7368,7 @@
 		"SUBCMD2": 610,
 		"MSGID": 386,
 		"JPN": "それは、俺があえて思い出すまいとしていた事柄だった。",
-		"ENG": "",
+		"ENG": "That was a fact I had hoped not to recall.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7378,7 +7378,7 @@
 		"SUBCMD2": 611,
 		"MSGID": 387,
 		"JPN": "昔、幾度となく経験した感覚に、背中の古傷が疼く。",
-		"ENG": "",
+		"ENG": "The old wound on my back started aching again, a feeling I had experienced countless times.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7388,7 +7388,7 @@
 		"SUBCMD2": 612,
 		"MSGID": 388,
 		"JPN": "それは敗戦の予兆だった。",
-		"ENG": "",
+		"ENG": "That was the premonition of failure.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7400,8 +7400,8 @@
 		"VOICEID": 24723,
 		"NameJPN": "柳也",
 		"JPN": "「しかし、神奈はいつか地上に降りてくる」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"But Kanna will descend to the earth one day.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7413,8 +7413,8 @@
 		"VOICEID": 24724,
 		"NameJPN": "柳也",
 		"JPN": "「人として輪廻転生すれば、呪いもそこで終わるはずだ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"If she gets reborn as a human, her curse should end as well.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7467,8 +7467,8 @@
 		"VOICEID": 24725,
 		"NameJPN": "裏葉",
 		"JPN": "「翼人と人は、異なるものでございます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Winged beings and humans are not the same.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7480,8 +7480,8 @@
 		"VOICEID": 24726,
 		"NameJPN": "裏葉",
 		"JPN": "「神奈さまの魂を人が宿すことは、小さな器に海の水を移すようなもの」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"For Kanna's soul to reside within a human body is like cramming a sea of water into a small vial.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7493,8 +7493,8 @@
 		"VOICEID": 24727,
 		"NameJPN": "裏葉",
 		"JPN": "「注ぎおわるより早く、器は割れてしまいましょう」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"The vial will most certainly break before it is filled.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7506,8 +7506,8 @@
 		"VOICEID": 24728,
 		"NameJPN": "裏葉",
 		"JPN": "「神奈さまの魂は、癒される間さえなく輪廻に戻りましょう」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Lady Kanna's soul will return its cycle of reincarnation before her soul has time to heal.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7560,8 +7560,8 @@
 		"VOICEID": 24729,
 		"NameJPN": "裏葉",
 		"JPN": "「それに…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Besides...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7573,8 +7573,8 @@
 		"VOICEID": 24730,
 		"NameJPN": "裏葉",
 		"JPN": "「この先神奈さまが地上に降りられることがあるとしても…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Even if Lady Kanna is able to return to the ground...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7586,8 +7586,8 @@
 		"VOICEID": 24731,
 		"NameJPN": "裏葉",
 		"JPN": "「早くともそれは、百年ものちのことでございます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"That won't be for another hundred years.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7632,7 +7632,7 @@
 		"SUBCMD2": 631,
 		"MSGID": 398,
 		"JPN": "それきり、裏葉は口をつぐんだ。",
-		"ENG": "",
+		"ENG": "Uraha stopped at that.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7642,7 +7642,7 @@
 		"SUBCMD2": 632,
 		"MSGID": 399,
 		"JPN": "俺は声も出せなかった。",
-		"ENG": "",
+		"ENG": "I could not find anything to say.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7652,7 +7652,7 @@
 		"SUBCMD2": 633,
 		"MSGID": 400,
 		"JPN": "神奈は今も空にいる。",
-		"ENG": "",
+		"ENG": "Kanna is still in the sky.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7662,7 +7662,7 @@
 		"SUBCMD2": 634,
 		"MSGID": 401,
 		"JPN": "それなのに、俺に翼はない。",
-		"ENG": "",
+		"ENG": "Yet I have no wings.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7672,7 +7672,7 @@
 		"SUBCMD2": 635,
 		"MSGID": 402,
 		"JPN": "俺に時は残されていない。",
-		"ENG": "",
+		"ENG": "I had no time left.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7682,7 +7682,7 @@
 		"SUBCMD2": 636,
 		"MSGID": 403,
 		"JPN": "未来永劫、神奈は苦しみ続ける。",
-		"ENG": "",
+		"ENG": "Kanna would suffer for the eternity to come.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7692,7 +7692,7 @@
 		"SUBCMD2": 637,
 		"MSGID": 404,
 		"JPN": "終わらない夏の中で、神奈は大切な者を失い続けるのだ。",
-		"ENG": "",
+		"ENG": "She would lose her loved one repeatedly in that endless summer.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7702,7 +7702,7 @@
 		"SUBCMD2": 638,
 		"MSGID": 405,
 		"JPN": "天井を仰いだ。",
-		"ENG": "",
+		"ENG": "I looked up at the ceiling.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7712,7 +7712,7 @@
 		"SUBCMD2": 639,
 		"MSGID": 406,
 		"JPN": "百年という時の重みが、音もなくのしかかるのを感じた。",
-		"ENG": "",
+		"ENG": "The weight of a hundred years was weighing down upon me.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7722,7 +7722,7 @@
 		"SUBCMD2": 640,
 		"MSGID": 407,
 		"JPN": "神奈を救うこともできず、行く手にはただ死だけが待っている…",
-		"ENG": "",
+		"ENG": "I could not save Kanna, and only death awaited me.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7732,7 +7732,7 @@
 		"SUBCMD2": 641,
 		"MSGID": 408,
 		"JPN": "それでも俺は、絶望に沈むわけにはいかなかった。",
-		"ENG": "",
+		"ENG": "Yet I could not let myself fall into despair.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7742,7 +7742,7 @@
 		"SUBCMD2": 642,
 		"MSGID": 409,
 		"JPN": "涙をはらった裏葉の瞳が、俺をまっすぐに見つめていたからだ。",
-		"ENG": "",
+		"ENG": "Because Uraha was looking intently at me with her tear-filled eyes.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7795,8 +7795,8 @@
 		"VOICEID": 24732,
 		"NameJPN": "裏葉",
 		"JPN": "「ひとつだけ、手だてがございましたわ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"There is one way left.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7806,7 +7806,7 @@
 		"SUBCMD2": 647,
 		"MSGID": 411,
 		"JPN": "声音の奧に、揺るぎない確信があった。",
-		"ENG": "",
+		"ENG": "Her voice was resolute.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7818,8 +7818,8 @@
 		"VOICEID": 24733,
 		"NameJPN": "柳也",
 		"JPN": "「なにか手が…あるというのか？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"There's a way of saving Kanna?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7831,8 +7831,8 @@
 		"VOICEID": 24734,
 		"NameJPN": "裏葉",
 		"JPN": "「はい」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Yes.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7844,8 +7844,8 @@
 		"VOICEID": 24735,
 		"NameJPN": "柳也",
 		"JPN": "「どうすればいい？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"What should I do?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7857,8 +7857,8 @@
 		"VOICEID": 24736,
 		"NameJPN": "裏葉",
 		"JPN": "「簡単なことでございます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"It's simple.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7870,8 +7870,8 @@
 		"VOICEID": 24737,
 		"NameJPN": "裏葉",
 		"JPN": "「子をお作りくださいませ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Please make a child.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7883,8 +7883,8 @@
 		"VOICEID": 24738,
 		"NameJPN": "柳也",
 		"JPN": "「…は？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Huh?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7894,7 +7894,7 @@
 		"SUBCMD2": 654,
 		"MSGID": 418,
 		"JPN": "聞きまちがえたのかと思った。",
-		"ENG": "",
+		"ENG": "I thought I misheard her.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7906,8 +7906,8 @@
 		"VOICEID": 24739,
 		"NameJPN": "裏葉",
 		"JPN": "「ですから、子をお作りくださいませ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Please make a child.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7919,8 +7919,8 @@
 		"VOICEID": 24740,
 		"NameJPN": "裏葉",
 		"JPN": "「子をお残しになれば、柳也さまのご意志も残せましょう？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"An offpring will be able to carry on your will.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7930,7 +7930,7 @@
 		"SUBCMD2": 657,
 		"MSGID": 421,
 		"JPN": "それでやっと、裏葉の言わんとしているところがわかった。",
-		"ENG": "",
+		"ENG": "Finally, I understood what Uraha meant.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7983,8 +7983,8 @@
 		"VOICEID": 24741,
 		"NameJPN": "裏葉",
 		"JPN": "「しかもでございます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"That's not all...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -7996,8 +7996,8 @@
 		"VOICEID": 24742,
 		"NameJPN": "裏葉",
 		"JPN": "「その子が孫に、孫が曾孫にと伝えれば、ご意志はいつまでも朽ちることはありませんわ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"If your child passes your will on to his grandchild, and your grandchild passes it on to his child again, then your will shall never die.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8050,8 +8050,8 @@
 		"VOICEID": 24743,
 		"NameJPN": "裏葉",
 		"JPN": "「そうすればいつの日にか、神奈さまをお救いすることもできましょう」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"And someday, Kanna may be saved.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8061,7 +8061,7 @@
 		"SUBCMD2": 667,
 		"MSGID": 425,
 		"JPN": "名案とばかりに、両手をぱんっと合わせる。",
-		"ENG": "",
+		"ENG": "She clapped her hand together, as though she had hit upon a brilliant idea.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8071,7 +8071,7 @@
 		"SUBCMD2": 668,
 		"MSGID": 426,
 		"JPN": "俺はただただ呆れ返っていた。",
-		"ENG": "",
+		"ENG": "I was flabbergasted.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8083,8 +8083,8 @@
 		"VOICEID": 24744,
 		"NameJPN": "柳也",
 		"JPN": "「子供と言っても、どうするんだ？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"How am I supposed to get a child?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8096,8 +8096,8 @@
 		"VOICEID": 24745,
 		"NameJPN": "柳也",
 		"JPN": "「孤児を捜すとしても、そう簡単じゃないぞ？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"I can't just adopt an orphan, can I?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8150,8 +8150,8 @@
 		"VOICEID": 24746,
 		"NameJPN": "裏葉",
 		"JPN": "「あらあら、そんなこと」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Oh my, silly question.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8163,8 +8163,8 @@
 		"VOICEID": 24747,
 		"NameJPN": "裏葉",
 		"JPN": "「自前でこしらえればよろしいのですわ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"You could just make one yourself.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8174,7 +8174,7 @@
 		"SUBCMD2": 676,
 		"MSGID": 431,
 		"JPN": "いとも簡単に言う。",
-		"ENG": "",
+		"ENG": "Easier said than done.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8186,8 +8186,8 @@
 		"VOICEID": 24748,
 		"NameJPN": "柳也",
 		"JPN": "「…ひとりでそんなもの作れるほど、俺は器用じゃないぞ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"I'm not so dexterous as to be able to make a child by myself.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8240,8 +8240,8 @@
 		"VOICEID": 24749,
 		"NameJPN": "裏葉",
 		"JPN": "「わたくしがお手伝いしますわ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I will help you.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8253,8 +8253,8 @@
 		"VOICEID": 24750,
 		"NameJPN": "柳也",
 		"JPN": "「なるほど」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Good idea.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8266,8 +8266,8 @@
 		"VOICEID": 24751,
 		"NameJPN": "柳也",
 		"JPN": "「…じゃないっ、ちょっと待てっ！」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Wait, hold it there!\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8277,7 +8277,7 @@
 		"SUBCMD2": 684,
 		"MSGID": 436,
 		"JPN": "納得しかけてから、あわてて首を振った。",
-		"ENG": "",
+		"ENG": "After agreeing to her, I shook my head again.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8289,8 +8289,8 @@
 		"VOICEID": 24752,
 		"NameJPN": "柳也",
 		"JPN": "「どういう意味かわかってるのか？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Do you know what you're saying?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8343,8 +8343,8 @@
 		"VOICEID": 24753,
 		"NameJPN": "裏葉",
 		"JPN": "「わたくしも女童ではございません」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I'm no longer a child.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8356,8 +8356,8 @@
 		"VOICEID": 24754,
 		"NameJPN": "裏葉",
 		"JPN": "「$[閨$/ねや$]の作法は心得ております」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I know how to lay with a man.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8369,8 +8369,8 @@
 		"VOICEID": 24755,
 		"NameJPN": "柳也",
 		"JPN": "「そういうことじゃなくてだな…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"That's not the point...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8423,8 +8423,8 @@
 		"VOICEID": 24756,
 		"NameJPN": "裏葉",
 		"JPN": "「ほかに$[術$/すべ$]がございますか？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"You know of another way?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8434,7 +8434,7 @@
 		"SUBCMD2": 696,
 		"MSGID": 442,
 		"JPN": "ぴしゃりとそう言われた。",
-		"ENG": "",
+		"ENG": "She asked me sharply.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8444,7 +8444,7 @@
 		"SUBCMD2": 697,
 		"MSGID": 443,
 		"JPN": "俺は黙りこむしかない。",
-		"ENG": "",
+		"ENG": "I did not.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8497,8 +8497,8 @@
 		"VOICEID": 24757,
 		"NameJPN": "裏葉",
 		"JPN": "「残された時は、あまりにも短うございます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"There's little time left.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8510,8 +8510,8 @@
 		"VOICEID": 24758,
 		"NameJPN": "裏葉",
 		"JPN": "「この上お生命を無駄にされては、神奈さまがお可哀想でございます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Think about Kanna, if you plan to waste your life away.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8564,8 +8564,8 @@
 		"VOICEID": 24759,
 		"NameJPN": "裏葉",
 		"JPN": "「それに、わたくしは嬉しいのです」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Besides, I am happy...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8577,8 +8577,8 @@
 		"VOICEID": 24760,
 		"NameJPN": "裏葉",
 		"JPN": "「柳也さまのお役に立てることが」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"...to be able to help you.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8590,8 +8590,8 @@
 		"VOICEID": 24761,
 		"NameJPN": "裏葉",
 		"JPN": "「神奈さまをお救いするお手伝いができることが…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"As long as Lady Kanna can be saved...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8601,7 +8601,7 @@
 		"SUBCMD2": 709,
 		"MSGID": 449,
 		"JPN": "俺の目を正面から見据え、裏葉は切々と言葉を紡ぐ。",
-		"ENG": "",
+		"ENG": "Uraha looked at me squarely in the eye as she spoke.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8611,7 +8611,7 @@
 		"SUBCMD2": 710,
 		"MSGID": 450,
 		"JPN": "裏葉の無私の心には、これまで幾度となく助けられてきた。",
-		"ENG": "",
+		"ENG": "Her selflessness had saved me many times in the past.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8621,7 +8621,7 @@
 		"SUBCMD2": 711,
 		"MSGID": 451,
 		"JPN": "しかし、今度ばかりはそう簡単にすがるわけにはいかない。",
-		"ENG": "",
+		"ENG": "Yet this was one time I could not give in to her so easily.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8631,7 +8631,7 @@
 		"SUBCMD2": 712,
 		"MSGID": 452,
 		"JPN": "考えあぐねる俺に、裏葉がぽつりと言った。",
-		"ENG": "",
+		"ENG": "Seeing that I was lost, Uraha told me.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8684,8 +8684,8 @@
 		"VOICEID": 24762,
 		"NameJPN": "裏葉",
 		"JPN": "「もうひとつ、理由がございます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"There's one more reason.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8697,8 +8697,8 @@
 		"VOICEID": 24763,
 		"NameJPN": "柳也",
 		"JPN": "「…なんだ？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"And what's that?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8710,8 +8710,8 @@
 		"VOICEID": 24764,
 		"NameJPN": "裏葉",
 		"JPN": "「柳也さまがお亡くなりになれば、わたくしはひとり残されます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"If you die, I'll be left alone in this world.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8764,8 +8764,8 @@
 		"VOICEID": 24765,
 		"NameJPN": "裏葉",
 		"JPN": "「あとを追うことは、柳也さまは決してお赦しにならないでしょう」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"You won't allow me to follow you in death, will you?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8777,8 +8777,8 @@
 		"VOICEID": 24766,
 		"NameJPN": "柳也",
 		"JPN": "「あたりまえだろ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Of course not.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8788,7 +8788,7 @@
 		"SUBCMD2": 724,
 		"MSGID": 458,
 		"JPN": "俺が死んだとしても、裏葉には生きていてほしい。",
-		"ENG": "",
+		"ENG": "I wanted Uraha to live on, even if I was gone.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8798,7 +8798,7 @@
 		"SUBCMD2": 725,
 		"MSGID": 459,
 		"JPN": "たとえ俺の独善だとしても、それだけは譲る気はなかった。",
-		"ENG": "",
+		"ENG": "Even if it were hypocrisy, I would not even tolerate that notion.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8851,8 +8851,8 @@
 		"VOICEID": 24767,
 		"NameJPN": "裏葉",
 		"JPN": "「柳也さまが耐えろとお命じになれば、いかようにも耐えてみせましょう」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"If you order me to bear with living, I will do so.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8862,7 +8862,7 @@
 		"SUBCMD2": 730,
 		"MSGID": 461,
 		"JPN": "俺の想いを受けとめるように、裏葉は言った。",
-		"ENG": "",
+		"ENG": "Uraha was telling me that she would follow my wish.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8915,8 +8915,8 @@
 		"VOICEID": 24768,
 		"NameJPN": "裏葉",
 		"JPN": "「ただ…どうかお考えになってください」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"But please consider this.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8928,8 +8928,8 @@
 		"VOICEID": 24769,
 		"NameJPN": "裏葉",
 		"JPN": "「神奈さまも柳也さまもお側になく、この身ひとつで余生が果てるのを待つ…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I'll have to spend the rest of my life without you and Lady Kanna by my side...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8982,8 +8982,8 @@
 		"VOICEID": 24770,
 		"NameJPN": "裏葉",
 		"JPN": "「あまりにも、酷な仕打ちでございます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"It's a fate worse than death.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8993,7 +8993,7 @@
 		"SUBCMD2": 740,
 		"MSGID": 465,
 		"JPN": "自分の言葉から身を隠すように、そっと目を伏せる。",
-		"ENG": "",
+		"ENG": "She lowered her gaze, as if to shield herself from that reality.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9003,7 +9003,7 @@
 		"SUBCMD2": 741,
 		"MSGID": 466,
 		"JPN": "そして裏葉は、俺にすいと身を寄せてきた。",
-		"ENG": "",
+		"ENG": "Suddenly, Uraha drew herself towards me.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9056,8 +9056,8 @@
 		"VOICEID": 24771,
 		"NameJPN": "裏葉",
 		"JPN": "「せめて忘れ形見を、わたくしにお授けくださいませ…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Please leave me an offspring, if only as a keepsake...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9067,7 +9067,7 @@
 		"SUBCMD2": 746,
 		"MSGID": 468,
 		"JPN": "俺の胸に顔を埋める。",
-		"ENG": "",
+		"ENG": "She buried her face in my chest.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9077,7 +9077,7 @@
 		"SUBCMD2": 747,
 		"MSGID": 469,
 		"JPN": "水干の衿元から、たきしめた香の匂いがした。",
-		"ENG": "",
+		"ENG": "Her clothes smelled of burned incense.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9087,7 +9087,7 @@
 		"SUBCMD2": 748,
 		"MSGID": 470,
 		"JPN": "裏葉と知り合って、もう二年になる。",
-		"ENG": "",
+		"ENG": "I had known Uraha for two years.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9097,7 +9097,7 @@
 		"SUBCMD2": 749,
 		"MSGID": 471,
 		"JPN": "美しいと思うことはあっても、可愛いと思ったことはなかったかもしれない。",
-		"ENG": "",
+		"ENG": "Although I had perceived her as beautiful, never had I thought of her as adorable.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9109,8 +9109,8 @@
 		"VOICEID": 24772,
 		"NameJPN": "柳也",
 		"JPN": "「おまえは本当に、卑怯なやつだよな」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"This isn't fair.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9120,7 +9120,7 @@
 		"SUBCMD2": 751,
 		"MSGID": 473,
 		"JPN": "裏葉の頭をそっと撫でてやる。",
-		"ENG": "",
+		"ENG": "I stroked her head lightly.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9130,7 +9130,7 @@
 		"SUBCMD2": 752,
 		"MSGID": 474,
 		"JPN": "手入れをする暇もなかったのだろう、その髪に以前ほどの艶はない。",
-		"ENG": "",
+		"ENG": "Her hair had lost its sheen, possibly because she had no time to take care of it.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9183,8 +9183,8 @@
 		"VOICEID": 24773,
 		"NameJPN": "裏葉",
 		"JPN": "「己に正直なだけでございます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I'm just being true to myself.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9194,7 +9194,7 @@
 		"SUBCMD2": 757,
 		"MSGID": 476,
 		"JPN": "上目づかいに俺を見て、いつもの澄まし顔をつくる。",
-		"ENG": "",
+		"ENG": "She looked up at me with her usual composure.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9204,7 +9204,7 @@
 		"SUBCMD2": 758,
 		"MSGID": 477,
 		"JPN": "断ることなどできそうになかった。",
-		"ENG": "",
+		"ENG": "I could not refuse her.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9216,8 +9216,8 @@
 		"VOICEID": 24774,
 		"NameJPN": "柳也",
 		"JPN": "「わかった」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Very well.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9229,8 +9229,8 @@
 		"VOICEID": 24775,
 		"NameJPN": "柳也",
 		"JPN": "「裏葉…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Uraha...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9283,8 +9283,8 @@
 		"VOICEID": 24776,
 		"NameJPN": "裏葉",
 		"JPN": "「はい」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Yes.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9296,8 +9296,8 @@
 		"VOICEID": 24777,
 		"NameJPN": "柳也",
 		"JPN": "「俺の子を産んでくれるか？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Will you bear my child?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9350,8 +9350,8 @@
 		"VOICEID": 24778,
 		"NameJPN": "裏葉",
 		"JPN": "「仰せのままに」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"As you wish.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9363,8 +9363,8 @@
 		"VOICEID": 24779,
 		"NameJPN": "柳也",
 		"JPN": "「ただし、ひとつだけ条件がある」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"But on one condition.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9415,7 +9415,7 @@
 		"SUBCMD2": 774,
 		"MSGID": 484,
 		"JPN": "裏葉の両肩に、そっと手を添えた。",
-		"ENG": "",
+		"ENG": "I put both hands on her shoulders.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9427,8 +9427,8 @@
 		"VOICEID": 24780,
 		"NameJPN": "柳也",
 		"JPN": "「裏葉」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Uraha.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9440,8 +9440,8 @@
 		"VOICEID": 24781,
 		"NameJPN": "柳也",
 		"JPN": "「俺は残りの時のすべてを、おまえのために使う」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"I'll use all of the remaining time I have for you.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9494,8 +9494,8 @@
 		"VOICEID": 24782,
 		"NameJPN": "柳也",
 		"JPN": "「それでいいな？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Is that good enough for you?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9505,7 +9505,7 @@
 		"SUBCMD2": 781,
 		"MSGID": 488,
 		"JPN": "裏葉は頷き、そして笑った。",
-		"ENG": "",
+		"ENG": "Uraha nodded and smiled.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9558,8 +9558,8 @@
 		"VOICEID": 24783,
 		"NameJPN": "裏葉",
 		"JPN": "「はいっ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Yes.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9575,7 +9575,7 @@
 		"SUBCMD2": 789,
 		"MSGID": 490,
 		"JPN": "ここ数年来で見せた、いちばんの笑顔だった。",
-		"ENG": "",
+		"ENG": "That was the brightest smile she had shown me in all these years.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9667,7 +9667,7 @@
 		"SUBCMD2": 796,
 		"MSGID": 491,
 		"JPN": "ためらうような喘ぎが、闇夜に溶けていく。",
-		"ENG": "",
+		"ENG": "Her hesitant breathing melted into the darkness.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9677,7 +9677,7 @@
 		"SUBCMD2": 797,
 		"MSGID": 492,
 		"JPN": "指先のひとつひとつに、裏葉のやわらかさを感じる。",
-		"ENG": "",
+		"ENG": "I felt Uraha's softness with every finger.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9687,7 +9687,7 @@
 		"SUBCMD2": 798,
 		"MSGID": 493,
 		"JPN": "裏葉の匂いが鼻をくすぐる。",
-		"ENG": "",
+		"ENG": "Her fragrance filled my nostrils.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9697,7 +9697,7 @@
 		"SUBCMD2": 799,
 		"MSGID": 494,
 		"JPN": "ふと、雲が風に散った。",
-		"ENG": "",
+		"ENG": "The wind scattered the clouds at that instant.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9789,7 +9789,7 @@
 		"SUBCMD2": 805,
 		"MSGID": 495,
 		"JPN": "月が煌々と照らし、裏葉の白い肌を浮きあがらせた。",
-		"ENG": "",
+		"ENG": "The moon illuminated and accentuated Uraha's pale skin.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9799,7 +9799,7 @@
 		"SUBCMD2": 806,
 		"MSGID": 496,
 		"JPN": "俺が考えていたよりずっと、裏葉は受け身だった。",
-		"ENG": "",
+		"ENG": "Uraha was more of the passive kind than I had imagined.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9809,7 +9809,7 @@
 		"SUBCMD2": 807,
 		"MSGID": 497,
 		"JPN": "顔を真っ赤にしたまま、『はじめてのことですので』と打ち明けた。",
-		"ENG": "",
+		"ENG": "It was my first time, so my face was bright red",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9819,7 +9819,7 @@
 		"SUBCMD2": 808,
 		"MSGID": 498,
 		"JPN": "俺は呆れてしまった。",
-		"ENG": "",
+		"ENG": "It was amazing.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9829,7 +9829,7 @@
 		"SUBCMD2": 809,
 		"MSGID": 499,
 		"JPN": "そしていっそう、強く裏葉を求めた。",
-		"ENG": "",
+		"ENG": "Urara was determined to do this.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9839,7 +9839,7 @@
 		"SUBCMD2": 810,
 		"MSGID": 500,
 		"JPN": "$[睦$/むつ$]びあう間、考えを巡らせる余裕はなかった。",
-		"ENG": "",
+		"ENG": "There was no time to think.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9849,7 +9849,7 @@
 		"SUBCMD2": 811,
 		"MSGID": 501,
 		"JPN": "この先に、何が待っているのか。",
-		"ENG": "",
+		"ENG": "What awaits us in the future?",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9859,7 +9859,7 @@
 		"SUBCMD2": 812,
 		"MSGID": 502,
 		"JPN": "俺は知ることも、見届けることもないだろう。",
-		"ENG": "",
+		"ENG": "I won't know or see.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9945,7 +9945,7 @@
 		"SUBCMD2": 818,
 		"MSGID": 503,
 		"JPN": "また、月が隠れた。",
-		"ENG": "",
+		"ENG": "The moon hid away.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9955,7 +9955,7 @@
 		"SUBCMD2": 819,
 		"MSGID": 504,
 		"JPN": "裏葉の髪が、汗に濡れている。",
-		"ENG": "",
+		"ENG": "Urara's head was covered in sweat.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9965,7 +9965,7 @@
 		"SUBCMD2": 820,
 		"MSGID": 505,
 		"JPN": "互いの息が$[昂$/たかぶ$]るのがわかる。",
-		"ENG": "",
+		"ENG": "With the sound of breathing increasing.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9975,7 +9975,7 @@
 		"SUBCMD2": 821,
 		"MSGID": 506,
 		"JPN": "ただこの闇に、ふたり身を委ねる。",
-		"ENG": "",
+		"ENG": "Though the dark night, we went all out.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9985,7 +9985,7 @@
 		"SUBCMD2": 822,
 		"MSGID": 507,
 		"JPN": "終わりない道行きの、それが$[導$/しるべ$]だった。",
-		"ENG": "",
+		"ENG": "It was a never-ending journey.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9995,7 +9995,7 @@
 		"SUBCMD2": 823,
 		"MSGID": 508,
 		"JPN": "そして…",
-		"ENG": "",
+		"ENG": "Soon...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10005,7 +10005,7 @@
 		"SUBCMD2": 824,
 		"MSGID": 509,
 		"JPN": "俺と裏葉は、生命を重ね合った…",
-		"ENG": "",
+		"ENG": "Our life joined into one.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10103,7 +10103,7 @@
 		"SUBCMD2": 833,
 		"MSGID": 510,
 		"JPN": "二月後。",
-		"ENG": "",
+		"ENG": "Two months later",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10113,7 +10113,7 @@
 		"SUBCMD2": 834,
 		"MSGID": 511,
 		"JPN": "裏葉は子を授かっていた。",
-		"ENG": "",
+		"ENG": "Uraha was with child.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10123,7 +10123,7 @@
 		"SUBCMD2": 835,
 		"MSGID": 512,
 		"JPN": "俺はただ、心から喜んだ。",
-		"ENG": "",
+		"ENG": "I was overjoyed.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10215,7 +10215,7 @@
 		"SUBCMD2": 841,
 		"MSGID": 513,
 		"JPN": "時はゆっくりと流れていった。",
-		"ENG": "",
+		"ENG": "Time trickled on.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10313,7 +10313,7 @@
 		"SUBCMD2": 848,
 		"MSGID": 514,
 		"JPN": "秋。",
-		"ENG": "",
+		"ENG": "Autumn arrived.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10325,8 +10325,8 @@
 		"VOICEID": 24784,
 		"NameJPN": "裏葉",
 		"JPN": "「…あまり根をお詰めにならずに」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Please don't overwork yourself...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10336,7 +10336,7 @@
 		"SUBCMD2": 850,
 		"MSGID": 516,
 		"JPN": "裏葉の言葉に、俺はふと筆を置いた。",
-		"ENG": "",
+		"ENG": "I put down my brush upon hearing that.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10346,7 +10346,7 @@
 		"SUBCMD2": 851,
 		"MSGID": 517,
 		"JPN": "灯心のまわりを、羽虫がさかんに舞っていた。",
-		"ENG": "",
+		"ENG": "Insects were flying around the wick of the candle.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10356,7 +10356,7 @@
 		"SUBCMD2": 852,
 		"MSGID": 518,
 		"JPN": "おだやかな生活。",
-		"ENG": "",
+		"ENG": "Our life was peaceful.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10366,7 +10366,7 @@
 		"SUBCMD2": 853,
 		"MSGID": 519,
 		"JPN": "なんのかわりばえもない毎日。",
-		"ENG": "",
+		"ENG": "Every day was the same.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10376,7 +10376,7 @@
 		"SUBCMD2": 854,
 		"MSGID": 520,
 		"JPN": "水瓶で顔を洗い、髪を整え、一日が始まる。",
-		"ENG": "",
+		"ENG": "I washed my face with a jug of water, arranged my hair, and with that my day began.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10386,7 +10386,7 @@
 		"SUBCMD2": 855,
 		"MSGID": 521,
 		"JPN": "裏葉が作った膳を食べる。",
-		"ENG": "",
+		"ENG": "I ate the food Uraha prepared.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10396,7 +10396,7 @@
 		"SUBCMD2": 856,
 		"MSGID": 522,
 		"JPN": "裏葉が縫った衣に袖を通す。",
-		"ENG": "",
+		"ENG": "I put on the clothes that Uraha sewed.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10406,7 +10406,7 @@
 		"SUBCMD2": 857,
 		"MSGID": 523,
 		"JPN": "墨を$[磨$/す$]り、書をしたため、一日が終わる。",
-		"ENG": "",
+		"ENG": "I ground the ink, wrote, and so ended another day.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10418,8 +10418,8 @@
 		"VOICEID": 24785,
 		"NameJPN": "裏葉",
 		"JPN": "「今年の秋は穏やかですわね」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"This is a warm autumn.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10431,8 +10431,8 @@
 		"VOICEID": 24786,
 		"NameJPN": "柳也",
 		"JPN": "「そうだな」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"You're right.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10444,8 +10444,8 @@
 		"VOICEID": 24787,
 		"NameJPN": "裏葉",
 		"JPN": "「これなら稲もよく実りましょうね」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"The rice harvest will be bountiful.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10457,8 +10457,8 @@
 		"VOICEID": 24788,
 		"NameJPN": "柳也",
 		"JPN": "「$[案山子$/かがし$]は大変だろうけどな…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"The scarecrows are going to have a difficult time.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10468,7 +10468,7 @@
 		"SUBCMD2": 862,
 		"MSGID": 528,
 		"JPN": "どうということはない世間話。",
-		"ENG": "",
+		"ENG": "Pointless chatter.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10478,7 +10478,7 @@
 		"SUBCMD2": 863,
 		"MSGID": 529,
 		"JPN": "人の暮らし。",
-		"ENG": "",
+		"ENG": "Daily life.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10488,7 +10488,7 @@
 		"SUBCMD2": 864,
 		"MSGID": 530,
 		"JPN": "大切な人の温もり。",
-		"ENG": "",
+		"ENG": "The warmth of precious ones.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10498,7 +10498,7 @@
 		"SUBCMD2": 865,
 		"MSGID": 531,
 		"JPN": "裏葉がそっと、肩を寄せてくる。",
-		"ENG": "",
+		"ENG": "Uraha leaned against my shoulder.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10508,7 +10508,7 @@
 		"SUBCMD2": 866,
 		"MSGID": 532,
 		"JPN": "俺たちの営みを、月だけが見ている…",
-		"ENG": "",
+		"ENG": "Only the moon watched over us.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10600,7 +10600,7 @@
 		"SUBCMD2": 872,
 		"MSGID": 533,
 		"JPN": "冬。",
-		"ENG": "",
+		"ENG": "Spring arrived.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10612,8 +10612,8 @@
 		"VOICEID": 24789,
 		"NameJPN": "裏葉",
 		"JPN": "「寒くはございませんか？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Do you feel cold?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10623,7 +10623,7 @@
 		"SUBCMD2": 874,
 		"MSGID": 535,
 		"JPN": "衣にくるまった俺に寄り添いながら、裏葉が訊ねる。",
-		"ENG": "",
+		"ENG": "Uraha asked as she coddled against me. I was wrapped in layers of clothes.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10635,8 +10635,8 @@
 		"VOICEID": 24790,
 		"NameJPN": "柳也",
 		"JPN": "「ああ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"I don't.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10646,7 +10646,7 @@
 		"SUBCMD2": 876,
 		"MSGID": 537,
 		"JPN": "今朝は火鉢も役に立たない。",
-		"ENG": "",
+		"ENG": "The furnace was of little use this morning.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10656,7 +10656,7 @@
 		"SUBCMD2": 877,
 		"MSGID": 538,
 		"JPN": "氷水に漬けたように、古傷が悲鳴をあげてきしむ。",
-		"ENG": "",
+		"ENG": "My old wound was aching with the cold.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10668,8 +10668,8 @@
 		"VOICEID": 24791,
 		"NameJPN": "柳也",
 		"JPN": "「おまえこそ、温かくしていろ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"You should warm yourself up first.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10681,8 +10681,8 @@
 		"VOICEID": 24792,
 		"NameJPN": "柳也",
 		"JPN": "「身体を冷やすと、お腹の子に悪いだろ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"It'd be bad for our child if you caught a chill.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10694,8 +10694,8 @@
 		"VOICEID": 24793,
 		"NameJPN": "柳也",
 		"JPN": "「僧坊の手伝いもほどほどにしておけよ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Don't wear yourself out helping the monks.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10707,8 +10707,8 @@
 		"VOICEID": 24794,
 		"NameJPN": "柳也",
 		"JPN": "「それでなくても、おまえは働きすぎるんだからな」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"You're still overworking yourself even if you don't help them.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10720,8 +10720,8 @@
 		"VOICEID": 24795,
 		"NameJPN": "裏葉",
 		"JPN": "「うふふっ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Ufufu...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10733,8 +10733,8 @@
 		"VOICEID": 24796,
 		"NameJPN": "柳也",
 		"JPN": "「…なぜ笑うんだよ？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Why are you laughing?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10746,8 +10746,8 @@
 		"VOICEID": 24797,
 		"NameJPN": "裏葉",
 		"JPN": "「嬉しいからでございます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Because I'm happy.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10757,7 +10757,7 @@
 		"SUBCMD2": 885,
 		"MSGID": 546,
 		"JPN": "痩せ細った俺の手と、自分の手を重ね合わせる。",
-		"ENG": "",
+		"ENG": "She laid a hand over my withered hand.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10767,7 +10767,7 @@
 		"SUBCMD2": 886,
 		"MSGID": 547,
 		"JPN": "裏葉の温かさが伝わってくる。",
-		"ENG": "",
+		"ENG": "She felt warm.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10777,7 +10777,7 @@
 		"SUBCMD2": 887,
 		"MSGID": 548,
 		"JPN": "裏葉のてのひらが、ざらざらに荒れていることも。",
-		"ENG": "",
+		"ENG": "But her palm had turned coarse.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10789,8 +10789,8 @@
 		"VOICEID": 24798,
 		"NameJPN": "裏葉",
 		"JPN": "「…綿入れを借りてきますので」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I'm going to borrow some blankets.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10800,7 +10800,7 @@
 		"SUBCMD2": 889,
 		"MSGID": 550,
 		"JPN": "立ち上がった裏葉が、岩戸を開けたとたんに声をあげた。",
-		"ENG": "",
+		"ENG": "Uraha stood up and opened the door. She let out a gasp of surprise.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10894,8 +10894,8 @@
 		"VOICEID": 24799,
 		"NameJPN": "裏葉",
 		"JPN": "「あらあらまあまあ…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Oh my...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10907,8 +10907,8 @@
 		"VOICEID": 24800,
 		"NameJPN": "柳也",
 		"JPN": "「雪、か…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Snow, huh...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10920,8 +10920,8 @@
 		"VOICEID": 24801,
 		"NameJPN": "裏葉",
 		"JPN": "「道理で冷えるはずですわね」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"That explains the cold.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10933,8 +10933,8 @@
 		"VOICEID": 24802,
 		"NameJPN": "柳也",
 		"JPN": "「こんな土地でも降るんだな…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"So it snows even in this land.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10946,8 +10946,8 @@
 		"VOICEID": 24803,
 		"NameJPN": "柳也",
 		"JPN": "「もう少し戸を開けてくれるか、よく見えるように」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Can you open the door so that I can see better?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10959,8 +10959,8 @@
 		"VOICEID": 24804,
 		"NameJPN": "裏葉",
 		"JPN": "「はい」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Yes.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10970,7 +10970,7 @@
 		"SUBCMD2": 901,
 		"MSGID": 557,
 		"JPN": "次々と舞い降りるのは、純白の結晶だった。",
-		"ENG": "",
+		"ENG": "White crystals were falling from the sky.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10980,7 +10980,7 @@
 		"SUBCMD2": 902,
 		"MSGID": 558,
 		"JPN": "それはまるで、空に清められた$[焔$/ほのお$]のかけらのようで。",
-		"ENG": "",
+		"ENG": "They looked like flickers of flames that had been purified by the sky.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -10990,7 +10990,7 @@
 		"SUBCMD2": 903,
 		"MSGID": 559,
 		"JPN": "冴え冴えとした寒気の中、俺たちはいつまでも見つめていた…",
-		"ENG": "",
+		"ENG": "I watched the snow for a long time in the biting cold.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11082,7 +11082,7 @@
 		"SUBCMD2": 909,
 		"MSGID": 560,
 		"JPN": "春。",
-		"ENG": "",
+		"ENG": "Spring arrived.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11094,8 +11094,8 @@
 		"VOICEID": 24805,
 		"NameJPN": "裏葉",
 		"JPN": "「暖かくなってきましたわね」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"It's become warm.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11105,7 +11105,7 @@
 		"SUBCMD2": 911,
 		"MSGID": 562,
 		"JPN": "針仕事の手を休めずに、裏葉が言う。",
-		"ENG": "",
+		"ENG": "Uraha said while working tirelessly at her needlework.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11115,7 +11115,7 @@
 		"SUBCMD2": 912,
 		"MSGID": 563,
 		"JPN": "岩戸の隙間から、やさしげな光が漏れてくる。",
-		"ENG": "",
+		"ENG": "Gentle rays of light slipped through the gaps around the stone door.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11125,7 +11125,7 @@
 		"SUBCMD2": 913,
 		"MSGID": 564,
 		"JPN": "かすかな$[沈丁花$/じんちょうげ$]の香りに、不意に心がはやる。",
-		"ENG": "",
+		"ENG": "The faint scent of daphane lifted my spirits.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11137,8 +11137,8 @@
 		"VOICEID": 24806,
 		"NameJPN": "裏葉",
 		"JPN": "「今朝は$[土筆$/つくし$]をどっさりと採ってきました」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I plucked heaps of horsetails today.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11150,8 +11150,8 @@
 		"VOICEID": 24807,
 		"NameJPN": "柳也",
 		"JPN": "「そうか…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Is that so...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11163,8 +11163,8 @@
 		"VOICEID": 24808,
 		"NameJPN": "裏葉",
 		"JPN": "「まるで山じゅうが笑っているようですわ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"The whole mountain seems to be smiling.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11174,7 +11174,7 @@
 		"SUBCMD2": 917,
 		"MSGID": 568,
 		"JPN": "俺の枕元には、汚れた布が重ねられている。",
-		"ENG": "",
+		"ENG": "Layers of soiled cloth were piled near my bed.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11184,7 +11184,7 @@
 		"SUBCMD2": 918,
 		"MSGID": 569,
 		"JPN": "夜ごとに喀血する俺の口元をぬぐったものだ。",
-		"ENG": "",
+		"ENG": "I used them to wipe off the blood I coughed up every night.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11194,7 +11194,7 @@
 		"SUBCMD2": 919,
 		"MSGID": 570,
 		"JPN": "芽吹きを待ちかねた少女のように、裏葉は春のことを話す。",
-		"ENG": "",
+		"ENG": "Uraha spoke of spring like a little girl.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11204,7 +11204,7 @@
 		"SUBCMD2": 920,
 		"MSGID": 571,
 		"JPN": "他のものは目に入らないとでも言うように。",
-		"ENG": "",
+		"ENG": "Nothing else seemed to mattered to her.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11216,8 +11216,8 @@
 		"VOICEID": 24809,
 		"NameJPN": "裏葉",
 		"JPN": "「…ほら、できた」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Look, it's done.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11227,7 +11227,7 @@
 		"SUBCMD2": 922,
 		"MSGID": 573,
 		"JPN": "裏葉が縫っていたのは、綿の入った小さな人形だった。",
-		"ENG": "",
+		"ENG": "Uraha just finished sewing a puppet filled with cotton.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11239,8 +11239,8 @@
 		"VOICEID": 24810,
 		"NameJPN": "柳也",
 		"JPN": "「不細工だな」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"It's ugly.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11250,7 +11250,7 @@
 		"SUBCMD2": 924,
 		"MSGID": 575,
 		"JPN": "俺が言うと、裏葉は意味ありげに微笑んだ。",
-		"ENG": "",
+		"ENG": "Uraha smiled knowingly.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11260,7 +11260,7 @@
 		"SUBCMD2": 925,
 		"MSGID": 576,
 		"JPN": "人形を床に置き、そっと念を込める。",
-		"ENG": "",
+		"ENG": "She placed the puppet on the floor and infused her will into it.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11270,7 +11270,7 @@
 		"SUBCMD2": 926,
 		"MSGID": 577,
 		"JPN": "布と綿でできた人形がひとりでに立ち上がり、ひょこひょこと動き出した。",
-		"ENG": "",
+		"ENG": "The puppet which was made from cloth and cotton stood up and started tottering.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11280,7 +11280,7 @@
 		"SUBCMD2": 927,
 		"MSGID": 578,
 		"JPN": "ついでに、俺の胸元に飛び乗る。",
-		"ENG": "",
+		"ENG": "It jumped into my chest.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11290,7 +11290,7 @@
 		"SUBCMD2": 928,
 		"MSGID": 579,
 		"JPN": "俺が手を伸ばそうとするより早く、ころりと転んでただの人形に戻った。",
-		"ENG": "",
+		"ENG": "But it collapsed into a lifeless heap before I could touch it with my hand.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11302,8 +11302,8 @@
 		"VOICEID": 24811,
 		"NameJPN": "柳也",
 		"JPN": "「大したもんだな」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"That's impressive.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11315,8 +11315,8 @@
 		"VOICEID": 24812,
 		"NameJPN": "裏葉",
 		"JPN": "「やや子が産まれたら、これであやしましょう」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I'll amuse the child with this when he's born.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11326,7 +11326,7 @@
 		"SUBCMD2": 931,
 		"MSGID": 582,
 		"JPN": "言いながら、そろそろ膨らみが目立ってきた腹に手を置く。",
-		"ENG": "",
+		"ENG": "Then she placed her hand on her visibly swelling tummy.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11338,8 +11338,8 @@
 		"VOICEID": 24813,
 		"NameJPN": "柳也",
 		"JPN": "「そりゃ、いいな…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"That's... nice...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11349,7 +11349,7 @@
 		"SUBCMD2": 933,
 		"MSGID": 584,
 		"JPN": "俺は答え、絶え間ない鈍痛との戦いに戻った…",
-		"ENG": "",
+		"ENG": "I returned to my battle with the constant dull pain.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11459,7 +11459,7 @@
 		"SUBCMD2": 942,
 		"MSGID": 585,
 		"JPN": "そして…",
-		"ENG": "",
+		"ENG": "Soon...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11557,7 +11557,7 @@
 		"SUBCMD2": 949,
 		"MSGID": 586,
 		"JPN": "山道にもどった時は、日没が近かった。",
-		"ENG": "",
+		"ENG": "The sun was almost down when we returned to the mountain path.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11567,7 +11567,7 @@
 		"SUBCMD2": 950,
 		"MSGID": 587,
 		"JPN": "林の中は嫌にがらんと感じられた。",
-		"ENG": "",
+		"ENG": "The forest felt ominously empty.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11577,7 +11577,7 @@
 		"SUBCMD2": 951,
 		"MSGID": 588,
 		"JPN": "斜光が木々を橙色に染め、闇を迎え入れていく。",
-		"ENG": "",
+		"ENG": "The slanting rays of sunlight turned the trees orange as darkness approached.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11587,7 +11587,7 @@
 		"SUBCMD2": 952,
 		"MSGID": 589,
 		"JPN": "野営の場所をさだめ、背から荷を降ろした。",
-		"ENG": "",
+		"ENG": "We decided on a place to camp and put down our belongings.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11599,8 +11599,8 @@
 		"VOICEID": 24814,
 		"NameJPN": "裏葉",
 		"JPN": "「すぐに水を汲んでまいります」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I'll go fetch some water right away.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11610,7 +11610,7 @@
 		"SUBCMD2": 954,
 		"MSGID": 591,
 		"JPN": "竹筒を取り出した裏葉に、めずらしく神奈が言った。",
-		"ENG": "",
+		"ENG": "After Uraha brought out the bamboo canisters, Kanna said something unexpected.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11622,8 +11622,8 @@
 		"VOICEID": 24815,
 		"NameJPN": "神奈",
 		"JPN": "「余も手伝おうぞ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Kanna",
+		"ENG": "\"Let me help.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11635,8 +11635,8 @@
 		"VOICEID": 24816,
 		"NameJPN": "柳也",
 		"JPN": "「じっとしてろ。怪我でもされたらかなわん」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Stay right here. I can't let you get hurt.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11647,8 +11647,8 @@
 		"MSGID": 594,
 		"NameJPN": "神奈",
 		"JPN": "「………」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Kanna",
+		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11660,8 +11660,8 @@
 		"VOICEID": 24817,
 		"NameJPN": "神奈",
 		"JPN": "「わかった」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Kanna",
+		"ENG": "\"All right.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11671,7 +11671,7 @@
 		"SUBCMD2": 959,
 		"MSGID": 596,
 		"JPN": "いつになく神奈は神妙な様子だった。",
-		"ENG": "",
+		"ENG": "That was unusually obedient of her.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11681,7 +11681,7 @@
 		"SUBCMD2": 960,
 		"MSGID": 597,
 		"JPN": "俺からすこし離れたところで、言いつけられた通りにしている。",
-		"ENG": "",
+		"ENG": "She stayed put as she was told to some distance away from me.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11691,7 +11691,7 @@
 		"SUBCMD2": 961,
 		"MSGID": 598,
 		"JPN": "その様子が、どこか$[儚$/はかな$]げに見えた。",
-		"ENG": "",
+		"ENG": "She looked lonely.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11703,8 +11703,8 @@
 		"VOICEID": 24818,
 		"NameJPN": "柳也",
 		"JPN": "「…神奈？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Kanna?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11716,8 +11716,8 @@
 		"VOICEID": 24819,
 		"NameJPN": "神奈",
 		"JPN": "「ここにいるぞ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Kanna",
+		"ENG": "\"I'm here.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11729,8 +11729,8 @@
 		"VOICEID": 24820,
 		"NameJPN": "柳也",
 		"JPN": "「そうか…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"All right...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11740,7 +11740,7 @@
 		"SUBCMD2": 965,
 		"MSGID": 602,
 		"JPN": "意味のない会話が、どこか照れ臭かった。",
-		"ENG": "",
+		"ENG": "Small talk like this was embarrassing.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11752,8 +11752,8 @@
 		"VOICEID": 24821,
 		"NameJPN": "柳也",
 		"JPN": "「遊ばせとくのも惜しいから、薪でもひろってきてくれ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Help me pick up some kindling if you're feeling bored.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11763,7 +11763,7 @@
 		"SUBCMD2": 967,
 		"MSGID": 604,
 		"JPN": "神奈が意外そうに俺のことを見た。",
-		"ENG": "",
+		"ENG": "Kanna looked at me with surprise.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11775,8 +11775,8 @@
 		"VOICEID": 24822,
 		"NameJPN": "神奈",
 		"JPN": "「…よいのか？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Kanna",
+		"ENG": "\"Can I do that?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11788,8 +11788,8 @@
 		"VOICEID": 24823,
 		"NameJPN": "柳也",
 		"JPN": "「ああ。ただし、俺から見えないところには行くな」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Yes. Just don't leave my sight.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11801,8 +11801,8 @@
 		"VOICEID": 24824,
 		"NameJPN": "柳也",
 		"JPN": "「$[蝮$/まむし$]にも気をつけろよ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"And watch out for snakes.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11814,8 +11814,8 @@
 		"VOICEID": 24825,
 		"NameJPN": "神奈",
 		"JPN": "「わかっておるわっ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Kanna",
+		"ENG": "\"I know that.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11825,7 +11825,7 @@
 		"SUBCMD2": 972,
 		"MSGID": 609,
 		"JPN": "快活に答え、ぱっと走り出す。",
-		"ENG": "",
+		"ENG": "She answered cheerfully and ran off.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11835,7 +11835,7 @@
 		"SUBCMD2": 973,
 		"MSGID": 610,
 		"JPN": "思うところあって、その背中に声をかけた。",
-		"ENG": "",
+		"ENG": "I remembered something all of a sudden, so I stopped her.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11847,8 +11847,8 @@
 		"VOICEID": 24826,
 		"NameJPN": "柳也",
 		"JPN": "「ちょっと待て」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Wait.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11860,8 +11860,8 @@
 		"VOICEID": 24827,
 		"NameJPN": "神奈",
 		"JPN": "「なんだ？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Kanna",
+		"ENG": "\"What?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11873,8 +11873,8 @@
 		"VOICEID": 24828,
 		"NameJPN": "柳也",
 		"JPN": "「胡桃を置いていけ。割っといてやるから」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Leave the walnut. I'll break it open for you.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11884,7 +11884,7 @@
 		"SUBCMD2": 977,
 		"MSGID": 614,
 		"JPN": "神奈はふところから胡桃を取りだし、俺のてのひらにぽとりと置いた。",
-		"ENG": "",
+		"ENG": "Kanna took the walnut out from her pocket and and placed it in my palm.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11896,8 +11896,8 @@
 		"VOICEID": 24829,
 		"NameJPN": "神奈",
 		"JPN": "「割るのはまかすが、食うでないぞ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Kanna",
+		"ENG": "\"You can crack it, but don't eat it.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11909,8 +11909,8 @@
 		"VOICEID": 24830,
 		"NameJPN": "柳也",
 		"JPN": "「だれが食うかっ！」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"You think I'd do that?!\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11920,7 +11920,7 @@
 		"SUBCMD2": 980,
 		"MSGID": 617,
 		"JPN": "神奈が林の奧に走っていった。",
-		"ENG": "",
+		"ENG": "Kanna ran off into the trees.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11930,7 +11930,7 @@
 		"SUBCMD2": 981,
 		"MSGID": 618,
 		"JPN": "薄闇の向こうで、髪に飾った$[響無鈴$/こなれ$]だけが西日にちろちろと光る。",
-		"ENG": "",
+		"ENG": "The bells on her hair glinted in the darkness against the light of the westering sun.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -11940,7 +11940,7 @@
 		"SUBCMD2": 982,
 		"MSGID": 619,
 		"JPN": "離れるなと言ったのに、ずいぶん遠くにいる…",
-		"ENG": "",
+		"ENG": "Despite what I told her, she had gone far away.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12038,7 +12038,7 @@
 		"SUBCMD2": 988,
 		"MSGID": 620,
 		"JPN": "自分がどこにいるのか、わからなかった。",
-		"ENG": "",
+		"ENG": "I had lost track of where I was.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12048,7 +12048,7 @@
 		"SUBCMD2": 989,
 		"MSGID": 621,
 		"JPN": "握りしめた手を、ゆっくりと開いてみた。",
-		"ENG": "",
+		"ENG": "I slowly opened my clenched fist.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12058,7 +12058,7 @@
 		"SUBCMD2": 990,
 		"MSGID": 622,
 		"JPN": "たしかに受け取ったはずの胡桃は、消えてしまっていた。",
-		"ENG": "",
+		"ENG": "The walnut she gave me had disappeared.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12111,8 +12111,8 @@
 		"VOICEID": 24831,
 		"NameJPN": "裏葉",
 		"JPN": "「…お目覚めになりましたか」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Are you awake?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12122,7 +12122,7 @@
 		"SUBCMD2": 995,
 		"MSGID": 624,
 		"JPN": "目の前に、裏葉がいた。",
-		"ENG": "",
+		"ENG": "Uraha was right in front of me.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12134,8 +12134,8 @@
 		"VOICEID": 24832,
 		"NameJPN": "柳也",
 		"JPN": "「おはよう」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Good morning.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12145,7 +12145,7 @@
 		"SUBCMD2": 997,
 		"MSGID": 626,
 		"JPN": "挨拶を返すと、裏葉は驚いたようだった。",
-		"ENG": "",
+		"ENG": "When I greeted Uraha, she looked shocked.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12198,8 +12198,8 @@
 		"VOICEID": 24833,
 		"NameJPN": "裏葉",
 		"JPN": "「今日は具合がよろしいのですか？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Are you feeling well today?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12209,7 +12209,7 @@
 		"SUBCMD2": 1002,
 		"MSGID": 628,
 		"JPN": "裏葉の目元が赤い。",
-		"ENG": "",
+		"ENG": "Uraha's eyes were red.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12219,7 +12219,7 @@
 		"SUBCMD2": 1003,
 		"MSGID": 629,
 		"JPN": "徹夜で看病をしていたらしい。",
-		"ENG": "",
+		"ENG": "She must have looked after me throughout the night.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12229,7 +12229,7 @@
 		"SUBCMD2": 1004,
 		"MSGID": 630,
 		"JPN": "俺が前に目を閉じたのは、いつだっただろう？",
-		"ENG": "",
+		"ENG": "When was the last time I closed my eyes?",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12239,7 +12239,7 @@
 		"SUBCMD2": 1005,
 		"MSGID": 631,
 		"JPN": "仰向けになったまま、動こうとしない首をめぐらした。",
-		"ENG": "",
+		"ENG": "I turned my stiff neck while still lying face-up.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12249,7 +12249,7 @@
 		"SUBCMD2": 1006,
 		"MSGID": 632,
 		"JPN": "半開きになった戸口。",
-		"ENG": "",
+		"ENG": "The door was half-open.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12259,7 +12259,7 @@
 		"SUBCMD2": 1007,
 		"MSGID": 633,
 		"JPN": "日射しが真っ白に滲んでいる。",
-		"ENG": "",
+		"ENG": "Brilliant white light entered the room.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12269,7 +12269,7 @@
 		"SUBCMD2": 1008,
 		"MSGID": 634,
 		"JPN": "それで、俺は思い出した。",
-		"ENG": "",
+		"ENG": "Then I remembered.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12279,7 +12279,7 @@
 		"SUBCMD2": 1009,
 		"MSGID": 635,
 		"JPN": "夏はもう、すぐそこまで来ていた。",
-		"ENG": "",
+		"ENG": "Summer was already here.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12291,8 +12291,8 @@
 		"VOICEID": 24834,
 		"NameJPN": "柳也",
 		"JPN": "「…ひさしぶりに、空でも見たくなった」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"I want to look at the sky. It's been ages.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12345,8 +12345,8 @@
 		"VOICEID": 24835,
 		"NameJPN": "裏葉",
 		"JPN": "「それはたいそう風雅なお考えでございますね」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"That's a rather fine idea.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12356,7 +12356,7 @@
 		"SUBCMD2": 1015,
 		"MSGID": 638,
 		"JPN": "旅にでも出かけるように、裏葉が目を輝かせる。",
-		"ENG": "",
+		"ENG": "Uraha's eyes were shining like they did whenever we were about to set off on a new journey.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12409,8 +12409,8 @@
 		"VOICEID": 24836,
 		"NameJPN": "裏葉",
 		"JPN": "「ご用意いたしますので、しばしお待ちを…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I'll make the necessary preparations. Wait here.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12420,7 +12420,7 @@
 		"SUBCMD2": 1020,
 		"MSGID": 640,
 		"JPN": "言いながら、そっと袖で目元を押さえたのがわかった。",
-		"ENG": "",
+		"ENG": "I saw her dab her eyes with her sleeve.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12430,7 +12430,7 @@
 		"SUBCMD2": 1021,
 		"MSGID": 641,
 		"JPN": "たぶん、裏葉も悟っていた。",
-		"ENG": "",
+		"ENG": "Uraha understood as well.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12440,7 +12440,7 @@
 		"SUBCMD2": 1022,
 		"MSGID": 642,
 		"JPN": "俺が空を見上げるのは、今日で最後なのだ、と。",
-		"ENG": "",
+		"ENG": "Today was the last day I looked up at the sky.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12614,7 +12614,7 @@
 		"SUBCMD2": 1031,
 		"MSGID": 643,
 		"JPN": "裏葉が俺の襟首を掴み、洞穴の外にじりじりと動かした。",
-		"ENG": "",
+		"ENG": "Uraha grabbed hold of the nape of my neck and slowly moved me out of the cave.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12624,7 +12624,7 @@
 		"SUBCMD2": 1032,
 		"MSGID": 644,
 		"JPN": "骨と皮だけになった病体は、今はきっと$[木乃伊$/みいら$]のように軽いのだろう。",
-		"ENG": "",
+		"ENG": "I was as light as a mummy after being reduced to skin and bones by my illness.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12634,7 +12634,7 @@
 		"SUBCMD2": 1033,
 		"MSGID": 645,
 		"JPN": "とはいえ、そろそろ臨月を迎える裏葉にはつらい仕事のはずだ。",
-		"ENG": "",
+		"ENG": "However, it was still hard work for Uraha, who was in the final month of pregnancy.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12644,7 +12644,7 @@
 		"SUBCMD2": 1034,
 		"MSGID": 646,
 		"JPN": "日向に入ると、身体全体が光に包まれる。",
-		"ENG": "",
+		"ENG": "The sunlight shone on every part of my body.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12654,7 +12654,7 @@
 		"SUBCMD2": 1035,
 		"MSGID": 647,
 		"JPN": "戸口から少し離れた木立の下に、二人でもたれかかるように座った。",
-		"ENG": "",
+		"ENG": "Both of us sat down under a grove of trees, leaning on each other a little distance away from the cave.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12707,8 +12707,8 @@
 		"VOICEID": 24837,
 		"NameJPN": "裏葉",
 		"JPN": "「柳也さま、ほら…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Sir Ryuuya, look.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12720,8 +12720,8 @@
 		"VOICEID": 24838,
 		"NameJPN": "裏葉",
 		"JPN": "「あんなに高くを、鳥が舞っておりますわ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"The birds are flying so high up in the sky.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12731,7 +12731,7 @@
 		"SUBCMD2": 1041,
 		"MSGID": 650,
 		"JPN": "青々と光る中天を、真っすぐに指で示す。",
-		"ENG": "",
+		"ENG": "She pointed towards the center of that blue sky.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12741,7 +12741,7 @@
 		"SUBCMD2": 1042,
 		"MSGID": 651,
 		"JPN": "俺にはよく見えない。",
-		"ENG": "",
+		"ENG": "I could not see.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12751,7 +12751,7 @@
 		"SUBCMD2": 1043,
 		"MSGID": 652,
 		"JPN": "俺の目にはもう、空は眩しすぎる。",
-		"ENG": "",
+		"ENG": "The sky was too bright for me.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12761,7 +12761,7 @@
 		"SUBCMD2": 1044,
 		"MSGID": 653,
 		"JPN": "裏葉がぴったりと寄り添ってくる。",
-		"ENG": "",
+		"ENG": "Uraha leaned up against me.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12771,7 +12771,7 @@
 		"SUBCMD2": 1045,
 		"MSGID": 654,
 		"JPN": "俺の横顔を見て、幸せそうに笑っている。",
-		"ENG": "",
+		"ENG": "She looked at me and smiled happily.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12824,8 +12824,8 @@
 		"VOICEID": 24839,
 		"NameJPN": "裏葉",
 		"JPN": "「…あら。ふふっ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Oh my. Fufu.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12837,8 +12837,8 @@
 		"VOICEID": 24840,
 		"NameJPN": "柳也",
 		"JPN": "「どうした？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"What's wrong?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12848,7 +12848,7 @@
 		"SUBCMD2": 1051,
 		"MSGID": 657,
 		"JPN": "かすかに首を動かして訊いた。",
-		"ENG": "",
+		"ENG": "I turned my head a little towards her.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12901,8 +12901,8 @@
 		"VOICEID": 24841,
 		"NameJPN": "裏葉",
 		"JPN": "「やや子が、わたくしのお腹を蹴っておりますわ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"My child is kicking me.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12912,7 +12912,7 @@
 		"SUBCMD2": 1056,
 		"MSGID": 659,
 		"JPN": "もう一度、うふふと笑う。",
-		"ENG": "",
+		"ENG": "She laughed again.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12924,8 +12924,8 @@
 		"VOICEID": 24843,
 		"NameJPN": "柳也",
 		"JPN": "「…悪いが、膝枕をしてくれるか？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Do you mind letting me lay on your lap?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -12978,8 +12978,8 @@
 		"VOICEID": 24844,
 		"NameJPN": "裏葉",
 		"JPN": "「甘えん坊でございますわね」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"You're a spoiled child.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13024,7 +13024,7 @@
 		"SUBCMD2": 1065,
 		"MSGID": 662,
 		"JPN": "悪戯っぽく言いながら、裏葉は俺の頭を膝に乗せてくれた。",
-		"ENG": "",
+		"ENG": "She teased me and put my head on her lap.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13034,7 +13034,7 @@
 		"SUBCMD2": 1066,
 		"MSGID": 663,
 		"JPN": "膨らんだ腹に、耳を寄せてみた。",
-		"ENG": "",
+		"ENG": "I placed my ear to her swollen tummy.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13044,7 +13044,7 @@
 		"SUBCMD2": 1067,
 		"MSGID": 664,
 		"JPN": "ゆるく結んだ帯の向こうから、扉を叩くような音がする。",
-		"ENG": "",
+		"ENG": "Behind her loosely-tied sash, I heard a sound like someone knocking on a door.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13054,7 +13054,7 @@
 		"SUBCMD2": 1068,
 		"MSGID": 665,
 		"JPN": "もうすぐ現れる生命の$[萌$/きざ$]しに、俺は聞き入っていた。",
-		"ENG": "",
+		"ENG": "I was listening to the sound of a new life.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13066,8 +13066,8 @@
 		"VOICEID": 24845,
 		"NameJPN": "柳也",
 		"JPN": "「俺たちの子、なんだよな…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"This is our child, right?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13120,8 +13120,8 @@
 		"VOICEID": 24846,
 		"NameJPN": "裏葉",
 		"JPN": "「わたくしたちの子、でございます…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"It's our child.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13133,8 +13133,8 @@
 		"VOICEID": 24847,
 		"NameJPN": "裏葉",
 		"JPN": "「無事に産まれるとよいのですが」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I hope he is born without any mishap.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13146,8 +13146,8 @@
 		"VOICEID": 24848,
 		"NameJPN": "柳也",
 		"JPN": "「案ずることは、ないさ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"There's nothing to worry about.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13159,8 +13159,8 @@
 		"VOICEID": 24849,
 		"NameJPN": "柳也",
 		"JPN": "「きっと…丈夫に育つ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"He will be a healthy child.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13172,8 +13172,8 @@
 		"VOICEID": 24850,
 		"NameJPN": "裏葉",
 		"JPN": "「大きくなったら、一緒に夏祭に行って…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"When he's older, I'll take him to the summer festival...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13185,8 +13185,8 @@
 		"VOICEID": 24851,
 		"NameJPN": "裏葉",
 		"JPN": "「都や市にも連れていきましょう」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I'll take him to the towns and cities.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13198,8 +13198,8 @@
 		"VOICEID": 24852,
 		"NameJPN": "裏葉",
 		"JPN": "「もしも女の子なら、お手玉を教えましょう」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"If the baby is a girl, I'll teach her how to play stones.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13211,8 +13211,8 @@
 		"VOICEID": 24853,
 		"NameJPN": "裏葉",
 		"JPN": "「もちろん、男の子でも教えますけれど」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Of course, I can still teach him if it's a boy.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13265,8 +13265,8 @@
 		"VOICEID": 24854,
 		"NameJPN": "裏葉",
 		"JPN": "「きっと柳也さまに似て、利発で、器用で、かしこくて…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I'm sure he'll be like you. Quick-witted, dexterous, wise...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13278,8 +13278,8 @@
 		"VOICEID": 24855,
 		"NameJPN": "裏葉",
 		"JPN": "「やさしくて、よい子に育ちましょうね」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Let's raise him to be a kind child.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13291,8 +13291,8 @@
 		"VOICEID": 24856,
 		"NameJPN": "柳也",
 		"JPN": "「褒めすぎ、だろ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"That's too much praise.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13345,8 +13345,8 @@
 		"VOICEID": 24857,
 		"NameJPN": "裏葉",
 		"JPN": "「あらあら、柳也さま」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Oh my, Sir Ryuuya.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13358,8 +13358,8 @@
 		"VOICEID": 24858,
 		"NameJPN": "裏葉",
 		"JPN": "「褒めなければ、子は育ちませんわ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"A child won't grow if you don't shower him with praise.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13371,8 +13371,8 @@
 		"VOICEID": 24859,
 		"NameJPN": "柳也",
 		"JPN": "「なるほど、そうかもな…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"You might be right...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13417,7 +13417,7 @@
 		"SUBCMD2": 1096,
 		"MSGID": 681,
 		"JPN": "いつかのように、二人して笑う。",
-		"ENG": "",
+		"ENG": "We laughed.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13429,8 +13429,8 @@
 		"VOICEID": 24860,
 		"NameJPN": "柳也",
 		"JPN": "「…さっき、夢を見ていた」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"I had a dream just now...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13442,8 +13442,8 @@
 		"VOICEID": 24861,
 		"NameJPN": "柳也",
 		"JPN": "「神奈の夢だった」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"I dreamed about Kanna.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13453,7 +13453,7 @@
 		"SUBCMD2": 1099,
 		"MSGID": 684,
 		"JPN": "契りを結んで以来、俺から神奈の話をするのはそれが初めてだった。",
-		"ENG": "",
+		"ENG": "This was the first time I talked about Kanna ever since we became husband and wife.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13506,8 +13506,8 @@
 		"VOICEID": 24862,
 		"NameJPN": "裏葉",
 		"JPN": "「わたくしも、夢を見ました」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I had a dream as well.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13519,8 +13519,8 @@
 		"VOICEID": 24863,
 		"NameJPN": "柳也",
 		"JPN": "「どんな…夢だった？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"What was your dream like?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13530,7 +13530,7 @@
 		"SUBCMD2": 1105,
 		"MSGID": 687,
 		"JPN": "答える代わりに、裏葉は空を仰いだ。",
-		"ENG": "",
+		"ENG": "Instead of answering me, Uraha looked up at the sky.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13624,8 +13624,8 @@
 		"VOICEID": 24864,
 		"NameJPN": "裏葉",
 		"JPN": "「夏はもうすぐそこでございますね…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Summer is almost here...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13635,7 +13635,7 @@
 		"SUBCMD2": 1112,
 		"MSGID": 689,
 		"JPN": "その言い方が今も初々しくて、思わず俺は笑ってしまう。",
-		"ENG": "",
+		"ENG": "She sounded so much like a child that I had to laugh.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13647,8 +13647,8 @@
 		"VOICEID": 24865,
 		"NameJPN": "裏葉",
 		"JPN": "「なにか？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Is something the matter?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13660,8 +13660,8 @@
 		"VOICEID": 24866,
 		"NameJPN": "柳也",
 		"JPN": "「いや…何となくだよ…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"No... Just a private joke...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13671,7 +13671,7 @@
 		"SUBCMD2": 1115,
 		"MSGID": 692,
 		"JPN": "ゆっくりと過ぎる時。",
-		"ENG": "",
+		"ENG": "Time passed slowly.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13681,7 +13681,7 @@
 		"SUBCMD2": 1116,
 		"MSGID": 693,
 		"JPN": "おだやかな陽差しと、心地よく吹き通る風。",
-		"ENG": "",
+		"ENG": "I took pleasure in the peaceful sunlight and the pleasant wind.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13691,7 +13691,7 @@
 		"SUBCMD2": 1117,
 		"MSGID": 694,
 		"JPN": "俺たちが暮らした洞穴。",
-		"ENG": "",
+		"ENG": "This was the cave we had been living in.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13701,7 +13701,7 @@
 		"SUBCMD2": 1118,
 		"MSGID": 695,
 		"JPN": "岩戸の奧には、俺が編纂した『翼人伝』がある。",
-		"ENG": "",
+		"ENG": "In it was a book called \"The Legend of the Winged Beings\" which I wrote.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13711,7 +13711,7 @@
 		"SUBCMD2": 1119,
 		"MSGID": 696,
 		"JPN": "生まれてくる俺たちの子が神奈の魂を探すなら、かならず力になるはずだ。",
-		"ENG": "",
+		"ENG": "It would be of use when my soon-to-be-born child set off to look for Kanna's soul.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13721,7 +13721,7 @@
 		"SUBCMD2": 1120,
 		"MSGID": 697,
 		"JPN": "そして裏葉は、子に方術を教える。",
-		"ENG": "",
+		"ENG": "Uraha would teach our child Houjutsu.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13731,7 +13731,7 @@
 		"SUBCMD2": 1121,
 		"MSGID": 698,
 		"JPN": "裏葉の血を受け継ぐ者なら、きっと達人になる。",
-		"ENG": "",
+		"ENG": "He would certainly become an adept, having inherited Uraha's blood.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13741,7 +13741,7 @@
 		"SUBCMD2": 1122,
 		"MSGID": 699,
 		"JPN": "俺たちが見つけられなかった道さえ、辿れるのかもしれない。",
-		"ENG": "",
+		"ENG": "He might be able to arrive at an answer that we could not find.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13751,7 +13751,7 @@
 		"SUBCMD2": 1123,
 		"MSGID": 700,
 		"JPN": "鼓動が高鳴るのを感じた。",
-		"ENG": "",
+		"ENG": "My heart beat faster.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13761,7 +13761,7 @@
 		"SUBCMD2": 1124,
 		"MSGID": 701,
 		"JPN": "この丘の向こうには、何があるんだろう？",
-		"ENG": "",
+		"ENG": "What lay beyond this hill?",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13771,7 +13771,7 @@
 		"SUBCMD2": 1125,
 		"MSGID": 702,
 		"JPN": "子供のころ、旅空の下で感じたあの気持ちが、入道雲のように沸きあがってくる。",
-		"ENG": "",
+		"ENG": "When I was a child, I had traveled under the same sky, and that same feeling welled up like the towering summer clouds.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13781,7 +13781,7 @@
 		"SUBCMD2": 1126,
 		"MSGID": 703,
 		"JPN": "時を越えてさえ、俺は旅を続けることができる。",
-		"ENG": "",
+		"ENG": "I shall travel through time itself to continue my journey.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13791,7 +13791,7 @@
 		"SUBCMD2": 1127,
 		"MSGID": 704,
 		"JPN": "かけがえのない翼に、ふたたび巡り会うための旅を。",
-		"ENG": "",
+		"ENG": "All for the sake of seeing that girl with wings once more.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13801,7 +13801,7 @@
 		"SUBCMD2": 1128,
 		"MSGID": 705,
 		"JPN": "これ以上、望むものはない。",
-		"ENG": "",
+		"ENG": "There was no greater wish.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13811,7 +13811,7 @@
 		"SUBCMD2": 1129,
 		"MSGID": 706,
 		"JPN": "思い残すことは、もうなにもない。",
-		"ENG": "",
+		"ENG": "That was my sole regret.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13821,7 +13821,7 @@
 		"SUBCMD2": 1130,
 		"MSGID": 707,
 		"JPN": "例えば…",
-		"ENG": "",
+		"ENG": "Even if...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13831,7 +13831,7 @@
 		"SUBCMD2": 1131,
 		"MSGID": 708,
 		"JPN": "これが、ただの夢だったとしても。",
-		"ENG": "",
+		"ENG": "Even if this were just a dream.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13843,8 +13843,8 @@
 		"VOICEID": 24867,
 		"NameJPN": "柳也",
 		"JPN": "「ひとつだけ、聞いてくれないか？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Can I ask you something?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13984,8 +13984,8 @@
 		"VOICEID": 24868,
 		"NameJPN": "裏葉",
 		"JPN": "「はい」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Yes.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -13995,7 +13995,7 @@
 		"SUBCMD2": 1139,
 		"MSGID": 711,
 		"JPN": "小首をかしげるようにして、裏葉が俺のことを見た。",
-		"ENG": "",
+		"ENG": "Uraha cocked her head slightly.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14005,7 +14005,7 @@
 		"SUBCMD2": 1140,
 		"MSGID": 712,
 		"JPN": "その顔を、俺はただ見つめ返す。",
-		"ENG": "",
+		"ENG": "She watched me intently.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14015,7 +14015,7 @@
 		"SUBCMD2": 1141,
 		"MSGID": 713,
 		"JPN": "この$[刻$/とき$]に宿る光と風のすべてを、心に焼きつけるために。",
-		"ENG": "",
+		"ENG": "I thought perhaps she wanted to engrave this moment in her heart.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14027,8 +14027,8 @@
 		"VOICEID": 24869,
 		"NameJPN": "柳也",
 		"JPN": "「忘れても、いいんだ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"You can forget about me.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14081,8 +14081,8 @@
 		"VOICEID": 24870,
 		"NameJPN": "柳也",
 		"JPN": "「子を産んで、育てて、慎ましい幸せを求めても」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Raise our child and lead a peaceful life.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14094,8 +14094,8 @@
 		"VOICEID": 24871,
 		"NameJPN": "柳也",
 		"JPN": "「おまえだけの幸せを…追いかけても」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Look for your own happiness.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14107,8 +14107,8 @@
 		"VOICEID": 24872,
 		"NameJPN": "柳也",
 		"JPN": "「神奈はきっと、許してくれる」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Kanna will forgive you.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14120,8 +14120,8 @@
 		"VOICEID": 24873,
 		"NameJPN": "柳也",
 		"JPN": "「神奈には、俺が謝っておくから」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"I'll apologize to her for you when I go meet her.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14133,8 +14133,8 @@
 		"VOICEID": 24874,
 		"NameJPN": "柳也",
 		"JPN": "「その時は…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"When I'm gone...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14146,8 +14146,8 @@
 		"VOICEID": 24875,
 		"NameJPN": "柳也",
 		"JPN": "「俺の書は、焼き捨ててくれ…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Burn all my documents...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14198,7 +14198,7 @@
 		"SUBCMD2": 1155,
 		"MSGID": 721,
 		"JPN": "普段なら、言っても聞くような奴じゃない。",
-		"ENG": "",
+		"ENG": "Uraha was usually a stubborn one.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14208,7 +14208,7 @@
 		"SUBCMD2": 1156,
 		"MSGID": 722,
 		"JPN": "神奈が関わると、どうしようもないくらい融通がきかなくなる。",
-		"ENG": "",
+		"ENG": "When Kanna was concerned, she would become inflexible.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14218,7 +14218,7 @@
 		"SUBCMD2": 1157,
 		"MSGID": 723,
 		"JPN": "何度も何度も、そんな裏葉を見てきた。",
-		"ENG": "",
+		"ENG": "I had seen Uraha behaving like that many times.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14228,7 +14228,7 @@
 		"SUBCMD2": 1158,
 		"MSGID": 724,
 		"JPN": "だから今、俺は言う。",
-		"ENG": "",
+		"ENG": "That was why I told her.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14240,8 +14240,8 @@
 		"VOICEID": 24876,
 		"NameJPN": "柳也",
 		"JPN": "「すべてを忘れて…幸せになっても、いいんだ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Forget about everything... and find your own happiness.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14253,8 +14253,8 @@
 		"VOICEID": 24877,
 		"NameJPN": "柳也",
 		"JPN": "「神奈のことは、忘れていいんだ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"You can forget about Kanna.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14266,8 +14266,8 @@
 		"VOICEID": 24878,
 		"NameJPN": "柳也",
 		"JPN": "「俺のことも、忘れて、いいんだ…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"You can... forget about me...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14318,7 +14318,7 @@
 		"SUBCMD2": 1165,
 		"MSGID": 728,
 		"JPN": "裏葉はただ黙って、俺の言葉を聞いていた。",
-		"ENG": "",
+		"ENG": "Uraha listened to me without saying a word.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14369,7 +14369,7 @@
 		"SUBCMD2": 1169,
 		"MSGID": 729,
 		"JPN": "にっこりと笑う。",
-		"ENG": "",
+		"ENG": "Then she broke into a smile.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14379,7 +14379,7 @@
 		"SUBCMD2": 1170,
 		"MSGID": 730,
 		"JPN": "そして、こう答えた。",
-		"ENG": "",
+		"ENG": "And she answered.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14391,8 +14391,8 @@
 		"VOICEID": 24879,
 		"NameJPN": "裏葉",
 		"JPN": "「いやでございます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I don't want to.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14402,7 +14402,7 @@
 		"SUBCMD2": 1172,
 		"MSGID": 732,
 		"JPN": "もう力の入らない俺の手を、裏葉が強く握り返す。",
-		"ENG": "",
+		"ENG": "Uraha gripped my feeble hand.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14455,8 +14455,8 @@
 		"VOICEID": 24880,
 		"NameJPN": "裏葉",
 		"JPN": "「わたくしは、ひとりではございません」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I'm not alone.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14468,8 +14468,8 @@
 		"VOICEID": 24881,
 		"NameJPN": "裏葉",
 		"JPN": "「神奈さまと柳也さまが、これからもおそばで導いてくださいます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Lady Kanna and you will always be with me and guide me.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14481,8 +14481,8 @@
 		"VOICEID": 24882,
 		"NameJPN": "裏葉",
 		"JPN": "「産まれてくる子もおります」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I have my soon-to-be-born child as well.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14535,8 +14535,8 @@
 		"VOICEID": 24883,
 		"NameJPN": "裏葉",
 		"JPN": "「わたくしは幸せでございます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"I'm happy.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14548,8 +14548,8 @@
 		"VOICEID": 24884,
 		"NameJPN": "裏葉",
 		"JPN": "「これからも末永く、幸せに暮らしとうございます」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"And I will live in happiness for the rest of my life.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14559,7 +14559,7 @@
 		"SUBCMD2": 1184,
 		"MSGID": 738,
 		"JPN": "指先から伝わってくるもの。",
-		"ENG": "",
+		"ENG": "The touch of her fingers.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14569,7 +14569,7 @@
 		"SUBCMD2": 1185,
 		"MSGID": 739,
 		"JPN": "溢れるほどの想い。",
-		"ENG": "",
+		"ENG": "They bore the feelings within her.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14614,7 +14614,7 @@
 		"SUBCMD2": 1189,
 		"MSGID": 740,
 		"JPN": "だから、俺は己に問う。",
-		"ENG": "",
+		"ENG": "So I asked myself.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14624,7 +14624,7 @@
 		"SUBCMD2": 1190,
 		"MSGID": 741,
 		"JPN": "俺は頑張れただろうか？",
-		"ENG": "",
+		"ENG": "Have I done all that I can?",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14634,7 +14634,7 @@
 		"SUBCMD2": 1191,
 		"MSGID": 742,
 		"JPN": "俺は幸せに暮らせただろうか？",
-		"ENG": "",
+		"ENG": "Was my life happy?",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14662,7 +14662,7 @@
 		"SUBCMD2": 1197,
 		"MSGID": 743,
 		"JPN": "そして、気づいた。",
-		"ENG": "",
+		"ENG": "Then I realized.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14672,7 +14672,7 @@
 		"SUBCMD2": 1198,
 		"MSGID": 744,
 		"JPN": "その答えは初めから、ここにあったのだ、と。",
-		"ENG": "",
+		"ENG": "My answer was here all along.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14684,8 +14684,8 @@
 		"VOICEID": 24885,
 		"NameJPN": "柳也",
 		"JPN": "「…そう…か…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Is that... so...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14738,8 +14738,8 @@
 		"VOICEID": 24886,
 		"NameJPN": "裏葉",
 		"JPN": "「はい」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Yes.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14751,8 +14751,8 @@
 		"VOICEID": 24887,
 		"NameJPN": "柳也",
 		"JPN": "「それでこそ…俺の…連れ添い…だ…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"That's... my wife...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14805,8 +14805,8 @@
 		"VOICEID": 24888,
 		"NameJPN": "裏葉",
 		"JPN": "「はいっ…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Yes...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14898,7 +14898,7 @@
 		"SUBCMD2": 1219,
 		"MSGID": 749,
 		"JPN": "もう一度、空を見上げる。",
-		"ENG": "",
+		"ENG": "I looked up at the sky once more.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14908,7 +14908,7 @@
 		"SUBCMD2": 1220,
 		"MSGID": 750,
 		"JPN": "高く、晴れ渡った空。",
-		"ENG": "",
+		"ENG": "It was clear and vast.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14918,7 +14918,7 @@
 		"SUBCMD2": 1221,
 		"MSGID": 751,
 		"JPN": "光に満ちた空。",
-		"ENG": "",
+		"ENG": "A sky filled with light.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14928,7 +14928,7 @@
 		"SUBCMD2": 1222,
 		"MSGID": 752,
 		"JPN": "それなのに、大粒の雨がぽとぽとと頬に降ってくる。",
-		"ENG": "",
+		"ENG": "Big drops of rain started to pelt on my cheeks.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14940,8 +14940,8 @@
 		"VOICEID": 24889,
 		"NameJPN": "裏葉",
 		"JPN": "「りゅうやさま…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Sir Ryuuya...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -14951,7 +14951,7 @@
 		"SUBCMD2": 1224,
 		"MSGID": 754,
 		"JPN": "温かい夏の雨。",
-		"ENG": "",
+		"ENG": "The warm summer rain...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -15039,8 +15039,8 @@
 		"VOICEID": 24890,
 		"NameJPN": "裏葉",
 		"JPN": "「りゅうやさま…りゅうやさま…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Sir Ryuuya... Sir Ryuuya...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -15050,7 +15050,7 @@
 		"SUBCMD2": 1231,
 		"MSGID": 756,
 		"JPN": "だれかの涙のような雨…",
-		"ENG": "",
+		"ENG": "It felt almost like someone else's tears.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -15062,8 +15062,8 @@
 		"VOICEID": 24891,
 		"NameJPN": "柳也",
 		"JPN": "「…あり…がとう…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Thank... you...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -15075,8 +15075,8 @@
 		"VOICEID": 24892,
 		"NameJPN": "柳也",
 		"JPN": "「…う…ら……は………」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"U...ra...ha...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -15088,8 +15088,8 @@
 		"VOICEID": 24893,
 		"NameJPN": "裏葉",
 		"JPN": "「りゅうや…さま………」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Sir Ryuuya...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -15187,7 +15187,7 @@
 		"SUBCMD2": 1242,
 		"MSGID": 760,
 		"JPN": "空を見ていた。",
-		"ENG": "",
+		"ENG": "I was gazing at the sky.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -15197,7 +15197,7 @@
 		"SUBCMD2": 1243,
 		"MSGID": 761,
 		"JPN": "吹き抜ける風を感じた。",
-		"ENG": "",
+		"ENG": "The wind blew past me.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -15207,7 +15207,7 @@
 		"SUBCMD2": 1244,
 		"MSGID": 762,
 		"JPN": "舞い降りてきた真っ白な羽を、俺はつかまえようとした…",
-		"ENG": "",
+		"ENG": "A single white feather floated down from the sky, and I reached for it...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -15377,8 +15377,8 @@
 		"VOICEID": 24894,
 		"NameJPN": "柳也",
 		"JPN": "「…はは」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Haha...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -15390,8 +15390,8 @@
 		"VOICEID": 24895,
 		"NameJPN": "裏葉",
 		"JPN": "「…ふふふ、どうなさいました？」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Fufufu, what's the matter?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -15403,8 +15403,8 @@
 		"VOICEID": 24896,
 		"NameJPN": "柳也",
 		"JPN": "「いや、何でもないよ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"No. It's nothing.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -15416,8 +15416,8 @@
 		"VOICEID": 24897,
 		"NameJPN": "柳也",
 		"JPN": "「そろそろ、行こうか」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Shall we go?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -15429,8 +15429,8 @@
 		"VOICEID": 24898,
 		"NameJPN": "柳也",
 		"JPN": "「あの空の向こうで、神奈が待っている」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Ryuuya",
+		"ENG": "\"Kanna is waiting for us at the end of the sky.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -15442,8 +15442,8 @@
 		"VOICEID": 24899,
 		"NameJPN": "裏葉",
 		"JPN": "「ええ。お供いたしますわ」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"Certainly. I'll follow you.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -15455,8 +15455,8 @@
 		"VOICEID": 24900,
 		"NameJPN": "裏葉",
 		"JPN": "「ずっと、どこまでも…」",
-		"NameENG": "",
-		"ENG": "",
+		"NameENG": "Uraha",
+		"ENG": "\"To the end of time...\"",
 		"Args": "0b0a000000"
 	},
 	{
