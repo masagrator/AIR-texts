@@ -15441,7 +15441,7 @@
 		"NameJPN": "柳也",
 		"JPN": "「別に怒ってなんかないさ」",
 		"NameENG": "Ryuuya",
-		"ENG": "\"I’m not angry or anything.\"",
+		"ENG": "\"I'm not angry or anything.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -19660,7 +19660,7 @@
 		"SUBCMD2": 1641,
 		"MSGID": 1000,
 		"JPN": "『おぬしたち』と『わらわたち』",
-		"ENG": "You' and 'us'...",
+		"ENG": "'You' and 'us'...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -25102,7 +25102,7 @@
 		"NameJPN": "母",
 		"JPN": "「…まあ、太刀で？」",
 		"NameENG": "Mother",
-		"ENG": "Oh my... With his sword?\"",
+		"ENG": "\"Oh my... With his sword?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -26482,7 +26482,7 @@
 		"MSGID": 1336,
 		"VOICEID": 24390,
 		"JPN": "『…余のお手玉、また見てくれるか？』",
-		"ENG": "Will you watch me juggle again?\"",
+		"ENG": "'Will you watch me juggle again?'",
 		"Args": "0b0a000000"
 	},
 	{
@@ -32779,7 +32779,7 @@
 		"SUBCMD2": 2679,
 		"MSGID": 1601,
 		"JPN": "天の御使い。",
-		"ENG": "A messenger from the sky'.",
+		"ENG": "'A messenger from the sky'.",
 		"Args": "0b0a000000"
 	},
 	{
