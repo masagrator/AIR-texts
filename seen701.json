@@ -3538,7 +3538,7 @@
 		"NameJPN": "神奈",
 		"JPN": "「余を着せ替えて喜ぶのはおまえだろうが！」",
 		"NameENG": "Kanna",
-		"ENG": "\" You're only one happy to put this on me!\"",
+		"ENG": "\"You're only one happy to put this on me!\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -6997,7 +6997,7 @@
 		"SUBCMD2": 529,
 		"MSGID": 232,
 		"JPN": "＿ひょい…。",
-		"ENG": "\\ *Whoosh...*",
+		"ENG": "*Whoosh...*",
 		"Args": "0b0a000000"
 	},
 	{
@@ -8031,7 +8031,7 @@
 		"SUBCMD2": 611,
 		"MSGID": 277,
 		"JPN": "『翼伐記』",
-		"ENG": "Crusade Against The Winged",
+		"ENG": "'Crusade Against The Winged'",
 		"Args": "0b0a000000"
 	},
 	{
