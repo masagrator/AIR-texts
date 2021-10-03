@@ -4733,7 +4733,7 @@
 		"SUBCMD2": 453,
 		"MSGID": 223,
 		"JPN": "がらがらした、いやな声。",
-		"ENG": "Her voice was grating and unpleasant",
+		"ENG": "Her voice was grating and unpleasant.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -9041,7 +9041,7 @@
 		"SUBCMD2": 803,
 		"MSGID": 407,
 		"JPN": "ぶおおぉん…",
-		"ENG": "*Vrrrroooom...",
+		"ENG": "*Vrrrroooom...*",
 		"Args": "0b0a000000"
 	},
 	{
@@ -16486,7 +16486,7 @@
 		"NameJPN": "みすず",
 		"JPN": "「そら」",
 		"NameENG": "Misuzu",
-		"ENG": "\"Sora.\"",
+		"ENG": "\"$[Sora$/sky$].\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -16499,7 +16499,7 @@
 		"NameJPN": "女",
 		"JPN": "「空？」",
 		"NameENG": "Woman",
-		"ENG": "\"The sky?\"",
+		"ENG": "\"The $[sky$/sora$]?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -17344,7 +17344,7 @@
 		"NameJPN": "みすず",
 		"JPN": "「用意しよーっと」",
 		"NameENG": "Misuzu",
-		"ENG": "\"Let’s get ready.\"",
+		"ENG": "\"Let's get ready.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -17694,7 +17694,7 @@
 		"NameJPN": "みすず",
 		"JPN": "「暑いしね」",
 		"NameENG": "Misuzu",
-		"ENG": "\"It’s hot after all.\"",
+		"ENG": "\"It's hot after all.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -18666,7 +18666,7 @@
 		"NameJPN": "みすず",
 		"JPN": "「じゃあ、またお昼ね」",
 		"NameENG": "Misuzu",
-		"ENG": "\"Wee you at noon.\"",
+		"ENG": "\"See you at noon.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -19630,7 +19630,7 @@
 		"NameJPN": "みすず",
 		"JPN": "「いこ」",
 		"NameENG": "Misuzu",
-		"ENG": "\"Let’s go.\"",
+		"ENG": "\"Let's go.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -31103,7 +31103,7 @@
 		"SUBCMD2": 2387,
 		"MSGID": 1324,
 		"JPN": "彼女が男のひざにさわった。",
-		"ENG": "She touched the man’s knee.",
+		"ENG": "She touched the man's knee.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -34327,7 +34327,7 @@
 		"SUBCMD2": 2574,
 		"MSGID": 1458,
 		"JPN": "それなのに、また増えてしまった。",
-		"ENG": ");",
+		"ENG": "But the number of occupants had increased.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -36527,7 +36527,7 @@
 		"NameJPN": "女",
 		"JPN": "「ついでに戸が壊れてるから、直したってや、田淵さん」",
 		"NameENG": "Woman",
-		"ENG": "\"\"By the way, the door's busted. Fix it for me, Tabuchi-san.\"",
+		"ENG": "\"By the way, the door's busted. Fix it for me, Tabuchi-san.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -52542,7 +52542,7 @@
 		"SUBCMD2": 4028,
 		"MSGID": 2122,
 		"JPN": "ずがーーーーんっ！",
-		"ENG": "*Screech BANG!*",
+		"ENG": "*ScreechーーーーBANG!*",
 		"Args": "0b0a000000"
 	},
 	{

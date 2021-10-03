@@ -338,7 +338,7 @@
 		"VOICEID": 7894,
 		"NameJPN": "みすず",
 		"JPN": "「往人さんの服も洗う。脱いでほしい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'm going to wash your clothes too. Take them off.\"",
 		"Args": "0b0a000000"
 	},
@@ -398,7 +398,7 @@
 		"VOICEID": 7895,
 		"NameJPN": "男",
 		"JPN": "「俺のはいい」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Don't worry about mine.\"",
 		"Args": "0b0a000000"
 	},
@@ -411,7 +411,7 @@
 		"VOICEID": 7896,
 		"NameJPN": "みすず",
 		"JPN": "「くさくなってるよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"They're going to stink.\"",
 		"Args": "0b0a000000"
 	},
@@ -424,7 +424,7 @@
 		"VOICEID": 7897,
 		"NameJPN": "男",
 		"JPN": "「風呂入ってるんだ。大丈夫だろ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I take baths. That should be good enough.\"",
 		"Args": "0b0a000000"
 	},
@@ -484,7 +484,7 @@
 		"VOICEID": 7898,
 		"NameJPN": "みすず",
 		"JPN": "「いっしょに洗うから脱いでほしいな」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I want to wash yours together with the rest, so take them off, please?\"",
 		"Args": "0b0a000000"
 	},
@@ -544,7 +544,7 @@
 		"VOICEID": 7899,
 		"NameJPN": "男",
 		"JPN": "「じゃ、Ｔシャツだけな…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Fine, just the T-shirt then...\"",
 		"Args": "0b0a000000"
 	},
@@ -592,7 +592,7 @@
 		"VOICEID": 7900,
 		"NameJPN": "男",
 		"JPN": "「ほら」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Here.\"",
 		"Args": "0b0a000000"
 	},
@@ -646,7 +646,7 @@
 		"VOICEID": 7901,
 		"NameJPN": "みすず",
 		"JPN": "「往人さんって、けっこう筋肉あるね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"You're pretty muscular.\"",
 		"Args": "0b0a000000"
 	},
@@ -659,7 +659,7 @@
 		"VOICEID": 7902,
 		"NameJPN": "男",
 		"JPN": "「そうか…？」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Am I...?\"",
 		"Args": "0b0a000000"
 	},
@@ -713,7 +713,7 @@
 		"VOICEID": 7903,
 		"NameJPN": "みすず",
 		"JPN": "「こうやってみて、こう」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Try doing this.\"",
 		"Args": "0b0a000000"
 	},
@@ -777,7 +777,7 @@
 		"VOICEID": 7904,
 		"NameJPN": "みすず",
 		"JPN": "「かっこいい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"You look so cool.\"",
 		"Args": "0b0a000000"
 	},
@@ -790,7 +790,7 @@
 		"VOICEID": 7905,
 		"NameJPN": "男",
 		"JPN": "「マジか…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Really...?\"",
 		"Args": "0b0a000000"
 	},
@@ -803,7 +803,7 @@
 		"VOICEID": 7906,
 		"NameJPN": "みすず",
 		"JPN": "「マジマジ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Really.\"",
 		"Args": "0b0a000000"
 	},
@@ -857,7 +857,7 @@
 		"VOICEID": 7907,
 		"NameJPN": "みすず",
 		"JPN": "「あ、洗濯機、もう回してたんだ。じゃ、洗ってくるね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Ah, the washing machine's already spinning. I'll go throw this in there.\"",
 		"Args": "0b0a000000"
 	},
@@ -925,7 +925,7 @@
 		"VOICEID": 7908,
 		"NameJPN": "男",
 		"JPN": "「ふんっ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Hmph!\"",
 		"Args": "0b0a000000"
 	},
@@ -979,7 +979,7 @@
 		"VOICEID": 7909,
 		"NameJPN": "女",
 		"JPN": "「おのれは変態かっ」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"What are you, a pervert?\"",
 		"Args": "0b0a000000"
 	},
@@ -1002,7 +1002,7 @@
 		"VOICEID": 7910,
 		"NameJPN": "女",
 		"JPN": "「あんたはひとりの時、そんなことして暇つぶしとるんか。やっばい奴やで…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Is this what you do to pass the time when you're alone? Something's seriously wrong with your head...\"",
 		"Args": "0b0a000000"
 	},
@@ -1056,7 +1056,7 @@
 		"VOICEID": 7911,
 		"NameJPN": "女",
 		"JPN": "「ま、軟弱な男よりはマシか…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Well, it's better than a man with no backbone...\"",
 		"Args": "0b0a000000"
 	},
@@ -1110,7 +1110,7 @@
 		"VOICEID": 7912,
 		"NameJPN": "女",
 		"JPN": "「でも、男の名前の雑誌とか買うたりしとったら、最悪やん…こわっ」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"But the worst thing you could do is to buy those gay magazines... Creepy.\"",
 		"Args": "0b0a000000"
 	},
@@ -1225,7 +1225,7 @@
 		"VOICEID": 7913,
 		"NameJPN": "女",
 		"JPN": "『あそこに、ええもん落ちてるで』",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"There's a nice game over there.\"",
 		"Args": "0b0a000000"
 	},
@@ -1285,7 +1285,7 @@
 		"VOICEID": 7914,
 		"NameJPN": "男",
 		"JPN": "『…ロックオン』",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Lock-on.\"",
 		"Args": "0b0a000000"
 	},
@@ -1404,7 +1404,7 @@
 		"VOICEID": 7915,
 		"NameJPN": "女",
 		"JPN": "「と…あんまり時間あらへんのやった。支度せな」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Oh... Not much time left. I gotta go get ready.\"",
 		"Args": "0b0a000000"
 	},
@@ -1462,7 +1462,7 @@
 		"VOICEID": 7916,
 		"NameJPN": "男",
 		"JPN": "「観鈴、俺のＴシャツをくれ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Misuzu, give me my T-shirt.\"",
 		"Args": "0b0a000000"
 	},
@@ -1475,7 +1475,7 @@
 		"VOICEID": 7917,
 		"NameJPN": "みすず",
 		"JPN": "「え？　まだ濡れてるよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Eh? It's still wet.\"",
 		"Args": "0b0a000000"
 	},
@@ -1498,7 +1498,7 @@
 		"VOICEID": 7918,
 		"NameJPN": "男",
 		"JPN": "「構わない。外を歩いていればすぐに乾く」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Doesn't matter. It'll dry if I take a walk outside.\"",
 		"Args": "0b0a000000"
 	},
@@ -1511,7 +1511,7 @@
 		"VOICEID": 7919,
 		"NameJPN": "みすず",
 		"JPN": "「出かけるの？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"You're going out?\"",
 		"Args": "0b0a000000"
 	},
@@ -1524,7 +1524,7 @@
 		"VOICEID": 7920,
 		"NameJPN": "男",
 		"JPN": "「ああ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Yeah.\"",
 		"Args": "0b0a000000"
 	},
@@ -1537,7 +1537,7 @@
 		"VOICEID": 7921,
 		"NameJPN": "みすず",
 		"JPN": "「でも、今すぐは着れないよ。ちょっとむり」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"But you shouldn't wear it right now...\"",
 		"Args": "0b0a000000"
 	},
@@ -1550,7 +1550,7 @@
 		"VOICEID": 7922,
 		"NameJPN": "みすず",
 		"JPN": "「わたしの貸そうか？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Do you want to borrow one of mine?\"",
 		"Args": "0b0a000000"
 	},
@@ -1563,7 +1563,7 @@
 		"VOICEID": 7923,
 		"NameJPN": "みすず",
 		"JPN": "「胸にね、ステゴザウルスがプリントされてるの。かわいい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I have a shirt with a stegosaurus printed on the front. It's really cute.\"",
 		"Args": "0b0a000000"
 	},
@@ -1575,7 +1575,7 @@
 		"MSGID": 48,
 		"NameJPN": "男",
 		"JPN": "「………」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -1588,7 +1588,7 @@
 		"VOICEID": 7924,
 		"NameJPN": "みすず",
 		"JPN": "「ね、どうする？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Which one do you want?\"",
 		"Args": "0b0a000000"
 	},
@@ -1640,7 +1640,7 @@
 		"VOICEID": 7925,
 		"NameJPN": "男",
 		"JPN": "「濡れているのでいい」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I want the wet shirt.\"",
 		"Args": "0b0a000000"
 	},
@@ -1653,7 +1653,7 @@
 		"VOICEID": 7926,
 		"NameJPN": "みすず",
 		"JPN": "「そんなぁ…気持ち悪いよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"No way... That's icky.\"",
 		"Args": "0b0a000000"
 	},
@@ -1666,7 +1666,7 @@
 		"VOICEID": 7927,
 		"NameJPN": "男",
 		"JPN": "「だから構わないって言ってるだろ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I told you, I don't care.\"",
 		"Args": "0b0a000000"
 	},
@@ -1679,7 +1679,7 @@
 		"VOICEID": 7928,
 		"NameJPN": "みすず",
 		"JPN": "「聞き分けのない人だなぁ…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"You're stubborn...\"",
 		"Args": "0b0a000000"
 	},
@@ -1692,7 +1692,7 @@
 		"VOICEID": 7929,
 		"NameJPN": "みすず",
 		"JPN": "「ちょっと待っててね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Give me a minute.\"",
 		"Args": "0b0a000000"
 	},
@@ -1756,7 +1756,7 @@
 		"VOICEID": 7930,
 		"NameJPN": "みすず",
 		"JPN": "「はい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Here.\"",
 		"Args": "0b0a000000"
 	},
@@ -1875,7 +1875,7 @@
 		"VOICEID": 7931,
 		"NameJPN": "みすず",
 		"JPN": "「だいじょうぶ？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Are you okay with that?\"",
 		"Args": "0b0a000000"
 	},
@@ -1929,7 +1929,7 @@
 		"VOICEID": 7932,
 		"NameJPN": "男",
 		"JPN": "「ああ、ぜんぜん平気だぞ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Yeah, I'm good.\"",
 		"Args": "0b0a000000"
 	},
@@ -1996,7 +1996,7 @@
 		"VOICEID": 7933,
 		"NameJPN": "みすず",
 		"JPN": "「なんか、ほんとにオタマジャクシみたいになっちゃったね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"You look like you really turned into a tadpole this time.\"",
 		"Args": "0b0a000000"
 	},
@@ -2009,7 +2009,7 @@
 		"VOICEID": 7934,
 		"NameJPN": "みすず",
 		"JPN": "「干からびないようにね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Don't get yourself dried up.\"",
 		"Args": "0b0a000000"
 	},
@@ -2063,7 +2063,7 @@
 		"VOICEID": 7935,
 		"NameJPN": "男",
 		"JPN": "「ああ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Okay.\"",
 		"Args": "0b0a000000"
 	},
@@ -2117,7 +2117,7 @@
 		"VOICEID": 7936,
 		"NameJPN": "男",
 		"JPN": "「じゃ、出かけてくる」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I'm going out now.\"",
 		"Args": "0b0a000000"
 	},
@@ -2137,7 +2137,7 @@
 		"VOICEID": 7937,
 		"NameJPN": "男",
 		"JPN": "「無地のはないのか」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Don't you have a plain shirt?\"",
 		"Args": "0b0a000000"
 	},
@@ -2150,7 +2150,7 @@
 		"VOICEID": 7938,
 		"NameJPN": "みすず",
 		"JPN": "「お母さんのなら、あるかも」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Mom might have one.\"",
 		"Args": "0b0a000000"
 	},
@@ -2163,7 +2163,7 @@
 		"VOICEID": 7939,
 		"NameJPN": "男",
 		"JPN": "「サイズは」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"What size?\"",
 		"Args": "0b0a000000"
 	},
@@ -2176,7 +2176,7 @@
 		"VOICEID": 7940,
 		"NameJPN": "みすず",
 		"JPN": "「Ｌ、あると思う。だぼーってだらしなく着るの、お母さん好きだから」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Large, I think. My mom likes to wear really loose clothes.\"",
 		"Args": "0b0a000000"
 	},
@@ -2189,7 +2189,7 @@
 		"VOICEID": 7941,
 		"NameJPN": "男",
 		"JPN": "「探してくる」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I'll go look for it myself.\"",
 		"Args": "0b0a000000"
 	},
@@ -2253,7 +2253,7 @@
 		"VOICEID": 7942,
 		"NameJPN": "みすず",
 		"JPN": "「往人さん？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Yukito-san?\"",
 		"Args": "0b0a000000"
 	},
@@ -2276,7 +2276,7 @@
 		"VOICEID": 7943,
 		"NameJPN": "みすず",
 		"JPN": "「勝手にお母さんのＴシャツ貸しちゃってよかったかな…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Is it alright for me to lend out Mom's T-shirts without her permission?\"",
 		"Args": "0b0a000000"
 	},
@@ -2330,7 +2330,7 @@
 		"VOICEID": 7944,
 		"NameJPN": "みすず",
 		"JPN": "「お母さん、往人さんのこと気に入ってるみたいだし、いいよね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Mom seems to like Yukito-san so she probably won't mind.\"",
 		"Args": "0b0a000000"
 	},
@@ -2378,7 +2378,7 @@
 		"VOICEID": 7945,
 		"NameJPN": "みすず",
 		"JPN": "「往人さん、Ｔシャツあったーっ？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Yukito-san, did you find the T-shirt?\"",
 		"Args": "0b0a000000"
 	},
@@ -2442,7 +2442,7 @@
 		"VOICEID": 7946,
 		"NameJPN": "みすず",
 		"JPN": "「あ、すごい。いつもの往人さん」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Ah, wow. You look like yourself again.\"",
 		"Args": "0b0a000000"
 	},
@@ -2496,7 +2496,7 @@
 		"VOICEID": 7947,
 		"NameJPN": "男",
 		"JPN": "「じゃ、出かけてくる」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I'm going out now.\"",
 		"Args": "0b0a000000"
 	},
@@ -2516,7 +2516,7 @@
 		"VOICEID": 7948,
 		"NameJPN": "男",
 		"JPN": "「ステゴＴシャツ…貸してくれ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I'll borrow the stegosaurus shirt...\"",
 		"Args": "0b0a000000"
 	},
@@ -2529,7 +2529,7 @@
 		"VOICEID": 7949,
 		"NameJPN": "みすず",
 		"JPN": "「うん。持ってくるねー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Sure. Give me a minute.\"",
 		"Args": "0b0a000000"
 	},
@@ -2583,7 +2583,7 @@
 		"VOICEID": 7950,
 		"NameJPN": "みすず",
 		"JPN": "「はい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Here.\"",
 		"Args": "0b0a000000"
 	},
@@ -2701,7 +2701,7 @@
 		"MSGID": 86,
 		"NameJPN": "男",
 		"JPN": "「………」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -2724,7 +2724,7 @@
 		"VOICEID": 7951,
 		"NameJPN": "男",
 		"JPN": "「ステゴザウルス…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Stegosaurus...\"",
 		"Args": "0b0a000000"
 	},
@@ -2737,7 +2737,7 @@
 		"VOICEID": 7952,
 		"NameJPN": "男",
 		"JPN": "「がお、がお…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Gao, gao...\"",
 		"Args": "0b0a000000"
 	},
@@ -2749,7 +2749,7 @@
 		"MSGID": 90,
 		"NameJPN": "男",
 		"JPN": "「………」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -2803,7 +2803,7 @@
 		"VOICEID": 7953,
 		"NameJPN": "男",
 		"JPN": "「にかっ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Teehee.\"",
 		"Args": "0b0a000000"
 	},
@@ -2866,7 +2866,7 @@
 		"MSGID": 93,
 		"NameJPN": "男",
 		"JPN": "「………」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -2933,7 +2933,7 @@
 		"VOICEID": 7954,
 		"NameJPN": "男",
 		"JPN": "「おい、観鈴っ、やっぱり濡れてるのでいいから返してくれっ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Hey, Misuzu. I don't care if it's still wet, just give it back.\"",
 		"Args": "0b0a000000"
 	},
@@ -2997,7 +2997,7 @@
 		"VOICEID": 7955,
 		"NameJPN": "みすず",
 		"JPN": "「はい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Here.\"",
 		"Args": "0b0a000000"
 	},
@@ -3116,7 +3116,7 @@
 		"VOICEID": 7956,
 		"NameJPN": "みすず",
 		"JPN": "「だいじょうぶ？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Are you okay with that?\"",
 		"Args": "0b0a000000"
 	},
@@ -3170,7 +3170,7 @@
 		"VOICEID": 7957,
 		"NameJPN": "男",
 		"JPN": "「ああ、ぜんぜん平気だぞ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Yeah, I'm good.\"",
 		"Args": "0b0a000000"
 	},
@@ -3237,7 +3237,7 @@
 		"VOICEID": 7958,
 		"NameJPN": "みすず",
 		"JPN": "「なんか、ほんとにオタマジャクシみたいになっちゃったね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"You look like you really turned into a tadpole.\"",
 		"Args": "0b0a000000"
 	},
@@ -3250,7 +3250,7 @@
 		"VOICEID": 7959,
 		"NameJPN": "みすず",
 		"JPN": "「干からびないようにね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Don't get yourself dried up.\"",
 		"Args": "0b0a000000"
 	},
@@ -3304,7 +3304,7 @@
 		"VOICEID": 7960,
 		"NameJPN": "男",
 		"JPN": "「ああ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Okay.\"",
 		"Args": "0b0a000000"
 	},
@@ -3358,7 +3358,7 @@
 		"VOICEID": 7961,
 		"NameJPN": "男",
 		"JPN": "「じゃ、出かけてくる」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I'm going out now.\"",
 		"Args": "0b0a000000"
 	},
@@ -3378,7 +3378,7 @@
 		"VOICEID": 7962,
 		"NameJPN": "みすず",
 		"JPN": "「往人さん、どうだった？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Yukito-san, how is it?\"",
 		"Args": "0b0a000000"
 	},
@@ -3401,7 +3401,7 @@
 		"VOICEID": 7963,
 		"NameJPN": "みすず",
 		"JPN": "「わ、意外と自然」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Whoa, it's like it's made for you.\"",
 		"Args": "0b0a000000"
 	},
@@ -3455,7 +3455,7 @@
 		"VOICEID": 7964,
 		"NameJPN": "男",
 		"JPN": "「ほんとかよ…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Are you sure...?\"",
 		"Args": "0b0a000000"
 	},
@@ -3468,7 +3468,7 @@
 		"VOICEID": 7965,
 		"NameJPN": "みすず",
 		"JPN": "「似合ってる。往人さん、かわいい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"You look good in it. Yukito-san, you look cute.\"",
 		"Args": "0b0a000000"
 	},
@@ -3522,7 +3522,7 @@
 		"VOICEID": 7966,
 		"NameJPN": "男",
 		"JPN": "「脱ぐ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Off it goes.\"",
 		"Args": "0b0a000000"
 	},
@@ -3535,7 +3535,7 @@
 		"VOICEID": 7967,
 		"NameJPN": "みすず",
 		"JPN": "「わ…ダメっ。それで今日は過ごすの」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Whoa... Don't do that... Wear this shirt for the rest of today.\"",
 		"Args": "0b0a000000"
 	},
@@ -3547,7 +3547,7 @@
 		"MSGID": 113,
 		"NameJPN": "男",
 		"JPN": "「………」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -3601,7 +3601,7 @@
 		"VOICEID": 7968,
 		"NameJPN": "男",
 		"JPN": "「…わかったよ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Fine...\"",
 		"Args": "0b0a000000"
 	},
@@ -3614,7 +3614,7 @@
 		"VOICEID": 7969,
 		"NameJPN": "みすず",
 		"JPN": "「…にはは。かわいいなー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Nihaha. So cute.\"",
 		"Args": "0b0a000000"
 	},
@@ -3668,7 +3668,7 @@
 		"VOICEID": 7970,
 		"NameJPN": "男",
 		"JPN": "「脱ぐ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Off it goes.\"",
 		"Args": "0b0a000000"
 	},
@@ -3681,7 +3681,7 @@
 		"VOICEID": 7971,
 		"NameJPN": "みすず",
 		"JPN": "「かわいくない、かわいくないっ。カッコイイ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"It's not cute, it's not cute. It looks cool.\"",
 		"Args": "0b0a000000"
 	},
@@ -3734,7 +3734,7 @@
 		"MSGID": 118,
 		"NameJPN": "男",
 		"JPN": "「………」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -3747,7 +3747,7 @@
 		"VOICEID": 7972,
 		"NameJPN": "みすず",
 		"JPN": "「…ステゴザウルス、がおがお」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Stegosaurus, gao, gao.\"",
 		"Args": "0b0a000000"
 	},
@@ -3801,7 +3801,7 @@
 		"VOICEID": 7973,
 		"NameJPN": "男",
 		"JPN": "「脱ぐ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Off it goes.\"",
 		"Args": "0b0a000000"
 	},
@@ -3814,7 +3814,7 @@
 		"VOICEID": 7974,
 		"NameJPN": "みすず",
 		"JPN": "「がおがおしてないよっ。がおがおしてないっ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"No gao gao! No gao gao!\"",
 		"Args": "0b0a000000"
 	},
@@ -3868,7 +3868,7 @@
 		"VOICEID": 7975,
 		"NameJPN": "男",
 		"JPN": "「がおがおしてるじゃないか…思いっきり…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"It's looking pretty gao gao to me...\"",
 		"Args": "0b0a000000"
 	},
@@ -3922,7 +3922,7 @@
 		"VOICEID": 7976,
 		"NameJPN": "男",
 		"JPN": "「はぁ…もうどうでもいい」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Haa... I don't care anymore.\"",
 		"Args": "0b0a000000"
 	},
@@ -3976,7 +3976,7 @@
 		"VOICEID": 7977,
 		"NameJPN": "男",
 		"JPN": "「…出かけてくる」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I'm going out.\"",
 		"Args": "0b0a000000"
 	},
@@ -4075,7 +4075,7 @@
 		"VOICEID": 7978,
 		"NameJPN": "みすず",
 		"JPN": "「いっちゃったねー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"He's gone.\"",
 		"Args": "0b0a000000"
 	},
@@ -4129,7 +4129,7 @@
 		"VOICEID": 7979,
 		"NameJPN": "みすず",
 		"JPN": "「さて、と…まだお母さんのぶん、あるし」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Now then... There's still Mom's clothes.\"",
 		"Args": "0b0a000000"
 	},
@@ -4183,7 +4183,7 @@
 		"VOICEID": 7980,
 		"NameJPN": "みすず",
 		"JPN": "「お洗濯の続きしよーっと」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Guess I'm back to doing laundry.\"",
 		"Args": "0b0a000000"
 	},
@@ -4412,7 +4412,7 @@
 		"VOICEID": 7981,
 		"NameJPN": "みすず",
 		"JPN": "「洗濯物おわったー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Done with the laundry.\"",
 		"Args": "0b0a000000"
 	},
@@ -4466,7 +4466,7 @@
 		"VOICEID": 7982,
 		"NameJPN": "みすず",
 		"JPN": "「すごい量だった」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"That sure was a lot of clothes.\"",
 		"Args": "0b0a000000"
 	},
@@ -4520,7 +4520,7 @@
 		"VOICEID": 7983,
 		"NameJPN": "みすず",
 		"JPN": "「お母さんのパンツ、いっぱい干したよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I hung so many of Mom's panties out to dry.\"",
 		"Args": "0b0a000000"
 	},
@@ -4533,7 +4533,7 @@
 		"VOICEID": 7984,
 		"NameJPN": "みすず",
 		"JPN": "「わたしのも、隣に並んでる」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Mine are also lined up beside Mom's.\"",
 		"Args": "0b0a000000"
 	},
@@ -4587,7 +4587,7 @@
 		"VOICEID": 7985,
 		"NameJPN": "みすず",
 		"JPN": "「はぁー、疲れた」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Haa... I'm tired.\"",
 		"Args": "0b0a000000"
 	},
@@ -4686,7 +4686,7 @@
 		"VOICEID": 7986,
 		"NameJPN": "みすず",
 		"JPN": "「往人さん、出かけちゃってるし、どうしようかなー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Now that Yukito-san has gone out, what should I do?\"",
 		"Args": "0b0a000000"
 	},
@@ -4699,7 +4699,7 @@
 		"VOICEID": 7987,
 		"NameJPN": "みすず",
 		"JPN": "「ひとりでまた遊ぼうかな」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Maybe I'll go play by myself again.\"",
 		"Args": "0b0a000000"
 	},
@@ -4786,7 +4786,7 @@
 		"VOICEID": 7988,
 		"NameJPN": "みすず",
 		"JPN": "「あ、そら、寄ってきた」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Ah, Sora came to me.\"",
 		"Args": "0b0a000000"
 	},
@@ -4840,7 +4840,7 @@
 		"VOICEID": 7989,
 		"NameJPN": "みすず",
 		"JPN": "「そらー。そらそら」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Sora. Sora, Sora.\"",
 		"Args": "0b0a000000"
 	},
@@ -4863,7 +4863,7 @@
 		"VOICEID": 7990,
 		"NameJPN": "みすず",
 		"JPN": "「しっぽ、ぴょこぴょこしてて、かわいい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Your tail's so cute when it's wiggling.\"",
 		"Args": "0b0a000000"
 	},
@@ -4978,7 +4978,7 @@
 		"VOICEID": 7991,
 		"NameJPN": "みすず",
 		"JPN": "「にはは」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Nihaha.\"",
 		"Args": "0b0a000000"
 	},
@@ -5032,7 +5032,7 @@
 		"VOICEID": 7992,
 		"NameJPN": "みすず",
 		"JPN": "「わたし、午後からぜーんぶ、空いてるよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'm free for the whole afternoon.\"",
 		"Args": "0b0a000000"
 	},
@@ -5045,7 +5045,7 @@
 		"VOICEID": 7993,
 		"NameJPN": "みすず",
 		"JPN": "「なにして遊ぶ？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"What should we play?\"",
 		"Args": "0b0a000000"
 	},
@@ -5119,7 +5119,7 @@
 		"VOICEID": 7994,
 		"NameJPN": "みすず",
 		"JPN": "「うーん、と…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Umm...\"",
 		"Args": "0b0a000000"
 	},
@@ -5132,7 +5132,7 @@
 		"VOICEID": 7995,
 		"NameJPN": "みすず",
 		"JPN": "「遊んでたりしたら、ダメかな」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I guess I shouldn't be playing all the time.\"",
 		"Args": "0b0a000000"
 	},
@@ -5186,7 +5186,7 @@
 		"VOICEID": 7996,
 		"NameJPN": "みすず",
 		"JPN": "「わたしには夏休みの宿題があるように、そらにも宿題あるよね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I still have my summer homework. Sora has his homework as well.\"",
 		"Args": "0b0a000000"
 	},
@@ -5199,7 +5199,7 @@
 		"VOICEID": 7997,
 		"NameJPN": "みすず",
 		"JPN": "「空に飛ぶこと」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Flying.\"",
 		"Args": "0b0a000000"
 	},
@@ -5212,7 +5212,7 @@
 		"VOICEID": 7998,
 		"NameJPN": "みすず",
 		"JPN": "「そらも早く飛べるようになりたいよね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Sora wants to learn how to fly sooner, don't you?\"",
 		"Args": "0b0a000000"
 	},
@@ -5266,7 +5266,7 @@
 		"VOICEID": 7999,
 		"NameJPN": "みすず",
 		"JPN": "「手伝うよ、うん」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'll help you.\"",
 		"Args": "0b0a000000"
 	},
@@ -5377,7 +5377,7 @@
 		"VOICEID": 8000,
 		"NameJPN": "みすず",
 		"JPN": "「暑いねー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Sure is hot out.\"",
 		"Args": "0b0a000000"
 	},
@@ -5390,7 +5390,7 @@
 		"VOICEID": 8001,
 		"NameJPN": "みすず",
 		"JPN": "「歩いてるだけで、汗だく」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Just walking makes me sweat.\"",
 		"Args": "0b0a000000"
 	},
@@ -5403,7 +5403,7 @@
 		"VOICEID": 8002,
 		"NameJPN": "みすず",
 		"JPN": "「練習終わったら、ふたりでジュース飲もうね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Let's drink fruit juice after we finish practicing.\"",
 		"Args": "0b0a000000"
 	},
@@ -5416,7 +5416,7 @@
 		"VOICEID": 8003,
 		"NameJPN": "みすず",
 		"JPN": "「きんきんに冷えた、どろり濃厚ジュース」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I want some chilled Rich Gooey Juice.\"",
 		"Args": "0b0a000000"
 	},
@@ -5429,7 +5429,7 @@
 		"VOICEID": 8004,
 		"NameJPN": "みすず",
 		"JPN": "「汗かいた後は、きっとすごくおいしいよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'm sure that it'll taste great after I work up a good sweat.\"",
 		"Args": "0b0a000000"
 	},
@@ -5534,7 +5534,7 @@
 		"VOICEID": 8005,
 		"NameJPN": "みすず",
 		"JPN": "「わたし、そらがうらやましい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I envy you, Sora.\"",
 		"Args": "0b0a000000"
 	},
@@ -5547,7 +5547,7 @@
 		"VOICEID": 8006,
 		"NameJPN": "みすず",
 		"JPN": "「だって、翼ある」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"You have wings.\"",
 		"Args": "0b0a000000"
 	},
@@ -5560,7 +5560,7 @@
 		"VOICEID": 8007,
 		"NameJPN": "みすず",
 		"JPN": "「わたしも、欲しいな」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I want wings, too.\"",
 		"Args": "0b0a000000"
 	},
@@ -5573,7 +5573,7 @@
 		"VOICEID": 8008,
 		"NameJPN": "みすず",
 		"JPN": "「翼あったら、空飛べるんだよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Then I'll be able to fly in the sky.\"",
 		"Args": "0b0a000000"
 	},
@@ -5586,7 +5586,7 @@
 		"VOICEID": 8009,
 		"NameJPN": "みすず",
 		"JPN": "「そうしたら…あの夢に少しでも、近づけるのかなって」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Maybe that will bring me one step closer to that dream.\"",
 		"Args": "0b0a000000"
 	},
@@ -5687,7 +5687,7 @@
 		"VOICEID": 8010,
 		"NameJPN": "みすず",
 		"JPN": "「ふぅー、ついた」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Phew, we made it.\"",
 		"Args": "0b0a000000"
 	},
@@ -5700,7 +5700,7 @@
 		"VOICEID": 8011,
 		"NameJPN": "みすず",
 		"JPN": "「じゃ、はじめよっか、そら」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Let's get started, Sora.\"",
 		"Args": "0b0a000000"
 	},
@@ -5784,7 +5784,7 @@
 		"VOICEID": 8012,
 		"NameJPN": "みすず",
 		"JPN": "「いい？　この前みたいにするんだよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Ready? Let's try the same thing we did before.\"",
 		"Args": "0b0a000000"
 	},
@@ -5797,7 +5797,7 @@
 		"VOICEID": 8013,
 		"NameJPN": "みすず",
 		"JPN": "「ぱたぱたしながら、後ついてくるんだよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Run after me and flap your wings.\"",
 		"Args": "0b0a000000"
 	},
@@ -5810,7 +5810,7 @@
 		"VOICEID": 8014,
 		"NameJPN": "みすず",
 		"JPN": "「終わったら、おいしいジュースだよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"When we're done practicing, it's time for some delicious fruit juice.\"",
 		"Args": "0b0a000000"
 	},
@@ -5864,7 +5864,7 @@
 		"VOICEID": 8015,
 		"NameJPN": "みすず",
 		"JPN": "「だから、がんばろうね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Do your best, okay?\"",
 		"Args": "0b0a000000"
 	},
@@ -5918,7 +5918,7 @@
 		"VOICEID": 8016,
 		"NameJPN": "みすず",
 		"JPN": "「いくねーっ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Here we go.\"",
 		"Args": "0b0a000000"
 	},
@@ -6092,7 +6092,7 @@
 		"VOICEID": 8017,
 		"NameJPN": "みすず",
 		"JPN": "「はぁ…はぁ…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Haa...Haa...\"",
 		"Args": "0b0a000000"
 	},
@@ -6156,7 +6156,7 @@
 		"VOICEID": 8018,
 		"NameJPN": "みすず",
 		"JPN": "「また、わたし、ひとりでぱたぱたしてるヘンな子だった…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Now I'm that weird girl flapping her arms by herself again.\"",
 		"Args": "0b0a000000"
 	},
@@ -6169,7 +6169,7 @@
 		"VOICEID": 8019,
 		"NameJPN": "みすず",
 		"JPN": "「うーんどうしたのかな、そら」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"What's wrong, Sora?\"",
 		"Args": "0b0a000000"
 	},
@@ -6182,7 +6182,7 @@
 		"VOICEID": 8020,
 		"NameJPN": "みすず",
 		"JPN": "「はりきって、ここまで来たんじゃなかったのかな」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"You looked so fired up just now.\"",
 		"Args": "0b0a000000"
 	},
@@ -6195,7 +6195,7 @@
 		"VOICEID": 8021,
 		"NameJPN": "みすず",
 		"JPN": "「ね、一緒に走るんだよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Hey, run with me.\"",
 		"Args": "0b0a000000"
 	},
@@ -6324,7 +6324,7 @@
 		"VOICEID": 8022,
 		"NameJPN": "みすず",
 		"JPN": "「だいじょうぶだよ、そら」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"It's alright, Sora.\"",
 		"Args": "0b0a000000"
 	},
@@ -6337,7 +6337,7 @@
 		"VOICEID": 8023,
 		"NameJPN": "みすず",
 		"JPN": "「夏休みはまだ始まったばかり」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Summer break has only just begun.\"",
 		"Args": "0b0a000000"
 	},
@@ -6350,7 +6350,7 @@
 		"VOICEID": 8024,
 		"NameJPN": "みすず",
 		"JPN": "「まだまだ時間、たっぷりある」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"We still have plenty of time.\"",
 		"Args": "0b0a000000"
 	},
@@ -6363,7 +6363,7 @@
 		"VOICEID": 8025,
 		"NameJPN": "みすず",
 		"JPN": "「わたしも、宿題がんばる」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'll try to finish my summer homework.\"",
 		"Args": "0b0a000000"
 	},
@@ -6417,7 +6417,7 @@
 		"VOICEID": 8026,
 		"NameJPN": "みすず",
 		"JPN": "「だから、そらも、飛べるようにがんばろうね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Sora, you'll have to learn how to fly too.\"",
 		"Args": "0b0a000000"
 	},
@@ -6490,7 +6490,7 @@
 		"VOICEID": 8027,
 		"NameJPN": "みすず",
 		"JPN": "「ん？　どうしたの？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Hmmm? What's wrong?\"",
 		"Args": "0b0a000000"
 	},
@@ -6641,7 +6641,7 @@
 		"VOICEID": 8028,
 		"NameJPN": "みすず",
 		"JPN": "「ふんふん、つまりそらはこう言いたいんだね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Oh, I know why you're trying to tell me.\"",
 		"Args": "0b0a000000"
 	},
@@ -6654,7 +6654,7 @@
 		"VOICEID": 8029,
 		"NameJPN": "みすず",
 		"JPN": "「たまの休みで、午後からぜーんぶ空いてる」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"You're totally free in the afternoon some days of the weeks.\"",
 		"Args": "0b0a000000"
 	},
@@ -6708,7 +6708,7 @@
 		"VOICEID": 8030,
 		"NameJPN": "みすず",
 		"JPN": "「その時間を有効に使って、飛ぶ練習をしよー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"So you plan to make effective use of those times to practice flying.\"",
 		"Args": "0b0a000000"
 	},
@@ -6762,7 +6762,7 @@
 		"VOICEID": 8031,
 		"NameJPN": "みすず",
 		"JPN": "「かな？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Right?\"",
 		"Args": "0b0a000000"
 	},
@@ -6826,7 +6826,7 @@
 		"VOICEID": 8032,
 		"NameJPN": "みすず",
 		"JPN": "「うんうん、そうかー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Yup, I got you.\"",
 		"Args": "0b0a000000"
 	},
@@ -6839,7 +6839,7 @@
 		"VOICEID": 8033,
 		"NameJPN": "みすず",
 		"JPN": "「そらも早く飛べるようになりたいんだね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"You want to master flying as soon as possible.\"",
 		"Args": "0b0a000000"
 	},
@@ -6893,7 +6893,7 @@
 		"VOICEID": 8034,
 		"NameJPN": "みすず",
 		"JPN": "「手伝うよ、うん」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'll help you. Yup.\"",
 		"Args": "0b0a000000"
 	},
@@ -7045,7 +7045,7 @@
 		"VOICEID": 8035,
 		"NameJPN": "みすず",
 		"JPN": "「いい？　この前みたいにするんだよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Ready? Let's try the same thing we did before.\"",
 		"Args": "0b0a000000"
 	},
@@ -7058,7 +7058,7 @@
 		"VOICEID": 8036,
 		"NameJPN": "みすず",
 		"JPN": "「ぱたぱたしながら、後ついてくるんだよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Run after me and flap your wings.\"",
 		"Args": "0b0a000000"
 	},
@@ -7112,7 +7112,7 @@
 		"VOICEID": 8037,
 		"NameJPN": "みすず",
 		"JPN": "「いくねーっ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Here we go.\"",
 		"Args": "0b0a000000"
 	},
@@ -7210,7 +7210,7 @@
 		"VOICEID": 8038,
 		"NameJPN": "みすず",
 		"JPN": "「はぁ…はぁ…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Haa....Haa...\"",
 		"Args": "0b0a000000"
 	},
@@ -7274,7 +7274,7 @@
 		"VOICEID": 8039,
 		"NameJPN": "みすず",
 		"JPN": "「また、わたし、ひとりでぱたぱたしてるヘンな子だった…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Now I'm that weird girl flapping her arms by herself again.\"",
 		"Args": "0b0a000000"
 	},
@@ -7287,7 +7287,7 @@
 		"VOICEID": 8040,
 		"NameJPN": "みすず",
 		"JPN": "「うーんどうしたのかな、そら」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"What's wrong, Sora?\"",
 		"Args": "0b0a000000"
 	},
@@ -7300,7 +7300,7 @@
 		"VOICEID": 8041,
 		"NameJPN": "みすず",
 		"JPN": "「はりきって、ここまで来たんじゃなかったのかな」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"You looked so fired up just now.\"",
 		"Args": "0b0a000000"
 	},
@@ -7313,7 +7313,7 @@
 		"VOICEID": 8042,
 		"NameJPN": "みすず",
 		"JPN": "「ね、一緒に走るんだよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": " \"Hey, run with me.\"",
 		"Args": "0b0a000000"
 	},
@@ -7422,7 +7422,7 @@
 		"VOICEID": 8043,
 		"NameJPN": "みすず",
 		"JPN": "「だいじょうぶだよ、そら」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"It's alright, Sora.\"",
 		"Args": "0b0a000000"
 	},
@@ -7435,7 +7435,7 @@
 		"VOICEID": 8044,
 		"NameJPN": "みすず",
 		"JPN": "「夏休みはまだ始まったばかり」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Summer break has only just begun.\"",
 		"Args": "0b0a000000"
 	},
@@ -7448,7 +7448,7 @@
 		"VOICEID": 8045,
 		"NameJPN": "みすず",
 		"JPN": "「まだまだ時間、たっぷりある」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"We still have plenty of time.\"",
 		"Args": "0b0a000000"
 	},
@@ -7461,7 +7461,7 @@
 		"VOICEID": 8046,
 		"NameJPN": "みすず",
 		"JPN": "「わたしも、宿題がんばる」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'll try to finish my summer homework.\"",
 		"Args": "0b0a000000"
 	},
@@ -7515,7 +7515,7 @@
 		"VOICEID": 8047,
 		"NameJPN": "みすず",
 		"JPN": "「だから、そらも、飛べるようにがんばろうね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Sora, you'll have to learn how to fly too.\"",
 		"Args": "0b0a000000"
 	},
@@ -7596,7 +7596,7 @@
 		"VOICEID": 8048,
 		"NameJPN": "みすず",
 		"JPN": "「お昼寝？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Taking a nap?\"",
 		"Args": "0b0a000000"
 	},
@@ -7650,7 +7650,7 @@
 		"VOICEID": 8049,
 		"NameJPN": "みすず",
 		"JPN": "「うん、いいねー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Yup, good idea.\"",
 		"Args": "0b0a000000"
 	},
@@ -7663,7 +7663,7 @@
 		"VOICEID": 8050,
 		"NameJPN": "みすず",
 		"JPN": "「ふたり、並んでお昼寝しよー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Let's take an afternoon nap together.\"",
 		"Args": "0b0a000000"
 	},
@@ -7731,7 +7731,7 @@
 		"VOICEID": 8051,
 		"NameJPN": "みすず",
 		"JPN": "「くー…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"*Snooze...*\"",
 		"Args": "0b0a000000"
 	},
@@ -7984,7 +7984,7 @@
 		"VOICEID": 8052,
 		"NameJPN": "みすず",
 		"JPN": "「うーん、よく寝た」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Hmm, that was a good nap.\"",
 		"Args": "0b0a000000"
 	},
@@ -8038,7 +8038,7 @@
 		"VOICEID": 8053,
 		"NameJPN": "みすず",
 		"JPN": "「そらもよく眠れた？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Did you have a good nap as well, Sora?\"",
 		"Args": "0b0a000000"
 	},
@@ -8155,7 +8155,7 @@
 		"VOICEID": 8054,
 		"NameJPN": "みすず",
 		"JPN": "「あ、いたいた」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Ah, found him!\"",
 		"Args": "0b0a000000"
 	},
@@ -8178,7 +8178,7 @@
 		"VOICEID": 8055,
 		"NameJPN": "みすず",
 		"JPN": "「往人さんっ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Yukito-san.\"",
 		"Args": "0b0a000000"
 	},
@@ -8401,7 +8401,7 @@
 		"VOICEID": 8056,
 		"NameJPN": "男",
 		"JPN": "「ん、どうした」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Oh, what's up?\"",
 		"Args": "0b0a000000"
 	},
@@ -8427,7 +8427,7 @@
 		"VOICEID": 8057,
 		"NameJPN": "みすず",
 		"JPN": "「うまくいってるかなって」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Just wondering if things are working out for you.\"",
 		"Args": "0b0a000000"
 	},
@@ -8542,7 +8542,7 @@
 		"VOICEID": 8058,
 		"NameJPN": "男",
 		"JPN": "「あ、そうか…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Oh, I see...\"",
 		"Args": "0b0a000000"
 	},
@@ -8657,7 +8657,7 @@
 		"VOICEID": 8059,
 		"NameJPN": "男",
 		"JPN": "「悪い。もう、先食っていていいぞ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"My bad. You go ahead and have your meal first.\"",
 		"Args": "0b0a000000"
 	},
@@ -8670,7 +8670,7 @@
 		"VOICEID": 8060,
 		"NameJPN": "みすず",
 		"JPN": "「うん？　うまくいってない？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Huh? You're not making money?\"",
 		"Args": "0b0a000000"
 	},
@@ -8785,7 +8785,7 @@
 		"VOICEID": 8061,
 		"NameJPN": "男",
 		"JPN": "「ああ。だから、おごるのは夕飯になりそうだ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Yeah. So I can't treat you to anything until dinner time.\"",
 		"Args": "0b0a000000"
 	},
@@ -8798,7 +8798,7 @@
 		"VOICEID": 8062,
 		"NameJPN": "みすず",
 		"JPN": "「じゃ、帰ってお昼ご飯食べよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Why don't you come back home for lunch?\"",
 		"Args": "0b0a000000"
 	},
@@ -8913,7 +8913,7 @@
 		"VOICEID": 8063,
 		"NameJPN": "男",
 		"JPN": "「いや…俺は自分の手で稼いで食べる」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Nah... I want to earn my own keep.\"",
 		"Args": "0b0a000000"
 	},
@@ -8926,7 +8926,7 @@
 		"VOICEID": 8064,
 		"NameJPN": "みすず",
 		"JPN": "「じゃ、わたしも付き合おうかな」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Should I hang out with you then?\"",
 		"Args": "0b0a000000"
 	},
@@ -9041,7 +9041,7 @@
 		"VOICEID": 8065,
 		"NameJPN": "男",
 		"JPN": "「馬鹿。俺を待ってたら、いつになるかわからないぞ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Idiot. There's no telling how long you'll have to wait.\"",
 		"Args": "0b0a000000"
 	},
@@ -9054,7 +9054,7 @@
 		"VOICEID": 8066,
 		"NameJPN": "みすず",
 		"JPN": "「いいよ。今日、暇だし」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"It's okay. I'm free anyway.\"",
 		"Args": "0b0a000000"
 	},
@@ -9067,7 +9067,7 @@
 		"VOICEID": 8067,
 		"NameJPN": "男",
 		"JPN": "「そういう問題じゃないだろ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"That's really not the issue.\"",
 		"Args": "0b0a000000"
 	},
@@ -9125,7 +9125,7 @@
 		"VOICEID": 8068,
 		"NameJPN": "みすず",
 		"JPN": "「子供、こないね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"The children aren't coming, huh?\"",
 		"Args": "0b0a000000"
 	},
@@ -9165,7 +9165,7 @@
 		"VOICEID": 8069,
 		"NameJPN": "みすず",
 		"JPN": "「そろそろお昼だよーっ、て呼びにきた」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I came to tell you that it's almost lunch time.\"",
 		"Args": "0b0a000000"
 	},
@@ -9280,7 +9280,7 @@
 		"VOICEID": 8070,
 		"NameJPN": "男",
 		"JPN": "「そうだな…昼だな」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Yeah... It's noon.\"",
 		"Args": "0b0a000000"
 	},
@@ -9293,7 +9293,7 @@
 		"VOICEID": 8071,
 		"NameJPN": "みすず",
 		"JPN": "「帰ろ。ラーメンセット作るから」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Let's go home. I'll make you a ramen set.\"",
 		"Args": "0b0a000000"
 	},
@@ -9408,7 +9408,7 @@
 		"VOICEID": 8072,
 		"NameJPN": "男",
 		"JPN": "「今帰ったらさ…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"If I go home now...\"",
 		"Args": "0b0a000000"
 	},
@@ -9421,7 +9421,7 @@
 		"VOICEID": 8073,
 		"NameJPN": "みすず",
 		"JPN": "「うん」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Yeah?\"",
 		"Args": "0b0a000000"
 	},
@@ -9536,7 +9536,7 @@
 		"VOICEID": 8074,
 		"NameJPN": "男",
 		"JPN": "「まんまガキじゃないか…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Then I'll really be a kid.\"",
 		"Args": "0b0a000000"
 	},
@@ -9549,7 +9549,7 @@
 		"VOICEID": 8075,
 		"NameJPN": "みすず",
 		"JPN": "「うん？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Huh?\"",
 		"Args": "0b0a000000"
 	},
@@ -9562,7 +9562,7 @@
 		"VOICEID": 8076,
 		"NameJPN": "男",
 		"JPN": "「おまえ言っただろ。まるで子供みたいって」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"You said that yourself.\"",
 		"Args": "0b0a000000"
 	},
@@ -9575,7 +9575,7 @@
 		"VOICEID": 8077,
 		"NameJPN": "みすず",
 		"JPN": "「そうだっけ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Did I?\"",
 		"Args": "0b0a000000"
 	},
@@ -9690,7 +9690,7 @@
 		"VOICEID": 8078,
 		"NameJPN": "男",
 		"JPN": "「言ったんだよ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Yes, you did.\"",
 		"Args": "0b0a000000"
 	},
@@ -9703,7 +9703,7 @@
 		"VOICEID": 8079,
 		"NameJPN": "男",
 		"JPN": "「今帰ったら、まんまそれだ。外で腹がすくまで遊んできたガキだ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"If I go home now I'll be like a kid that goes home for food after playing outside.\"",
 		"Args": "0b0a000000"
 	},
@@ -9716,7 +9716,7 @@
 		"VOICEID": 8080,
 		"NameJPN": "みすず",
 		"JPN": "「そんなの気にしなくていいのに」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"You don't have to care about what I said.\"",
 		"Args": "0b0a000000"
 	},
@@ -9831,7 +9831,7 @@
 		"VOICEID": 8081,
 		"NameJPN": "男",
 		"JPN": "「だから、帰らない」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I said I'm not going home.\"",
 		"Args": "0b0a000000"
 	},
@@ -9844,7 +9844,7 @@
 		"VOICEID": 8082,
 		"NameJPN": "みすず",
 		"JPN": "「倒れちゃうよ？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"You'll faint, you know?\"",
 		"Args": "0b0a000000"
 	},
@@ -9857,7 +9857,7 @@
 		"VOICEID": 8083,
 		"NameJPN": "男",
 		"JPN": "「構わない。ひとりで食ってくれ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I don't care. Go have lunch by yourself.\"",
 		"Args": "0b0a000000"
 	},
@@ -9870,7 +9870,7 @@
 		"VOICEID": 8084,
 		"NameJPN": "みすず",
 		"JPN": "「今日はね、セットのご飯、チャーハンにするんだよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Today we're going to have a fried rice set.\"",
 		"Args": "0b0a000000"
 	},
@@ -9984,7 +9984,7 @@
 		"MSGID": 288,
 		"NameJPN": "男",
 		"JPN": "「………」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -10098,7 +10098,7 @@
 		"MSGID": 289,
 		"NameJPN": "男",
 		"JPN": "「……」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"......\"",
 		"Args": "0b0a000000"
 	},
@@ -10110,7 +10110,7 @@
 		"MSGID": 290,
 		"NameJPN": "男",
 		"JPN": "「………」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -10225,7 +10225,7 @@
 		"VOICEID": 8085,
 		"NameJPN": "男",
 		"JPN": "「ひとりで食えって言ってるだろ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I said go eat by yourself.\"",
 		"Args": "0b0a000000"
 	},
@@ -10238,7 +10238,7 @@
 		"VOICEID": 8086,
 		"NameJPN": "みすず",
 		"JPN": "「今、すごく悩んでたねー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"You were in a dilemma just now.\"",
 		"Args": "0b0a000000"
 	},
@@ -10353,7 +10353,7 @@
 		"VOICEID": 8087,
 		"NameJPN": "男",
 		"JPN": "「悩んでない」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"No, I was not.\"",
 		"Args": "0b0a000000"
 	},
@@ -10366,7 +10366,7 @@
 		"VOICEID": 8088,
 		"NameJPN": "みすず",
 		"JPN": "「あれ？　そうだったかな」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Oh, really?\"",
 		"Args": "0b0a000000"
 	},
@@ -10379,7 +10379,7 @@
 		"VOICEID": 8089,
 		"NameJPN": "男",
 		"JPN": "「そうなんだ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Really.\"",
 		"Args": "0b0a000000"
 	},
@@ -10392,7 +10392,7 @@
 		"VOICEID": 8090,
 		"NameJPN": "みすず",
 		"JPN": "「うーん…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Umm...\"",
 		"Args": "0b0a000000"
 	},
@@ -10405,7 +10405,7 @@
 		"VOICEID": 8091,
 		"NameJPN": "みすず",
 		"JPN": "「じゃ、わたしも付き合おうかな」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Should I hang out with you then?\"",
 		"Args": "0b0a000000"
 	},
@@ -10520,7 +10520,7 @@
 		"VOICEID": 8092,
 		"NameJPN": "男",
 		"JPN": "「馬鹿。俺を待ってたら、いつになるかわからないぞ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Idiot. There's no telling how long you'll have to wait.\"",
 		"Args": "0b0a000000"
 	},
@@ -10533,7 +10533,7 @@
 		"VOICEID": 8093,
 		"NameJPN": "みすず",
 		"JPN": "「いいよ。今日、暇だし」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"It's okay. I'm free anyway.\"",
 		"Args": "0b0a000000"
 	},
@@ -10546,7 +10546,7 @@
 		"VOICEID": 8094,
 		"NameJPN": "男",
 		"JPN": "「そういう問題じゃないだろ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"That's not really the issue.\"",
 		"Args": "0b0a000000"
 	},
@@ -10604,7 +10604,7 @@
 		"VOICEID": 8095,
 		"NameJPN": "みすず",
 		"JPN": "「子供、こないね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"The children aren't coming, huh?\"",
 		"Args": "0b0a000000"
 	},
@@ -10649,7 +10649,7 @@
 		"VOICEID": 8096,
 		"NameJPN": "みすず",
 		"JPN": "「夢を見るの」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I've been having dreams.\"",
 		"Args": "0b0a000000"
 	},
@@ -10661,7 +10661,7 @@
 		"MSGID": 306,
 		"NameJPN": "男",
 		"JPN": "「………」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -10776,7 +10776,7 @@
 		"VOICEID": 8097,
 		"NameJPN": "男",
 		"JPN": "「ん…なんか言ったか」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Huh? Did you say something?\"",
 		"Args": "0b0a000000"
 	},
@@ -10789,7 +10789,7 @@
 		"VOICEID": 8098,
 		"NameJPN": "みすず",
 		"JPN": "「夢を見るの」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I've been having dreams.\"",
 		"Args": "0b0a000000"
 	},
@@ -10904,7 +10904,7 @@
 		"VOICEID": 8099,
 		"NameJPN": "男",
 		"JPN": "「そら見るだろう。俺も見る」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Sure you have. I have dreams too.\"",
 		"Args": "0b0a000000"
 	},
@@ -10917,7 +10917,7 @@
 		"VOICEID": 8101,
 		"NameJPN": "みすず",
 		"JPN": "「不思議な夢」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"They're really weird dreams.\"",
 		"Args": "0b0a000000"
 	},
@@ -11042,7 +11042,7 @@
 		"VOICEID": 8102,
 		"NameJPN": "みすず",
 		"JPN": "「空の夢」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Dreams of the sky.\"",
 		"Args": "0b0a000000"
 	},
@@ -11176,7 +11176,7 @@
 		"MSGID": 315,
 		"NameJPN": "男",
 		"JPN": "「………」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -11338,7 +11338,7 @@
 		"VOICEID": 8103,
 		"NameJPN": "みすず",
 		"JPN": "「自分は空にいるの」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I was in the sky.\"",
 		"Args": "0b0a000000"
 	},
@@ -11351,7 +11351,7 @@
 		"VOICEID": 8104,
 		"NameJPN": "みすず",
 		"JPN": "「そこは見たこともない世界」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"The world there is unlike anything I've seen before.\"",
 		"Args": "0b0a000000"
 	},
@@ -11364,7 +11364,7 @@
 		"VOICEID": 8105,
 		"NameJPN": "みすず",
 		"JPN": "「だって、こうしていれば、ほら…自分の上に雲はある」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"The clouds are above me at this moment, right?\"",
 		"Args": "0b0a000000"
 	},
@@ -11377,7 +11377,7 @@
 		"VOICEID": 8106,
 		"NameJPN": "みすず",
 		"JPN": "「なのにそこでは、自分の足の下に雲が張りつめてる」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"But in my dreams, the clouds are below my feet.\"",
 		"Args": "0b0a000000"
 	},
@@ -11390,7 +11390,7 @@
 		"VOICEID": 8107,
 		"NameJPN": "みすず",
 		"JPN": "「雲の隙間からは、海の青が見える。でも、そこまでがどれくらいあるのかもわからない」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I can see the blue sea through the clouds. But I don't know how high up I am.\"",
 		"Args": "0b0a000000"
 	},
@@ -11403,7 +11403,7 @@
 		"VOICEID": 8108,
 		"NameJPN": "みすず",
 		"JPN": "「どこも、無限に広がってる」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"The sky goes on forever.\"",
 		"Args": "0b0a000000"
 	},
@@ -11416,7 +11416,7 @@
 		"VOICEID": 8109,
 		"NameJPN": "みすず",
 		"JPN": "「そしてその空では、雲は逆に流れてる」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"And in that sky, the clouds flow backwards.\"",
 		"Args": "0b0a000000"
 	},
@@ -11429,7 +11429,7 @@
 		"VOICEID": 8110,
 		"NameJPN": "みすず",
 		"JPN": "「消えた場所から雲は生まれて、生まれた場所に消えてゆく…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Clouds are born where they disappear, and disappear where they are born.\"",
 		"Args": "0b0a000000"
 	},
@@ -11442,7 +11442,7 @@
 		"VOICEID": 8111,
 		"NameJPN": "みすず",
 		"JPN": "「その繰り返しをじっと見ながら、わたしは風を受けている」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I feel the wind with my body while watching that cycle.\"",
 		"Args": "0b0a000000"
 	},
@@ -11599,7 +11599,7 @@
 		"VOICEID": 8112,
 		"NameJPN": "みすず",
 		"JPN": "「そんな夢」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"That's what my dreams are like.\"",
 		"Args": "0b0a000000"
 	},
@@ -11714,7 +11714,7 @@
 		"VOICEID": 8113,
 		"NameJPN": "男",
 		"JPN": "「おまえは…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Who...\"",
 		"Args": "0b0a000000"
 	},
@@ -11737,7 +11737,7 @@
 		"VOICEID": 8114,
 		"NameJPN": "男",
 		"JPN": "「おまえは…誰なんだ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Who are you?\"",
 		"Args": "0b0a000000"
 	},
@@ -11750,7 +11750,7 @@
 		"VOICEID": 8115,
 		"NameJPN": "みすず",
 		"JPN": "「わたし？　わたし、神尾観鈴」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Me? I'm Kamio Misuzu.\"",
 		"Args": "0b0a000000"
 	},
@@ -11763,7 +11763,7 @@
 		"VOICEID": 8116,
 		"NameJPN": "男",
 		"JPN": "「違う…その夢の中でだ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"No, I mean yourself in the dream.\"",
 		"Args": "0b0a000000"
 	},
@@ -11776,7 +11776,7 @@
 		"VOICEID": 8117,
 		"NameJPN": "みすず",
 		"JPN": "「それはやっぱり…わたしだと思う」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I think that's me.\"",
 		"Args": "0b0a000000"
 	},
@@ -11789,7 +11789,7 @@
 		"VOICEID": 8118,
 		"NameJPN": "みすず",
 		"JPN": "「もうひとりのわたし」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"That's the other me.\"",
 		"Args": "0b0a000000"
 	},
@@ -11904,7 +11904,7 @@
 		"VOICEID": 8119,
 		"NameJPN": "男",
 		"JPN": "「そうだな。その通りだな…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Yeah. I suppose that's right...\"",
 		"Args": "0b0a000000"
 	},
@@ -12025,7 +12025,7 @@
 		"VOICEID": 8120,
 		"NameJPN": "男",
 		"JPN": "「だから、おまえ、空に想いを馳せてるのか」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Is that why you always think about the sky?\"",
 		"Args": "0b0a000000"
 	},
@@ -12038,7 +12038,7 @@
 		"VOICEID": 8121,
 		"NameJPN": "みすず",
 		"JPN": "「うん…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Yup...\"",
 		"Args": "0b0a000000"
 	},
@@ -12051,7 +12051,7 @@
 		"VOICEID": 8122,
 		"NameJPN": "みすず",
 		"JPN": "「どうして、わたしはそんな場所にいるのかなって」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I always wonder why I'm up there.\"",
 		"Args": "0b0a000000"
 	},
@@ -12063,7 +12063,7 @@
 		"MSGID": 344,
 		"NameJPN": "男",
 		"JPN": "「………」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -12076,7 +12076,7 @@
 		"VOICEID": 8123,
 		"NameJPN": "みすず",
 		"JPN": "「お腹、大丈夫？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Is your stomach okay?\"",
 		"Args": "0b0a000000"
 	},
@@ -12191,7 +12191,7 @@
 		"VOICEID": 8124,
 		"NameJPN": "男",
 		"JPN": "「ん、どうして」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Why?\"",
 		"Args": "0b0a000000"
 	},
@@ -12204,7 +12204,7 @@
 		"VOICEID": 8125,
 		"NameJPN": "みすず",
 		"JPN": "「さっきからぐーぐー言ってるよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"It's been growling for quite a while.\"",
 		"Args": "0b0a000000"
 	},
@@ -12319,7 +12319,7 @@
 		"VOICEID": 8126,
 		"NameJPN": "男",
 		"JPN": "「ああ、そうか…腹減ったな」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Oh, yeah... I'm starving.\"",
 		"Args": "0b0a000000"
 	},
@@ -12332,7 +12332,7 @@
 		"VOICEID": 8127,
 		"NameJPN": "みすず",
 		"JPN": "「でも、まだ稼げてないよね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"But you haven't made any money yet.\"",
 		"Args": "0b0a000000"
 	},
@@ -12345,7 +12345,7 @@
 		"VOICEID": 8128,
 		"NameJPN": "男",
 		"JPN": "「そうだな…一銭もねぇ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Yeah. Not even a single penny.\"",
 		"Args": "0b0a000000"
 	},
@@ -12403,7 +12403,7 @@
 		"VOICEID": 8129,
 		"NameJPN": "男",
 		"JPN": "「おまえ、やっぱ戻ってろ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"You should go back anyway.\"",
 		"Args": "0b0a000000"
 	},
@@ -12416,7 +12416,7 @@
 		"VOICEID": 8130,
 		"NameJPN": "みすず",
 		"JPN": "「ご飯は？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"What about lunch?\"",
 		"Args": "0b0a000000"
 	},
@@ -12429,7 +12429,7 @@
 		"VOICEID": 8131,
 		"NameJPN": "男",
 		"JPN": "「俺はどうにか自分で食う。おまえは先に食ってろ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I'll figure out something for myself. You go ahead.\"",
 		"Args": "0b0a000000"
 	},
@@ -12442,7 +12442,7 @@
 		"VOICEID": 8132,
 		"NameJPN": "みすず",
 		"JPN": "「わたしも付き合うよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'll stay with you.\"",
 		"Args": "0b0a000000"
 	},
@@ -12455,7 +12455,7 @@
 		"VOICEID": 8133,
 		"NameJPN": "男",
 		"JPN": "「ひとりになりたいんだ。そうさせてくれ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I want to be alone. Let me have some peace and quiet.\"",
 		"Args": "0b0a000000"
 	},
@@ -12468,7 +12468,7 @@
 		"VOICEID": 8134,
 		"NameJPN": "みすず",
 		"JPN": "「うーん…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Umm...\"",
 		"Args": "0b0a000000"
 	},
@@ -12481,7 +12481,7 @@
 		"VOICEID": 8135,
 		"NameJPN": "みすず",
 		"JPN": "「わかった」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"All right.\"",
 		"Args": "0b0a000000"
 	},
@@ -12494,7 +12494,7 @@
 		"VOICEID": 8136,
 		"NameJPN": "男",
 		"JPN": "「じゃあな」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"See ya.\"",
 		"Args": "0b0a000000"
 	},
@@ -12507,7 +12507,7 @@
 		"VOICEID": 8137,
 		"NameJPN": "みすず",
 		"JPN": "「ばいばい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Bye.\"",
 		"Args": "0b0a000000"
 	},
@@ -12520,7 +12520,7 @@
 		"VOICEID": 8138,
 		"NameJPN": "みすず",
 		"JPN": "「往人さん、どうしたのかな…ちょっと心配」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"What's wrong with Yukito-san? I'm a bit worried for him.\"",
 		"Args": "0b0a000000"
 	},
@@ -12539,7 +12539,7 @@
 		"VOICEID": 8139,
 		"NameJPN": "みすず",
 		"JPN": "「帰ろっか、そら」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Let's go home, Sora.\"",
 		"Args": "0b0a000000"
 	},
@@ -12702,7 +12702,7 @@
 		"VOICEID": 8140,
 		"NameJPN": "みすず",
 		"JPN": "「宿題しよーっと」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Homework time.\"",
 		"Args": "0b0a000000"
 	},
@@ -12756,7 +12756,7 @@
 		"VOICEID": 8141,
 		"NameJPN": "みすず",
 		"JPN": "「そらは好きにしてていいからね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Sora, you just do whatever you like.\"",
 		"Args": "0b0a000000"
 	},
@@ -12905,7 +12905,7 @@
 		"VOICEID": 8142,
 		"NameJPN": "みすず",
 		"JPN": "「そら、恐竜のぬいぐるみとじゃれてる」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Sora is playing with the dinosaur plushies.\"",
 		"Args": "0b0a000000"
 	},
@@ -12959,7 +12959,7 @@
 		"VOICEID": 8143,
 		"NameJPN": "みすず",
 		"JPN": "「にはは、かわいい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Nihaha, so cute.\"",
 		"Args": "0b0a000000"
 	},
@@ -13013,7 +13013,7 @@
 		"VOICEID": 8144,
 		"NameJPN": "みすず",
 		"JPN": "「って、見とれてないで、はじめよーっと」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Hey, I shouldn't be distracted. Gotta start now.\"",
 		"Args": "0b0a000000"
 	},
@@ -13081,7 +13081,7 @@
 		"VOICEID": 8145,
 		"NameJPN": "みすず",
 		"JPN": "「くー…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Zzz...\"",
 		"Args": "0b0a000000"
 	},
@@ -13094,7 +13094,7 @@
 		"VOICEID": 8146,
 		"NameJPN": "みすず",
 		"JPN": "「は…今、寝てた」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Ah... I dozed off.\"",
 		"Args": "0b0a000000"
 	},
@@ -13107,7 +13107,7 @@
 		"VOICEID": 8147,
 		"NameJPN": "みすず",
 		"JPN": "「がんばって、宿題しないとねー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Gotta do my homework.\"",
 		"Args": "0b0a000000"
 	},
@@ -13129,7 +13129,7 @@
 		"MSGID": 381,
 		"NameJPN": "みすず",
 		"JPN": "「………」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -13203,7 +13203,7 @@
 		"VOICEID": 8148,
 		"NameJPN": "みすず",
 		"JPN": "「が、がお…頭うっちゃった…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"G-Gao... I hit my head.\"",
 		"Args": "0b0a000000"
 	},
@@ -13257,7 +13257,7 @@
 		"VOICEID": 8149,
 		"NameJPN": "みすず",
 		"JPN": "「うーん、眠くて頭、くらくらする」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Umm... I'm so sleepy my head is spinning.\"",
 		"Args": "0b0a000000"
 	},
@@ -13270,7 +13270,7 @@
 		"VOICEID": 8150,
 		"NameJPN": "みすず",
 		"JPN": "「どうしよう…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"What should I do...\"",
 		"Args": "0b0a000000"
 	},
@@ -13282,7 +13282,7 @@
 		"MSGID": 387,
 		"NameJPN": "みすず",
 		"JPN": "「………」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -13336,7 +13336,7 @@
 		"VOICEID": 8151,
 		"NameJPN": "みすず",
 		"JPN": "「眠気覚ましに、トランプしよーっと」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Let's play cards to keep myself awake.\"",
 		"Args": "0b0a000000"
 	},
@@ -13434,7 +13434,7 @@
 		"VOICEID": 8152,
 		"NameJPN": "みすず",
 		"JPN": "「くー…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Zzz...\"",
 		"Args": "0b0a000000"
 	},
@@ -13581,7 +13581,7 @@
 		"MSGID": 397,
 		"NameJPN": "男",
 		"JPN": "「………」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -13706,7 +13706,7 @@
 		"VOICEID": 8153,
 		"NameJPN": "男",
 		"JPN": "「おまえな…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Sheesh...\"",
 		"Args": "0b0a000000"
 	},
@@ -13719,7 +13719,7 @@
 		"VOICEID": 8154,
 		"NameJPN": "男",
 		"JPN": "「宿題してるんじゃなかったのかー」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I thought you were supposed to be doing homework?\"",
 		"Args": "0b0a000000"
 	},
@@ -13844,7 +13844,7 @@
 		"VOICEID": 8155,
 		"NameJPN": "男",
 		"JPN": "「おまえ…宿題じゃなくて、遊び疲れて寝てたのか」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"So you tired yourself out by playing rather than doing your homework.\"",
 		"Args": "0b0a000000"
 	},
@@ -13959,7 +13959,7 @@
 		"VOICEID": 8156,
 		"NameJPN": "男",
 		"JPN": "「おい、ケーキだぞ。ケーキ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Hey, I've got cake for you.\"",
 		"Args": "0b0a000000"
 	},
@@ -13972,7 +13972,7 @@
 		"VOICEID": 8157,
 		"NameJPN": "男",
 		"JPN": "「ひとりで食うぞ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I'm going to finish them by myself.\"",
 		"Args": "0b0a000000"
 	},
@@ -14087,7 +14087,7 @@
 		"VOICEID": 8158,
 		"NameJPN": "みすず",
 		"JPN": "「…ケーキ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Cake...\"",
 		"Args": "0b0a000000"
 	},
@@ -14100,7 +14100,7 @@
 		"VOICEID": 8159,
 		"NameJPN": "みすず",
 		"JPN": "「あ…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Oh...\"",
 		"Args": "0b0a000000"
 	},
@@ -14123,7 +14123,7 @@
 		"VOICEID": 8160,
 		"NameJPN": "みすず",
 		"JPN": "「往人さん…おはよう」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Yukito-san... Good morning.\"",
 		"Args": "0b0a000000"
 	},
@@ -14238,7 +14238,7 @@
 		"VOICEID": 8161,
 		"NameJPN": "男",
 		"JPN": "「おまえな…朝じゃないんだぞ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"It's not morning anymore.\"",
 		"Args": "0b0a000000"
 	},
@@ -14353,7 +14353,7 @@
 		"VOICEID": 8162,
 		"NameJPN": "男",
 		"JPN": "「それに、宿題してるって書いておいて、遊んでたみたいだしな」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"You wrote on your door that you'd do homework, but you were playing cards?\"",
 		"Args": "0b0a000000"
 	},
@@ -14366,7 +14366,7 @@
 		"VOICEID": 8163,
 		"NameJPN": "みすず",
 		"JPN": "「宿題してたらね、眠くなっちゃったの」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I got sleepy while doing homework.\"",
 		"Args": "0b0a000000"
 	},
@@ -14379,7 +14379,7 @@
 		"VOICEID": 8164,
 		"NameJPN": "みすず",
 		"JPN": "「それでトランプして目を覚まそうと思ったんだけど、やっぱり眠くて寝ちゃったの」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"So I played cards to keep myself awake, but I fell asleep anyway.\"",
 		"Args": "0b0a000000"
 	},
@@ -14494,7 +14494,7 @@
 		"VOICEID": 8165,
 		"NameJPN": "男",
 		"JPN": "「そらぁ、頑張ったな」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I see you tried your best.\"",
 		"Args": "0b0a000000"
 	},
@@ -14507,7 +14507,7 @@
 		"VOICEID": 8166,
 		"NameJPN": "みすず",
 		"JPN": "「それでね、夢を見てたの」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"And also, I had a dream again.\"",
 		"Args": "0b0a000000"
 	},
@@ -14520,7 +14520,7 @@
 		"VOICEID": 8167,
 		"NameJPN": "みすず",
 		"JPN": "「空の夢だったから、ちょっともったいないな」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"A pity I woke up, because I dreamed of the sky again.\"",
 		"Args": "0b0a000000"
 	},
@@ -14635,7 +14635,7 @@
 		"VOICEID": 8168,
 		"NameJPN": "男",
 		"JPN": "「空の夢より、現実のケーキのほうがいいだろ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Real cake is better than dreams, right?\"",
 		"Args": "0b0a000000"
 	},
@@ -14760,7 +14760,7 @@
 		"VOICEID": 8169,
 		"NameJPN": "男",
 		"JPN": "「用意してくれ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Go get them ready.\"",
 		"Args": "0b0a000000"
 	},
@@ -14773,7 +14773,7 @@
 		"VOICEID": 8170,
 		"NameJPN": "みすず",
 		"JPN": "「わ…ケーキ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Whoa, cake.\"",
 		"Args": "0b0a000000"
 	},
@@ -14868,7 +14868,7 @@
 		"VOICEID": 8171,
 		"NameJPN": "みすず",
 		"JPN": "「すごくおいしい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"It looks really delicious.\"",
 		"Args": "0b0a000000"
 	},
@@ -15003,7 +15003,7 @@
 		"VOICEID": 8172,
 		"NameJPN": "男",
 		"JPN": "「カラスはケーキを食うのか…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Do crows eat cake?\"",
 		"Args": "0b0a000000"
 	},
@@ -15084,7 +15084,7 @@
 		"VOICEID": 8173,
 		"NameJPN": "みすず",
 		"JPN": "「はっ…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Ha...\"",
 		"Args": "0b0a000000"
 	},
@@ -15158,7 +15158,7 @@
 		"VOICEID": 8174,
 		"NameJPN": "みすず",
 		"JPN": "「すごく寝ちゃってた…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I had a good nap...\"",
 		"Args": "0b0a000000"
 	},
@@ -15171,7 +15171,7 @@
 		"VOICEID": 8175,
 		"NameJPN": "みすず",
 		"JPN": "「うーん…まだ眠いけど、起きないとね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Umm... I'm still sleepy, but I have to get up.\"",
 		"Args": "0b0a000000"
 	},
@@ -15270,7 +15270,7 @@
 		"VOICEID": 8176,
 		"NameJPN": "みすず",
 		"JPN": "「目覚ましてこよーっと」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'm going to go refresh myself.\"",
 		"Args": "0b0a000000"
 	},
@@ -15466,7 +15466,7 @@
 		"VOICEID": 8177,
 		"NameJPN": "みすず",
 		"JPN": "「あ、なにかな。机の上に置いてある」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Oh, what's this? There's something left on the table.\"",
 		"Args": "0b0a000000"
 	},
@@ -15585,7 +15585,7 @@
 		"VOICEID": 8178,
 		"NameJPN": "みすず",
 		"JPN": "「わーい、ケーキっ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Yay! Cake!\"",
 		"Args": "0b0a000000"
 	},
@@ -15598,7 +15598,7 @@
 		"VOICEID": 8179,
 		"NameJPN": "みすず",
 		"JPN": "「往人さんのおみやげかな」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Is this a present from Yukito-san?\"",
 		"Args": "0b0a000000"
 	},
@@ -15656,7 +15656,7 @@
 		"VOICEID": 8180,
 		"NameJPN": "みすず",
 		"JPN": "「もぐもぐ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Munch munch.\"",
 		"Args": "0b0a000000"
 	},
@@ -15770,7 +15770,7 @@
 		"MSGID": 443,
 		"NameJPN": "男",
 		"JPN": "「………」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -15793,7 +15793,7 @@
 		"VOICEID": 8181,
 		"NameJPN": "みすず",
 		"JPN": "「おいしい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Delicious.\"",
 		"Args": "0b0a000000"
 	},
@@ -15805,7 +15805,7 @@
 		"MSGID": 446,
 		"NameJPN": "男",
 		"JPN": "「………」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -15920,7 +15920,7 @@
 		"VOICEID": 8182,
 		"NameJPN": "男",
 		"JPN": "「はぁ…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Haa...\"",
 		"Args": "0b0a000000"
 	},
@@ -15933,7 +15933,7 @@
 		"VOICEID": 8183,
 		"NameJPN": "みすず",
 		"JPN": "「往人さんのおみやげおいしい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Your present is delicious.\"",
 		"Args": "0b0a000000"
 	},
@@ -16048,7 +16048,7 @@
 		"VOICEID": 8184,
 		"NameJPN": "男",
 		"JPN": "「そらよかったな…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"That's good to hear...\"",
 		"Args": "0b0a000000"
 	},
@@ -16061,7 +16061,7 @@
 		"VOICEID": 8185,
 		"NameJPN": "みすず",
 		"JPN": "「紅茶いれよーっと」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'll go make some black tea.\"",
 		"Args": "0b0a000000"
 	},
@@ -16166,7 +16166,7 @@
 		"VOICEID": 8186,
 		"NameJPN": "男",
 		"JPN": "「そういや、おまえ、勉強中だったんじゃないのか」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I thought you were studying.\"",
 		"Args": "0b0a000000"
 	},
@@ -16189,7 +16189,7 @@
 		"VOICEID": 8187,
 		"NameJPN": "みすず",
 		"JPN": "「通りがかったら、おみやげ置いてあったから」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I found the present when I was walking past.\"",
 		"Args": "0b0a000000"
 	},
@@ -16212,7 +16212,7 @@
 		"VOICEID": 8188,
 		"NameJPN": "男",
 		"JPN": "「どうやったら、勉強中にこんなところ通りがかるんだよ…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"How did you end up walking past this place when you were supposed to be studying?\"",
 		"Args": "0b0a000000"
 	},
@@ -16225,7 +16225,7 @@
 		"VOICEID": 8189,
 		"NameJPN": "みすず",
 		"JPN": "「偶然～。これには観鈴ちんもびっくり」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"It just sort of happened. Misuzu-chin was surprised too.\"",
 		"Args": "0b0a000000"
 	},
@@ -16238,7 +16238,7 @@
 		"VOICEID": 8190,
 		"NameJPN": "男",
 		"JPN": "「そっか。そらよかったな」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I see. Great.\"",
 		"Args": "0b0a000000"
 	},
@@ -16445,7 +16445,7 @@
 		"VOICEID": 8191,
 		"NameJPN": "男",
 		"JPN": "「おまえさ…目、赤くないか？」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Your eyes are a bit red.\"",
 		"Args": "0b0a000000"
 	},
@@ -16458,7 +16458,7 @@
 		"VOICEID": 8192,
 		"NameJPN": "みすず",
 		"JPN": "「寝不足かな。それぐらい勉強がんばってる」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Maybe I didn't get enough sleep. I study too hard.\"",
 		"Args": "0b0a000000"
 	},
@@ -16471,7 +16471,7 @@
 		"VOICEID": 8193,
 		"NameJPN": "男",
 		"JPN": "「寝てたんじゃないのか…？」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I thought you were sleeping just now?\"",
 		"Args": "0b0a000000"
 	},
@@ -16484,7 +16484,7 @@
 		"VOICEID": 8194,
 		"NameJPN": "みすず",
 		"JPN": "「そんなことないよ。そんなことないっ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Nope, that's not true.\"",
 		"Args": "0b0a000000"
 	},
@@ -16497,7 +16497,7 @@
 		"VOICEID": 8195,
 		"NameJPN": "みすず",
 		"JPN": "「はぁー、紅茶もおいしい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"The black tea is delicious too.\"",
 		"Args": "0b0a000000"
 	},
@@ -16612,7 +16612,7 @@
 		"VOICEID": 8196,
 		"NameJPN": "男",
 		"JPN": "「補習受けてるわけがよくわかるよ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Now I understand why you have to attend remedial classes.\"",
 		"Args": "0b0a000000"
 	},
@@ -16625,7 +16625,7 @@
 		"VOICEID": 8197,
 		"NameJPN": "みすず",
 		"JPN": "「ん？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Hmm?\"",
 		"Args": "0b0a000000"
 	},
@@ -16740,7 +16740,7 @@
 		"VOICEID": 8198,
 		"NameJPN": "男",
 		"JPN": "「いや…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Nothing...\"",
 		"Args": "0b0a000000"
 	},
@@ -16849,7 +16849,7 @@
 		"VOICEID": 8199,
 		"NameJPN": "みすず",
 		"JPN": "「どこのケーキ屋さんかな」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Which cake shop is this from?\"",
 		"Args": "0b0a000000"
 	},
@@ -16862,7 +16862,7 @@
 		"VOICEID": 8200,
 		"NameJPN": "みすず",
 		"JPN": "「すごくおいしい。どれだけでも入っちゃう」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"It's really delicious. I don't get tired of eating this.\"",
 		"Args": "0b0a000000"
 	},
@@ -16963,7 +16963,7 @@
 		"VOICEID": 8201,
 		"NameJPN": "みすず",
 		"JPN": "「ごちそうさま」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Thanks for the cake.\"",
 		"Args": "0b0a000000"
 	},
@@ -16976,7 +16976,7 @@
 		"VOICEID": 8202,
 		"NameJPN": "みすず",
 		"JPN": "「とってもおいしかった」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"It was heavenly.\"",
 		"Args": "0b0a000000"
 	},
@@ -17030,7 +17030,7 @@
 		"VOICEID": 8203,
 		"NameJPN": "みすず",
 		"JPN": "「さて…と」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Now then...\"",
 		"Args": "0b0a000000"
 	},
@@ -17084,7 +17084,7 @@
 		"VOICEID": 8204,
 		"NameJPN": "みすず",
 		"JPN": "「日曜だし、お掃除しよーっと」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"It's Sunday. I should clean up the house.\"",
 		"Args": "0b0a000000"
 	},
@@ -17244,7 +17244,7 @@
 		"VOICEID": 8205,
 		"NameJPN": "男",
 		"JPN": "「おまえ、宿題やったのか」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Have you done your homework?\"",
 		"Args": "0b0a000000"
 	},
@@ -17257,7 +17257,7 @@
 		"VOICEID": 8206,
 		"NameJPN": "みすず",
 		"JPN": "「まだまだ夏休みはあるしねー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"There's still plenty of summer break left.\"",
 		"Args": "0b0a000000"
 	},
@@ -17270,7 +17270,7 @@
 		"VOICEID": 8207,
 		"NameJPN": "みすず",
 		"JPN": "「それに、埃の溜まった部屋で寝るの嫌だもんね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Besides, I don't want to sleep in a room full of dust.\"",
 		"Args": "0b0a000000"
 	},
@@ -17385,7 +17385,7 @@
 		"VOICEID": 8208,
 		"NameJPN": "男",
 		"JPN": "「そら、そうだが…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"That's true...\"",
 		"Args": "0b0a000000"
 	},
@@ -17525,7 +17525,7 @@
 		"VOICEID": 8209,
 		"NameJPN": "みすず",
 		"JPN": "「掃除するからねー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'm going to clean the place.\"",
 		"Args": "0b0a000000"
 	},
@@ -17538,7 +17538,7 @@
 		"VOICEID": 8210,
 		"NameJPN": "みすず",
 		"JPN": "「わたしの近くにいたらダメだよー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Don't come near me, okay?\"",
 		"Args": "0b0a000000"
 	},
@@ -17592,7 +17592,7 @@
 		"VOICEID": 8211,
 		"NameJPN": "みすず",
 		"JPN": "「はたきで叩いたり、掃除機で尻尾吸い取っちゃうよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Or else I might hit you with the duster or suck in your tail with the vacuum cleaner.\"",
 		"Args": "0b0a000000"
 	},
@@ -17853,7 +17853,7 @@
 		"VOICEID": 8212,
 		"NameJPN": "みすず",
 		"JPN": "「わ…ごめん。はたきで叩いちゃった…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Whoa... Sorry. Looks like I hit you with the duster.\"",
 		"Args": "0b0a000000"
 	},
@@ -17907,7 +17907,7 @@
 		"VOICEID": 8213,
 		"NameJPN": "みすず",
 		"JPN": "「そら、そんなに近く、うろうろしてたらダメだよー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Sora, you shouldn't wander around me.\"",
 		"Args": "0b0a000000"
 	},
@@ -17920,7 +17920,7 @@
 		"VOICEID": 8214,
 		"NameJPN": "みすず",
 		"JPN": "「ほら、向こう行ってるの」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Go somewhere farther.\"",
 		"Args": "0b0a000000"
 	},
@@ -18084,7 +18084,7 @@
 		"VOICEID": 8215,
 		"NameJPN": "みすず",
 		"JPN": "「わわーっ！　そらの尻尾吸い込んじゃったー！」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Whoa whoa! It's sucking on Sora's tail!\"",
 		"Args": "0b0a000000"
 	},
@@ -18117,7 +18117,7 @@
 		"VOICEID": 8216,
 		"NameJPN": "みすず",
 		"JPN": "「スイッチ、スイッチ！」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"The switch, the switch!\"",
 		"Args": "0b0a000000"
 	},
@@ -18190,7 +18190,7 @@
 		"VOICEID": 8217,
 		"NameJPN": "みすず",
 		"JPN": "「わ、強にしちゃった！」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Whoa, I pressed the 'high' button!\"",
 		"Args": "0b0a000000"
 	},
@@ -18213,7 +18213,7 @@
 		"VOICEID": 8218,
 		"NameJPN": "みすず",
 		"JPN": "「こっちだった！」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Here's the switch!\"",
 		"Args": "0b0a000000"
 	},
@@ -18303,7 +18303,7 @@
 		"VOICEID": 8219,
 		"NameJPN": "みすず",
 		"JPN": "「ごめんね、そら」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'm sorry, Sora.\"",
 		"Args": "0b0a000000"
 	},
@@ -18316,7 +18316,7 @@
 		"VOICEID": 8220,
 		"NameJPN": "みすず",
 		"JPN": "「でも、向こう行っててって言ったのに、寄ってくるそらが悪いんだよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"But I did tell you to go to the other side. You shouldn't come near me.\"",
 		"Args": "0b0a000000"
 	},
@@ -18370,7 +18370,7 @@
 		"VOICEID": 8221,
 		"NameJPN": "みすず",
 		"JPN": "「ほら、今度こそ向こう行ってて」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"There, go over there right now.\"",
 		"Args": "0b0a000000"
 	},
@@ -18458,7 +18458,7 @@
 		"VOICEID": 8222,
 		"NameJPN": "みすず",
 		"JPN": "「ああ…そら、よたよたしてるし」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Ahh... Sora is dizzy.\"",
 		"Args": "0b0a000000"
 	},
@@ -18471,7 +18471,7 @@
 		"VOICEID": 8223,
 		"NameJPN": "みすず",
 		"JPN": "「ごめんねー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'm so sorry.\"",
 		"Args": "0b0a000000"
 	},
@@ -18789,7 +18789,7 @@
 		"MSGID": 533,
 		"NameJPN": "男",
 		"JPN": "「………」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -18802,7 +18802,7 @@
 		"VOICEID": 8224,
 		"NameJPN": "男",
 		"JPN": "「さて、今週は国崎家特製の法術焼きそばのレシピだ。奥様、メモのご用意を」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"This week we're going to try the Kunisaki-style Houjutsu yakisoba recipe. Ladies, ready your memos.\"",
 		"Args": "0b0a000000"
 	},
@@ -18815,7 +18815,7 @@
 		"VOICEID": 8225,
 		"NameJPN": "男",
 		"JPN": "「法術焼きそばは普通の焼きそばと違って、なんと麺を法術で焼くのだ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Unlike ordinary yakisoba, this noodle is fried with Houjutsu!\"",
 		"Args": "0b0a000000"
 	},
@@ -18828,7 +18828,7 @@
 		"VOICEID": 8226,
 		"NameJPN": "男",
 		"JPN": "「ぼぼぼぼぉーーーっ！」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Bobobobooooo!\"",
 		"Args": "0b0a000000"
 	},
@@ -18840,7 +18840,7 @@
 		"MSGID": 537,
 		"NameJPN": "男",
 		"JPN": "「………」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -18955,7 +18955,7 @@
 		"VOICEID": 8227,
 		"NameJPN": "男",
 		"JPN": "「できるかっ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Like hell I can do this!\"",
 		"Args": "0b0a000000"
 	},
@@ -19070,7 +19070,7 @@
 		"VOICEID": 8228,
 		"NameJPN": "男",
 		"JPN": "「居心地が悪すぎる…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"This place is too revolting to stay in.\"",
 		"Args": "0b0a000000"
 	},
@@ -19083,7 +19083,7 @@
 		"VOICEID": 8229,
 		"NameJPN": "男",
 		"JPN": "「男がひとりで台所なんかに立つもんじゃないな…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"A man shouldn't be standing in the kitchen.\"",
 		"Args": "0b0a000000"
 	},
@@ -19302,7 +19302,7 @@
 		"VOICEID": 8230,
 		"NameJPN": "みすず",
 		"JPN": "「ふぅー、掃除機かけ終わったーっと」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Phew, I'm finished with the vacuum.\"",
 		"Args": "0b0a000000"
 	},
@@ -19356,7 +19356,7 @@
 		"VOICEID": 8231,
 		"NameJPN": "みすず",
 		"JPN": "「食器の漂白、もう十分かなー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I should take the dishes out of the bleach now.\"",
 		"Args": "0b0a000000"
 	},
@@ -19420,7 +19420,7 @@
 		"VOICEID": 8232,
 		"NameJPN": "みすず",
 		"JPN": "「わっ、そらが漂白液に浸かってる！」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Whoa! Sora's dipped in the bleach!\"",
 		"Args": "0b0a000000"
 	},
@@ -19433,7 +19433,7 @@
 		"VOICEID": 8233,
 		"NameJPN": "みすず",
 		"JPN": "「しかも、なんか気持ちよさそうな顔してる！」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"He seems to be enjoying himself too!\"",
 		"Args": "0b0a000000"
 	},
@@ -19481,7 +19481,7 @@
 		"VOICEID": 8234,
 		"NameJPN": "みすず",
 		"JPN": "「漂白されて、ハトみたいになっちゃうっ！」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"He's going to become white like a dove!\"",
 		"Args": "0b0a000000"
 	},
@@ -19524,7 +19524,7 @@
 		"VOICEID": 8235,
 		"NameJPN": "みすず",
 		"JPN": "「暴れちゃダメ！」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Stop struggling!\"",
 		"Args": "0b0a000000"
 	},
@@ -19578,7 +19578,7 @@
 		"VOICEID": 8236,
 		"NameJPN": "みすず",
 		"JPN": "「はぁ…黒いままだ。よかった…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Phew... You're still black. Thank goodness.\"",
 		"Args": "0b0a000000"
 	},
@@ -19632,7 +19632,7 @@
 		"VOICEID": 8237,
 		"NameJPN": "みすず",
 		"JPN": "「ほら、外に出て乾かしておいで」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"There, go outside and dry yourself off.\"",
 		"Args": "0b0a000000"
 	},
@@ -19970,7 +19970,7 @@
 		"VOICEID": 8238,
 		"NameJPN": "みすず",
 		"JPN": "「ふぅー、掃除機かけ終わったーっと」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Phew, I finished with the vacuum.\"",
 		"Args": "0b0a000000"
 	},
@@ -20024,7 +20024,7 @@
 		"VOICEID": 8239,
 		"NameJPN": "みすず",
 		"JPN": "「食器の漂白、もう十分かなー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I should take the dishes out of the bleach now.\"",
 		"Args": "0b0a000000"
 	},
@@ -20088,7 +20088,7 @@
 		"VOICEID": 8240,
 		"NameJPN": "みすず",
 		"JPN": "「わっ、そらが漂白液に浸かってる！」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Whoa! Sora's dipped in the bleach!\"",
 		"Args": "0b0a000000"
 	},
@@ -20101,7 +20101,7 @@
 		"VOICEID": 8241,
 		"NameJPN": "みすず",
 		"JPN": "「しかも、なんか気持ちよさそうな顔してる！」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"He seems to be enjoying himself too!\"",
 		"Args": "0b0a000000"
 	},
@@ -20149,7 +20149,7 @@
 		"VOICEID": 8242,
 		"NameJPN": "みすず",
 		"JPN": "「漂白されて、ハトみたいになっちゃうっ！」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"He's going to become white like a dove!\"",
 		"Args": "0b0a000000"
 	},
@@ -20192,7 +20192,7 @@
 		"VOICEID": 8243,
 		"NameJPN": "みすず",
 		"JPN": "「暴れちゃダメ！」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Stop struggling!\"",
 		"Args": "0b0a000000"
 	},
@@ -20246,7 +20246,7 @@
 		"VOICEID": 8244,
 		"NameJPN": "みすず",
 		"JPN": "「はぁ…黒いままだ。よかった…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Phew... You're still black. Thank goodness.\"",
 		"Args": "0b0a000000"
 	},
@@ -20300,7 +20300,7 @@
 		"VOICEID": 8245,
 		"NameJPN": "みすず",
 		"JPN": "「ほら、外に出て乾かしておいで」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"There, go outside and dry yourself off.\"",
 		"Args": "0b0a000000"
 	},
@@ -20759,7 +20759,7 @@
 		"MSGID": 603,
 		"NameJPN": "男",
 		"JPN": "「………」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -20772,7 +20772,7 @@
 		"VOICEID": 8246,
 		"NameJPN": "男",
 		"JPN": "「む…意中のあのひとに、告白チャンスか…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Hmm... Now is the right time to ask the girl out, huh?\"",
 		"Args": "0b0a000000"
 	},
@@ -20887,7 +20887,7 @@
 		"VOICEID": 8247,
 		"NameJPN": "男",
 		"JPN": "「って、何やってんだ、俺はーっ！」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Hey, what the hell am I doing...\"",
 		"Args": "0b0a000000"
 	},
@@ -21002,7 +21002,7 @@
 		"VOICEID": 8248,
 		"NameJPN": "男",
 		"JPN": "「女の部屋でひとり、恋を占う男なんて嫌すぎる…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I must be some kind of a creep telling a love fortune in a girl's room...\"",
 		"Args": "0b0a000000"
 	},
@@ -21141,7 +21141,7 @@
 		"VOICEID": 8249,
 		"NameJPN": "みすず",
 		"JPN": "「あ、そら、こんなところにいた」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Oh, Sora, there you are.\"",
 		"Args": "0b0a000000"
 	},
@@ -21195,7 +21195,7 @@
 		"VOICEID": 8250,
 		"NameJPN": "みすず",
 		"JPN": "「ベッドでごろごろしてる。かわいいー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"He's rolling on the bed. So cute!\"",
 		"Args": "0b0a000000"
 	},
@@ -21208,7 +21208,7 @@
 		"VOICEID": 8251,
 		"NameJPN": "みすず",
 		"JPN": "「いつまでも見てたいけど、お布団干さないとねー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I want to keep watching him, but I have to hang out the sheets now.\"",
 		"Args": "0b0a000000"
 	},
@@ -21262,7 +21262,7 @@
 		"VOICEID": 8252,
 		"NameJPN": "みすず",
 		"JPN": "「ごめんね、そら」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'm sorry, Sora.\"",
 		"Args": "0b0a000000"
 	},
@@ -21448,7 +21448,7 @@
 		"VOICEID": 8253,
 		"NameJPN": "みすず",
 		"JPN": "「あ、そら、こんなところにいた」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Oh, Sora, there you are.\"",
 		"Args": "0b0a000000"
 	},
@@ -21502,7 +21502,7 @@
 		"VOICEID": 8254,
 		"NameJPN": "みすず",
 		"JPN": "「ベッドでごろごろしてる。かわいー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"He's rolling on the bed. So cute!\"",
 		"Args": "0b0a000000"
 	},
@@ -21515,7 +21515,7 @@
 		"VOICEID": 8255,
 		"NameJPN": "みすず",
 		"JPN": "「いつまでも見てたいけど、お布団干さないとねー」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I want to keep watching him, but I have to hang out the sheets now.\"",
 		"Args": "0b0a000000"
 	},
@@ -21569,7 +21569,7 @@
 		"VOICEID": 8256,
 		"NameJPN": "みすず",
 		"JPN": "「ごめんね、そら」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'm sorry, Sora.\"",
 		"Args": "0b0a000000"
 	},
@@ -21849,7 +21849,7 @@
 		"VOICEID": 8257,
 		"NameJPN": "女",
 		"JPN": "「わっ…ヘンなん、出てきたっ」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Whoa, something weird came out of the house!\"",
 		"Args": "0b0a000000"
 	},
@@ -21903,7 +21903,7 @@
 		"VOICEID": 8258,
 		"NameJPN": "女",
 		"JPN": "「っと思ったら…なんやあんたかいな…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Oh... It's only you.\"",
 		"Args": "0b0a000000"
 	},
@@ -21916,7 +21916,7 @@
 		"VOICEID": 8259,
 		"NameJPN": "女",
 		"JPN": "「びっくりさせんといてや」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Don't scare me like that.\"",
 		"Args": "0b0a000000"
 	},
@@ -21970,7 +21970,7 @@
 		"VOICEID": 8260,
 		"NameJPN": "女",
 		"JPN": "「観鈴、中にいるん？」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Is Misuzu inside?\"",
 		"Args": "0b0a000000"
 	},
@@ -21983,7 +21983,7 @@
 		"VOICEID": 8261,
 		"NameJPN": "女",
 		"JPN": "「そらおるわなぁ。あの子の家やもんな」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Well, since you're here, the girl must be home.\"",
 		"Args": "0b0a000000"
 	},
@@ -21995,7 +21995,7 @@
 		"MSGID": 643,
 		"NameJPN": "女",
 		"JPN": "「………」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -22065,7 +22065,7 @@
 		"VOICEID": 8262,
 		"NameJPN": "女",
 		"JPN": "「ちょっとこっちきぃや」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Come over here for a bit.\"",
 		"Args": "0b0a000000"
 	},
@@ -22129,7 +22129,7 @@
 		"VOICEID": 8263,
 		"NameJPN": "女",
 		"JPN": "「一緒に遊ぼ」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Play with me.\"",
 		"Args": "0b0a000000"
 	},
@@ -22183,7 +22183,7 @@
 		"VOICEID": 8264,
 		"NameJPN": "女",
 		"JPN": "「なんかエサあったかいな…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Do we have any feed?\"",
 		"Args": "0b0a000000"
 	},
@@ -22237,7 +22237,7 @@
 		"VOICEID": 8265,
 		"NameJPN": "女",
 		"JPN": "「あかん、なんもないわ」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Sheesh, I don't have anything for you.\"",
 		"Args": "0b0a000000"
 	},
@@ -22291,7 +22291,7 @@
 		"VOICEID": 8266,
 		"NameJPN": "女",
 		"JPN": "「カラスにさえかまってもらわれへん…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I don't even know how to take care of a crow, huh?\"",
 		"Args": "0b0a000000"
 	},
@@ -22304,7 +22304,7 @@
 		"VOICEID": 8267,
 		"NameJPN": "女",
 		"JPN": "「わざわざ帰ってきたゆうのに、寂しいやんか」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"What a downer, even though I came all the way back.\"",
 		"Args": "0b0a000000"
 	},
@@ -22358,7 +22358,7 @@
 		"VOICEID": 8268,
 		"NameJPN": "女",
 		"JPN": "「な、こっちきぃや」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Here, come to me.\"",
 		"Args": "0b0a000000"
 	},
@@ -22431,7 +22431,7 @@
 		"MSGID": 655,
 		"NameJPN": "女",
 		"JPN": "「………」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -22525,7 +22525,7 @@
 		"VOICEID": 8269,
 		"NameJPN": "女",
 		"JPN": "「ようきてくれたな」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Good boy.\"",
 		"Args": "0b0a000000"
 	},
@@ -22589,7 +22589,7 @@
 		"VOICEID": 8270,
 		"NameJPN": "女",
 		"JPN": "「よし、酒飲も」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"All right, let's drink sake.\"",
 		"Args": "0b0a000000"
 	},
@@ -22653,7 +22653,7 @@
 		"VOICEID": 8271,
 		"NameJPN": "女",
 		"JPN": "「うそや、うそうそ」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Kidding! Just kidding!\"",
 		"Args": "0b0a000000"
 	},
@@ -22666,7 +22666,7 @@
 		"VOICEID": 8272,
 		"NameJPN": "女",
 		"JPN": "「ちょっとこいつでお散歩や。つきおうてぇな」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I'm going for a ride in this. Come with me.\"",
 		"Args": "0b0a000000"
 	},
@@ -22730,7 +22730,7 @@
 		"VOICEID": 8273,
 		"NameJPN": "女",
 		"JPN": "「あんた肩にとまらせとっても、風圧で飛ばされてまうな…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"You'll just get blown away by the wind if you sit on my shoulder.\"",
 		"Args": "0b0a000000"
 	},
@@ -22784,7 +22784,7 @@
 		"VOICEID": 8274,
 		"NameJPN": "女",
 		"JPN": "「…よっしゃ、リュックに詰めたろ」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I got it. I'll stuff you in my rucksack.\"",
 		"Args": "0b0a000000"
 	},
@@ -22862,7 +22862,7 @@
 		"VOICEID": 8275,
 		"NameJPN": "女",
 		"JPN": "「しばらく辛抱しいや」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Bear with it for a bit.\"",
 		"Args": "0b0a000000"
 	},
@@ -23063,7 +23063,7 @@
 		"VOICEID": 8276,
 		"NameJPN": "女",
 		"JPN": "「飛ばすで～」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I'm gonna fly.\"",
 		"Args": "0b0a000000"
 	},
@@ -23110,7 +23110,7 @@
 		"SUBCMD2": 1492,
 		"MSGID": 681,
 		"JPN": "ぶろぉーーーん！",
-		"ENG": "*Vrrrrrroooom!\"",
+		"ENG": "*Vrrrrrroooom!*",
 		"Args": "0b0a000000"
 	},
 	{
@@ -23150,7 +23150,7 @@
 		"SUBCMD2": 1495,
 		"MSGID": 682,
 		"JPN": "ぶろろろろぉーーーーーーーーーん！",
-		"ENG": "*Vrrrrroooooooom!",
+		"ENG": "*Vrrrrroooooooom!*",
 		"Args": "0b0a000000"
 	},
 	{
@@ -23342,7 +23342,7 @@
 		"VOICEID": 8277,
 		"NameJPN": "女",
 		"JPN": "「…勢いあまって階段まで乗り上げてしもたわ」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I went so fast that I rode up the stairs.\"",
 		"Args": "0b0a000000"
 	},
@@ -23355,7 +23355,7 @@
 		"VOICEID": 8278,
 		"NameJPN": "女",
 		"JPN": "「ブレーキ$[甘$/あも$]なっとるんかな」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Are the brakes wearing out?\"",
 		"Args": "0b0a000000"
 	},
@@ -23368,7 +23368,7 @@
 		"VOICEID": 8279,
 		"NameJPN": "女",
 		"JPN": "「あのバイク屋、舶来もんやいうて客にパチモン売りつけとるんとちゃうか？」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Was that bike shop lying about the parts being imports?\"",
 		"Args": "0b0a000000"
 	},
@@ -23381,7 +23381,7 @@
 		"VOICEID": 8280,
 		"NameJPN": "女",
 		"JPN": "「わっ…賽銭箱壊れてしもとる…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Whoa... The donation box is broken...\"",
 		"Args": "0b0a000000"
 	},
@@ -23394,7 +23394,7 @@
 		"VOICEID": 8281,
 		"NameJPN": "女",
 		"JPN": "「うわっ…やばやばやん」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Wow, I messed up big time.\"",
 		"Args": "0b0a000000"
 	},
@@ -23407,7 +23407,7 @@
 		"VOICEID": 8282,
 		"NameJPN": "女",
 		"JPN": "「とにかく、単車ひっぺがさんとあかんな」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Anyway, I have to pull my bike out of the rut.\"",
 		"Args": "0b0a000000"
 	},
@@ -23460,7 +23460,7 @@
 		"VOICEID": 8283,
 		"NameJPN": "女",
 		"JPN": "「誰もおらへんからええか…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I'm glad there's no one here.\"",
 		"Args": "0b0a000000"
 	},
@@ -23473,7 +23473,7 @@
 		"VOICEID": 8284,
 		"NameJPN": "女",
 		"JPN": "「ばれへんばれへん」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"No one will find out it was me.\"",
 		"Args": "0b0a000000"
 	},
@@ -23486,7 +23486,7 @@
 		"VOICEID": 8285,
 		"NameJPN": "女",
 		"JPN": "「…せやった。背中に黒いんしょってんの、忘れとったわ」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Oh, yeah. I forgot about the black thing on my back.\"",
 		"Args": "0b0a000000"
 	},
@@ -23653,7 +23653,7 @@
 		"VOICEID": 8286,
 		"NameJPN": "女",
 		"JPN": "「ふぅ…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Phew...\"",
 		"Args": "0b0a000000"
 	},
@@ -23676,7 +23676,7 @@
 		"VOICEID": 8287,
 		"NameJPN": "女",
 		"JPN": "「相変わらずやな、ここも」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"This place hasn't changed at all.\"",
 		"Args": "0b0a000000"
 	},
@@ -23689,7 +23689,7 @@
 		"VOICEID": 8288,
 		"NameJPN": "女",
 		"JPN": "「セミの声しか聞こえへん」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I can only hear the cicadas.\"",
 		"Args": "0b0a000000"
 	},
@@ -23702,7 +23702,7 @@
 		"VOICEID": 8289,
 		"NameJPN": "女",
 		"JPN": "「ほんまに一年に一度なんやな。ここが混み合うんは…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"This place only gets crowded once a year, huh...\"",
 		"Args": "0b0a000000"
 	},
@@ -23806,7 +23806,7 @@
 		"VOICEID": 8290,
 		"NameJPN": "女",
 		"JPN": "「ここはな、夏祭りの会場になるんやで」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"This place is going to be the venue for the summer festival.\"",
 		"Args": "0b0a000000"
 	},
@@ -23819,7 +23819,7 @@
 		"VOICEID": 8291,
 		"NameJPN": "女",
 		"JPN": "「年に一度のお祭りや」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"It's held once per year.\"",
 		"Args": "0b0a000000"
 	},
@@ -23832,8 +23832,8 @@
 		"VOICEID": 8292,
 		"NameJPN": "女",
 		"JPN": "「町中の親子がやってくる」",
-		"NameENG": "Woman",
-		"ENG": "All the parents in this town will bring their children here.\"",
+		"NameENG": "---",
+		"ENG": "\"All the parents in this town will bring their children here.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -23845,7 +23845,7 @@
 		"VOICEID": 8293,
 		"NameJPN": "女",
 		"JPN": "「祭の日以外は、こんな不便なとこ誰も見向きもせん」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Outside of the festival, nobody will bother about coming to this remote place.\"",
 		"Args": "0b0a000000"
 	},
@@ -23911,7 +23911,7 @@
 		"VOICEID": 8294,
 		"NameJPN": "女",
 		"JPN": "「あれから…十回目の夏祭りか」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"This will be the tenth festival since that day.\"",
 		"Args": "0b0a000000"
 	},
@@ -23924,7 +23924,7 @@
 		"VOICEID": 8295,
 		"NameJPN": "女",
 		"JPN": "「今でもよう覚えてるわ…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I still remember that day like yesterday.\"",
 		"Args": "0b0a000000"
 	},
@@ -23978,7 +23978,7 @@
 		"VOICEID": 8296,
 		"NameJPN": "女",
 		"JPN": "「今あんたがおるそこに、小さかった観鈴が座り込んどった」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"The tiny Misuzu was sitting right where you are now.\"",
 		"Args": "0b0a000000"
 	},
@@ -23991,7 +23991,7 @@
 		"VOICEID": 8297,
 		"NameJPN": "女",
 		"JPN": "「周りはみんな浴衣着とったのに、あの子だけ、いつもの服で…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Everyone else was wearing a yukata, but only that girl was in her usual clothes.\"",
 		"Args": "0b0a000000"
 	},
@@ -24004,7 +24004,7 @@
 		"VOICEID": 8298,
 		"NameJPN": "女",
 		"JPN": "「ひよこ売ってる前に座って、ずっと話しかけとったわ」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"She was sitting in front of the store that was selling chicks.\"",
 		"Args": "0b0a000000"
 	},
@@ -24058,7 +24058,7 @@
 		"VOICEID": 8299,
 		"NameJPN": "女",
 		"JPN": "「がおーがおーって」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"And she kept saying 'gao gao'.\"",
 		"Args": "0b0a000000"
 	},
@@ -24112,7 +24112,7 @@
 		"VOICEID": 8300,
 		"NameJPN": "女",
 		"JPN": "「あの子な、ヒヨコ育てたら恐竜になる思とってん」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"She thought chicks grow up to become dinosaurs.\"",
 		"Args": "0b0a000000"
 	},
@@ -24125,7 +24125,7 @@
 		"VOICEID": 8301,
 		"NameJPN": "女",
 		"JPN": "「ヒヨコの親はニワトリや。恐竜なんかにならへんのに」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"But the parents of chicks are chickens. Not dinosaurs.\"",
 		"Args": "0b0a000000"
 	},
@@ -24138,7 +24138,7 @@
 		"VOICEID": 8302,
 		"NameJPN": "女",
 		"JPN": "「うちかて、買うたろかとも思たんや」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I didn't really mind buying her one.\"",
 		"Args": "0b0a000000"
 	},
@@ -24192,7 +24192,7 @@
 		"VOICEID": 8303,
 		"NameJPN": "女",
 		"JPN": "「けどな、縁日のヒヨコなんか買うても、無事に育つわけあらへんやんか」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"But I couldn't be sure if chicks from a shrine fair could live that long.\"",
 		"Args": "0b0a000000"
 	},
@@ -24205,7 +24205,7 @@
 		"VOICEID": 8304,
 		"NameJPN": "女",
 		"JPN": "「うち、あの子の手をひっぱって、家に連れてこうとした…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"So I pulled the girl's hand and took her home...\"",
 		"Args": "0b0a000000"
 	},
@@ -24259,7 +24259,7 @@
 		"VOICEID": 8305,
 		"NameJPN": "女",
 		"JPN": "「そしたらな…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"And after that...\"",
 		"Args": "0b0a000000"
 	},
@@ -24323,7 +24323,7 @@
 		"VOICEID": 8306,
 		"NameJPN": "女",
 		"JPN": "「人に迷惑かけたらあかんって、それだけ教え込まれたような子やねん」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"The girl had been taught not to be a nuisance for others.\"",
 		"Args": "0b0a000000"
 	},
@@ -24336,7 +24336,7 @@
 		"VOICEID": 8307,
 		"NameJPN": "女",
 		"JPN": "「普通やったら、あれ買うてこれ買うてってびーびー泣きわめく年頃やで」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"An ordinary child would probably pester her parents to buy her this and that.\"",
 		"Args": "0b0a000000"
 	},
@@ -24390,7 +24390,7 @@
 		"VOICEID": 8308,
 		"NameJPN": "女",
 		"JPN": "「そんな子がな、うちのことじっと見て言うねん」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"But that girl just looked at me.\"",
 		"Args": "0b0a000000"
 	},
@@ -24403,7 +24403,7 @@
 		"VOICEID": 8309,
 		"NameJPN": "女",
 		"JPN": "「これ、ほしいな…って」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"And she said, 'I wish I could have that.'\"",
 		"Args": "0b0a000000"
 	},
@@ -24457,7 +24457,7 @@
 		"VOICEID": 8310,
 		"NameJPN": "女",
 		"JPN": "「ごっつ控えめに、すまなそうに言うねん…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"She looked so apologetic when she said that to me.\"",
 		"Args": "0b0a000000"
 	},
@@ -24511,7 +24511,7 @@
 		"VOICEID": 8311,
 		"NameJPN": "女",
 		"JPN": "「観鈴はな、望まれて生まれてきた子やない」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Misuzu was an unwanted child.\"",
 		"Args": "0b0a000000"
 	},
@@ -24524,7 +24524,7 @@
 		"VOICEID": 8312,
 		"NameJPN": "女",
 		"JPN": "「結婚もしてないふたりが、いろんないがみ合いの中で生んでしもた子なんや」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Born out of wedlock, she grew up listening to her parents' bickering.\"",
 		"Args": "0b0a000000"
 	},
@@ -24578,7 +24578,7 @@
 		"VOICEID": 8313,
 		"NameJPN": "女",
 		"JPN": "「駆け落ち同然で…最初からうまくいくはずなかったんや」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Their family was a result of an elopement, and there was no way a family like that would end well.\"",
 		"Args": "0b0a000000"
 	},
@@ -24591,7 +24591,7 @@
 		"VOICEID": 8314,
 		"NameJPN": "女",
 		"JPN": "「その男と娘を残して、姉貴は死んでしもた」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"My older sister died leaving behind the man and her daughter.\"",
 		"Args": "0b0a000000"
 	},
@@ -24604,7 +24604,7 @@
 		"VOICEID": 8315,
 		"NameJPN": "女",
 		"JPN": "「残された男は、自分の娘をひとに押しつけた」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"And after that, the man pushed his own daughter onto someone else.\"",
 		"Args": "0b0a000000"
 	},
@@ -24658,7 +24658,7 @@
 		"VOICEID": 8316,
 		"NameJPN": "女",
 		"JPN": "「それが、この町でひとり気楽に暮らしてたうちや」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"That someone was me, who had been living a carefree life alone in this town.\"",
 		"Args": "0b0a000000"
 	},
@@ -24726,7 +24726,7 @@
 		"VOICEID": 8317,
 		"NameJPN": "女",
 		"JPN": "「ほんま、色々あったで」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"A lot had happened.\"",
 		"Args": "0b0a000000"
 	},
@@ -24739,7 +24739,7 @@
 		"VOICEID": 8318,
 		"NameJPN": "女",
 		"JPN": "「苦労だらけやった」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I had a tough time bringing her up.\"",
 		"Args": "0b0a000000"
 	},
@@ -24752,7 +24752,7 @@
 		"VOICEID": 8319,
 		"NameJPN": "女",
 		"JPN": "「うちかてちゃらんぽらんな女やからな。まともな子育てなんてできるわけあらへん」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I'm a happy-go-lucky person. There was no way I'd know how to raise a kid.\"",
 		"Args": "0b0a000000"
 	},
@@ -24765,7 +24765,7 @@
 		"VOICEID": 8320,
 		"NameJPN": "女",
 		"JPN": "「明日にも、あの男が戻ってきて、この子を連れて帰ってくれる」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Each day, I thought that maybe the man would come to take the girl off my hands the next day.\"",
 		"Args": "0b0a000000"
 	},
@@ -24778,7 +24778,7 @@
 		"VOICEID": 8321,
 		"NameJPN": "女",
 		"JPN": "「そう信じて、どうにか暮らしとったわ」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"That was how I got through these years.\"",
 		"Args": "0b0a000000"
 	},
@@ -24791,7 +24791,7 @@
 		"VOICEID": 8322,
 		"NameJPN": "女",
 		"JPN": "「でもな、あの子と長い時間過ごすようになって…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"But we had lived together for far too long.\"",
 		"Args": "0b0a000000"
 	},
@@ -24804,7 +24804,7 @@
 		"VOICEID": 8323,
 		"NameJPN": "女",
 		"JPN": "「あわてん坊でよくドジするし…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Although she was reckless and clumsy...\"",
 		"Args": "0b0a000000"
 	},
@@ -24817,7 +24817,7 @@
 		"VOICEID": 8324,
 		"NameJPN": "女",
 		"JPN": "「でも、そんなんすぐ忘れて、いつも$[笑$/わろ$]とる」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"She'd always forget about everything sad and laugh.\"",
 		"Args": "0b0a000000"
 	},
@@ -24830,7 +24830,7 @@
 		"VOICEID": 8325,
 		"NameJPN": "女",
 		"JPN": "「それ見とったら、こっちまで笑えてきて…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Even I had to laugh when I saw her like that...\"",
 		"Args": "0b0a000000"
 	},
@@ -24843,7 +24843,7 @@
 		"VOICEID": 8326,
 		"NameJPN": "女",
 		"JPN": "「ほんま、おっかしな子やから、あの子は…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Seriously, she really is a weird girl...\"",
 		"Args": "0b0a000000"
 	},
@@ -24856,7 +24856,7 @@
 		"VOICEID": 8327,
 		"NameJPN": "女",
 		"JPN": "「可愛いて、そう思うようになってた」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"And so I started to love her.\"",
 		"Args": "0b0a000000"
 	},
@@ -24909,7 +24909,7 @@
 		"VOICEID": 8328,
 		"NameJPN": "女",
 		"JPN": "「でもな…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"But you see...\"",
 		"Args": "0b0a000000"
 	},
@@ -24922,7 +24922,7 @@
 		"VOICEID": 8329,
 		"NameJPN": "女",
 		"JPN": "「それでも、うちはあの子の親やあらへんのや…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"No matter what, I'm not her parent.\"",
 		"Args": "0b0a000000"
 	},
@@ -24935,7 +24935,7 @@
 		"VOICEID": 8330,
 		"NameJPN": "女",
 		"JPN": "「あの男が連れて帰る日がくんねん」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"One day, the man will come take her back.\"",
 		"Args": "0b0a000000"
 	},
@@ -24948,7 +24948,7 @@
 		"VOICEID": 8331,
 		"NameJPN": "女",
 		"JPN": "「それは明日からかもしれへん。今日かもしれへん」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"That day may be tomorrow, or even today.\"",
 		"Args": "0b0a000000"
 	},
@@ -24961,7 +24961,7 @@
 		"VOICEID": 8332,
 		"NameJPN": "女",
 		"JPN": "「そうしたら、うちは嫌でもひとりの生活に戻ってまう」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Then I'll have to go back to living alone, whether I like it or not.\"",
 		"Args": "0b0a000000"
 	},
@@ -24974,7 +24974,7 @@
 		"VOICEID": 8333,
 		"NameJPN": "女",
 		"JPN": "「そんときにできるだけ、惨めにならへんよう、うちはうちの生き方を守ることしかできへんかった」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I've been trying to make it such that my life won't be thrown off course when that day comes.\"",
 		"Args": "0b0a000000"
 	},
@@ -24987,7 +24987,7 @@
 		"VOICEID": 8334,
 		"NameJPN": "女",
 		"JPN": "「せやから、誕生日にプレゼントかて渡したことあらへん」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"That's why I never gave her a birthday present.\"",
 		"Args": "0b0a000000"
 	},
@@ -25000,7 +25000,7 @@
 		"VOICEID": 8335,
 		"NameJPN": "女",
 		"JPN": "「いっつも忘れてる振りして、酒飲んで帰ってくるしかあらへんかった…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I always pretended to forget about her birthday and come home drunk.\"",
 		"Args": "0b0a000000"
 	},
@@ -25084,7 +25084,7 @@
 		"VOICEID": 8336,
 		"NameJPN": "女",
 		"JPN": "「ほら、これ見てみ」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Here, look at this.\"",
 		"Args": "0b0a000000"
 	},
@@ -25107,7 +25107,7 @@
 		"VOICEID": 8337,
 		"NameJPN": "女",
 		"JPN": "「これ、あんたが家来やっとるお姫様へのプレゼントや」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"This was a present meant for your princess.\"",
 		"Args": "0b0a000000"
 	},
@@ -25216,7 +25216,7 @@
 		"VOICEID": 8338,
 		"NameJPN": "女",
 		"JPN": "「あの子の大好きな恐竜のぬいぐるみや」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"This is the girl's favorite dinosaur plushie.\"",
 		"Args": "0b0a000000"
 	},
@@ -25229,7 +25229,7 @@
 		"VOICEID": 8339,
 		"NameJPN": "女",
 		"JPN": "「誕生日のプレゼントや」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"My birthday present to her.\"",
 		"Args": "0b0a000000"
 	},
@@ -25242,7 +25242,7 @@
 		"VOICEID": 8340,
 		"NameJPN": "女",
 		"JPN": "「渡そか渡さんか、ずっと悩んどったんやけどな…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I'd been worrying about whether to give this to her or not...\"",
 		"Args": "0b0a000000"
 	},
@@ -25296,7 +25296,7 @@
 		"VOICEID": 8341,
 		"NameJPN": "女",
 		"JPN": "「…決めた」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"But I know what to do now.\"",
 		"Args": "0b0a000000"
 	},
@@ -25309,7 +25309,7 @@
 		"VOICEID": 8342,
 		"NameJPN": "女",
 		"JPN": "「渡すんやめにした」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I'm not going to give this to her.\"",
 		"Args": "0b0a000000"
 	},
@@ -25322,7 +25322,7 @@
 		"VOICEID": 8343,
 		"NameJPN": "女",
 		"JPN": "「今まで、守ってきたんやからな…別々の生活や」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I always kept her at a distance.\"",
 		"Args": "0b0a000000"
 	},
@@ -25376,7 +25376,7 @@
 		"VOICEID": 8344,
 		"NameJPN": "女",
 		"JPN": "「それで十年間過ごしてきたんや」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Ten years have passed.\"",
 		"Args": "0b0a000000"
 	},
@@ -25389,7 +25389,7 @@
 		"VOICEID": 8345,
 		"NameJPN": "女",
 		"JPN": "「なんて長いんやろな…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"That sure was long...\"",
 		"Args": "0b0a000000"
 	},
@@ -25402,7 +25402,7 @@
 		"VOICEID": 8346,
 		"NameJPN": "女",
 		"JPN": "「その間、ずっとうちと観鈴はすれ違いに生きてきた」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"In these ten years, we've been leading different lives.\"",
 		"Args": "0b0a000000"
 	},
@@ -25415,7 +25415,7 @@
 		"VOICEID": 8347,
 		"NameJPN": "女",
 		"JPN": "「そうするしかなかったんや」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I didn't have any other choice.\"",
 		"Args": "0b0a000000"
 	},
@@ -25469,7 +25469,7 @@
 		"VOICEID": 8348,
 		"NameJPN": "女",
 		"JPN": "「でもな、うちは後悔してへん」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"But I have no regrets at all.\"",
 		"Args": "0b0a000000"
 	},
@@ -25482,7 +25482,7 @@
 		"VOICEID": 8349,
 		"NameJPN": "女",
 		"JPN": "「この十年間をほんまの親子のように過ごしてきてたら…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"If we lived like a real family during these ten years...\"",
 		"Args": "0b0a000000"
 	},
@@ -25536,7 +25536,7 @@
 		"VOICEID": 8350,
 		"NameJPN": "女",
 		"JPN": "「やっぱり、いつかひとりに戻った時、惨めすぎるやろ」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"...I'd feel really pathetic if I went back to a life of solitude, right?\"",
 		"Args": "0b0a000000"
 	},
@@ -25655,7 +25655,7 @@
 		"VOICEID": 8351,
 		"NameJPN": "女",
 		"JPN": "「この歳でこんなん$[買$/こ$]うて…アホか、うちは」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Am I an idiot for buying this sort of thing at my age?\"",
 		"Args": "0b0a000000"
 	},
@@ -25713,7 +25713,7 @@
 		"VOICEID": 8352,
 		"NameJPN": "女",
 		"JPN": "「これ、誰かにやるわ」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I'll give this to someone else.\"",
 		"Args": "0b0a000000"
 	},
@@ -25726,7 +25726,7 @@
 		"VOICEID": 8353,
 		"NameJPN": "女",
 		"JPN": "「拾った奴はラッキーや。五千円もしたんやでっ」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Whoever picks it up is lucky. He gets 5,000 yen for free.\"",
 		"Args": "0b0a000000"
 	},
@@ -25793,7 +25793,7 @@
 		"SUBCMD2": 1659,
 		"MSGID": 801,
 		"JPN": "ぐおおおおぉん！",
-		"ENG": "*Vrrrroooom!\"",
+		"ENG": "*Vrrrroooom!*",
 		"Args": "0b0a000000"
 	},
 	{
@@ -25999,7 +25999,7 @@
 		"SUBCMD2": 1682,
 		"MSGID": 818,
 		"JPN": "…ぶろろろろろろろっ！",
-		"ENG": "*Vrrrooooooom!",
+		"ENG": "*Vrrrooooooom!*",
 		"Args": "0b0a000000"
 	},
 	{
@@ -26068,7 +26068,7 @@
 		"VOICEID": 8354,
 		"NameJPN": "女",
 		"JPN": "「黒いん、忘れとったわ…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Blackie, I forgot about you.\"",
 		"Args": "0b0a000000"
 	},
@@ -26132,7 +26132,7 @@
 		"VOICEID": 8355,
 		"NameJPN": "女",
 		"JPN": "「おるかー」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Are you there?\"",
 		"Args": "0b0a000000"
 	},
@@ -26226,7 +26226,7 @@
 		"VOICEID": 8356,
 		"NameJPN": "女",
 		"JPN": "「おったおった」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"There you are!\"",
 		"Args": "0b0a000000"
 	},
@@ -26290,7 +26290,7 @@
 		"VOICEID": 8357,
 		"NameJPN": "女",
 		"JPN": "「やっば…時間あらへん。飛ばすで～」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"There's not much time left. I'm gonna fly.\"",
 		"Args": "0b0a000000"
 	},
@@ -26468,7 +26468,7 @@
 		"SUBCMD2": 1710,
 		"MSGID": 832,
 		"JPN": "ぶろぉーーーん！",
-		"ENG": "*Vrrrroooom!",
+		"ENG": "*Vrrrroooom!*",
 		"Args": "0b0a000000"
 	},
 	{
@@ -26870,7 +26870,7 @@
 		"VOICEID": 9129,
 		"NameJPN": "みすず",
 		"JPN": "「ん、そら…もう出かけるの？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Ah, Sora.... Are you going out already?\"",
 		"Args": "0b0a000000"
 	},
@@ -26924,7 +26924,7 @@
 		"VOICEID": 9130,
 		"NameJPN": "みすず",
 		"JPN": "「わたし、まだ眠い」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'm still sleepy.\"",
 		"Args": "0b0a000000"
 	},
@@ -26937,7 +26937,7 @@
 		"VOICEID": 9131,
 		"NameJPN": "みすず",
 		"JPN": "「だって、まだこんな時間だよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I mean, it's still too early.\"",
 		"Args": "0b0a000000"
 	},
@@ -26991,7 +26991,7 @@
 		"VOICEID": 9132,
 		"NameJPN": "みすず",
 		"JPN": "「もう少し寝てよーっと」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'm going to sleep a little more.\"",
 		"Args": "0b0a000000"
 	},
@@ -27049,7 +27049,7 @@
 		"VOICEID": 9133,
 		"NameJPN": "みすず",
 		"JPN": "「尻尾ふりふりして、おでかけ～」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"He's wagging his tail on his way out. So cute.\"",
 		"Args": "0b0a000000"
 	},
@@ -27062,7 +27062,7 @@
 		"VOICEID": 9134,
 		"NameJPN": "みすず",
 		"JPN": "「いってらっしゃーい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Have a safe trip.\"",
 		"Args": "0b0a000000"
 	},
@@ -27937,7 +27937,7 @@
 		"VOICEID": 9135,
 		"NameJPN": "女",
 		"JPN": "「また勢いあまってしもた」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I drove too fast again.\"",
 		"Args": "0b0a000000"
 	},
@@ -27950,7 +27950,7 @@
 		"VOICEID": 9136,
 		"NameJPN": "女",
 		"JPN": "「観鈴…なんや、無事かいな」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Misuzu... Oh, you're all right.\"",
 		"Args": "0b0a000000"
 	},
@@ -27963,7 +27963,7 @@
 		"VOICEID": 9137,
 		"NameJPN": "みすず",
 		"JPN": "「うん。どうにか」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Yes, I'm still alive.\"",
 		"Args": "0b0a000000"
 	},
@@ -28012,7 +28012,7 @@
 		"VOICEID": 9138,
 		"NameJPN": "女",
 		"JPN": "「あんた顔青いで。まだ調子悪いんか？」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"You face looks pale. Are you still feeling sick?\"",
 		"Args": "0b0a000000"
 	},
@@ -28025,7 +28025,7 @@
 		"VOICEID": 9139,
 		"NameJPN": "みすず",
 		"JPN": "「違うよ。お母さんがスピード出しすぎのせい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Nope. It's because you were driving too fast.\"",
 		"Args": "0b0a000000"
 	},
@@ -28038,7 +28038,7 @@
 		"VOICEID": 9142,
 		"NameJPN": "女",
 		"JPN": "「あんたと違てうちは忙しいんや。チンタラ走れるかい」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I'm not as free as you. No way I'm going to drive slowly.\"",
 		"Args": "0b0a000000"
 	},
@@ -28051,7 +28051,7 @@
 		"VOICEID": 9143,
 		"NameJPN": "みすず",
 		"JPN": "「が、がお…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"G-Gao...\"",
 		"Args": "0b0a000000"
 	},
@@ -28080,7 +28080,7 @@
 		"VOICEID": 9144,
 		"NameJPN": "みすず",
 		"JPN": "「…イタイ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Ouch...\"",
 		"Args": "0b0a000000"
 	},
@@ -28093,7 +28093,7 @@
 		"VOICEID": 9145,
 		"NameJPN": "女",
 		"JPN": "「その口癖、やめ言うてるやろ」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I told you to stop saying that.\"",
 		"Args": "0b0a000000"
 	},
@@ -28264,7 +28264,7 @@
 		"VOICEID": 9146,
 		"NameJPN": "みすず",
 		"JPN": "「あっ、そら」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Ah, Sora.\"",
 		"Args": "0b0a000000"
 	},
@@ -28322,7 +28322,7 @@
 		"VOICEID": 9147,
 		"NameJPN": "みすず",
 		"JPN": "「出迎えに来てくれたんだ。かわいいかわいい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"It came out to welcome me. So cute.\"",
 		"Args": "0b0a000000"
 	},
@@ -28396,7 +28396,7 @@
 		"VOICEID": 9148,
 		"NameJPN": "女",
 		"JPN": "「…あんたは呑気でええなあ」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"You sure are taking things easy...\"",
 		"Args": "0b0a000000"
 	},
@@ -28450,7 +28450,7 @@
 		"VOICEID": 9149,
 		"NameJPN": "女",
 		"JPN": "「あんたの癇癪のたんびに、いちいち学校呼び出される方の身にもなってや」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Remember that I get summoned to your school every time you have a fit.\"",
 		"Args": "0b0a000000"
 	},
@@ -28463,7 +28463,7 @@
 		"VOICEID": 9150,
 		"NameJPN": "みすず",
 		"JPN": "「ごめんなさい…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'm sorry...\"",
 		"Args": "0b0a000000"
 	},
@@ -28486,7 +28486,7 @@
 		"VOICEID": 9151,
 		"NameJPN": "女",
 		"JPN": "「診療所の女先生かて困っとったやろ」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Even the doctor at the clinic didn't know what to do with you.\"",
 		"Args": "0b0a000000"
 	},
@@ -28499,7 +28499,7 @@
 		"VOICEID": 9152,
 		"NameJPN": "女",
 		"JPN": "「医者に連れていく頃にはけろりと治っとる。あんたいっつもそれや」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Every time I take you to the doctor, you're good as new again. You're always like that.\"",
 		"Args": "0b0a000000"
 	},
@@ -28512,7 +28512,7 @@
 		"VOICEID": 9153,
 		"NameJPN": "みすず",
 		"JPN": "「あそこの診療所、大好き」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I love that clinic.\"",
 		"Args": "0b0a000000"
 	},
@@ -28525,7 +28525,7 @@
 		"VOICEID": 9154,
 		"NameJPN": "みすず",
 		"JPN": "「注射きらいって言ったら、甘いお薬くれた」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"When I told them that I hate injections, they gave me some sweet medicine.\"",
 		"Args": "0b0a000000"
 	},
@@ -28579,7 +28579,7 @@
 		"VOICEID": 9155,
 		"NameJPN": "女",
 		"JPN": "「それは前の先生の時の話やろ。今の女先生は怒るとおっかないでぇ」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"That was the previous doctor. This female doctor is really scary when she gets angry.\"",
 		"Args": "0b0a000000"
 	},
@@ -28633,7 +28633,7 @@
 		"VOICEID": 9156,
 		"NameJPN": "女",
 		"JPN": "「カラスなんか連れとったら、一発で解剖されてまうで」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"She'll dissect your crow right then and there if you take it along.\"",
 		"Args": "0b0a000000"
 	},
@@ -28762,7 +28762,7 @@
 		"VOICEID": 9157,
 		"NameJPN": "みすず",
 		"JPN": "「そらが怯えてる。お母さんが変なこと言うから」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Mom, you're scaring Sora.\"",
 		"Args": "0b0a000000"
 	},
@@ -28816,7 +28816,7 @@
 		"VOICEID": 9158,
 		"NameJPN": "みすず",
 		"JPN": "「逃げなくても大丈夫だからね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"It's okay. You don't have to run away.\"",
 		"Args": "0b0a000000"
 	},
@@ -28925,7 +28925,7 @@
 		"VOICEID": 9159,
 		"NameJPN": "女",
 		"JPN": "「…はあっ。まあええわ」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Haa... Forget it.\"",
 		"Args": "0b0a000000"
 	},
@@ -28979,7 +28979,7 @@
 		"VOICEID": 9160,
 		"NameJPN": "女",
 		"JPN": "「麦茶飲も」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I'll get barley tea.\"",
 		"Args": "0b0a000000"
 	},
@@ -29078,7 +29078,7 @@
 		"VOICEID": 9161,
 		"NameJPN": "女",
 		"JPN": "「…なんや、こんだけしかあらへんのかいな」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"What? Is this all that's left?\"",
 		"Args": "0b0a000000"
 	},
@@ -29187,7 +29187,7 @@
 		"VOICEID": 9162,
 		"NameJPN": "女",
 		"JPN": "「ほな、うちは仕事にもどんで」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"All right, I'm going back to work.\"",
 		"Args": "0b0a000000"
 	},
@@ -29235,7 +29235,7 @@
 		"VOICEID": 9163,
 		"NameJPN": "みすず",
 		"JPN": "「うん。迷惑かけてごめんなさい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Okay. I'm sorry for making you run back here.\"",
 		"Args": "0b0a000000"
 	},
@@ -29248,7 +29248,7 @@
 		"VOICEID": 9164,
 		"NameJPN": "みすず",
 		"JPN": "「そら。行こっ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Sora. Let's go.\"",
 		"Args": "0b0a000000"
 	},
@@ -29312,7 +29312,7 @@
 		"VOICEID": 9165,
 		"NameJPN": "女",
 		"JPN": "「ちょい待ち」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Wait a minute.\"",
 		"Args": "0b0a000000"
 	},
@@ -29376,7 +29376,7 @@
 		"VOICEID": 9166,
 		"NameJPN": "女",
 		"JPN": "「早退けしてきた病人が遊びに出てどうするんや」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"A sick girl's got no business going outside.\"",
 		"Args": "0b0a000000"
 	},
@@ -29389,7 +29389,7 @@
 		"VOICEID": 9167,
 		"NameJPN": "みすず",
 		"JPN": "「でも、往人さんと待ち合わせ…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"But I have to go meet Yukito-san.\"",
 		"Args": "0b0a000000"
 	},
@@ -29443,7 +29443,7 @@
 		"VOICEID": 9168,
 		"NameJPN": "女",
 		"JPN": "「道端で倒れられたらかなわん」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I don't want you to faint in the streets.\"",
 		"Args": "0b0a000000"
 	},
@@ -29456,7 +29456,7 @@
 		"VOICEID": 9169,
 		"NameJPN": "女",
 		"JPN": "「そんなことになったら、いくらうちでも駆けつけられへんやんか」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I won't be able to save you if that happens.\"",
 		"Args": "0b0a000000"
 	},
@@ -29469,7 +29469,7 @@
 		"VOICEID": 9170,
 		"NameJPN": "女",
 		"JPN": "「居候が帰ってくるまで、家で大人しくしとき」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Stay home and be the good girl until that freeloader comes back.\"",
 		"Args": "0b0a000000"
 	},
@@ -29482,7 +29482,7 @@
 		"VOICEID": 9171,
 		"NameJPN": "みすず",
 		"JPN": "「うん。じゃあそうするね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Okay. I'll stay.\"",
 		"Args": "0b0a000000"
 	},
@@ -29536,7 +29536,7 @@
 		"VOICEID": 9172,
 		"NameJPN": "女",
 		"JPN": "「頼むで、ほんまに…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Good. I'm counting on you to do that.\"",
 		"Args": "0b0a000000"
 	},
@@ -29616,7 +29616,7 @@
 		"VOICEID": 9173,
 		"NameJPN": "みすず",
 		"JPN": "「怒られちゃったね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"She got mad at me.\"",
 		"Args": "0b0a000000"
 	},
@@ -29629,7 +29629,7 @@
 		"VOICEID": 9174,
 		"NameJPN": "みすず",
 		"JPN": "「でもお母さん、すごい速さで学校に来てくれた」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"But Mom came to school really fast.\"",
 		"Args": "0b0a000000"
 	},
@@ -29642,7 +29642,7 @@
 		"VOICEID": 9175,
 		"NameJPN": "みすず",
 		"JPN": "「いつもそうなんだよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"She's always like that.\"",
 		"Args": "0b0a000000"
 	},
@@ -29655,7 +29655,7 @@
 		"VOICEID": 9176,
 		"NameJPN": "みすず",
 		"JPN": "「だから、迷惑かけちゃいけないよね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"So I can't be causing her any more trouble.\"",
 		"Args": "0b0a000000"
 	},
@@ -29678,7 +29678,7 @@
 		"VOICEID": 9177,
 		"NameJPN": "みすず",
 		"JPN": "「わ。もうこんな時間」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Whoa. It's already this late.\"",
 		"Args": "0b0a000000"
 	},
@@ -29691,7 +29691,7 @@
 		"VOICEID": 9178,
 		"NameJPN": "みすず",
 		"JPN": "「お昼ご飯作らないと」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I have to make lunch.\"",
 		"Args": "0b0a000000"
 	},
@@ -29704,7 +29704,7 @@
 		"VOICEID": 9179,
 		"NameJPN": "みすず",
 		"JPN": "「往人さん、きっとお腹空かせてくるから」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Yukito-san is probably hungry by now.\"",
 		"Args": "0b0a000000"
 	},
@@ -29717,7 +29717,7 @@
 		"VOICEID": 9180,
 		"NameJPN": "みすず",
 		"JPN": "「なに作ろうかな…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"What should I make...\"",
 		"Args": "0b0a000000"
 	},
@@ -29730,7 +29730,7 @@
 		"VOICEID": 9181,
 		"NameJPN": "みすず",
 		"JPN": "「やっぱり、目玉焼きにしよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Let's have fried eggs this time.\"",
 		"Args": "0b0a000000"
 	},
@@ -29743,7 +29743,7 @@
 		"VOICEID": 9182,
 		"NameJPN": "みすず",
 		"JPN": "「この前はすごいもの食べさせちゃったから、今度こそ完璧にするの」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I fed him something bad last time. This time it'll be perfect.\"",
 		"Args": "0b0a000000"
 	},
@@ -29756,7 +29756,7 @@
 		"VOICEID": 9183,
 		"NameJPN": "みすず",
 		"JPN": "「観鈴ちん、ふぁいとっ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Misuzu-chan, Fight-o!\"",
 		"Args": "0b0a000000"
 	},
@@ -29769,7 +29769,7 @@
 		"VOICEID": 9184,
 		"NameJPN": "みすず",
 		"JPN": "「そら。ちょっと静かにしててね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Sora. Behave yourself for a bit.\"",
 		"Args": "0b0a000000"
 	},
@@ -29832,7 +29832,7 @@
 		"VOICEID": 9185,
 		"NameJPN": "声",
 		"JPN": "「観鈴、いるか…」",
-		"NameENG": "Voice",
+		"NameENG": "---",
 		"ENG": "\"Misuzu, you here?\"",
 		"Args": "0b0a000000"
 	},
@@ -29845,7 +29845,7 @@
 		"VOICEID": 9186,
 		"NameJPN": "みすず",
 		"JPN": "「往人さんだ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Yukito-san.\"",
 		"Args": "0b0a000000"
 	},
@@ -29868,7 +29868,7 @@
 		"VOICEID": 9187,
 		"NameJPN": "みすず",
 		"JPN": "「できるだけ自然にしないと」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I have to act as natural as possible.\"",
 		"Args": "0b0a000000"
 	},
@@ -29881,7 +29881,7 @@
 		"VOICEID": 9188,
 		"NameJPN": "みすず",
 		"JPN": "「わたし一度、泣くとこ見られちゃってるから」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"He saw me crying once.\"",
 		"Args": "0b0a000000"
 	},
@@ -29894,7 +29894,7 @@
 		"VOICEID": 9189,
 		"NameJPN": "みすず",
 		"JPN": "「往人さんには嫌われたくないから…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I don't want Yukito-san to hate me.\"",
 		"Args": "0b0a000000"
 	},
@@ -29907,7 +29907,7 @@
 		"VOICEID": 9190,
 		"NameJPN": "みすず",
 		"JPN": "「笑顔、笑顔」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Smile, smile.\"",
 		"Args": "0b0a000000"
 	},
@@ -29930,7 +29930,7 @@
 		"VOICEID": 9191,
 		"NameJPN": "みすず",
 		"JPN": "「そら。わたしって笑顔？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Sora. Am I smiling?\"",
 		"Args": "0b0a000000"
 	},
@@ -30055,7 +30055,7 @@
 		"VOICEID": 9192,
 		"NameJPN": "みすず",
 		"JPN": "「お帰りなさい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Welcome back.\"",
 		"Args": "0b0a000000"
 	},
@@ -30068,7 +30068,7 @@
 		"VOICEID": 9193,
 		"NameJPN": "みすず",
 		"JPN": "「ご飯、今できたとこだから」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I just finished cooking.\"",
 		"Args": "0b0a000000"
 	},
@@ -30121,7 +30121,7 @@
 		"MSGID": 990,
 		"NameJPN": "男",
 		"JPN": "「………」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -30134,7 +30134,7 @@
 		"VOICEID": 9194,
 		"NameJPN": "みすず",
 		"JPN": "「往人さん、汗びっしょり」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Yukito-san, you're drenched in sweat.\"",
 		"Args": "0b0a000000"
 	},
@@ -30188,7 +30188,7 @@
 		"VOICEID": 9195,
 		"NameJPN": "男",
 		"JPN": "「走ってきたからな」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I ran all the way back.\"",
 		"Args": "0b0a000000"
 	},
@@ -30201,7 +30201,7 @@
 		"VOICEID": 9196,
 		"NameJPN": "みすず",
 		"JPN": "「そんなにお腹すいてたんだ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Are you that hungry?\"",
 		"Args": "0b0a000000"
 	},
@@ -30255,7 +30255,7 @@
 		"VOICEID": 9197,
 		"NameJPN": "男",
 		"JPN": "「待ち合わせしただろ？　一緒に帰るって」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Weren't we supposed to meet and go home together?\"",
 		"Args": "0b0a000000"
 	},
@@ -30268,7 +30268,7 @@
 		"VOICEID": 9198,
 		"NameJPN": "みすず",
 		"JPN": "「あ…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Ah...\"",
 		"Args": "0b0a000000"
 	},
@@ -30281,7 +30281,7 @@
 		"VOICEID": 9199,
 		"NameJPN": "みすず",
 		"JPN": "「ごめん。忘れてた」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'm sorry. I forgot.\"",
 		"Args": "0b0a000000"
 	},
@@ -30335,7 +30335,7 @@
 		"VOICEID": 9200,
 		"NameJPN": "男",
 		"JPN": "「まったく…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Geez...\"",
 		"Args": "0b0a000000"
 	},
@@ -30348,7 +30348,7 @@
 		"VOICEID": 9201,
 		"NameJPN": "みすず",
 		"JPN": "「おわびに、お昼はご馳走」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'll treat you to lunch to make it up to you.\"",
 		"Args": "0b0a000000"
 	},
@@ -30406,7 +30406,7 @@
 		"VOICEID": 9202,
 		"NameJPN": "みすず",
 		"JPN": "「往人さんの分は玉子四つ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Yukito-san, four eggs for you.\"",
 		"Args": "0b0a000000"
 	},
@@ -30419,7 +30419,7 @@
 		"VOICEID": 9203,
 		"NameJPN": "みすず",
 		"JPN": "「形も焼き加減も完璧」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"They're cooked to perfection this time.\"",
 		"Args": "0b0a000000"
 	},
@@ -30432,7 +30432,7 @@
 		"VOICEID": 9204,
 		"NameJPN": "みすず",
 		"JPN": "「早く食べないと、冷めちゃうよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Eat up quick or they're going to get cold.\"",
 		"Args": "0b0a000000"
 	},
@@ -30486,7 +30486,7 @@
 		"VOICEID": 9205,
 		"NameJPN": "男",
 		"JPN": "「おまえなあ…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Seriously...\"",
 		"Args": "0b0a000000"
 	},
@@ -30499,7 +30499,7 @@
 		"VOICEID": 9206,
 		"NameJPN": "みすず",
 		"JPN": "「にはは」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Nihaha.\"",
 		"Args": "0b0a000000"
 	},
@@ -31123,7 +31123,7 @@
 		"VOICEID": 11120,
 		"NameJPN": "みすず",
 		"JPN": "「どうして、わたし…空のわたしはあんな悲しい思いをしてるのかな」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Why does my other self in the sky have to experience all that sadness?\"",
 		"Args": "0b0a000000"
 	},
@@ -31136,7 +31136,7 @@
 		"VOICEID": 11121,
 		"NameJPN": "みすず",
 		"JPN": "「あんなにきれいな風景で、すごく気持ちいい風の中で…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"The view's so beautiful, and the wind feels so good...\"",
 		"Args": "0b0a000000"
 	},
@@ -31149,7 +31149,7 @@
 		"VOICEID": 11122,
 		"NameJPN": "みすず",
 		"JPN": "「わたし、知りたい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I really want to know.\"",
 		"Args": "0b0a000000"
 	},
@@ -31162,7 +31162,7 @@
 		"VOICEID": 11123,
 		"NameJPN": "みすず",
 		"JPN": "「だから、ずっと空を見てた」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"That's why I've always looked up at the sky.\"",
 		"Args": "0b0a000000"
 	},
@@ -31503,7 +31503,7 @@
 		"VOICEID": 11124,
 		"NameJPN": "みすず",
 		"JPN": "「海行こうと思って」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I want to go to the sea.\"",
 		"Args": "0b0a000000"
 	},
@@ -31516,7 +31516,7 @@
 		"VOICEID": 11125,
 		"NameJPN": "男",
 		"JPN": "「そっか。そうだったな」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I see. You said that before.",
 		"Args": "0b0a000000"
 	},
@@ -31529,7 +31529,7 @@
 		"VOICEID": 11126,
 		"NameJPN": "みすず",
 		"JPN": "「浜辺で遊ぶの」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"We're going to play on the beach.\"",
 		"Args": "0b0a000000"
 	},
@@ -31542,7 +31542,7 @@
 		"VOICEID": 11127,
 		"NameJPN": "みすず",
 		"JPN": "「砂を掘ったり、波から逃げたりしながら」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"We'll dig in the sand and run away from the waves.\"",
 		"Args": "0b0a000000"
 	},
@@ -31555,7 +31555,7 @@
 		"VOICEID": 11128,
 		"NameJPN": "男",
 		"JPN": "「俺も…か？」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Must I do all those too?\"",
 		"Args": "0b0a000000"
 	},
@@ -31568,7 +31568,7 @@
 		"VOICEID": 11129,
 		"NameJPN": "みすず",
 		"JPN": "「いいよ、往人さん見ていてくれるだけでも」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"It's okay, you can just watch.\"",
 		"Args": "0b0a000000"
 	},
@@ -31581,7 +31581,7 @@
 		"VOICEID": 11130,
 		"NameJPN": "男",
 		"JPN": "「いや、いいよ。約束だからな」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Nope, it's fine. I promised to play with you.\"",
 		"Args": "0b0a000000"
 	},
@@ -31594,7 +31594,7 @@
 		"VOICEID": 11131,
 		"NameJPN": "みすず",
 		"JPN": "「ほんと？　うれしい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Really? I'm glad.\"",
 		"Args": "0b0a000000"
 	},
@@ -31873,7 +31873,7 @@
 		"VOICEID": 11132,
 		"NameJPN": "男",
 		"JPN": "「な…どうして、引き取ったんだよ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Say... Why did you take Misuzu in?\"",
 		"Args": "0b0a000000"
 	},
@@ -31896,7 +31896,7 @@
 		"VOICEID": 11133,
 		"NameJPN": "女",
 		"JPN": "「なにがや」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"What?\"",
 		"Args": "0b0a000000"
 	},
@@ -31909,7 +31909,7 @@
 		"VOICEID": 11134,
 		"NameJPN": "男",
 		"JPN": "「どうして、観鈴を引き取ってしまったんだよ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I'm asking you why you adopted Misuzu.\"",
 		"Args": "0b0a000000"
 	},
@@ -31922,7 +31922,7 @@
 		"VOICEID": 11135,
 		"NameJPN": "女",
 		"JPN": "「なんや…あの子、話してたんかいな」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I see... So the girl told you about us.\"",
 		"Args": "0b0a000000"
 	},
@@ -31935,7 +31935,7 @@
 		"VOICEID": 11136,
 		"NameJPN": "女",
 		"JPN": "「引き取ったんやない」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I didn't take her in.\"",
 		"Args": "0b0a000000"
 	},
@@ -31948,7 +31948,7 @@
 		"VOICEID": 11137,
 		"NameJPN": "女",
 		"JPN": "「押しつけられたんや」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"She was pushed onto me.\"",
 		"Args": "0b0a000000"
 	},
@@ -31961,7 +31961,7 @@
 		"VOICEID": 11138,
 		"NameJPN": "女",
 		"JPN": "「嫌や、言うてんけどなー」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I said I didn't want her.\"",
 		"Args": "0b0a000000"
 	},
@@ -32015,7 +32015,7 @@
 		"VOICEID": 11139,
 		"NameJPN": "男",
 		"JPN": "「そのせいで、あいつはあんたに甘えられないんだろっ！」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"All because you had to go and say that, she couldn't ask for your affection!\"",
 		"Args": "0b0a000000"
 	},
@@ -32078,7 +32078,7 @@
 		"MSGID": 1069,
 		"NameJPN": "女",
 		"JPN": "「………」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -32091,7 +32091,7 @@
 		"VOICEID": 11140,
 		"NameJPN": "女",
 		"JPN": "「うちなんかに…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"That girl...\"",
 		"Args": "0b0a000000"
 	},
@@ -32104,7 +32104,7 @@
 		"VOICEID": 11141,
 		"NameJPN": "女",
 		"JPN": "「甘えたいわけあらへん、あの子が」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"She can't possibly want my love.\"",
 		"Args": "0b0a000000"
 	},
@@ -32117,7 +32117,7 @@
 		"VOICEID": 11142,
 		"NameJPN": "女",
 		"JPN": "「うち、ほんまの親やないから」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I'm not her real mother.\"",
 		"Args": "0b0a000000"
 	},
@@ -32171,7 +32171,7 @@
 		"VOICEID": 11143,
 		"NameJPN": "男",
 		"JPN": "「そんなの関係ないだろ…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"So what?\"",
 		"Args": "0b0a000000"
 	},
@@ -32184,7 +32184,7 @@
 		"VOICEID": 11144,
 		"NameJPN": "男",
 		"JPN": "「あいつにとっての、親はあの日から、あんたひとりだけなんだよ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"To Misuzu, you were her only parent since that day.\"",
 		"Args": "0b0a000000"
 	},
@@ -32238,7 +32238,7 @@
 		"VOICEID": 11145,
 		"NameJPN": "男",
 		"JPN": "「自覚しろ…あんたが観鈴のただひとりの母親なんだよ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Take a good look in the mirror... You ARE the only mother Misuzu has.\"",
 		"Args": "0b0a000000"
 	},
@@ -32251,7 +32251,7 @@
 		"VOICEID": 11146,
 		"NameJPN": "女",
 		"JPN": "「はぁ…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Haa...\"",
 		"Args": "0b0a000000"
 	},
@@ -32264,7 +32264,7 @@
 		"VOICEID": 11147,
 		"NameJPN": "女",
 		"JPN": "「んなこと今さら自覚持てるかいな…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"It's too late to act like her mother now...\"",
 		"Args": "0b0a000000"
 	},
@@ -32277,7 +32277,7 @@
 		"VOICEID": 11148,
 		"NameJPN": "女",
 		"JPN": "「あの日から何年経ってる思うんや」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Just how many years has it been?\"",
 		"Args": "0b0a000000"
 	},
@@ -32290,7 +32290,7 @@
 		"VOICEID": 11149,
 		"NameJPN": "女",
 		"JPN": "「もう時間が経ちすぎとる」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Too much time has passed, I'm telling you.\"",
 		"Args": "0b0a000000"
 	},
@@ -32303,7 +32303,7 @@
 		"VOICEID": 11150,
 		"NameJPN": "女",
 		"JPN": "「なにも取り返すことなんてできへんのや」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"How do you expect me to make up for all that lost time?\"",
 		"Args": "0b0a000000"
 	},
@@ -32366,7 +32366,7 @@
 		"MSGID": 1082,
 		"NameJPN": "男",
 		"JPN": "「………」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -32562,7 +32562,7 @@
 		"VOICEID": 11151,
 		"NameJPN": "女",
 		"JPN": "「はぁ…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Haa...\"",
 		"Args": "0b0a000000"
 	},
@@ -32575,7 +32575,7 @@
 		"VOICEID": 11152,
 		"NameJPN": "女",
 		"JPN": "「あんたも、寿司食うか。ごっつうまいで」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Do you also like sushi? This is really scrumptious.\"",
 		"Args": "0b0a000000"
 	},
@@ -32632,7 +32632,7 @@
 		"MSGID": 1088,
 		"NameJPN": "女",
 		"JPN": "「………」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -32655,7 +32655,7 @@
 		"VOICEID": 11153,
 		"NameJPN": "女",
 		"JPN": "「なんでや…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Why...\"",
 		"Args": "0b0a000000"
 	},
@@ -32668,7 +32668,7 @@
 		"VOICEID": 11154,
 		"NameJPN": "女",
 		"JPN": "「なんでうち寿司食ってんのや…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Why am I eating sushi now?\"",
 		"Args": "0b0a000000"
 	},
@@ -32681,7 +32681,7 @@
 		"VOICEID": 11155,
 		"NameJPN": "女",
 		"JPN": "「あの子、今、体の具合悪ぅしてるいうのに…うちはひとりで寿司食っとるんかいな…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"That girl is ill right now, and here I am eating sushi by myself.\"",
 		"Args": "0b0a000000"
 	},
@@ -32694,7 +32694,7 @@
 		"VOICEID": 11156,
 		"NameJPN": "女",
 		"JPN": "「あほや…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"What an idiot I am.\"",
 		"Args": "0b0a000000"
 	},
@@ -32707,7 +32707,7 @@
 		"VOICEID": 11157,
 		"NameJPN": "女",
 		"JPN": "「うち、あほやないか…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I'm really an idiot...\"",
 		"Args": "0b0a000000"
 	},
@@ -32720,7 +32720,7 @@
 		"VOICEID": 11158,
 		"NameJPN": "女",
 		"JPN": "「なんや、うちて…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"The world's really...\"",
 		"Args": "0b0a000000"
 	},
@@ -32733,7 +32733,7 @@
 		"VOICEID": 11159,
 		"NameJPN": "女",
 		"JPN": "「こんな奴、おらんほうがマシやん…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"...better off without me.\"",
 		"Args": "0b0a000000"
 	},
@@ -32756,7 +32756,7 @@
 		"VOICEID": 11160,
 		"NameJPN": "女",
 		"JPN": "「誕生日にもプレゼントあげれんで…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I didn't even give her presents on her birthdays.\"",
 		"Args": "0b0a000000"
 	},
@@ -32769,7 +32769,7 @@
 		"VOICEID": 11161,
 		"NameJPN": "女",
 		"JPN": "「ずっと、あの子になんもあげれんで…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I never gave her anything...\"",
 		"Args": "0b0a000000"
 	},
@@ -32782,7 +32782,7 @@
 		"VOICEID": 11162,
 		"NameJPN": "女",
 		"JPN": "「寝込んでても、そばにいてあげられんかって…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Whenever she was sick in bed, I was never by her side...\"",
 		"Args": "0b0a000000"
 	},
@@ -32795,7 +32795,7 @@
 		"VOICEID": 11163,
 		"NameJPN": "女",
 		"JPN": "「それで、何年暮らしてきとるんや…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"And how many years had we lived like that?\"",
 		"Args": "0b0a000000"
 	},
@@ -32808,7 +32808,7 @@
 		"VOICEID": 11164,
 		"NameJPN": "女",
 		"JPN": "「いつおらんようになってしまうか、わからんこと怯えて、どれだけ過ごしてきとるんや…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"When did I start becoming afraid of something so silly?\"",
 		"Args": "0b0a000000"
 	},
@@ -32831,7 +32831,7 @@
 		"VOICEID": 11165,
 		"NameJPN": "女",
 		"JPN": "「いつまでこんな生活続けなあかんのや…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I can't continue living like this...\"",
 		"Args": "0b0a000000"
 	},
@@ -32843,7 +32843,7 @@
 		"MSGID": 1105,
 		"NameJPN": "女",
 		"JPN": "「………」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -32856,7 +32856,7 @@
 		"VOICEID": 11166,
 		"NameJPN": "女",
 		"JPN": "「あいつの言う通りや…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"He was right...\"",
 		"Args": "0b0a000000"
 	},
@@ -32869,7 +32869,7 @@
 		"VOICEID": 11167,
 		"NameJPN": "女",
 		"JPN": "「実の親やないからとか…そんなん関係あらへん…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"It doesn't matter whether I'm her real parent or not...'",
 		"Args": "0b0a000000"
 	},
@@ -32882,7 +32882,7 @@
 		"VOICEID": 11168,
 		"NameJPN": "女",
 		"JPN": "「うちがあの子といたいだけや…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I just want to be with her...\"",
 		"Args": "0b0a000000"
 	},
@@ -32895,7 +32895,7 @@
 		"VOICEID": 11169,
 		"NameJPN": "女",
 		"JPN": "「一緒にいたいだけや…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I just want to be with her...\"",
 		"Args": "0b0a000000"
 	},
@@ -32907,7 +32907,7 @@
 		"MSGID": 1110,
 		"NameJPN": "女",
 		"JPN": "「………」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -33031,7 +33031,7 @@
 		"VOICEID": 11170,
 		"NameJPN": "女",
 		"JPN": "「な…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Hey...\"",
 		"Args": "0b0a000000"
 	},
@@ -33044,7 +33044,7 @@
 		"VOICEID": 11171,
 		"NameJPN": "女",
 		"JPN": "「もう、うち怯えたない…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I won't be afraid anymore.\"",
 		"Args": "0b0a000000"
 	},
@@ -33057,7 +33057,7 @@
 		"VOICEID": 11172,
 		"NameJPN": "女",
 		"JPN": "「もう、こんな不安な気持ちのまんま、生きてたない…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "I don't want to live in doubt anymore.\"",
 		"Args": "0b0a000000"
 	},
@@ -33070,7 +33070,7 @@
 		"VOICEID": 11173,
 		"NameJPN": "女",
 		"JPN": "「あの子にプレゼントあげて、喜ぶ顔見てたい」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I want to give her a present and see her happy face.\"",
 		"Args": "0b0a000000"
 	},
@@ -33083,7 +33083,7 @@
 		"VOICEID": 11174,
 		"NameJPN": "女",
 		"JPN": "「あの子が苦しんでたら、そばにいて、励ましてやりたい…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"If she's in pain, I want to be by her side and give her encouragement.\"",
 		"Args": "0b0a000000"
 	},
@@ -33096,7 +33096,7 @@
 		"VOICEID": 11175,
 		"NameJPN": "女",
 		"JPN": "「せやから決めた」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I've decided.\"",
 		"Args": "0b0a000000"
 	},
@@ -33109,7 +33109,7 @@
 		"VOICEID": 11176,
 		"NameJPN": "女",
 		"JPN": "「あの子、うちの子にする」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I'm going to become her mother.\"",
 		"Args": "0b0a000000"
 	},
@@ -33122,7 +33122,7 @@
 		"VOICEID": 11177,
 		"NameJPN": "女",
 		"JPN": "「それで、もう安心して生きる」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Then I can finally live with a peace of mind.\"",
 		"Args": "0b0a000000"
 	},
@@ -33135,7 +33135,7 @@
 		"VOICEID": 11178,
 		"NameJPN": "女",
 		"JPN": "「あの子と生きるんや、うち…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I'm going to live the rest of my life with her...\"",
 		"Args": "0b0a000000"
 	},
@@ -33148,7 +33148,7 @@
 		"VOICEID": 11179,
 		"NameJPN": "女",
 		"JPN": "「橘の家に行ったる」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I'm going to Tachibana's residence.\"",
 		"Args": "0b0a000000"
 	},
@@ -33161,7 +33161,7 @@
 		"VOICEID": 11180,
 		"NameJPN": "女",
 		"JPN": "「乗り込んでいって、談判してきたる…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I'll march in there and negotiate with them.\"",
 		"Args": "0b0a000000"
 	},
@@ -33174,7 +33174,7 @@
 		"VOICEID": 11181,
 		"NameJPN": "女",
 		"JPN": "「あの子を、ほんまのうちの子にするまで…何日でも居座ったる…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"I'm going to stay there until they agree to make her my child.\"",
 		"Args": "0b0a000000"
 	},
@@ -33187,7 +33187,7 @@
 		"VOICEID": 11182,
 		"NameJPN": "女",
 		"JPN": "「な…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Say...\"",
 		"Args": "0b0a000000"
 	},
@@ -33200,7 +33200,7 @@
 		"VOICEID": 11183,
 		"NameJPN": "女",
 		"JPN": "「それで、ええやろ…」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"Am I doing the right thing?\"",
 		"Args": "0b0a000000"
 	},
@@ -33254,7 +33254,7 @@
 		"VOICEID": 11184,
 		"NameJPN": "女",
 		"JPN": "「それが、うちらしいやんな」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\"That's just like something I'd do, right?\"",
 		"Args": "0b0a000000"
 	},
@@ -33266,7 +33266,7 @@
 		"MSGID": 1133,
 		"NameJPN": "女",
 		"JPN": "「………」",
-		"NameENG": "Woman",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -33850,7 +33850,7 @@
 		"VOICEID": 11185,
 		"NameJPN": "声",
 		"JPN": "「つかれた…」",
-		"NameENG": "Voice",
+		"NameENG": "---",
 		"ENG": "\"I'm tired...\"",
 		"Args": "0b0a000000"
 	},
@@ -33863,7 +33863,7 @@
 		"VOICEID": 11186,
 		"NameJPN": "声",
 		"JPN": "「ほら、もうひとがんばりだから」",
-		"NameENG": "Voice",
+		"NameENG": "---",
 		"ENG": "\"Come on, just a bit more.\"",
 		"Args": "0b0a000000"
 	},
@@ -33946,7 +33946,7 @@
 		"VOICEID": 11187,
 		"NameJPN": "母",
 		"JPN": "「ほら、お参りしましょう」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"Let's pray.\"",
 		"Args": "0b0a000000"
 	},
@@ -33999,7 +33999,7 @@
 		"VOICEID": 11188,
 		"NameJPN": "母",
 		"JPN": "「…まいかはお願いしないの？」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"Maika, aren't you going to make a wish?\"",
 		"Args": "0b0a000000"
 	},
@@ -34022,7 +34022,7 @@
 		"VOICEID": 11189,
 		"NameJPN": "女の子",
 		"JPN": "「うん…」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"Um...\"",
 		"Args": "0b0a000000"
 	},
@@ -34035,7 +34035,7 @@
 		"VOICEID": 11190,
 		"NameJPN": "母",
 		"JPN": "「どうしたの？」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"What's wrong?\"",
 		"Args": "0b0a000000"
 	},
@@ -34048,7 +34048,7 @@
 		"VOICEID": 11191,
 		"NameJPN": "女の子",
 		"JPN": "「かみさまってほんとうにいるのかな…」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"Does God really exist?\"",
 		"Args": "0b0a000000"
 	},
@@ -34061,7 +34061,7 @@
 		"VOICEID": 11192,
 		"NameJPN": "母",
 		"JPN": "「いるわよ」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"Of course he exists.\"",
 		"Args": "0b0a000000"
 	},
@@ -34074,7 +34074,7 @@
 		"VOICEID": 11193,
 		"NameJPN": "女の子",
 		"JPN": "「おかあさんは、みたことあるの？」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"Have you seen him before, Mom?\"",
 		"Args": "0b0a000000"
 	},
@@ -34087,7 +34087,7 @@
 		"VOICEID": 11194,
 		"NameJPN": "母",
 		"JPN": "「目には見えないの」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"You can't see him with your eyes.\"",
 		"Args": "0b0a000000"
 	},
@@ -34100,7 +34100,7 @@
 		"VOICEID": 11195,
 		"NameJPN": "女の子",
 		"JPN": "「なぁんだ」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"Oh...\"",
 		"Args": "0b0a000000"
 	},
@@ -34123,7 +34123,7 @@
 		"VOICEID": 11196,
 		"NameJPN": "女の子",
 		"JPN": "「だって、目にみえないってことは、いないんだよ…」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"But if you can't see him, then he doesn't exist.\"",
 		"Args": "0b0a000000"
 	},
@@ -34136,7 +34136,7 @@
 		"VOICEID": 11197,
 		"NameJPN": "女の子",
 		"JPN": "「そんなのにお願いしたって、お姉ちゃん、よくならないよ…」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"We prayed so many times, but Oneechan hasn't gotten any better.\"",
 		"Args": "0b0a000000"
 	},
@@ -34159,7 +34159,7 @@
 		"VOICEID": 11198,
 		"NameJPN": "母",
 		"JPN": "「そんなことない」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"That's not true.\"",
 		"Args": "0b0a000000"
 	},
@@ -34182,7 +34182,7 @@
 		"VOICEID": 11199,
 		"NameJPN": "母",
 		"JPN": "「お願いごとはちゃあんと届くの。お母さんは知ってる」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"God has heard your wish. I'm sure of it.\"",
 		"Args": "0b0a000000"
 	},
@@ -34195,7 +34195,7 @@
 		"VOICEID": 11200,
 		"NameJPN": "母",
 		"JPN": "「でもね。お願いするだけじゃダメよ」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"But you know, praying isn't enough.\"",
 		"Args": "0b0a000000"
 	},
@@ -34208,7 +34208,7 @@
 		"VOICEID": 11201,
 		"NameJPN": "母",
 		"JPN": "「まいかがうんと頑張れば、神様は必ず見ててくれる…」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"If you try your hardest, God will understand.\"",
 		"Args": "0b0a000000"
 	},
@@ -34221,7 +34221,7 @@
 		"VOICEID": 11202,
 		"NameJPN": "母",
 		"JPN": "「きっとお願いを叶えてくれるの」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"Then I'm sure that your wish will come true.\"",
 		"Args": "0b0a000000"
 	},
@@ -34234,7 +34234,7 @@
 		"VOICEID": 11203,
 		"NameJPN": "母",
 		"JPN": "「今も、神様が見てるよ。しっかりしないと」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"God is always watching over you. So you have to step it up.\"",
 		"Args": "0b0a000000"
 	},
@@ -34247,7 +34247,7 @@
 		"VOICEID": 11204,
 		"NameJPN": "女の子",
 		"JPN": "「ほんと…？」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"Really...?\"",
 		"Args": "0b0a000000"
 	},
@@ -34280,7 +34280,7 @@
 		"VOICEID": 11205,
 		"NameJPN": "女の子",
 		"JPN": "「いた！」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"Over there!\"",
 		"Args": "0b0a000000"
 	},
@@ -34303,7 +34303,7 @@
 		"VOICEID": 11206,
 		"NameJPN": "女の子",
 		"JPN": "「あそこにかくれてる！」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"There's something hiding over there!\"",
 		"Args": "0b0a000000"
 	},
@@ -34346,7 +34346,7 @@
 		"VOICEID": 11207,
 		"NameJPN": "女の子",
 		"JPN": "「…あっ！」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"Ah!\"",
 		"Args": "0b0a000000"
 	},
@@ -34369,7 +34369,7 @@
 		"VOICEID": 11208,
 		"NameJPN": "女の子",
 		"JPN": "「いたよ、おかあさん！」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"Mom, I found him!\"",
 		"Args": "0b0a000000"
 	},
@@ -34382,7 +34382,7 @@
 		"VOICEID": 11209,
 		"NameJPN": "母",
 		"JPN": "「なにが？」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"Who?\"",
 		"Args": "0b0a000000"
 	},
@@ -34395,7 +34395,7 @@
 		"VOICEID": 11210,
 		"NameJPN": "女の子",
 		"JPN": "「かみさま」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"God.\"",
 		"Args": "0b0a000000"
 	},
@@ -34408,7 +34408,7 @@
 		"VOICEID": 11211,
 		"NameJPN": "女の子",
 		"JPN": "「今、この中にいるよ」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"He's right here.\"",
 		"Args": "0b0a000000"
 	},
@@ -34421,7 +34421,7 @@
 		"VOICEID": 11212,
 		"NameJPN": "母",
 		"JPN": "「ほんとう？」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"Really?\"",
 		"Args": "0b0a000000"
 	},
@@ -34434,7 +34434,7 @@
 		"VOICEID": 11213,
 		"NameJPN": "女の子",
 		"JPN": "「だって、ぬいぐるみだと思って見てたら、かくれようとするんだよ」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"I thought it was just a plushie, but it tried to hide from me.\"",
 		"Args": "0b0a000000"
 	},
@@ -34447,7 +34447,7 @@
 		"VOICEID": 11214,
 		"NameJPN": "女の子",
 		"JPN": "「まいか、びっくりした」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"I was so surprised!\"",
 		"Args": "0b0a000000"
 	},
@@ -34460,7 +34460,7 @@
 		"VOICEID": 11215,
 		"NameJPN": "女の子",
 		"JPN": "「きっと、かみさま、この中にいるんだよ」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"I bet God is hiding inside.\"",
 		"Args": "0b0a000000"
 	},
@@ -34473,7 +34473,7 @@
 		"VOICEID": 11216,
 		"NameJPN": "母",
 		"JPN": "「そう…」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"I see...\"",
 		"Args": "0b0a000000"
 	},
@@ -34486,7 +34486,7 @@
 		"VOICEID": 11217,
 		"NameJPN": "女の子",
 		"JPN": "「かみさま、かみさま、おねがいがあるのー！」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"God, I have a wish!\"",
 		"Args": "0b0a000000"
 	},
@@ -34509,7 +34509,7 @@
 		"VOICEID": 11218,
 		"NameJPN": "母",
 		"JPN": "「まいか、そんなに乱暴に振り回したらダメよ」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"Maika, don't swing it around like that.\"",
 		"Args": "0b0a000000"
 	},
@@ -34522,7 +34522,7 @@
 		"VOICEID": 11219,
 		"NameJPN": "母",
 		"JPN": "「お母さんに、かしなさい」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"Let Mom see it.\"",
 		"Args": "0b0a000000"
 	},
@@ -34545,7 +34545,7 @@
 		"VOICEID": 11220,
 		"NameJPN": "母",
 		"JPN": "「まだ新しいみたいね…」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"It looks new....\"",
 		"Args": "0b0a000000"
 	},
@@ -34558,7 +34558,7 @@
 		"VOICEID": 11221,
 		"NameJPN": "女の子",
 		"JPN": "「どうするの？」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"What should we do with it?\"",
 		"Args": "0b0a000000"
 	},
@@ -34571,7 +34571,7 @@
 		"VOICEID": 11222,
 		"NameJPN": "母",
 		"JPN": "「ここに置いておきましょう」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"Let's leave it here.\"",
 		"Args": "0b0a000000"
 	},
@@ -34584,7 +34584,7 @@
 		"VOICEID": 11223,
 		"NameJPN": "女の子",
 		"JPN": "「いやだ、まいかのにする！」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"No, it's mine!\"",
 		"Args": "0b0a000000"
 	},
@@ -34597,7 +34597,7 @@
 		"VOICEID": 11224,
 		"NameJPN": "女の子",
 		"JPN": "「まいかが見つけたから、まいかのかみさまだもん」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"I found it. God belongs to me now.\"",
 		"Args": "0b0a000000"
 	},
@@ -34610,7 +34610,7 @@
 		"VOICEID": 11225,
 		"NameJPN": "母",
 		"JPN": "「まいか。神様はだれのものでもないの」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"Maika, God doesn't belong to anyone.\"",
 		"Args": "0b0a000000"
 	},
@@ -34623,7 +34623,7 @@
 		"VOICEID": 11226,
 		"NameJPN": "母",
 		"JPN": "「ここが神様のお家だからね。返してあげましょうね」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"This place is God's home. Let's return it to him.\"",
 		"Args": "0b0a000000"
 	},
@@ -34666,7 +34666,7 @@
 		"VOICEID": 11227,
 		"NameJPN": "母",
 		"JPN": "「さ、お願いしよ、まいか」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"Come, Maika, make a wish.\"",
 		"Args": "0b0a000000"
 	},
@@ -34679,7 +34679,7 @@
 		"VOICEID": 11228,
 		"NameJPN": "女の子",
 		"JPN": "「うん。今ならおねがい、ばっちり聞いてもらえるね」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"Okay. If I make a wish now, surely God will hear me.\"",
 		"Args": "0b0a000000"
 	},
@@ -34692,7 +34692,7 @@
 		"VOICEID": 11229,
 		"NameJPN": "女の子",
 		"JPN": "「かみさま、この中にいるから」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"Because God is inside that plushie right now.\"",
 		"Args": "0b0a000000"
 	},
@@ -34705,7 +34705,7 @@
 		"VOICEID": 11230,
 		"NameJPN": "母",
 		"JPN": "「そうね」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"That's right.\"",
 		"Args": "0b0a000000"
 	},
@@ -34718,7 +34718,7 @@
 		"VOICEID": 11231,
 		"NameJPN": "女の子",
 		"JPN": "「おねえちゃんが、元気になりますよーに」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"I pray for my sister to get better.\"",
 		"Args": "0b0a000000"
 	},
@@ -34731,7 +34731,7 @@
 		"VOICEID": 11232,
 		"NameJPN": "母",
 		"JPN": "「さいかが元気になりますように」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"I pray for Saika to get better.\"",
 		"Args": "0b0a000000"
 	},
@@ -34754,7 +34754,7 @@
 		"VOICEID": 11233,
 		"NameJPN": "女の子",
 		"JPN": "「…とどいたよね」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"God heard my wish, right?\"",
 		"Args": "0b0a000000"
 	},
@@ -34767,7 +34767,7 @@
 		"VOICEID": 11234,
 		"NameJPN": "母",
 		"JPN": "「そうね。これで大丈夫ね」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"Yes. Saika will be all right now.\"",
 		"Args": "0b0a000000"
 	},
@@ -34810,7 +34810,7 @@
 		"VOICEID": 11235,
 		"NameJPN": "女の子",
 		"JPN": "「あ、カラスさんだ」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"Ah, it's a crow.\"",
 		"Args": "0b0a000000"
 	},
@@ -34823,7 +34823,7 @@
 		"VOICEID": 11236,
 		"NameJPN": "母",
 		"JPN": "「きっと、カラスさんもお願いごとあるのね」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"Perhaps it wants to make a wish, too.\"",
 		"Args": "0b0a000000"
 	},
@@ -34836,7 +34836,7 @@
 		"VOICEID": 11237,
 		"NameJPN": "母",
 		"JPN": "「邪魔しないようにね」",
-		"NameENG": "Mother",
+		"NameENG": "---",
 		"ENG": "\"Let's not disturb it.\"",
 		"Args": "0b0a000000"
 	},
@@ -34849,7 +34849,7 @@
 		"VOICEID": 11238,
 		"NameJPN": "女の子",
 		"JPN": "「うん」",
-		"NameENG": "Girl",
+		"NameENG": "---",
 		"ENG": "\"Okay.\"",
 		"Args": "0b0a000000"
 	},
@@ -35624,7 +35624,7 @@
 		"VOICEID": 12560,
 		"NameJPN": "男",
 		"JPN": "「そろそろ、出ていこうと思うんだ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I'm going to leave this town.\"",
 		"Args": "0b0a000000"
 	},
@@ -35637,7 +35637,7 @@
 		"VOICEID": 12561,
 		"NameJPN": "みすず",
 		"JPN": "「え…？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Huh...?\"",
 		"Args": "0b0a000000"
 	},
@@ -35711,7 +35711,7 @@
 		"VOICEID": 12562,
 		"NameJPN": "男",
 		"JPN": "「最初はバス代を稼ぐまでだと思っていた。けど、色々あって、長居になってしまったからな…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I'd planned to get out once I earned enough for my bus fare. But I've stayed for too long...\"",
 		"Args": "0b0a000000"
 	},
@@ -35724,7 +35724,7 @@
 		"VOICEID": 12563,
 		"NameJPN": "みすず",
 		"JPN": "「お金…まだ稼げてないよね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"But you haven't made any money yet...\"",
 		"Args": "0b0a000000"
 	},
@@ -35737,7 +35737,7 @@
 		"VOICEID": 12564,
 		"NameJPN": "男",
 		"JPN": "「そんなものいらないんだよ。最初からいらなかったんだ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I don't really need money. Never needed it to begin with.\"",
 		"Args": "0b0a000000"
 	},
@@ -35791,7 +35791,7 @@
 		"VOICEID": 12565,
 		"NameJPN": "男",
 		"JPN": "「歩けばいいんだからな」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I just have to use my feet.\"",
 		"Args": "0b0a000000"
 	},
@@ -35803,7 +35803,7 @@
 		"MSGID": 1277,
 		"NameJPN": "みすず",
 		"JPN": "「………」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -35816,7 +35816,7 @@
 		"VOICEID": 12566,
 		"NameJPN": "みすず",
 		"JPN": "「ずっと、一緒にいてくれる…そう言ってくれた」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"You said you'd always be with me.\"",
 		"Args": "0b0a000000"
 	},
@@ -35829,7 +35829,7 @@
 		"VOICEID": 12567,
 		"NameJPN": "男",
 		"JPN": "「悪いな。そのことに関しては謝る」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Yeah. I'm sorry for breaking that promise.\"",
 		"Args": "0b0a000000"
 	},
@@ -35842,7 +35842,7 @@
 		"VOICEID": 12568,
 		"NameJPN": "男",
 		"JPN": "「性分なんだ。俺は一カ所に留まっていられないんだ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I can't stay in one place for too long. It's just in my nature.\"",
 		"Args": "0b0a000000"
 	},
@@ -35855,7 +35855,7 @@
 		"VOICEID": 12569,
 		"NameJPN": "みすず",
 		"JPN": "「そんな…これからだって思ってたのに…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I thought this was just the beginning for us...\"",
 		"Args": "0b0a000000"
 	},
@@ -35868,7 +35868,7 @@
 		"VOICEID": 12570,
 		"NameJPN": "みすず",
 		"JPN": "「これからがんばろうとしてたのに…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I thought I finally found the will to go on...\"",
 		"Args": "0b0a000000"
 	},
@@ -35881,7 +35881,7 @@
 		"VOICEID": 12571,
 		"NameJPN": "みすず",
 		"JPN": "「往人さんにいてほしいな…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Yukito-san, I want you to stay...\"",
 		"Args": "0b0a000000"
 	},
@@ -35894,7 +35894,7 @@
 		"VOICEID": 12572,
 		"NameJPN": "みすず",
 		"JPN": "「ずっといてほしいな…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I want you to be with me, always...\"",
 		"Args": "0b0a000000"
 	},
@@ -35948,7 +35948,7 @@
 		"VOICEID": 12573,
 		"NameJPN": "男",
 		"JPN": "「な、観鈴」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Hey, Misuzu.\"",
 		"Args": "0b0a000000"
 	},
@@ -36002,7 +36002,7 @@
 		"VOICEID": 12574,
 		"NameJPN": "男",
 		"JPN": "「おまえが俺を苦しめているんだよ。わかるか」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"You're the one who's causing my pain. You know that, don't you?\"",
 		"Args": "0b0a000000"
 	},
@@ -36015,7 +36015,7 @@
 		"VOICEID": 12575,
 		"NameJPN": "みすず",
 		"JPN": "「え…？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Eh...?\"",
 		"Args": "0b0a000000"
 	},
@@ -36069,7 +36069,7 @@
 		"VOICEID": 12576,
 		"NameJPN": "男",
 		"JPN": "「おまえはずっとひとりぼっちだった」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"You were always alone.\"",
 		"Args": "0b0a000000"
 	},
@@ -36082,7 +36082,7 @@
 		"VOICEID": 12577,
 		"NameJPN": "男",
 		"JPN": "「今、だんだん身体が動かなくなってきている」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Now you're losing your ability to walk.\"",
 		"Args": "0b0a000000"
 	},
@@ -36095,7 +36095,7 @@
 		"VOICEID": 12578,
 		"NameJPN": "男",
 		"JPN": "「心当たり、あるだろ？」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"You know the reason.\"",
 		"Args": "0b0a000000"
 	},
@@ -36108,7 +36108,7 @@
 		"VOICEID": 12579,
 		"NameJPN": "男",
 		"JPN": "「このままいくとおまえは、あるはずのない痛みを感じるようになる」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"In time, you'll start to feel phantom pain.\"",
 		"Args": "0b0a000000"
 	},
@@ -36121,7 +36121,7 @@
 		"VOICEID": 12580,
 		"NameJPN": "男",
 		"JPN": "「そして…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Then...\"",
 		"Args": "0b0a000000"
 	},
@@ -36134,7 +36134,7 @@
 		"VOICEID": 12581,
 		"NameJPN": "男",
 		"JPN": "「おまえは、全てを忘れていく」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"You'll forget everything.\"",
 		"Args": "0b0a000000"
 	},
@@ -36147,7 +36147,7 @@
 		"VOICEID": 12582,
 		"NameJPN": "男",
 		"JPN": "「いちばん大切な人間のことさえ、思い出せなくなる」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"You won't even be able to remember the person dearest to you.\"",
 		"Args": "0b0a000000"
 	},
@@ -36160,7 +36160,7 @@
 		"VOICEID": 12583,
 		"NameJPN": "男",
 		"JPN": "「そして、最後の夢を見終わった朝…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"And on the morning after your final dream...\"",
 		"Args": "0b0a000000"
 	},
@@ -36173,7 +36173,7 @@
 		"VOICEID": 12584,
 		"NameJPN": "男",
 		"JPN": "「おまえは…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"You'll...\"",
 		"Args": "0b0a000000"
 	},
@@ -36185,7 +36185,7 @@
 		"MSGID": 1297,
 		"NameJPN": "みすず",
 		"JPN": "「………」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -36208,7 +36208,7 @@
 		"VOICEID": 12585,
 		"NameJPN": "男",
 		"JPN": "「おまえが俺を選んでしまったからだよ…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"It's because you picked me...\"",
 		"Args": "0b0a000000"
 	},
@@ -36221,7 +36221,7 @@
 		"VOICEID": 12586,
 		"NameJPN": "男",
 		"JPN": "「二人の心が近づけば、二人とも病んでしまう」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"The closer we get, the sicker we'll become.\"",
 		"Args": "0b0a000000"
 	},
@@ -36234,7 +36234,7 @@
 		"VOICEID": 12587,
 		"NameJPN": "男",
 		"JPN": "「二人とも助からない」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Then neither of us can be saved.\"",
 		"Args": "0b0a000000"
 	},
@@ -36288,7 +36288,7 @@
 		"VOICEID": 12588,
 		"NameJPN": "男",
 		"JPN": "「これ以上おまえと居続けたら、俺のほうが先に倒れる」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"If I continue to stay with you, I'll be the one to collapse first.\"",
 		"Args": "0b0a000000"
 	},
@@ -36301,7 +36301,7 @@
 		"VOICEID": 12589,
 		"NameJPN": "男",
 		"JPN": "「だから、おまえから逃げることにしたんだ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"That's why I've decided to run away from you.\"",
 		"Args": "0b0a000000"
 	},
@@ -36314,7 +36314,7 @@
 		"VOICEID": 12590,
 		"NameJPN": "男",
 		"JPN": "「この町を出て、もうおまえと出会うことのない場所までいく」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I'm going to leave this town and never see you again.\"",
 		"Args": "0b0a000000"
 	},
@@ -36327,7 +36327,7 @@
 		"VOICEID": 12591,
 		"NameJPN": "みすず",
 		"JPN": "「ひとりで？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"By yourself?\"",
 		"Args": "0b0a000000"
 	},
@@ -36381,7 +36381,7 @@
 		"VOICEID": 12592,
 		"NameJPN": "男",
 		"JPN": "「ああ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Yeah.\"",
 		"Args": "0b0a000000"
 	},
@@ -36394,7 +36394,7 @@
 		"VOICEID": 12593,
 		"NameJPN": "みすず",
 		"JPN": "「やっと、ひとりじゃなくなったのに…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I thought I could finally be with someone...\"",
 		"Args": "0b0a000000"
 	},
@@ -36448,7 +36448,7 @@
 		"VOICEID": 12594,
 		"NameJPN": "男",
 		"JPN": "「おまえには、ほら、晴子がいるじゃないか」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"You still have Haruko, right?\"",
 		"Args": "0b0a000000"
 	},
@@ -36461,7 +36461,7 @@
 		"VOICEID": 12595,
 		"NameJPN": "みすず",
 		"JPN": "「そうだけど…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Yeah, but...\"",
 		"Args": "0b0a000000"
 	},
@@ -36473,7 +36473,7 @@
 		"MSGID": 1310,
 		"NameJPN": "みすず",
 		"JPN": "「………」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -36486,7 +36486,7 @@
 		"VOICEID": 12596,
 		"NameJPN": "みすず",
 		"JPN": "「じゃあ、仕方ないね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"In that case, there's no other choice.\"",
 		"Args": "0b0a000000"
 	},
@@ -36499,7 +36499,7 @@
 		"VOICEID": 12597,
 		"NameJPN": "みすず",
 		"JPN": "「いつ、出るの？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"When are you leaving?\"",
 		"Args": "0b0a000000"
 	},
@@ -36553,7 +36553,7 @@
 		"VOICEID": 12598,
 		"NameJPN": "男",
 		"JPN": "「今日」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Today.\"",
 		"Args": "0b0a000000"
 	},
@@ -36566,7 +36566,7 @@
 		"VOICEID": 12599,
 		"NameJPN": "みすず",
 		"JPN": "「すぐ？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"So soon?\"",
 		"Args": "0b0a000000"
 	},
@@ -36579,7 +36579,7 @@
 		"VOICEID": 12600,
 		"NameJPN": "男",
 		"JPN": "「ああ。今すぐだ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Yeah. I'm leaving right away.\"",
 		"Args": "0b0a000000"
 	},
@@ -36592,7 +36592,7 @@
 		"VOICEID": 12601,
 		"NameJPN": "みすず",
 		"JPN": "「もう一晩だけ、泊まっていけばいいのに」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"You could stay for one more night.\"",
 		"Args": "0b0a000000"
 	},
@@ -36646,7 +36646,7 @@
 		"VOICEID": 12602,
 		"NameJPN": "男",
 		"JPN": "「…俺はおまえが寝ている間に苦しむんだよ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I was in pain the whole time you were sleeping.\"",
 		"Args": "0b0a000000"
 	},
@@ -36659,7 +36659,7 @@
 		"VOICEID": 12603,
 		"NameJPN": "みすず",
 		"JPN": "「あ、そうか…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Oh, I see...\"",
 		"Args": "0b0a000000"
 	},
@@ -36672,7 +36672,7 @@
 		"VOICEID": 12604,
 		"NameJPN": "みすず",
 		"JPN": "「うーん、じゃ、これでさよならだね…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Well, this is goodbye then...\"",
 		"Args": "0b0a000000"
 	},
@@ -36726,7 +36726,7 @@
 		"VOICEID": 12605,
 		"NameJPN": "男",
 		"JPN": "「そうだな」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Right.\"",
 		"Args": "0b0a000000"
 	},
@@ -36773,7 +36773,7 @@
 		"MSGID": 1321,
 		"NameJPN": "みすず",
 		"JPN": "「………」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -36786,7 +36786,7 @@
 		"VOICEID": 12606,
 		"NameJPN": "みすず",
 		"JPN": "「あのね、往人さん」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Hey, Yukito-san.\"",
 		"Args": "0b0a000000"
 	},
@@ -36799,7 +36799,7 @@
 		"VOICEID": 12607,
 		"NameJPN": "男",
 		"JPN": "「なんだ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Yeah?\"",
 		"Args": "0b0a000000"
 	},
@@ -36812,7 +36812,7 @@
 		"VOICEID": 12608,
 		"NameJPN": "みすず",
 		"JPN": "「楽しかった、この夏休み」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"This summer break was really fun.\"",
 		"Args": "0b0a000000"
 	},
@@ -36825,7 +36825,7 @@
 		"VOICEID": 12609,
 		"NameJPN": "みすず",
 		"JPN": "「往人さんと過ごしたこの夏休み…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"This summer break that I spent with you...\"",
 		"Args": "0b0a000000"
 	},
@@ -36838,7 +36838,7 @@
 		"VOICEID": 12610,
 		"NameJPN": "みすず",
 		"JPN": "「一番、楽しかった」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"...was my best one yet.\"",
 		"Args": "0b0a000000"
 	},
@@ -36892,7 +36892,7 @@
 		"VOICEID": 12611,
 		"NameJPN": "男",
 		"JPN": "「そっか…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I see...\"",
 		"Args": "0b0a000000"
 	},
@@ -36905,7 +36905,7 @@
 		"VOICEID": 12612,
 		"NameJPN": "みすず",
 		"JPN": "「わたしもがんばれて良かった」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'm glad that I took initiative.\"",
 		"Args": "0b0a000000"
 	},
@@ -36959,7 +36959,7 @@
 		"VOICEID": 12613,
 		"NameJPN": "男",
 		"JPN": "「そっか…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I see...\"",
 		"Args": "0b0a000000"
 	},
@@ -36972,7 +36972,7 @@
 		"VOICEID": 12614,
 		"NameJPN": "みすず",
 		"JPN": "「往人さん、わたしにできた初めての友達」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Yukito-san, you're the first friend I made.\"",
 		"Args": "0b0a000000"
 	},
@@ -37026,7 +37026,7 @@
 		"VOICEID": 12615,
 		"NameJPN": "男",
 		"JPN": "「そうだな…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Yeah...\"",
 		"Args": "0b0a000000"
 	},
@@ -37039,7 +37039,7 @@
 		"VOICEID": 12616,
 		"NameJPN": "みすず",
 		"JPN": "「きっと、往人さんいなかったら、もっと早く諦めてたと思う」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"If you weren't here for me, I'd have given up earlier.\"",
 		"Args": "0b0a000000"
 	},
@@ -37093,7 +37093,7 @@
 		"VOICEID": 12617,
 		"NameJPN": "男",
 		"JPN": "「…馬鹿」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Idiot...\"",
 		"Args": "0b0a000000"
 	},
@@ -37106,7 +37106,7 @@
 		"VOICEID": 12618,
 		"NameJPN": "男",
 		"JPN": "「これからも頑張るんだろ、おまえは」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"You still have to keep going.\"",
 		"Args": "0b0a000000"
 	},
@@ -37119,7 +37119,7 @@
 		"VOICEID": 12619,
 		"NameJPN": "みすず",
 		"JPN": "「そっか。そうだよね…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Yeah, you're right...\"",
 		"Args": "0b0a000000"
 	},
@@ -37132,7 +37132,7 @@
 		"VOICEID": 12620,
 		"NameJPN": "みすず",
 		"JPN": "「にはは…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Nihaha...\"",
 		"Args": "0b0a000000"
 	},
@@ -37165,7 +37165,7 @@
 		"VOICEID": 12621,
 		"NameJPN": "みすず",
 		"JPN": "「やっぱり、こうしてひとりで遊んでいればよかったんだね…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I should've played by myself from the start, just like this...\"",
 		"Args": "0b0a000000"
 	},
@@ -37219,7 +37219,7 @@
 		"VOICEID": 12622,
 		"NameJPN": "男",
 		"JPN": "「そうかもな…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Maybe...\"",
 		"Args": "0b0a000000"
 	},
@@ -37231,7 +37231,7 @@
 		"MSGID": 1341,
 		"NameJPN": "みすず",
 		"JPN": "「………」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -37285,7 +37285,7 @@
 		"VOICEID": 12623,
 		"NameJPN": "男",
 		"JPN": "「でもな、楽しかったよ、俺も」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"But I had fun, too.\"",
 		"Args": "0b0a000000"
 	},
@@ -37298,7 +37298,7 @@
 		"VOICEID": 12624,
 		"NameJPN": "みすず",
 		"JPN": "「ほんと？」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Really?\"",
 		"Args": "0b0a000000"
 	},
@@ -37352,7 +37352,7 @@
 		"VOICEID": 12625,
 		"NameJPN": "男",
 		"JPN": "「ああ。観鈴と過ごせて良かった」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Yeah. I really enjoyed your company.\"",
 		"Args": "0b0a000000"
 	},
@@ -37365,7 +37365,7 @@
 		"VOICEID": 12626,
 		"NameJPN": "みすず",
 		"JPN": "「わたしもよかった」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'm happy too.\"",
 		"Args": "0b0a000000"
 	},
@@ -37464,7 +37464,7 @@
 		"VOICEID": 12627,
 		"NameJPN": "男",
 		"JPN": "「じゃ、いくな、俺」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I'm leaving now.\"",
 		"Args": "0b0a000000"
 	},
@@ -37477,7 +37477,7 @@
 		"VOICEID": 12628,
 		"NameJPN": "みすず",
 		"JPN": "「うん」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Okay.\"",
 		"Args": "0b0a000000"
 	},
@@ -37531,7 +37531,7 @@
 		"VOICEID": 12629,
 		"NameJPN": "男",
 		"JPN": "「じゃあな」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Goodbye.\"",
 		"Args": "0b0a000000"
 	},
@@ -37544,7 +37544,7 @@
 		"VOICEID": 12630,
 		"NameJPN": "みすず",
 		"JPN": "「うん…ばいばい、往人さん」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Okay... Goodbye, Yukito-san.\"",
 		"Args": "0b0a000000"
 	},
@@ -37598,7 +37598,7 @@
 		"VOICEID": 12631,
 		"NameJPN": "男",
 		"JPN": "「ばいばい」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Bye.\"",
 		"Args": "0b0a000000"
 	},
@@ -37672,7 +37672,7 @@
 		"VOICEID": 12632,
 		"NameJPN": "みすず",
 		"JPN": "「いっちゃった…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"He's gone...\"",
 		"Args": "0b0a000000"
 	},
@@ -37684,7 +37684,7 @@
 		"MSGID": 1355,
 		"NameJPN": "みすず",
 		"JPN": "「………」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -37733,7 +37733,7 @@
 		"VOICEID": 12633,
 		"NameJPN": "みすず",
 		"JPN": "「わたし、ひとりになる…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'm all alone again...\"",
 		"Args": "0b0a000000"
 	},
@@ -37756,7 +37756,7 @@
 		"VOICEID": 12634,
 		"NameJPN": "みすず",
 		"JPN": "「本当にひとりになっちゃう…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I've become all alone...\"",
 		"Args": "0b0a000000"
 	},
@@ -37769,7 +37769,7 @@
 		"VOICEID": 12635,
 		"NameJPN": "みすず",
 		"JPN": "「ひとりになったら、きっとがんばれないよ…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I can't go on now that I'm alone...\"",
 		"Args": "0b0a000000"
 	},
@@ -37782,7 +37782,7 @@
 		"VOICEID": 12636,
 		"NameJPN": "みすず",
 		"JPN": "「もうがんばれない…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I can't go on...\"",
 		"Args": "0b0a000000"
 	},
@@ -37795,7 +37795,7 @@
 		"VOICEID": 12637,
 		"NameJPN": "みすず",
 		"JPN": "「どうしたら、いいんだろう…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"What should I do...\"",
 		"Args": "0b0a000000"
 	},
@@ -37807,7 +37807,7 @@
 		"MSGID": 1365,
 		"NameJPN": "みすず",
 		"JPN": "「………」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -37820,7 +37820,7 @@
 		"VOICEID": 12638,
 		"NameJPN": "みすず",
 		"JPN": "「あ…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Ah...\"",
 		"Args": "0b0a000000"
 	},
@@ -37843,7 +37843,7 @@
 		"VOICEID": 12639,
 		"NameJPN": "みすず",
 		"JPN": "「いいこと思いついた」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I have a good idea.\"",
 		"Args": "0b0a000000"
 	},
@@ -37856,7 +37856,7 @@
 		"VOICEID": 12640,
 		"NameJPN": "みすず",
 		"JPN": "「往人さんと一緒にいけばいいんだ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'll just go with Yukito-san.\"",
 		"Args": "0b0a000000"
 	},
@@ -37869,7 +37869,7 @@
 		"VOICEID": 12641,
 		"NameJPN": "みすず",
 		"JPN": "「一緒に旅すればいいんだ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"We can go on a journey together.\"",
 		"Args": "0b0a000000"
 	},
@@ -37882,7 +37882,7 @@
 		"VOICEID": 12642,
 		"NameJPN": "みすず",
 		"JPN": "「今日はね、そういう夢見たの」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I had a dream like that today.\"",
 		"Args": "0b0a000000"
 	},
@@ -37895,7 +37895,7 @@
 		"VOICEID": 12643,
 		"NameJPN": "みすず",
 		"JPN": "「誰かと一緒に旅する夢」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"In the dream I was traveling with someone.\"",
 		"Args": "0b0a000000"
 	},
@@ -37908,7 +37908,7 @@
 		"VOICEID": 12644,
 		"NameJPN": "みすず",
 		"JPN": "「あんな風にわたしも旅するの」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"It's just like our situation.\"",
 		"Args": "0b0a000000"
 	},
@@ -37921,7 +37921,7 @@
 		"VOICEID": 12645,
 		"NameJPN": "みすず",
 		"JPN": "「そうすれば、ずっと往人さんと一緒」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Then I can be with Yukito-san.\"",
 		"Args": "0b0a000000"
 	},
@@ -37934,7 +37934,7 @@
 		"VOICEID": 12646,
 		"NameJPN": "みすず",
 		"JPN": "「離れることないよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"We don't need to be separated.\"",
 		"Args": "0b0a000000"
 	},
@@ -37947,7 +37947,7 @@
 		"VOICEID": 12647,
 		"NameJPN": "みすず",
 		"JPN": "「いいアイデア」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Good idea.\"",
 		"Args": "0b0a000000"
 	},
@@ -37960,7 +37960,7 @@
 		"VOICEID": 12648,
 		"NameJPN": "みすず",
 		"JPN": "「すごい、観鈴ちん」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Misuzu-chin is amazing.\"",
 		"Args": "0b0a000000"
 	},
@@ -37973,7 +37973,7 @@
 		"VOICEID": 12649,
 		"NameJPN": "みすず",
 		"JPN": "「そうと決まれば、往人さんの後、追わないと…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Now, I have to catch up to Yukito-san...\"",
 		"Args": "0b0a000000"
 	},
@@ -37986,7 +37986,7 @@
 		"VOICEID": 12650,
 		"NameJPN": "みすず",
 		"JPN": "「急がないと、往人さん、いっちゃうよ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Otherwise he'll be gone.\"",
 		"Args": "0b0a000000"
 	},
@@ -38015,7 +38015,7 @@
 		"VOICEID": 12651,
 		"NameJPN": "みすず",
 		"JPN": "「イテテ…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Ouch...\"",
 		"Args": "0b0a000000"
 	},
@@ -38028,7 +38028,7 @@
 		"VOICEID": 12652,
 		"NameJPN": "みすず",
 		"JPN": "「急がないと…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I have to hurry...\"",
 		"Args": "0b0a000000"
 	},
@@ -38041,7 +38041,7 @@
 		"VOICEID": 12653,
 		"NameJPN": "みすず",
 		"JPN": "「連れていってもらうんだ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'll ask him to take me with him.\"",
 		"Args": "0b0a000000"
 	},
@@ -38054,7 +38054,7 @@
 		"VOICEID": 12654,
 		"NameJPN": "みすず",
 		"JPN": "「一緒に旅するんだ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"We'll on a journey together.\"",
 		"Args": "0b0a000000"
 	},
@@ -38067,7 +38067,7 @@
 		"VOICEID": 12655,
 		"NameJPN": "みすず",
 		"JPN": "「往人さんと、新しい生活始めるんだ」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'm going to start a new life with Yukito-san.\"",
 		"Args": "0b0a000000"
 	},
@@ -38253,7 +38253,7 @@
 		"VOICEID": 12656,
 		"NameJPN": "男",
 		"JPN": "「…どうした」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"What's wrong?\"",
 		"Args": "0b0a000000"
 	},
@@ -38266,7 +38266,7 @@
 		"VOICEID": 12657,
 		"NameJPN": "みすず",
 		"JPN": "「あのね、今朝の夢…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"You know, I had a dream this morning.\"",
 		"Args": "0b0a000000"
 	},
@@ -38279,7 +38279,7 @@
 		"VOICEID": 12658,
 		"NameJPN": "みすず",
 		"JPN": "「わたし、ひとりぼっちで、閉じ込められてた」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I was alone and imprisoned.\"",
 		"Args": "0b0a000000"
 	},
@@ -38292,7 +38292,7 @@
 		"VOICEID": 12659,
 		"NameJPN": "みすず",
 		"JPN": "「淋しかった」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I felt really lonely.\"",
 		"Args": "0b0a000000"
 	},
@@ -38305,7 +38305,7 @@
 		"VOICEID": 12660,
 		"NameJPN": "みすず",
 		"JPN": "「誰かが連れ出してくれるのを、ずっと待ってた…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"The whole time I was waiting for someone to come and save me.\"",
 		"Args": "0b0a000000"
 	},
@@ -38328,7 +38328,7 @@
 		"VOICEID": 12661,
 		"NameJPN": "みすず",
 		"JPN": "「わたし…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I...\"",
 		"Args": "0b0a000000"
 	},
@@ -38341,7 +38341,7 @@
 		"VOICEID": 12662,
 		"NameJPN": "みすず",
 		"JPN": "「わたしね…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I want...\"",
 		"Args": "0b0a000000"
 	},
@@ -38354,7 +38354,7 @@
 		"VOICEID": 12663,
 		"NameJPN": "みすず",
 		"JPN": "「一緒にいきたい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"...to go with you.\"",
 		"Args": "0b0a000000"
 	},
@@ -38367,7 +38367,7 @@
 		"VOICEID": 12664,
 		"NameJPN": "みすず",
 		"JPN": "「往人さんと一緒にいきたい」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I want to go with you, Yukito-san.\"",
 		"Args": "0b0a000000"
 	},
@@ -38380,7 +38380,7 @@
 		"VOICEID": 12665,
 		"NameJPN": "みすず",
 		"JPN": "「ついていったら、ダメかな」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Can I go with you?\"",
 		"Args": "0b0a000000"
 	},
@@ -38433,7 +38433,7 @@
 		"MSGID": 1402,
 		"NameJPN": "男",
 		"JPN": "「………」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -38456,7 +38456,7 @@
 		"VOICEID": 12666,
 		"NameJPN": "男",
 		"JPN": "「馬鹿か、おまえは…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"You're dumb...\"",
 		"Args": "0b0a000000"
 	},
@@ -38469,7 +38469,7 @@
 		"VOICEID": 12667,
 		"NameJPN": "男",
 		"JPN": "「俺はこの家を去りたいわけじゃない」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"It's not this home I'm trying to get away from.\"",
 		"Args": "0b0a000000"
 	},
@@ -38523,7 +38523,7 @@
 		"VOICEID": 12668,
 		"NameJPN": "男",
 		"JPN": "「おまえから、離れたいだけなんだ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"It's you.\"",
 		"Args": "0b0a000000"
 	},
@@ -38535,7 +38535,7 @@
 		"MSGID": 1407,
 		"NameJPN": "みすず",
 		"JPN": "「………」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -38548,7 +38548,7 @@
 		"VOICEID": 12669,
 		"NameJPN": "みすず",
 		"JPN": "「あ、そうか…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Ah, I see...\"",
 		"Args": "0b0a000000"
 	},
@@ -38561,7 +38561,7 @@
 		"VOICEID": 12670,
 		"NameJPN": "みすず",
 		"JPN": "「そう…だよね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"You're right...\"",
 		"Args": "0b0a000000"
 	},
@@ -38574,7 +38574,7 @@
 		"VOICEID": 12671,
 		"NameJPN": "みすず",
 		"JPN": "「ごめんね。また馬鹿なこと言って」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'm sorry I said something stupid again.\"",
 		"Args": "0b0a000000"
 	},
@@ -38628,7 +38628,7 @@
 		"VOICEID": 12672,
 		"NameJPN": "男",
 		"JPN": "「まったくだ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Seriously...\"",
 		"Args": "0b0a000000"
 	},
@@ -38641,7 +38641,7 @@
 		"VOICEID": 12673,
 		"NameJPN": "みすず",
 		"JPN": "「じゃあ、ばいばい。元気でね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Well, goodbye. Take care of yourself.\"",
 		"Args": "0b0a000000"
 	},
@@ -38654,7 +38654,7 @@
 		"VOICEID": 12674,
 		"NameJPN": "男",
 		"JPN": "「ああ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I will.\"",
 		"Args": "0b0a000000"
 	},
@@ -38708,7 +38708,7 @@
 		"VOICEID": 12675,
 		"NameJPN": "男",
 		"JPN": "「おまえ…頑張れよな」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Be sure to... hang in there.\"",
 		"Args": "0b0a000000"
 	},
@@ -38762,7 +38762,7 @@
 		"VOICEID": 12676,
 		"NameJPN": "男",
 		"JPN": "「ひとりでも、頑張れよな」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Keep it together even if you're alone.\"",
 		"Args": "0b0a000000"
 	},
@@ -38775,7 +38775,7 @@
 		"VOICEID": 12677,
 		"NameJPN": "みすず",
 		"JPN": "「うん、ひとりでもがんばる」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Okay. I will, even if I'm alone.\"",
 		"Args": "0b0a000000"
 	},
@@ -38788,7 +38788,7 @@
 		"VOICEID": 12678,
 		"NameJPN": "男",
 		"JPN": "「おまえは、強いもんな」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"You'll be fine. You're a strong girl.\"",
 		"Args": "0b0a000000"
 	},
@@ -38801,7 +38801,7 @@
 		"VOICEID": 12679,
 		"NameJPN": "みすず",
 		"JPN": "「うん、わたし強い子」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Yup. I'm strong.\"",
 		"Args": "0b0a000000"
 	},
@@ -38855,7 +38855,7 @@
 		"VOICEID": 12680,
 		"NameJPN": "男",
 		"JPN": "「よし」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Good.\"",
 		"Args": "0b0a000000"
 	},
@@ -38919,7 +38919,7 @@
 		"VOICEID": 12681,
 		"NameJPN": "男",
 		"JPN": "「じゃあな」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Goodbye.\"",
 		"Args": "0b0a000000"
 	},
@@ -39023,7 +39023,7 @@
 		"VOICEID": 12682,
 		"NameJPN": "みすず",
 		"JPN": "「ひとりに…なっちゃった」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'm... alone now.\"",
 		"Args": "0b0a000000"
 	},
@@ -39124,7 +39124,7 @@
 		"VOICEID": 12683,
 		"NameJPN": "みすず",
 		"JPN": "「本当にひとりきり…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"I'm really alone now...\"",
 		"Args": "0b0a000000"
 	},
@@ -39137,7 +39137,7 @@
 		"VOICEID": 12684,
 		"NameJPN": "みすず",
 		"JPN": "「お母さんもいなくなって、往人さんもいなくなって…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Mom's gone. Yukito-san's gone.\"",
 		"Args": "0b0a000000"
 	},
@@ -39150,7 +39150,7 @@
 		"VOICEID": 12685,
 		"NameJPN": "みすず",
 		"JPN": "「でも、がんばらないとね、ひとりでも」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"But I can't give up on myself, even if I'm alone.\"",
 		"Args": "0b0a000000"
 	},
@@ -39163,7 +39163,7 @@
 		"VOICEID": 12686,
 		"NameJPN": "みすず",
 		"JPN": "「次生まれてくるわたしが…もう悲しむことがないようにね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": " \"The next time I'm reborn, I don't want to go through this suffering again.\"",
 		"Args": "0b0a000000"
 	},
@@ -39176,7 +39176,7 @@
 		"VOICEID": 12687,
 		"NameJPN": "みすず",
 		"JPN": "「悲しむのはわたしで最後…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"This will be the last time I have to experience this sadness...\"",
 		"Args": "0b0a000000"
 	},
@@ -39189,7 +39189,7 @@
 		"VOICEID": 12688,
 		"NameJPN": "みすず",
 		"JPN": "「だから、ひとりになっても…どんなに苦しくなっても、がんばらないとね」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"So even if I'm alone, no matter much pain I'm in... I'm not going to give up.\"",
 		"Args": "0b0a000000"
 	},
@@ -39708,7 +39708,7 @@
 		"VOICEID": 12689,
 		"NameJPN": "声",
 		"JPN": "「観鈴…」",
-		"NameENG": "Voice",
+		"NameENG": "---",
 		"ENG": "\"Misuzu...\"",
 		"Args": "0b0a000000"
 	},
@@ -39808,7 +39808,7 @@
 		"VOICEID": 12690,
 		"NameJPN": "男",
 		"JPN": "「ここ、座るな」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I'm just going to sit down here.\"",
 		"Args": "0b0a000000"
 	},
@@ -39866,7 +39866,7 @@
 		"VOICEID": 12691,
 		"NameJPN": "男",
 		"JPN": "「戻ってきたんだ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I've come back.\"",
 		"Args": "0b0a000000"
 	},
@@ -39879,7 +39879,7 @@
 		"VOICEID": 12692,
 		"NameJPN": "男",
 		"JPN": "「もうどこにもいかない」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"And I'm not going anywhere.\"",
 		"Args": "0b0a000000"
 	},
@@ -39892,7 +39892,7 @@
 		"VOICEID": 12693,
 		"NameJPN": "男",
 		"JPN": "「おまえと一緒にいて、おまえを笑わせ続ける」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I'm going to stay here with you and keep you smiling.\"",
 		"Args": "0b0a000000"
 	},
@@ -39905,7 +39905,7 @@
 		"VOICEID": 12694,
 		"NameJPN": "男",
 		"JPN": "「そうすることにしたんだ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"My mind is made up.\"",
 		"Args": "0b0a000000"
 	},
@@ -39918,7 +39918,7 @@
 		"VOICEID": 12695,
 		"NameJPN": "男",
 		"JPN": "「だからな、観鈴…起きろ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Misuzu, wake up.\"",
 		"Args": "0b0a000000"
 	},
@@ -39940,7 +39940,7 @@
 		"MSGID": 1463,
 		"NameJPN": "みすず",
 		"JPN": "「………」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -39953,7 +39953,7 @@
 		"VOICEID": 12696,
 		"NameJPN": "男",
 		"JPN": "「観鈴…俺だ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Misuzu... It's me.\"",
 		"Args": "0b0a000000"
 	},
@@ -39966,7 +39966,7 @@
 		"VOICEID": 12697,
 		"NameJPN": "男",
 		"JPN": "「観鈴…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Misuzu...\"",
 		"Args": "0b0a000000"
 	},
@@ -39979,7 +39979,7 @@
 		"VOICEID": 12698,
 		"NameJPN": "みすず",
 		"JPN": "「う…ん…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Hnn...\"",
 		"Args": "0b0a000000"
 	},
@@ -40001,7 +40001,7 @@
 		"MSGID": 1468,
 		"NameJPN": "みすず",
 		"JPN": "「………」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
@@ -40014,7 +40014,7 @@
 		"VOICEID": 12699,
 		"NameJPN": "男",
 		"JPN": "「観鈴、わかるか。俺だ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Misuzu? Do you know me?\"",
 		"Args": "0b0a000000"
 	},
@@ -40027,7 +40027,7 @@
 		"VOICEID": 12700,
 		"NameJPN": "みすず",
 		"JPN": "「…往人さん…」",
-		"NameENG": "Misuzu",
+		"NameENG": "---",
 		"ENG": "\"Yukito-san...\"",
 		"Args": "0b0a000000"
 	},
@@ -40040,7 +40040,7 @@
 		"VOICEID": 12701,
 		"NameJPN": "男",
 		"JPN": "「辛いなら、そのままでいい」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Just stay put if it hurts.\"",
 		"Args": "0b0a000000"
 	},
@@ -40053,7 +40053,7 @@
 		"VOICEID": 12702,
 		"NameJPN": "男",
 		"JPN": "「いいか、これからおまえのために人形を歩かせてみせるから」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Listen up. I'm going to make my puppet walk for you.\"",
 		"Args": "0b0a000000"
 	},
@@ -40066,7 +40066,7 @@
 		"VOICEID": 12703,
 		"NameJPN": "男",
 		"JPN": "「だから、よおく見てろよ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Just watch closely.\"",
 		"Args": "0b0a000000"
 	},
@@ -40079,7 +40079,7 @@
 		"VOICEID": 12704,
 		"NameJPN": "男",
 		"JPN": "「コツ掴んだんだ。絶対面白いから」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I've gotten the hang of it. You'll surely find my act interesting.\"",
 		"Args": "0b0a000000"
 	},
@@ -40092,7 +40092,7 @@
 		"VOICEID": 12705,
 		"NameJPN": "男",
 		"JPN": "「だから、また笑えるようになる」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"You'll definitely laugh again.\"",
 		"Args": "0b0a000000"
 	},
@@ -40145,7 +40145,7 @@
 		"VOICEID": 12706,
 		"NameJPN": "男",
 		"JPN": "「な、おもしろいだろ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"See? Isn't it interesting?\"",
 		"Args": "0b0a000000"
 	},
@@ -40168,7 +40168,7 @@
 		"VOICEID": 12707,
 		"NameJPN": "男",
 		"JPN": "「観鈴、見てくれてるか」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Misuzu, are you watching?\"",
 		"Args": "0b0a000000"
 	},
@@ -40181,7 +40181,7 @@
 		"VOICEID": 12708,
 		"NameJPN": "男",
 		"JPN": "「おかしいだろ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"It's funny, right?\"",
 		"Args": "0b0a000000"
 	},
@@ -40244,7 +40244,7 @@
 		"VOICEID": 12709,
 		"NameJPN": "男",
 		"JPN": "「観鈴、起きろよ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Misuzu, wake up.\"",
 		"Args": "0b0a000000"
 	},
@@ -40257,7 +40257,7 @@
 		"VOICEID": 12710,
 		"NameJPN": "男",
 		"JPN": "「見てくれよ。それで、笑ってくれよ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Look here. Laugh at this.\"",
 		"Args": "0b0a000000"
 	},
@@ -40270,7 +40270,7 @@
 		"VOICEID": 12711,
 		"NameJPN": "男",
 		"JPN": "「な、観鈴…」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Hey, Misuzu...\"",
 		"Args": "0b0a000000"
 	},
@@ -40313,7 +40313,7 @@
 		"VOICEID": 12712,
 		"NameJPN": "男",
 		"JPN": "「俺、やっと気づいたんだ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I finally realized something.\"",
 		"Args": "0b0a000000"
 	},
@@ -40326,7 +40326,7 @@
 		"VOICEID": 12713,
 		"NameJPN": "男",
 		"JPN": "「俺はおまえのそばにいて、そしておまえの笑顔を見ていればそれでよかったんだ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"All I wanted was to be by your side and watch you smile.\"",
 		"Args": "0b0a000000"
 	},
@@ -40339,7 +40339,7 @@
 		"VOICEID": 12714,
 		"NameJPN": "男",
 		"JPN": "「そうしていれば、俺は幸せだったんだ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"That's my happiness.\"",
 		"Args": "0b0a000000"
 	},
@@ -40352,7 +40352,7 @@
 		"VOICEID": 12715,
 		"NameJPN": "男",
 		"JPN": "「だから、俺はおまえのそばにいる」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"That's why I'm going to be with you.\"",
 		"Args": "0b0a000000"
 	},
@@ -40365,7 +40365,7 @@
 		"VOICEID": 12716,
 		"NameJPN": "男",
 		"JPN": "「そうすれば、おまえは元気なんだよな」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Then you'll get better, I'm sure.\"",
 		"Args": "0b0a000000"
 	},
@@ -40378,7 +40378,7 @@
 		"VOICEID": 12717,
 		"NameJPN": "男",
 		"JPN": "「もうひとりで、夜を越えることもない」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"You'll never spend another night alone again.\"",
 		"Args": "0b0a000000"
 	},
@@ -40391,7 +40391,7 @@
 		"VOICEID": 12718,
 		"NameJPN": "男",
 		"JPN": "「俺がいるからな」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Because I'm here for you.\"",
 		"Args": "0b0a000000"
 	},
@@ -40404,7 +40404,7 @@
 		"VOICEID": 12719,
 		"NameJPN": "男",
 		"JPN": "「俺が、笑わせ続けるから」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"I'll make you smile, always.\"",
 		"Args": "0b0a000000"
 	},
@@ -40417,7 +40417,7 @@
 		"VOICEID": 12720,
 		"NameJPN": "男",
 		"JPN": "「おまえが苦しいときだって俺が笑わせるから」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "Even when you're suffering, I'll make you smile.\"",
 		"Args": "0b0a000000"
 	},
@@ -40430,7 +40430,7 @@
 		"VOICEID": 12721,
 		"NameJPN": "男",
 		"JPN": "「だから、おまえはずっと、俺の横で笑っていろ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"So please, stay by my side and never stop smiling.\"",
 		"Args": "0b0a000000"
 	},
@@ -40443,7 +40443,7 @@
 		"VOICEID": 12722,
 		"NameJPN": "男",
 		"JPN": "「安心して笑っていろ」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Smile without a care in the world.\"",
 		"Args": "0b0a000000"
 	},
@@ -40456,7 +40456,7 @@
 		"VOICEID": 12723,
 		"NameJPN": "男",
 		"JPN": "「な、観鈴」",
-		"NameENG": "Man",
+		"NameENG": "---",
 		"ENG": "\"Okay, Misuzu?\"",
 		"Args": "0b0a000000"
 	},
@@ -40675,7 +40675,7 @@
 		"SUBCMD2": 2679,
 		"MSGID": 1512,
 		"JPN": "　$d…もう一度…",
-		"ENG": "",
+		"ENG": "$dOnce more...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -40685,7 +40685,7 @@
 		"SUBCMD2": 2680,
 		"MSGID": 1513,
 		"JPN": "　$d…もう一度だけやり直せるのなら…",
-		"ENG": "",
+		"ENG": "$dIf I can just start over, once more...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -40695,7 +40695,7 @@
 		"SUBCMD2": 2681,
 		"MSGID": 1514,
 		"JPN": "　$d…そうすれば、俺は間違えずにそれを求められるから…",
-		"ENG": "",
+		"ENG": "$dThen I will, without an inkling of a doubt, choose to be with you...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -40705,7 +40705,7 @@
 		"SUBCMD2": 2682,
 		"MSGID": 1515,
 		"JPN": "不思議な感覚。",
-		"ENG": "",
+		"ENG": "It was a mysterious feeling.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -40715,7 +40715,7 @@
 		"SUBCMD2": 2683,
 		"MSGID": 1516,
 		"JPN": "思ってもいない言葉が、僕の内に溢れては消えた。",
-		"ENG": "",
+		"ENG": "Words that didn't belong to me took shape in my head and disappeared.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -40725,7 +40725,7 @@
 		"SUBCMD2": 2684,
 		"MSGID": 1517,
 		"JPN": "　$d…だから、どうか…",
-		"ENG": "",
+		"ENG": "$dSo, please...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -40735,7 +40735,7 @@
 		"SUBCMD2": 2685,
 		"MSGID": 1518,
 		"JPN": "　$d…観鈴と出会った頃に戻って…",
-		"ENG": "",
+		"ENG": "$dLet me go back to when I first met Misuzu...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -40745,7 +40745,7 @@
 		"SUBCMD2": 2686,
 		"MSGID": 1519,
 		"JPN": "　$d…もう一度、観鈴のそばに。",
-		"ENG": "",
+		"ENG": "$dLet me be by Misuzu's side once more.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -40761,7 +40761,7 @@
 		"SUBCMD2": 2688,
 		"MSGID": 1520,
 		"JPN": "そして…",
-		"ENG": "",
+		"ENG": "Just then...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -40847,7 +40847,7 @@
 		"SUBCMD2": 2692,
 		"MSGID": 1521,
 		"JPN": "辺りに光が満ちた。",
-		"ENG": "",
+		"ENG": "The surroundings became filled with light.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -40933,7 +40933,7 @@
 		"SUBCMD2": 2696,
 		"MSGID": 1522,
 		"JPN": "………。",
-		"ENG": "",
+		"ENG": ".........",
 		"Args": "0b0a000000"
 	},
 	{
@@ -40955,7 +40955,7 @@
 		"SUBCMD2": 2701,
 		"MSGID": 1523,
 		"JPN": "気づいたとき、男はもういなかった。",
-		"ENG": "",
+		"ENG": "When I woke up, I noticed that the man was no longer around.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -40965,7 +40965,7 @@
 		"SUBCMD2": 2702,
 		"MSGID": 1524,
 		"JPN": "まるで、はじめから存在しなかったように。",
-		"ENG": "",
+		"ENG": "It was as though he were never here to begin with.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -40975,7 +40975,7 @@
 		"SUBCMD2": 2703,
 		"MSGID": 1525,
 		"JPN": "そして…",
-		"ENG": "",
+		"ENG": "And...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -40985,7 +40985,7 @@
 		"SUBCMD2": 2704,
 		"MSGID": 1526,
 		"JPN": "信じられないことが起きた。",
-		"ENG": "",
+		"ENG": "Something unbelievable happened.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41071,7 +41071,7 @@
 		"SUBCMD2": 2708,
 		"MSGID": 1527,
 		"JPN": "彼女のまぶたが震えた。",
-		"ENG": "",
+		"ENG": "The girl's eyelids trembled.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41081,7 +41081,7 @@
 		"SUBCMD2": 2709,
 		"MSGID": 1528,
 		"JPN": "夜明けの日差しに温められるようにして、彼女が目覚めた。",
-		"ENG": "",
+		"ENG": "She woke up in the warm light of the new day.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41091,7 +41091,7 @@
 		"SUBCMD2": 2710,
 		"MSGID": 1529,
 		"JPN": "二度と目覚めることがないはずの彼女が。",
-		"ENG": "",
+		"ENG": "I thought that she would never wake up again, but she did.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41101,7 +41101,7 @@
 		"SUBCMD2": 2711,
 		"MSGID": 1530,
 		"JPN": "僕は知っていた。",
-		"ENG": "",
+		"ENG": "I understood right away.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41111,7 +41111,7 @@
 		"SUBCMD2": 2712,
 		"MSGID": 1531,
 		"JPN": "それは彼の力だった。",
-		"ENG": "",
+		"ENG": "This was the man's power.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41121,7 +41121,7 @@
 		"SUBCMD2": 2713,
 		"MSGID": 1532,
 		"JPN": "彼が、自分を犠牲にして、彼女を目覚めさせたのかもしれない。",
-		"ENG": "",
+		"ENG": "Perhaps he had sacrificed himself to wake her up.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41131,7 +41131,7 @@
 		"SUBCMD2": 2714,
 		"MSGID": 1533,
 		"JPN": "二度と戻らなくなったのは、あの男のほうになった。",
-		"ENG": "",
+		"ENG": "This time, it was the man who was gone forever.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41141,7 +41141,7 @@
 		"SUBCMD2": 2715,
 		"MSGID": 1534,
 		"JPN": "だが、彼女は知らないだろう。",
-		"ENG": "",
+		"ENG": "However, the girl didn't know the reason.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41151,7 +41151,7 @@
 		"SUBCMD2": 2716,
 		"MSGID": 1535,
 		"JPN": "自分をここから消し去ってまで、彼女のそばに居続けた彼のことを知らないだろう。",
-		"ENG": "",
+		"ENG": "She didn't know that the man had disappeared from this world, in order to be with her for a little while.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41161,7 +41161,7 @@
 		"SUBCMD2": 2717,
 		"MSGID": 1536,
 		"JPN": "彼がこの場に戻ってきたことさえ、知らないかもしれない。",
-		"ENG": "",
+		"ENG": "She might not even know that he had returned for her.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41171,7 +41171,7 @@
 		"SUBCMD2": 2718,
 		"MSGID": 1537,
 		"JPN": "けれど、確かに男はここにいて…",
-		"ENG": "",
+		"ENG": "Yet the man surely came back...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41181,7 +41181,7 @@
 		"SUBCMD2": 2719,
 		"MSGID": 1538,
 		"JPN": "彼女をもう一度、目覚めさせた。",
-		"ENG": "",
+		"ENG": "And he brought her consciousness back once more.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41193,8 +41193,8 @@
 		"VOICEID": 12724,
 		"NameJPN": "みすず",
 		"JPN": "「どうしてだろ…」",
-		"NameENG": "---",
-		"ENG": "",
+		"NameENG": "Misuzu",
+		"ENG": "\"Why...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41206,8 +41206,8 @@
 		"VOICEID": 12725,
 		"NameJPN": "みすず",
 		"JPN": "「もう起きられないと思ってたのに…」",
-		"NameENG": "---",
-		"ENG": "",
+		"NameENG": "Misuzu",
+		"ENG": "\"I thought I'd never wake up again...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41219,8 +41219,8 @@
 		"VOICEID": 12726,
 		"NameJPN": "みすず",
 		"JPN": "「もうダメだって、思ってたのに…」",
-		"NameENG": "---",
-		"ENG": "",
+		"NameENG": "Misuzu",
+		"ENG": "\"I thought there was no hope for me.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41231,8 +41231,8 @@
 		"MSGID": 1542,
 		"NameJPN": "みすず",
 		"JPN": "「………」",
-		"NameENG": "---",
-		"ENG": "",
+		"NameENG": "Misuzu",
+		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41326,8 +41326,8 @@
 		"VOICEID": 12727,
 		"NameJPN": "みすず",
 		"JPN": "「往人さん？」",
-		"NameENG": "---",
-		"ENG": "",
+		"NameENG": "Misuzu",
+		"ENG": "\"Yukito-san?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41339,8 +41339,8 @@
 		"VOICEID": 12728,
 		"NameJPN": "みすず",
 		"JPN": "「往人さん、どこにいっちゃったの？」",
-		"NameENG": "---",
-		"ENG": "",
+		"NameENG": "Misuzu",
+		"ENG": "\"Where did you go, Yukito-san?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41352,8 +41352,8 @@
 		"VOICEID": 12729,
 		"NameJPN": "みすず",
 		"JPN": "「戻ってきてくれたんだよね…」",
-		"NameENG": "---",
-		"ENG": "",
+		"NameENG": "Misuzu",
+		"ENG": "\"You came back for me, didn't you?\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41365,8 +41365,8 @@
 		"VOICEID": 12730,
 		"NameJPN": "みすず",
 		"JPN": "「往人さん…」",
-		"NameENG": "---",
-		"ENG": "",
+		"NameENG": "Misuzu",
+		"ENG": "\"Yukito-san...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41378,8 +41378,8 @@
 		"VOICEID": 12731,
 		"NameJPN": "みすず",
 		"JPN": "「ね、わたし、また元気になったよ」",
-		"NameENG": "---",
-		"ENG": "",
+		"NameENG": "Misuzu",
+		"ENG": "\"Hey, I'm feeling better now.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41391,8 +41391,8 @@
 		"VOICEID": 12732,
 		"NameJPN": "みすず",
 		"JPN": "「まだ、がんばれそうだよ」",
-		"NameENG": "---",
-		"ENG": "",
+		"NameENG": "Misuzu",
+		"ENG": "\"I feel like I can still keep going.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41404,8 +41404,8 @@
 		"VOICEID": 12733,
 		"NameJPN": "みすず",
 		"JPN": "「ね、往人さん…」",
-		"NameENG": "---",
-		"ENG": "",
+		"NameENG": "Misuzu",
+		"ENG": "\"Hey, Yukito-san...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41499,8 +41499,8 @@
 		"VOICEID": 12734,
 		"NameJPN": "みすず",
 		"JPN": "「往人さん…」",
-		"NameENG": "---",
-		"ENG": "",
+		"NameENG": "Misuzu",
+		"ENG": "\"Yukito-san...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41510,7 +41510,7 @@
 		"SUBCMD2": 2743,
 		"MSGID": 1551,
 		"JPN": "彼女はじっと見ていた。",
-		"ENG": "",
+		"ENG": "She looked intently...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41520,7 +41520,7 @@
 		"SUBCMD2": 2744,
 		"MSGID": 1552,
 		"JPN": "小さく囲われた空…。",
-		"ENG": "",
+		"ENG": "...at the small, squarish patch of sky.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -41530,7 +41530,7 @@
 		"SUBCMD2": 2745,
 		"MSGID": 1553,
 		"JPN": "その向こうにある悲しみの形を。",
-		"ENG": "",
+		"ENG": "There laid sadness.",
 		"Args": "0b0a000000"
 	},
 	{
