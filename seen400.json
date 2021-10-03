@@ -935,7 +935,7 @@
 		"NameJPN": "みすず",
 		"JPN": "「だいじょうぶ。我慢できるよ」",
 		"NameENG": "Misuzu",
-		"ENG": "\"Don't worry. I can't bear with it.\"",
+		"ENG": "\"Don't worry. I can bear with it.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -2168,7 +2168,7 @@
 		"NameJPN": "みすず",
 		"JPN": "「結局わたしが、がんばっても、人に迷惑かけるだけで、いいことなんてひとつもなかったんだ」",
 		"NameENG": "Misuzu",
-		"ENG": "\"But in the end, I still a good-for-nothing who creates trouble for other people.\"",
+		"ENG": "\"But in the end, I'm still a good-for-nothing who creates trouble for other people.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5023,7 +5023,7 @@
 		"MSGID": 169,
 		"VOICEID": 15268,
 		"JPN": "「笑わせることできるよ」",
-		"ENG": "You can make people laugh.'",
+		"ENG": "'You can make people laugh.'",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5449,7 +5449,7 @@
 		"MSGID": 195,
 		"VOICEID": 15270,
 		"JPN": "「なに…往人さん？」",
-		"ENG": "What is it...Yukito-san?",
+		"ENG": "What is it... Yukito-san?",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5459,7 +5459,7 @@
 		"SUBCMD2": 364,
 		"MSGID": 196,
 		"JPN": "目覚めたくない。",
-		"ENG": "I don't want to awaken...",
+		"ENG": "I don't want to wake up.",
 		"Args": "0b0a000000"
 	},
 	{
@@ -5469,7 +5469,7 @@
 		"SUBCMD2": 365,
 		"MSGID": 197,
 		"JPN": "目覚めたくないんだよ…",
-		"ENG": "I don't want to awaken now...",
+		"ENG": "I really don't want to wake up...",
 		"Args": "0b0a000000"
 	},
 	{
@@ -22259,7 +22259,7 @@
 		"NameJPN": "みすず",
 		"JPN": "「お母さんの子供」",
 		"NameENG": "Misuzu",
-		"ENG": "Your child.\"",
+		"ENG": "\"Your child.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -42314,8 +42314,8 @@
 		"VOICEID": 16406,
 		"NameJPN": "女・みすず",
 		"JPN": "「海」$d$w「海」",
-		"NameENG": "Woman/Misuzu",
-		"ENG": "\"The sea.\"$d$w\"The sea.\"",
+		"NameENG": "Woman",
+		"ENG": "\"The sea.\"$d$wMisuzu$d$w\"The sea.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -42325,7 +42325,7 @@
 		"SUBCMD2": 3206,
 		"MSGID": 1735,
 		"JPN": "ふたりの声が重なった。",
-		"ENG": "They said the same thing .",
+		"ENG": "They said the same thing.",
 		"Args": "0b0a000000"
 	},
 	{

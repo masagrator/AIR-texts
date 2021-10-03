@@ -31517,7 +31517,7 @@
 		"NameJPN": "男",
 		"JPN": "「そっか。そうだったな」",
 		"NameENG": "Man",
-		"ENG": "\"I see. You said that before.",
+		"ENG": "\"I see. You said that before.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -32896,7 +32896,7 @@
 		"NameJPN": "女",
 		"JPN": "「一緒にいたいだけや…」",
 		"NameENG": "Woman",
-		"ENG": "\"I just want to be with her...\"",
+		"ENG": "\"I want us to spend time together...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -33058,7 +33058,7 @@
 		"NameJPN": "女",
 		"JPN": "「もう、こんな不安な気持ちのまんま、生きてたない…」",
 		"NameENG": "Woman",
-		"ENG": "I don't want to live in doubt anymore.\"",
+		"ENG": "\"I don't want to live in doubt anymore.\"",
 		"Args": "0b0a000000"
 	},
 	{
