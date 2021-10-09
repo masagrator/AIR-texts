@@ -2346,7 +2346,7 @@
 		"NameJPN": "女",
 		"JPN": "「あんたが、思い出さなあかんねん…」",
 		"NameENG": "Woman",
-		"ENG": "\"You have to remember, Misuzu.\"",
+		"ENG": "\"You have to remember.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -26715,7 +26715,7 @@
 		"NameJPN": "女",
 		"JPN": "「………」",
 		"NameENG": "Woman",
-		"ENG": ":\".........\"",
+		"ENG": "\".........\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -27618,7 +27618,7 @@
 		"NameJPN": "男",
 		"JPN": "「あなたは強いよ」",
 		"NameENG": "Man",
-		"ENG": "\"You're... really strong\"",
+		"ENG": "\"You're... really strong.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -36677,7 +36677,7 @@
 		"NameJPN": "母",
 		"JPN": "「祭りはな…中止や…」",
 		"NameENG": "Mother",
-		"ENG": "The festival is canceled.\"",
+		"ENG": "\"The festival is canceled.\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -39745,7 +39745,7 @@
 		"NameJPN": "母",
 		"JPN": "「あかん…あんた、寝たらあかんのや…」",
 		"NameENG": "Mother",
-		"ENG": "\"No... You mustn't sleep...\"\"",
+		"ENG": "\"No... You mustn't sleep...\"",
 		"Args": "0b0a000000"
 	},
 	{
@@ -49117,7 +49117,7 @@
 		"SUBCMD": 3,
 		"Args": "f40e5408000000",
 		"JPN": "「ゴールっ…」",
-		"ENG": "\"A goal...\"",
+		"ENG": "\"A finish line...\"",
 		"Args2": "11"
 	},
 	{
@@ -65207,7 +65207,7 @@
 		"MSGID": 2426,
 		"VOICEID": 18276,
 		"JPN": "「無限の終わりを目指して」",
-		"ENG": "\"... are the countless ends we seek.\"",
+		"ENG": "\"...are the countless ends we seek.\"",
 		"Args": "0b0a000000"
 	},
 	{
